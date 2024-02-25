@@ -9,6 +9,7 @@ export type Essay = {
   title: string;
   caption: string;
   date: string;
+  xLink?: string;
   source?: string;
   link?: string;
 };

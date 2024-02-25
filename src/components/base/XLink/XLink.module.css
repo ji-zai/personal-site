@@ -1,10 +1,13 @@
 .container {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
     padding: 12px;
     background: #E6E6E6;
     border-radius: 16px;
     cursor: pointer;
+    gap: 8px;
 }
 
 .container:hover {

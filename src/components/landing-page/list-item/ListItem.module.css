@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  padding: 16px 16px;
+  cursor: pointer;
+  border-radius: 16px;
+  color: black;
+  background: white;
+}
+
+.container:hover {
+  background-color: #F7F7F7;
+  color: black;
+}
+
+.date {
+  color: rgba(0, 0, 0, 0.3);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.title {
+  font-weight: 500;
+  color: #343434;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  letter-spacing: 0.1px;
+}
+
+@media only screen and (max-width: 600px) {
+  .date {
+    font-size: 12px
+  }
+}

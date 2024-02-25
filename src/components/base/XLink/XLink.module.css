@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+    background: #E6E6E6;
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+.container:hover {
+    background: #DFDDDD;
+}

@@ -21,7 +21,7 @@ export const Profile = (props: { size: number }) => (
     width={props.size}
     height={props.size}
     style={{
-      borderRadius: 24
+      borderRadius: props.size < 100 ? 12 : 24
     }}
   />
 );

@@ -6,33 +6,13 @@ import { Profile } from "../landing-page";
 
 export const Navbar = () => {
 
-  const X = () => (
-    <div
-      className={styles.iconButton}
-      onClick={() => window.open("https://x.com/jisnuzai")}
-    >
-      <Image
-        priority
-        src="/images/twitter.svg"
-        width={16}
-        height={16}
-        alt="Twitter"
-      />
-    </div>
-  );
-
   return (
     <div className={styles.container}>
       <Link
         href="/"
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-        }}
+        style={{ padding: 0, margin: 0}}
       >
-        <Profile size={24} />
+        <Profile size={40} />
       </Link>
     </div>
   );

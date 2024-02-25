@@ -55,9 +55,26 @@
   color: #343434;
 }
 
+
 @media only screen and (max-width: 600px) {
+  .container {
+    padding: 16px;
+    gap: 24px;
+  }
+
+  .header {
+    gap: 4px;
+  }
+
+  .pageWrapper {
+    padding: 16px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
   .container h1 {
     font-size: 24px;
+    font-weight: 500;
   }
 }
 

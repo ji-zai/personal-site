@@ -9,8 +9,9 @@ import { XLink } from "../base/XLink";
 
 const EssayPage = (props: { essay: Essay; source: any }) => {
   return (
-    <div className={styles.pageWrapper}>
+    <div>
       <Navbar />
+    <div className={styles.pageWrapper}>
       <div className={styles.container}>
         <div className={styles.header}>
           {props.essay.date && (
@@ -28,6 +29,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
         <XLink label="Discuss" onClick={() => window.open(props.essay.xLink)}/>
         </div>
       </div>
+    </div>
     </div>
   );
 };

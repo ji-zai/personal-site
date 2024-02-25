@@ -3,9 +3,9 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding: 12px;
+    padding: 8px 12px;
     background: #E6E6E6;
-    border-radius: 16px;
+    border-radius: 12px;
     cursor: pointer;
     gap: 8px;
 }

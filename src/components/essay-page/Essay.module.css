@@ -120,9 +120,9 @@
   background-color: #e4d58f;
 }
 
-.content ul,
+/* .content ul,
 .content ol {
-}
+} */
 
 .content h2,
 .content h3 {
@@ -140,8 +140,8 @@
   font-size: 1.3rem;
 }
 
-.content li {
-}
+/* .content li {
+} */
 
 .content hr {
   border-width: 0.5px;

@@ -1,5 +1,3 @@
-import { inter, editorial, montreal } from "../../fonts";
-
 import styles from "./Essay.module.css";
 
 import Link from "next/link";
@@ -92,7 +90,7 @@ export const essayComponents = {
   Caption,
   PlaceHolder,
   CustomImage,
-  h2: (props) => <h2 className={editorial.className} variant="h2" {...props} />,
-  h3: (props) => <h2 className={editorial.className} variant="h3" {...props} />,
+  h2: (props) => <h2 variant="h2" {...props} />,
+  h3: (props) => <h2 variant="h3" {...props} />,
   a: (props) => <ExternalLink src={props.href}>{props.children}</ExternalLink>,
 };

@@ -4,13 +4,17 @@ date: "Feb 26, 2024"
 xLink: "https://x.com/jisnuzai"
 ---
 
-The lack of money, the market, the problem you chose to tackle, your investors, competition, etc. didn't cause you to fail. You did.
+Lack of money, the market, the problem you chose to tackle, your investors, competition, etc. didn't cause you to fail. Only you caused you to fail.
 
 Failing isn’t bad, but not taking away the right learnings from failures is terrible for your growth as a founder, and as a person.
 
 To learn from a failure, you must get to the truth behind why you failed. The truth is difficult to see because your ego will do its best to prevent the truth from even entering your conscious mind. It’s a coping mechanism designed to protect your sense of self-worth.
 
-Fight that cope. It’s a bloody war with yourself, but there’s no other way to grow.
+Fight that cope.
+
+Through this inner war with your ego to see the truth, you pull your subconscious decisions into your conscious mind, giving you greater control over your destiny.
+
+It’s only when you see, and accept, the truth, that you have a chance of making changes in the direction you want to change in. You'll be far more productive.
 
 It's easier to say "the market wasn't there yet", than:
 
@@ -34,15 +38,9 @@ As long as your decisions are rooted in reality, it's OK if you decide to, say, 
 
 You'll realize that when you're fully honest, you can't help but take the decision that allows you to respect yourself more. Ha! You're now using your ego to protect you from your ego. Touche.
 
-By fighting the inner war, you pull your subconscious decisions into your conscious mind, giving you greater control over your destiny.
+When you're brutally honest with yourself, you'll realize that you're the root cause of all of your problems, and you'll begin to take more ownership.
 
-It’s only when you see, and accept, the truth, that you have a chance of making changes in the direction you want to change in.
-
-You'll also be far more productive.
-
-When you're brutally honest with yourself, you'll realize that you're the root cause of all of your problems, and as a result, you'll take more ownership.
-
-When you take more ownership, your mind will naturally try to find solutions to your problems because it believes you have control.
+When you take more ownership, your mind will naturally try to find solutions to your problems because it believes you have control. You'll be far more productive.
 
 For example, when your product involves hardware and you don’t have the resources to manufacture it, you’ll ask yourself if you can start with the software aspect of that product and get traction for that first… and you’ll probably see that you can.
 
@@ -50,7 +48,7 @@ If your product requires a lot of compute to, say, train AI models, then you’l
 
 There's always a way. It's only a question of whether you genuinely want it, or just want to want it.
 
-Look, I’m not saying there aren’t factors out of your control. But you should only reach the conclusion that the source of your failure is external after ruthlessly exhausting all possibilities to take full responsibility for your actions. And even then, be extremely cautious... your ego is an expert at tricking you and clouding your view of reality. After all, it's had your entire life learning how to manipulate you.
+Look, I’m not saying there aren’t factors out of your control. But you should only reach the conclusion that the source of your failure is external after ruthlessly exhausting all possibilities to take full responsibility for your actions. And even then, be extremely cautious... your ego is an expert at tricking you and clouding your view of reality. After all, its spent its entire existence learning how to manipulate you.
 
 As AI and technology mature, you will have greater leverage than you can imagine, and even fewer valid excuses. What required large teams and years to build will be achievable by an individual in days. You can build great products and generate revenue without raising a dollar. Your team can remain tiny and punch orders of magnitude above its weight.
 

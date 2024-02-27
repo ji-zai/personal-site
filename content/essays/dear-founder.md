@@ -22,7 +22,7 @@ It's easier to say "the market wasn't there yet", than:
 
 It's easier to say "we ran out of money", than:
 
-"I believe we could pull it off if I fired everyone, and the cofounders and I move to {more_affordable_place} to extend our runway by a couple of years as we patiently grinded it out. But I have friends here. I like my apartment and oh, I just had a date with this really cool person and want to explore a future with them that I believe is more important than this company."
+"I believe we could pull it off if I fired everyone, and the cofounders and I move to more_affordable_place to extend our runway by a couple of years as we patiently grinded it out. But I have friends here. I like my apartment and oh, I just had a date with this really cool person and want to explore a future with them that I believe is more important than this company."
 
 It's easier to say "we didn't find the growth we needed", than:
 
@@ -54,4 +54,4 @@ As AI and technology mature, you will have greater leverage than you can imagine
 
 The only thing stopping you is yourself.
 
-(This essay is directed towards a younger, weaker version of myself that spent too much effort coming up with excuses for his failures, without realizing that his problem - and solution - was in his own mind).
+*This essay is directed towards a younger, weaker version of myself that spent too much effort coming up with excuses for his failures, without realizing that his problem - and solution - was in his own mind.*

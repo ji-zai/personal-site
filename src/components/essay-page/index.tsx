@@ -1,13 +1,19 @@
 import { Essay } from "../landing-page";
 import { Navbar } from "../navbar";
 import styles from "./Essay.module.css";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { MDXRemote } from "next-mdx-remote";
 import { essayComponents } from "./EssayComponents";
 import { protoMono } from "../../fonts";
 import { XLink } from "../base/XLink";
+import { logEvent } from "../../util/logging";
 
 const EssayPage = (props: { essay: Essay; source: any }) => {
+
+  useEffect(() => {
+    logEvent("essay/" + props.essay.id, null)
+  }, [])
+
   return (
     <div>
       <Navbar />

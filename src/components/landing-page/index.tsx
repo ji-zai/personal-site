@@ -3,6 +3,8 @@ import Image from "next/image";
 import styles from "./LandingPage.module.css";
 import { ListItem } from "./list-item/ListItem";
 import { XLink } from "../base/XLink";
+import { useEffect } from "react";
+import { logEvent } from "../../util/logging";
 
 export type Essay = {
   id: string;
@@ -27,6 +29,11 @@ export const Profile = (props: { size: number }) => (
 );
 
 const LandingPage = (props: { essays: Essay[] }) => {
+
+  useEffect(() => {
+    logEvent("home", null)
+  }, [])
+
   return (
     <div>
       <div className={styles.container}>

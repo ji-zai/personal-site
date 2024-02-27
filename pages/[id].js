@@ -4,6 +4,7 @@ import EssayPage from "../src/components/essay-page";
 import { serialize } from "next-mdx-remote/serialize";
 
 export default function Post({ postData, source }) {
+
   return (
     <div>
       <Head>

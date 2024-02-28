@@ -4,7 +4,7 @@ date: "Feb 26, 2024"
 xLink: "https://x.com/jisnuzai"
 ---
 
-Seeking truth is the most important skill for founders to succeed. It enables you to manage stress, make better decisions and be far more productive.
+Seeking truth is the most important skill for founders to succeed. It enables you to make better decisions, manage stress, and be far more productive.
 
 It's easier to say "the market wasn't there yet", than:
 

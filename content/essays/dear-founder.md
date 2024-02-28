@@ -3,26 +3,11 @@ title: "Dear founder, stop lying to yourself!"
 date: "Feb 26, 2024"
 xLink: "https://x.com/jisnuzai"
 ---
-
 Truth seeking ability is the most valuable skill for founders.
 
 Seeking truth enables you to make better decisions, manage stress, be more productive, think longer term, be more ambitious, and therefore succeed in the ways you want to succeed.
 
 Our minds default to telling ourselves lies. These lies feel good in the moment, but they’ll kill your ability to grow as a founder, and as a person.
-
-It's easier to say "the market wasn't there yet", than:
-
-“I decided to shut down the company even though I believe the market will be strong in five years, but I don’t have the patience to wait that long because of my craving to appear successful in the eyes of my family and friends. I can’t stand the thought of everyone thinking I’m a failure for possibly five more years, so I'm going to try to find a product angle that'll generate money quickly.”
-
-It's easier to say "we ran out of money", than:
-
-"We could pull it off if I fire everyone, and the cofounders and I move to more_affordable_place to extend our runway by a couple of years as we patiently grinded it out. But I have friends here. I like my apartment and oh, I just had a date with this really cool person and want to explore a future with them that I believe is more important than this company."
-
-It's easier to say "we didn't find the growth we needed", than:
-
-"I decided to stop working on my company because after spending 2 years on it, I realized it wasn't a problem I cared about deeply. I didn't want to squander a decade of my life working on something I'm not passionate about."
-
-You don't have to be this honest with the people you talk to, but you absolutely must brutally honest with yourself.
 
 It’s only when you see, and accept the truth for what it is, that you can grow yourself in the ways you want to.
 
@@ -79,7 +64,7 @@ Yes, it’s shaken. It just went through a traumatic experience. But, your ego s
 
 Therefore, seeking truth is all you need to do. It kickstarts an automatic internal process that forces you to grow and make decisions that are more aligned with what your conscious mind values, and less hijacked by your subconscious.
 
-### Make better decisions
+### Better decisions
 
 As you’re less deluded, you’ll naturally make better decisions because your decisions are based in reality.
 
@@ -115,11 +100,29 @@ Yet, oftentimes the right solution to a problem is also the most painful one.
 
 This is why products, codebases, design systems, documentation, etc. get bloated and grow in complexity over time. It’s more painful to cut than it is to add. It’s more painful to take a step back without attachment and revisit how to do things from first principles than it is to just slap on the next thing. A deluded mind can’t see solutions that involve tossing aside a feature that took a lot of effort to create.
 
-### Be more ambitious
+### Learning from mistakes
+
+It's easier to say "the market wasn't there yet", than:
+
+“I decided to shut down the company even though I believe the market will be strong in five years, but I don’t have the patience to wait that long because of my craving to appear successful in the eyes of my family and friends. I can’t stand the thought of everyone thinking I’m a failure for possibly five more years, so I'm going to try to find a product angle that'll generate money quickly.”
+
+It's easier to say "we ran out of money", than:
+
+"We could pull it off if I fire everyone, and the cofounders and I move to more_affordable_place to extend our runway by a couple of years as we patiently grinded it out. But I have friends here. I like my apartment and oh, I just had a date with this really cool person and want to explore a future with them that I believe is more important than this company."
+
+It's easier to say "we didn't find the growth we needed", than:
+
+"I decided to stop working on my company because after spending 2 years on it, I realized it wasn't a problem I cared about deeply. I didn't want to squander a decade of my life working on something I'm not passionate about."
+
+You don't have to be this honest with the people you talk to, but you absolutely must brutally honest with yourself.
+
+### More ambitious
 
 In the same way you can’t even see the right decisions to make for your product, you won’t even be able to see ambitious paths to take in life because of how difficult they are.
 
 Paul Graham calls this schlep blindness. 
+
+To combat it, he recommends:
 
 > How do you overcome schlep blindness? Frankly, the most valuable antidote to schlep blindness is probably ignorance. Most successful founders would probably say that if they'd known when they were starting their company about the obstacles they'd have to overcome, they might never have started it. Maybe that's one reason the most successful startups of all so often have young founders.
 > 
@@ -134,19 +137,33 @@ Paul Graham calls this schlep blindness.
 
 I find that PG’s recommendations fall short because:
 
-1. 
+Ignorance is not in your control. If you want to use ignorance as an antidote, you’ll need to tackle the biggest problem you can think of, as young as you possibly can before maturity kicks in to show you how difficult doing anything in the world is.
 
-Instead  by seeking truths in your own mind, you’ll 
+And when reality does strike, which is inevitable, it will take you by surprise and can be traumatizing. When you expect to fix education in 10 years and plan to get solid traction in the first 3 months for your revolutionary ed-tech product and realize that no school, or even parent for that matter, wants to try your thing, you’ll grind out through intense pain and suffering for a couple of years and burn out since your expectations are so unrealistic.
+
+I know a handful of people who took this path. They’ve yet to recover. The trauma of having to deal with an unexpected long period of no growth means that they only focus on B2B Saas that can grow quickly.
+
+Their negative ordeal has created a stronger schlep blindness.
+
+When I see hardware startup founders, I feel envy because I had a traumatic hardware startup experience when I was younger that led to a massive subconscious blind spot in being able to even think of hardware ideas because my subconscious plays through the trauma of having to deal with contract manufacturers to get a simple product out the door.
+
+You might say, well they should have been weeded out. But I believe some of them would have stuck with the path if they had a more realistic understanding of the challenges and difficulties. They wouldn’t have built up so much internal tension that led to burnout if they understood that the difficulty was the nature of the space they were tackling.
+
+The second technique PG proposes is to run the thought experiment of asking “what problem do I wish someone else would solve for me?”. 
+
+Becoming great at seeking truth, and working with the truth, is a far more robust solution to be more ambitious and to actually succeed at your ambition.
+
+Instead by seeking truths in your own mind, you’ll 
 
 Schlep blindness is a manifestation of the subconscious warping your ability to see reality as it is, in the same 
 
 When you shed light on your subconscious cravings for immediate status gratification, it starts to lose its power. When it loses its power, you’re more able to see important problems in the world that might take decades, or even centuries to tackle well, because you’re no longer enslaved by short-term thinking.
 
-### Manage stress better
+### Better manage stress
 
 Accepting the truth relaxes the mind after the initial chaos and anxiety.
 
-### Be more productive
+### More productive
 
 You'll also be far more productive.
 
@@ -160,7 +177,7 @@ If your product requires a lot of compute to, say, train AI models, then you’l
 
 There's always a way. It's only a question of whether you genuinely want it, or just want to want it.
 
-### So, how do you seek internal truth?
+### How to seek truth
 
 I’m not sure about the exact way (because I do think each individual is unique in how they’re able to seek truth about themselves), but I’m more confident t
 

@@ -127,7 +127,7 @@ Everyone is unique, so the specific techniques and paths that work best for an i
 
 Some of it may sound like “mindfulness” or “meditation”, but those words are so loaded that I ask you try and throw away any notion you have about them. There’s nothing going on except you trying to understand what’s happening in your own mind. Let’s leave it at that without trying to label it.
 
-### **1) Truth seeking requires acceptance of delusion**
+### 1) Truth seeking requires acceptance of delusion
 
 Or at least, accept the possibility that you’re deluded. Because the concept of “seeking truth” makes no sense if you’re not deluded, because that means you already see the truth clearly.
 
@@ -135,7 +135,7 @@ By accepting delusion, you’ve already planted the seed in your conscious mind 
 
 You’ll question your instincts more. This doesn’t mean you won’t do what you instinctively want to do, but you will have more space to actively make the decision rather than let your subconscious make it for you without your say.
 
-### **2) Truth seeking happens through nonjudgemental observation.**
+### 2) Truth seeking happens through nonjudgemental observation.
 
 I don’t believe truth seeking can happen in its fullest form while you’re actively consuming information from the world outside. Watching a video, listening to a podcast, or anything that requires your conscious mind to be actively engaged hampers its ability to observe itself.
 
@@ -179,7 +179,7 @@ You could do this in many scenarios. While you go on a walk. You could sit with 
 
 It’s valuable to practice this in multiple scenarios - eyes open sometimes and eyes closed - because you never know when you’ll find yourself in a position in which you can’t keep your eyes closed (e.g. in a boring lecture in which you don’t want to come off as sleepy).
 
-### **3) Truth seeking takes time. A lot of time. Like… a lot.**
+### 3) Truth seeking takes time. A lot of time. Like… a lot.
 
 And I don’t mean a lot of time as in a lifetime’s work or some something vague. I literally mean you’ll need have to have a long continuous block of time.
 
@@ -191,7 +191,7 @@ The value of seeking truth increases exponentially with time (i.e. one hour is n
 
 So if you already have some kind of truth seeking activity you do, I urge you to at least occasionally try longer durations.
 
-### **4) Truth seeking is difficult.**
+### 4) Truth seeking is difficult.
 
 Embrace the fact that understanding what’s going on in your mind will be one of most challenging things you’ll do.
 
@@ -223,7 +223,7 @@ When it presents itself though a thought or feeling, you can’t judge it and tr
 
 The only way to open up is to treat it with compassion and calmly accept whatever it shares with you. Make it comfortable. Treat it as a friend.
 
-### **6) Truth seeking cannot happen in autopilot (it should not become mechanical).**
+### 6) Truth seeking cannot happen in autopilot (it should not become mechanical).
 
 It’s easy to fall into the trap of doing things robotically, out of habit, like a routine.
 

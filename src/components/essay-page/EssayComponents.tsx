@@ -91,6 +91,6 @@ export const essayComponents = {
   PlaceHolder,
   CustomImage,
   h2: (props) => <h2 variant="h2" {...props} />,
-  h3: (props) => <h2 variant="h3" {...props} />,
+  h3: (props) => <h3 variant="h3" {...props} />,
   a: (props) => <ExternalLink src={props.href}>{props.children}</ExternalLink>,
 };

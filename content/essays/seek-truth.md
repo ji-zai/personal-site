@@ -4,11 +4,17 @@ date: "Feb 26, 2024"
 xLink: "https://x.com/jisnuzai"
 ---
 
-The ability to seek truth is one of the most valuable skills for founders to have.
+The ability to seek truth is the most valuable skill for a founder.
 
 Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious.
 
-It impacts every aspect of your life in ways you may not expect.
+As AI improves exponentially fast, the value of truth seeking rises in tandem. 
+
+And fortunately, it's a skill that can be trained.
+
+Truth seeking only matters if you're deluded in some way, because if you're not deluded, it implies you can see reality clearly. I can assure that you, me, and everyone else out there are significantly deluded about the realities in the world and in our own minds.
+
+So first, let's understand what delusion means.
 
 ## You’re deluded
 

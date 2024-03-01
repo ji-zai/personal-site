@@ -353,3 +353,13 @@ Whether you take advantage of this rapid change or succumb to it depends on your
         > 
         
         But I believe seeking truth is a more powerful antidote to schlep blindness (i.e. not being able to see certain paths - startup ideas in this case) than either relying on ignorance, or asking “what problem do I wish someone else would solve for me?”.
+
+- Something about how easy it is to delude yourself into thinking that
+- I definitely see myself increasing the duration of truth seeking practice as I have more leverage since the weight of idea increases far more than the weight of executing that idea (bec. AI will do it for me). - This is powerful. This just makes so much sense.
+
+In fact all of your essays are downstream consequences of this.
+Truth seeking teams NEED to be small because collective delusion grows exponentially with number of people. Truth seekers are invaluable, therefore you will only have companies of cofounders because only cofounder level equity makes sense for them. This is the truth about the world that at this moment I see unfolding in front of us, and probably faster than we expect.
+
+By building a truth seeking team the right way, you will outcompete any team that has a greater collective delusion than your team. It will only be a matter of time.
+
+Dear founder, I admire you for setting out to bring something of value into this world. (a nice heartfelt conclusion would be nice. I would appreciate it as a reader.)

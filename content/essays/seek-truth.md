@@ -263,7 +263,27 @@ For example, when you’re analyzing
 
 You’ll find that you make better decisions, see greater possibilities, are more calm, more accepting of a rapidly changing world and environment.
 
-## Build a truth seeking team
+## Value of truth seeking is rising exponentially.
+
+Rapid increase in technological leverage, and anxiety.
+
+Seeking truth enables you take advantage of this leverage as a force multiplier for all the things that are required to thrive in this future.
+
+- Rapid rate of change ⇒ more anxiety, and fears about our value in the world (all stemming from the subconscious).
+- 
+
+The only thing stopping you is yourself.
+
+As AI and technological leverage increase, the following also increase at same rate:
+
+1. Power of each decision you make.
+2. Power of each idea.
+
+At the same time, there are more distractions now than ever before as a result of the same technologies.
+
+Whether you take advantage of this rapid change or succumb to it depends on your ability to seek truth.
+
+## Build a truth seeking company
 
 Teams that win consistently over long periods [x] of time require a strong foundation of truth seeking.
 
@@ -290,27 +310,13 @@ Which is why at the least starting from a position of greater truth in your own 
 
 When you see how deluded your mind is, and the value of truth seeking, you can’t help but only work with people who are great at seeking truth. Otherwise your company will drive itself off the cliff. [x].
 
-## Value of truth seeking is rising exponentially.
+---
 
-Rapid increase in technological leverage, and anxiety.
+Dear founder,
 
-Seeking truth enables you take advantage of this leverage as a force multiplier for all the things that are required to thrive in this future.
+By training your mind to seek truth, and by building a truth seeking company, you'll succeed.. and also be at greater peace with yourself.
 
-- Rapid rate of change ⇒ more anxiety, and fears about our value in the world (all stemming from the subconscious).
-- 
-
-The only thing stopping you is yourself.
-
-As AI and technological leverage increase, the following also increase at same rate:
-
-1. Power of each decision you make.
-2. Power of each idea.
-
-At the same time, there are more distractions now than ever before as a result of the same technologies.
-
-Whether you take advantage of this rapid change or succumb to it depends on your ability to seek truth.
-
-*This essay is directed towards a younger, more deluded, version of myself that kept failing to do good work, without realizing that his problem - and solution - was in his own mind.*
+Have the cake and eat it.
 
 ---
 

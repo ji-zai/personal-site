@@ -330,6 +330,7 @@ Whether you take advantage of this rapid change or succumb to it depends on your
 
 ### To add (maybe)
 
+- All great creations is constructed around a truth. That truth is often a truth about how our mind works, how the world works, or some combination. - Dive deep into this. It's a great point. It could actually be the foundation for the essay.
 - I think it would be helpful to talk about all of my failures to ground my learnings in my life. I’m not sure, will think about it later.
 - More thought on the connection between how seeking internal truth makes you that much better at observing external truth. There is a better explanation here with examples.
     - E.g. give the example of how you can read a research paper with less bias. Or you interpret product feedback in a way that most aligns with reality with a better ability to put aside what you want it to be, and focus on what it actually is.

@@ -8,7 +8,7 @@ The ability to seek truth is the most valuable skill for a founder.
 
 <WithAnnotation
     line="Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious."
-    markdown="When a contradiction between the conscious and subconscious mind itself is stressful, just imagine how stressful contradiction in the conscious mind itself can be! \n High integrity people tend to be less stressed than low integrity people because they don’t add an additional stress on top of all the existing ones. \n It’s also cool that “integrity” translates to both being honest and is also the quality of being whole or complete. When the conscious understands the subconscious, the mind becomes more whole and you’ll naturally be more honest.">
+    markdown="When a contradiction between the conscious and subconscious mind itself is stressful, just imagine how stressful contradiction in the conscious mind itself can be! <p> High integrity people tend to be less stressed than low integrity people because they don’t add an additional stress on top of all the existing ones. <p> It’s also cool that “integrity” translates to both being honest and is also the quality of being whole or complete. When the conscious understands the subconscious, the mind becomes more whole and you’ll naturally be more honest.">
 </WithAnnotation>
 
 And importantly, any worthwhile human creation is based on some truth(s): about the world, or mind. Doing great work requires the ability to seek truth.
@@ -69,7 +69,7 @@ You intuitively knew about the truths they were built on, but they never entered
 
 Your subconscious prevents you from seeing solutions that it believes will be too painful for you. After all, that’s its job: self-preservation.
 
-Therefore when faced with a situation, if you’re not careful, your subconscious mind will make a decision for you by choosing the least painful option. 
+Therefore when faced with a situation, if you’re not careful, your subconscious mind will make a decision for you by choosing the least painful option.
 
 You either won’t even know that you made the decision, or if it’s a decision you have to actively communicate to others about, then you’ll “feel” this subconscious pull towards a particular decision and then your conscious mind will come up with some plausible sounding narrative to maintain its internal consistency.
 
@@ -147,14 +147,15 @@ Everyone is unique, so the specific techniques and paths that work best for an i
 Some of it may sound like “mindfulness” or “meditation”, but those words are so loaded that I ask you try and throw away any notion you have about them. There’s nothing going on except you trying to understand what’s happening in your own mind. Let’s leave it at that without trying to label it.
 
 TODO:
+
 - You of course already know what the mind needs to do, but intellectually understanding what you want it to do has nothing to do with actually being able to do it. That's because thinking thoughts is an entirely different muscle than observing. Therefore we need to train that muscle of observing.
-- 
+-
 
 ### 1) Truth seeking requires acceptance of delusion
 
 Or at least, accept the possibility that you’re deluded. Because the concept of “seeking truth” makes no sense if you’re not deluded, because that means you already see the truth clearly.
 
-By accepting delusion, you’ve already planted the seed in your conscious mind to be more wary of what you “feel” like doing because there’s clearly a part of you that doesn’t want what you want. 
+By accepting delusion, you’ve already planted the seed in your conscious mind to be more wary of what you “feel” like doing because there’s clearly a part of you that doesn’t want what you want.
 
 You’ll question your instincts more. This doesn’t mean you won’t do what you instinctively want to do, but you will have more space to actively make the decision rather than let your subconscious make it for you without your say.
 
@@ -228,7 +229,7 @@ After that phase when you feel the world is perfect for that moment, some worry,
 
 - Try your best to be at ease physically. When your body is tense, your subconscious is better at guarding its secrets because it’s operating in flight or fight.
 - The difficulty of seeking truth means that most of us would rather choose to distract ourselves by something rather than seek the truth behind our current situation.
-    - For example: the vicious procrastination cycle.
+  - For example: the vicious procrastination cycle.
 
 ### 5) Truth seeking requires (? maybe this goes in above)
 
@@ -272,7 +273,7 @@ But, like how going to the gym to train your body enables you to apply that body
 
 The way it manifests is that you’ll be much quicker at catching thoughts and feelings that arise in a particular situation.
 
-For example, when you’re analyzing 
+For example, when you’re analyzing
 
 - Talk about how seeking truth forces you to take more ownership (using the conscious contradiction minimization that happens. When you see that you’re the cause, you can’t help but take ownership because otherwise it creates a contradiction).
 
@@ -285,7 +286,7 @@ Rapid increase in technological leverage, and anxiety.
 Seeking truth enables you take advantage of this leverage as a force multiplier for all the things that are required to thrive in this future.
 
 - Rapid rate of change ⇒ more anxiety, and fears about our value in the world (all stemming from the subconscious).
-- 
+-
 
 The only thing stopping you is yourself.
 
@@ -307,15 +308,15 @@ And the nature of growth itself makes truth seeking more difficult as collective
 Communication is a lossy transmission of information. Even if you see the truth clearly, when you share it with someone else, there is information lost, as well as information warped (by their own delusions that warp their perception of reality).
 
 1. You must only hire truth seekers.
-    1. Fortunately a truth seeker tends to only get better over time as they realize the immense value it offers.
-    2. How to evaluate truth seeking skill. 
-        1. Observe how someone has changed their mind about something (but this can’t be in a dogmatic way - which is why their reasoning).
-        2. The interview process cannot be standardized in any way.
-        3. Creating value in any sense requires resonance with the truth. Doing it consistently over time requires truth seeking.
+   1. Fortunately a truth seeker tends to only get better over time as they realize the immense value it offers.
+   2. How to evaluate truth seeking skill.
+      1. Observe how someone has changed their mind about something (but this can’t be in a dogmatic way - which is why their reasoning).
+      2. The interview process cannot be standardized in any way.
+      3. Creating value in any sense requires resonance with the truth. Doing it consistently over time requires truth seeking.
 2. Each member of the team must have constant exposure to end-users to take advantage of subconscious pain-minimization optimization. Otherwise their truth seeking skills go to waste since they’re not able to replicate external truths (that someone else has), internally. Mirror-neurons → What happens when you talk to a user in pain.
 3. Excellent communication. Realtime and async are important.
 4. Set up incentives that are aligned with truth seeking:
-    1. Right now, the way organizations are set up, there is great pressure against experimentation and cutting features 
+   1. Right now, the way organizations are set up, there is great pressure against experimentation and cutting features
 
 - Incentives that align conscious and subconscious → This is huge. Think this through in detail.
 
@@ -356,24 +357,20 @@ Have the cake and eat it.
 - All great creations is constructed around a truth. That truth is often a truth about how our mind works, how the world works, or some combination. - Dive deep into this. It's a great point. It could actually be the foundation for the essay.
 - I think it would be helpful to talk about all of my failures to ground my learnings in my life. I’m not sure, will think about it later.
 - More thought on the connection between how seeking internal truth makes you that much better at observing external truth. There is a better explanation here with examples.
-    - E.g. give the example of how you can read a research paper with less bias. Or you interpret product feedback in a way that most aligns with reality with a better ability to put aside what you want it to be, and focus on what it actually is.
-    - Truths are all around you to be observed, but our own mind prevents us from seeing it.
-    - Put two founders in the same exact environment, same product, same everything, the one that is a better truth seeker will draw the right insights from their observations of reality and will greatly outperform the other.
-    - The greater the leverage that exists, the degree of outperformance increases.
-    - As you keep practicing, what starts off as an after the fact processing, turns into a realtime one. As you get feedback
+  - E.g. give the example of how you can read a research paper with less bias. Or you interpret product feedback in a way that most aligns with reality with a better ability to put aside what you want it to be, and focus on what it actually is.
+  - Truths are all around you to be observed, but our own mind prevents us from seeing it.
+  - Put two founders in the same exact environment, same product, same everything, the one that is a better truth seeker will draw the right insights from their observations of reality and will greatly outperform the other.
+  - The greater the leverage that exists, the degree of outperformance increases.
+  - As you keep practicing, what starts off as an after the fact processing, turns into a realtime one. As you get feedback
 - Disagreeing with PGs recommendations for how to get around schlep blindness:
-    - And in some cases, truth seeking is a better way to approach improving a skill.
-        
-        For example, in the context of overcoming our conscious blind spots in the case of coming up with startup ideas, in his essay [Schlep Blindness](https://paulgraham.com/schlep.html), Paul Graham says:
-        
-        > How do you overcome schlep blindness? Frankly, the most valuable antidote to schlep blindness is probably ignorance. Most successful founders would probably say that if they'd known when they were starting their company about the obstacles they'd have to overcome, they might never have started it. Maybe that's one reason the most successful startups of all so often have young founders.
-        
-        In practice the founders grow with the problems. But no one seems able to foresee that, not even older, more experienced founders. So the reason younger founders have an advantage is that they make two mistakes that cancel each other out. They don't know how much they can grow, but they also don't know how much they'll need to. Older founders only make the first mistake.
-        
-        Ignorance can't solve everything though. Some ideas so obviously entail alarming schleps that anyone can see them. How do you see ideas like that? The trick I recommend is to take yourself out of the picture. Instead of asking "what problem should I solve?" ask "what problem do I wish someone else would solve for me?" If someone who had to process payments before Stripe had tried asking that, Stripe would have been one of the first things they wished for.
-        > 
-        
-        But I believe seeking truth is a more powerful antidote to schlep blindness (i.e. not being able to see certain paths - startup ideas in this case) than either relying on ignorance, or asking “what problem do I wish someone else would solve for me?”.
+
+  - And in some cases, truth seeking is a better way to approach improving a skill.
+    For example, in the context of overcoming our conscious blind spots in the case of coming up with startup ideas, in his essay [Schlep Blindness](https://paulgraham.com/schlep.html), Paul Graham says:
+    > How do you overcome schlep blindness? Frankly, the most valuable antidote to schlep blindness is probably ignorance. Most successful founders would probably say that if they'd known when they were starting their company about the obstacles they'd have to overcome, they might never have started it. Maybe that's one reason the most successful startups of all so often have young founders.
+    > In practice the founders grow with the problems. But no one seems able to foresee that, not even older, more experienced founders. So the reason younger founders have an advantage is that they make two mistakes that cancel each other out. They don't know how much they can grow, but they also don't know how much they'll need to. Older founders only make the first mistake.
+    > Ignorance can't solve everything though. Some ideas so obviously entail alarming schleps that anyone can see them. How do you see ideas like that? The trick I recommend is to take yourself out of the picture. Instead of asking "what problem should I solve?" ask "what problem do I wish someone else would solve for me?" If someone who had to process payments before Stripe had tried asking that, Stripe would have been one of the first things they wished for.
+    >
+    > But I believe seeking truth is a more powerful antidote to schlep blindness (i.e. not being able to see certain paths - startup ideas in this case) than either relying on ignorance, or asking “what problem do I wish someone else would solve for me?”.
 
 - Something about how easy it is to delude yourself into thinking that
 - I definitely see myself increasing the duration of truth seeking practice as I have more leverage since the weight of idea increases far more than the weight of executing that idea (bec. AI will do it for me). - This is powerful. This just makes so much sense.

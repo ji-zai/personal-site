@@ -8,6 +8,8 @@ import { protoMono } from "../../fonts";
 import { XLink } from "../base/XLink";
 import { logEvent } from "../../util/logging";
 import { Asterix } from "./asterisk";
+import { v4 as uuid } from "uuid";
+import { Note } from "./note";
 
 type Annotation = {
   id: string;
@@ -21,7 +23,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
   );
 
   const WithAnnotation = (props: { line: string; markdown: string }) => {
-    const id = "poop";
+    let id = "poop";
     return (
       <p>
         {props.line}
@@ -50,7 +52,12 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
       <Navbar />
       <div className={styles.pageWrapper}>
         <div className={styles.container}>
-          {activeAnnotation && <div>{activeAnnotation.markdown}</div>}
+          {activeAnnotation && (
+            <Note
+              markdown={activeAnnotation.markdown}
+              onHide={() => setActiveAnnotation(null)}
+            />
+          )}
           <div className={styles.header}>
             {props.essay.date && (
               <span className={styles.date + " " + protoMono.className}>

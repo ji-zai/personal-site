@@ -8,11 +8,11 @@ The ability to seek truth is the most valuable skill for a founder.
 
 Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious.
 
-And importantly, any worthwhile human creation is constructed on some truth: about the world, or mind. Doing great work requires the ability to seek truth.
+And importantly, any worthwhile human creation is based on some truth(s): about the world, or mind. Doing great work requires the ability to seek truth.
 
-As AI improves exponentially fast, the value of truth seeking rises in tandem. 
+As AI improves exponentially fast, the value of truth seeking rises in tandem.
 
-And fortunately, it's a skill that can be trained.
+You have no choice but to get great at it. And fortunately, it's a skill that can be trained.
 
 To understand truth seeking, we need to understand delusion.
 
@@ -22,17 +22,19 @@ Truth seeking only matters if you're deluded in some way, because if you're not 
 
 Your conscious mind and subconscious mind are in opposition with each other. They want different things for you.
 
-By definition, what happens in the conscious mind are all the things that you can perceive such as the thoughts you think, strong emotions, etc. and what happens in the subconscious is invisible to the conscious mind.
+By definition, what happens in the conscious mind are all the things that you can perceive such as the thoughts you think, strong emotions, etc. and of course, what happens in the subconscious is invisible to the conscious mind.
 
-For most of us, what our conscious mind wants are the usual things: i.e. to do good for the world, put the team’s success above our own, peace and harmony, etc.
+For most of us, what our conscious mind wants are the usual things: i.e. to do good for the world, peace and harmony, etc.
 
-But all our subconscious mind cares about is self-preservation [x], and in modern world, this  manifests as a craving for external validation and status. It’s hardwired deep into our psyche as part of evolution.
+But all our subconscious mind cares about is self-preservation [x], and in our modern world, this manifests as a craving for external validation and status. It’s hardwired deep into our psyche as part of evolution.
 
 Your conscious mind needs internal consistency to have self-respect and feel like it’s sane. Your subconscious knows this, which is why it needs to hide its cravings from your conscious mind. It warps your perception of reality to make your conscious mind believe you’re putting the team above you, while deep down in the subconscious layers, you’re actually optimizing for getting your face on the cover of Forbes.
 
 Your conscious mind is deluded by your subconscious mind (i.e. you’re deluding yourself all the time).
 
 It’s quite easy to spot this contradiction and delusion in others because their subconscious mind can’t warp your perception, so you can see how they’re enslaved by their subconscious. They say they want to do one thing, but you can see that their actions directly contradict the desires they’ve voiced.
+
+(TODO: Give examples of this happening in the context of a startup!)
 
 But you’re just as inconsistent, delusional and enslaved by your subconscious as you see others to be, if not worse. It’s just a lot more difficult to see your own delusions because of how effective your subconscious is at warping your perception.
 
@@ -55,6 +57,12 @@ You might be wondering why I’ve been so fixated on the internal reality of you
 Our delusions about the external world stem from our internal delusions.
 
 Reduce internal delusion and you’ll find you’re able to see the external world more clearly.
+
+All of the most profound truths are sitting right under your nose. You just have to learn to see them, and your delusion prevents you from seeing them.
+
+Think about all the great companies you care about... there is a single, simple truth that each is constructed around. These truths are so simple. Which is why all great products seem stupidly obvious in hindsight.
+
+You intuitively knew about the truths they were built on, but they never entered your conscious mind. Or even if they did, you might not have given them the importance they deserved due to your biases.
 
 Your subconscious prevents you from seeing solutions that it believes will be too painful for you. After all, that’s its job: self-preservation.
 

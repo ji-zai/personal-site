@@ -8,6 +8,8 @@ The ability to seek truth is the most valuable skill for a founder.
 
 Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious.
 
+And importantly, any worthwhile human creation is constructed on some truth: about the world, or mind. Doing great work requires the ability to seek truth.
+
 As AI improves exponentially fast, the value of truth seeking rises in tandem. 
 
 And fortunately, it's a skill that can be trained.

@@ -12,9 +12,9 @@ As AI improves exponentially fast, the value of truth seeking rises in tandem.
 
 And fortunately, it's a skill that can be trained.
 
-Truth seeking only matters if you're deluded in some way, because if you're not deluded, it implies you can see reality clearly. I can assure that you, me, and everyone else out there are significantly deluded about the realities in the world and in our own minds.
+To understand truth seeking, we need to understand delusion.
 
-So first, let's understand what delusion means.
+Truth seeking only matters if you're deluded in some way, because if you're not deluded, it implies you can see reality clearly. I can assure that you, me, and everyone else out there are significantly deluded about the realities of the world and our own minds.
 
 ## You’re deluded
 

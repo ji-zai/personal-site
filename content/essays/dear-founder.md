@@ -29,6 +29,8 @@ But you’re just as inconsistent, delusional and enslaved by your subconscious 
 
 When you get a glimpse of what’s happening in your subconscious, you’ll puke. It’ll be disgusting. Atrocious. You’re not what you think you are. And you’re definitely not what you tell the world you are.
 
+<AnnotationComponent markdown=`When a contradiction between the conscious and subconscious mind itself is stressful, just imagine how stressful contradiction in the conscious mind itself can be! \n High integrity people tend to be less stressed than low integrity people because they don’t add an additional stress on top of all the existing ones. \n It’s also cool that “integrity” translates to both being honest and is also the quality of being whole or complete. When the conscious understands the subconscious, the mind becomes more whole and you’ll naturally be more honest.`>
+
 While your conscious mind dreams of fixing education, your subconscious dreams of adding “forbes_x_under_x”, or “some_status_symbol” in your Twitter bio.
 
 While your conscious mind dreams of building tools that empower the billions around the world, your subconscious dreams of being on Lex’s podcast chatting about how you changed the world.

@@ -16,7 +16,7 @@ You have no choice but to get great at it. And fortunately, it's a skill that ca
 
 To understand truth seeking, we need to understand delusion.
 
-Truth seeking only matters if you're deluded in some way, because if you're not deluded, it implies you can see reality clearly. I can assure that you, me, and everyone else out there are significantly deluded about the realities of the world and our own minds.
+Truth seeking only matters if you're deluded in some way, because if you're not deluded, it implies you can see reality clearly. I can assure that you, me, and everyone else out there are incredibly deluded about the realities of the world and our own minds.
 
 ## You’re deluded
 
@@ -142,6 +142,10 @@ Truth seeking is a skill that can be trained.
 Everyone is unique, so the specific techniques and paths that work best for an individual may not work for another. Yet, I believe there are some common features for truth seeking technique.
 
 Some of it may sound like “mindfulness” or “meditation”, but those words are so loaded that I ask you try and throw away any notion you have about them. There’s nothing going on except you trying to understand what’s happening in your own mind. Let’s leave it at that without trying to label it.
+
+TODO:
+- You of course already know what the mind needs to do, but intellectually understanding what you want it to do has nothing to do with actually being able to do it. That's because thinking thoughts is an entirely different muscle than observing. Therefore we need to train that muscle of observing.
+- 
 
 ### 1) Truth seeking requires acceptance of delusion
 

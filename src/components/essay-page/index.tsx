@@ -59,26 +59,38 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
     }, []);
 
     return (
-      <p ref={componentRef}>
+      <p ref={componentRef} style={{ position: "relative" }}>
         {props.line}
-        <Asterix
-          isSelected={activeAnnotation && activeAnnotation.id === id}
-          onClick={() => {
-            if (activeAnnotation && activeAnnotation.id == id)
-              return setActiveAnnotation(null);
+        <span
+          style={
+            !isAnnotationInline
+              ? {
+                  position: "absolute",
+                  right: -32,
+                  top: 0,
+                }
+              : {}
+          }
+        >
+          <Asterix
+            isSelected={activeAnnotation && activeAnnotation.id === id}
+            onClick={() => {
+              if (activeAnnotation && activeAnnotation.id == id)
+                return setActiveAnnotation(null);
 
-            setActiveAnnotation({
-              id,
-              markdown: props.markdown,
-              y: componentYPosition,
-            });
-          }}
-        />
+              setActiveAnnotation({
+                id,
+                markdown: props.markdown,
+                y: componentYPosition,
+              });
+            }}
+          />
+        </span>
 
         {isAnnotationInline &&
           activeAnnotation &&
           activeAnnotation.id === id && (
-            <div style={{ marginTop: 16 }}>
+            <div style={{ marginTop: 8 }}>
               <Note
                 isInLine={isAnnotationInline}
                 markdown={activeAnnotation.markdown}

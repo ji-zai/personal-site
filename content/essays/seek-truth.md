@@ -28,7 +28,7 @@ By definition, what happens in the conscious mind are all the things that you ca
 
 For most of us, what our conscious mind wants are the usual things: i.e. to do good for the world, peace and harmony, etc.
 
-But all our subconscious mind cares about is self-preservation [x], and in our modern world, this manifests as a craving for external validation and status. It’s hardwired deep into our psyche as part of evolution.
+But all our subconscious mind cares about is self-preservation, and in our modern world, this manifests as a craving for external validation and status. It’s hardwired deep into our psyche as part of evolution.
 
 Your conscious mind needs internal consistency to have self-respect and feel like it’s sane. Your subconscious knows this, which is why it needs to hide its cravings from your conscious mind. It warps your perception of reality to make your conscious mind believe you’re putting the team above you, while deep down in the subconscious layers, you’re actually optimizing for getting your face on the cover of Forbes.
 
@@ -100,7 +100,9 @@ We all know the feeling of consciously deciding to stick to a diet and somehow f
 
 This same drama plays out for almost every micro decision you make about anything.
 
-When you say you’re making a decision that’s best for the team when in reality it’s because of your subconscious craving for status, even if you’re not consciously aware of that contradiction, you will still experience the stress of that contradiction [x].
+<WithAnnotation
+    line="When you say you’re making a decision that’s best for the team when in reality it’s because of your subconscious craving for status, even if you’re not consciously aware of that contradiction, you will still experience the stress of that contradiction."
+    markdown="When a contradiction between the conscious and subconscious mind itself is stressful, just imagine how stressful contradiction in the conscious mind itself can be! <p> High integrity people tend to be less stressed than low integrity people because they don’t add an additional stress on top of all the existing ones. <p> It’s also cool that “integrity” translates to both being honest and is also the quality of being whole or complete. When the conscious understands the subconscious, the mind becomes more whole and you’ll be forced to be more honest because you see the pain that comes from dishonesty." />
 
 Self-delusion adds so much stress without you even realizing it. An unnecessary burden on top of all the usual burdens of starting a company.
 
@@ -354,8 +356,6 @@ Have the cake and eat it.
 [x] I don’t think committee based decision making works well, except in certain extreme scenarios. So here I’m talking about feedback without necessarily increasing the number of decision makers.
 
 [x] Collective delusion is the primary cause for companies driving themselves off the cliff. And it looks ridiculous from the outside, like how could IBM not see the importance of home computers, or Japanese hardware companies see the shift in power to software, or Google see the importance of shipping actual AI products before some tiny, significantly less funded startup. But, it’s easy to point fingers at these companies until you run one off the cliff just like them. Curb that delusion my friend, or the world will humble you real fast.
-
-[x] When a contradiction between the conscious and subconscious mind itself is stressful, just imagine how stressful contradiction in the conscious mind itself can be! High integrity people tend to be less stressed than low integrity people because they don’t add an additional stress on top of all the existing ones. It’s also cool that “integrity” translates to both being honest and is also the quality of being whole or complete. When the conscious understands the subconscious, the mind becomes more whole and you’ll naturally be more honest.
 
 ---
 

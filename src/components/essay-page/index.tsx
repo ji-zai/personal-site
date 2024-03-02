@@ -10,8 +10,9 @@ import { logEvent } from "../../util/logging";
 import { Asterix } from "./asterisk";
 import { v4 as uuid } from "uuid";
 import { Note } from "./note";
-import { useScreenWidth } from "../../util/hooks";
+import { generateTable, hashString, useScreenWidth } from "../../util/hooks";
 import { constants } from "../../util/constants";
+import { TableOfContents } from "./toc";
 
 type Annotation = {
   id: string;
@@ -24,20 +25,27 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
     null
   );
 
+  let [toc, setToc] = useState<{ id: string; label: string }[]>([]);
+
+  useEffect(() => {
+    const makeToc = async () => {
+      const toc = generateTable(props.essay.source);
+      setToc(toc);
+    };
+    makeToc();
+
+    window.onload = function () {
+      if (window.location.hash) {
+        const hash = window.location.hash;
+        window.location.hash = "";
+        history.replaceState(null, null, hash);
+      }
+    };
+  }, []);
+
   const screenWidth = useScreenWidth();
   const rightSpace = (screenWidth - constants.essayContainerMaxWidth) / 2;
   const isAnnotationInline = rightSpace < 332;
-
-  async function hashString(string) {
-    const encoder = new TextEncoder();
-    const data = encoder.encode(string); // Convert string to Uint8Array
-    const hashBuffer = await crypto.subtle.digest("SHA-256", data); // Hash the data
-    const hashArray = Array.from(new Uint8Array(hashBuffer)); // Convert buffer to byte array
-    const hashHex = hashArray
-      .map((b) => b.toString(16).padStart(2, "0"))
-      .join(""); // Convert bytes to hex string
-    return hashHex;
-  }
 
   const WithAnnotation = (props: { line: string; markdown: string }) => {
     const [id, setId] = useState("");
@@ -110,6 +118,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
     <div>
       <Navbar />
       <div className={styles.pageWrapper}>
+        {toc && <TableOfContents toc={toc} />}
         {activeAnnotation && !isAnnotationInline && (
           <div
             style={{

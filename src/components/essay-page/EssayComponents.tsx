@@ -3,6 +3,7 @@ import styles from "./Essay.module.css";
 import Link from "next/link";
 import React, { useState } from "react";
 import Image from "next/image";
+import { getIdFromHeader } from "../../util/hooks";
 
 const NavLink = (props: {
   title: string;
@@ -90,7 +91,10 @@ export const essayComponents = {
   Caption,
   PlaceHolder,
   CustomImage,
-  h2: (props) => <h2 variant="h2" {...props} />,
+  h2: (props) => {
+    const label = props.children;
+    return <h2 id={getIdFromHeader(label)} variant="h2" {...props} />;
+  },
   h3: (props) => <h3 variant="h3" {...props} />,
   a: (props) => <ExternalLink src={props.href}>{props.children}</ExternalLink>,
 };

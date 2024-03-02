@@ -11,6 +11,7 @@ import { Asterix } from "./asterisk";
 import { v4 as uuid } from "uuid";
 import { Note } from "./note";
 import { useScreenWidth } from "../../util/hooks";
+import { constants } from "../../util/constants";
 
 type Annotation = {
   id: string;
@@ -25,8 +26,8 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
 
   const screenWidth = useScreenWidth();
 
-  const rightSpace = (screenWidth - 600) / 2;
-  const isAnnotationInline = rightSpace < 300;
+  const rightSpace = (screenWidth - constants.essayContainerMaxWidth) / 2;
+  const isAnnotationInline = rightSpace < 332;
 
   const WithAnnotation = (props: { line: string; markdown: string }) => {
     let id = "poop";
@@ -69,21 +70,26 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
     <div>
       <Navbar />
       <div className={styles.pageWrapper}>
-        <div className={styles.container}>
-          {activeAnnotation && !isAnnotationInline && (
-            <div
-              style={{
-                position: "absolute",
-                right: 16,
-                width: rightSpace - 80,
-              }}
-            >
-              <Note
-                markdown={activeAnnotation.markdown}
-                onHide={() => setActiveAnnotation(null)}
-              />
-            </div>
-          )}
+        {activeAnnotation && !isAnnotationInline && (
+          <div
+            style={{
+              position: "absolute",
+              right: rightSpace - 300 - 16,
+              width: 300,
+            }}
+          >
+            <Note
+              markdown={activeAnnotation.markdown}
+              onHide={() => setActiveAnnotation(null)}
+            />
+          </div>
+        )}
+        <div
+          className={styles.container}
+          style={{
+            maxWidth: constants.essayContainerMaxWidth,
+          }}
+        >
           <div className={styles.header}>
             {props.essay.date && (
               <span className={styles.date + " " + protoMono.className}>

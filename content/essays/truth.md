@@ -1,14 +1,17 @@
 ---
-title: "Dear founder, seek truth!"
+title: "Seek truth!"
 date: "Feb 26, 2024"
 xLink: "https://x.com/jisnuzai"
 ---
 
-The ability to seek truth is the most valuable skill for a founder.
+The ability to seek truth is the most valuable skill.
 
-Any human creation we value is based on some truth(s) about the world, or mind. You need to be able to seek truth in order to do great work.
+Any human creation you value is based on some truth(s) about the world, or mind. You need to be able to seek truth in order to do work that matters to you. And doing work that matters to you is both better for the world, and therefore yourself.
 
-As AI improves exponentially fast, the value of truth seeking rises in tandem. Fortunately, it's a skill that can be trained.
+As AI improves exponentially fast, the value of truth seeking rises in tandem.
+
+Fortunately, it's a skill that can be trained.
+Unfortunately, there's no time. The training must start now.
 
 ## You’re deluded
 
@@ -57,7 +60,7 @@ Therefore, let's take this power law of truth quality to be a truth - with a hig
 
 Therefore, we know that there's a factor of luck in how quickly we can explore any system, that is completely out of our control.
 
-## What we know about the system of a person
+## An individual
 
 We know that people want things. That thing could be a physical thing, or a feeling.
 
@@ -78,6 +81,8 @@ So, by definition, there's must be a reduction in pain for you everytime you do 
 But wait, isn't a mother's love self-less? According to our definition, the mother would only care for her child if it impacted her level of pain. And clearly not caring for her child causes mothers unimaginable pain because a mother is wired such that when they see their children suffer, they feel unimaginable pain.
 
 And so, a mother will do everything in her power to protect her children from feeling pain.
+
+## Two individuals
 
 Let's take 2 people A and B.
 
@@ -120,8 +125,29 @@ And they will value money according to what they believe they can get for it, na
 
 Therefore, if A and B have agency, they must both gain from the transaction, else it wouldn't occur because the transaction criteria wouldn't have been met.
 
-Let's be clear what we have so far:
+And of course we've already established that there can be many kinds of transactions that don't involve this money abstraction because there's a direct match between A and B (they have something that the other wants, and so there's no need for money in the exchange).
 
-1.
+## Many individuals
+
+By how we've defined things, it's clear that a world in which more people have agency, will have more transactions.
+
+## Organizing many, many individuals
+
+- Ideologies on the spectrum of capitalism.
+- Ideologies on the spectrum of democracy.
+
+##
+
+## AI
+
+## Why seeking truth is the most important skill
+
+(From here on, all downstream consequences)
+
+## How to train truth seeking
+
+## My truth
+
+What I'm going to do with my life.
 
 ---

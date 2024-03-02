@@ -139,7 +139,7 @@ When you have better visibility into your subconscious activities, and you’re 
 
 And by slowly increasing the visibility you have into what’s actually determining your decisions, you’ll act on those subconscious cravings less, and will be able to make better decisions.
 
-## How to seek truth
+## How to train truth seeking
 
 Truth seeking is a skill that can be trained.
 
@@ -267,7 +267,7 @@ It’s tragically hilarious that a mind-”ful” practice can quickly devolve i
 
 Be cautious about applying standard productivity measurement techniques to truth seeking.
 
-## Applying truth seeking to the world
+## Apply your training
 
 Truth seeking works well with other techniques to help you improve decision making, managing stress.
 
@@ -344,45 +344,23 @@ Why is it near impossible?
 
 (lay this out, and use this as a case study as to why it's incredibly important to be paranoid. The phrase "only the paranoid survive" is true, but not in the original context (i.e. being paranoid about competition, etc.), but in the context of: the only way to remain a truth seeking individual, and by extension a truth seeking company, is by being paranoid about truth seeking, realizing just how easy it is to slip into delusion: the default tendency of the mind.)
 
+Only the paranoid survive. Those who are paranoid about making sure they're in line with the truth.
+
 ---
 
 Dear founder,
 
-By training your mind to seek truth, and by building a truth seeking company, you'll succeed.. and also be at greater peace with yourself.
+Creating something, anything, is such a difficult thing to do.
 
-Have the cake and eat it.
+I'm grateful for all of you that create. You inspire me in ways I can't even put into words.
+
+And I'm incredibly grateful for all of the lifetimes of toil of those that came before us who helped create the things we value today.
+
+We owe it to them. To the world. To do great work and to create things that help us all grow and find what we're looking for.
+
+This is my effort to help you be more successful. I've failed more times than most. I've been to hell and back. I will do anything to help prevent anybody else from drowning in the depths of failure. I've seen my habits that keep me from succeeding, and I'm obsessively working to fix them. I have a long path in front of me, and I hope our paths cross someday. Take care.
+
+(TODO: glimpse of upcoming essays, how they're downstream consequences of AI and truth seeking.)
+(TODO: share that you're working on a company, and I'm forced to go through this thinking to ensure that this is a company that does great work, and lasts for centuries.)
 
 ---
-
-### To add (maybe)
-
-- I don’t think committee based decision making works well, except in certain extreme scenarios. So here I’m talking about feedback without necessarily increasing the number of decision makers.
-- All great creations is constructed around a truth. That truth is often a truth about how our mind works, how the world works, or some combination. - Dive deep into this. It's a great point. It could actually be the foundation for the essay.
-- I think it would be helpful to talk about all of my failures to ground my learnings in my life. I’m not sure, will think about it later.
-- More thought on the connection between how seeking internal truth makes you that much better at observing external truth. There is a better explanation here with examples.
-  - E.g. give the example of how you can read a research paper with less bias. Or you interpret product feedback in a way that most aligns with reality with a better ability to put aside what you want it to be, and focus on what it actually is.
-  - Truths are all around you to be observed, but our own mind prevents us from seeing it.
-  - Put two founders in the same exact environment, same product, same everything, the one that is a better truth seeker will draw the right insights from their observations of reality and will greatly outperform the other.
-  - The greater the leverage that exists, the degree of outperformance increases.
-  - As you keep practicing, what starts off as an after the fact processing, turns into a realtime one. As you get feedback
-- Disagreeing with PGs recommendations for how to get around schlep blindness:
-
-  - And in some cases, truth seeking is a better way to approach improving a skill.
-    For example, in the context of overcoming our conscious blind spots in the case of coming up with startup ideas, in his essay [Schlep Blindness](https://paulgraham.com/schlep.html), Paul Graham says:
-    > How do you overcome schlep blindness? Frankly, the most valuable antidote to schlep blindness is probably ignorance. Most successful founders would probably say that if they'd known when they were starting their company about the obstacles they'd have to overcome, they might never have started it. Maybe that's one reason the most successful startups of all so often have young founders.
-    > In practice the founders grow with the problems. But no one seems able to foresee that, not even older, more experienced founders. So the reason younger founders have an advantage is that they make two mistakes that cancel each other out. They don't know how much they can grow, but they also don't know how much they'll need to. Older founders only make the first mistake.
-    > Ignorance can't solve everything though. Some ideas so obviously entail alarming schleps that anyone can see them. How do you see ideas like that? The trick I recommend is to take yourself out of the picture. Instead of asking "what problem should I solve?" ask "what problem do I wish someone else would solve for me?" If someone who had to process payments before Stripe had tried asking that, Stripe would have been one of the first things they wished for.
-    >
-    > But I believe seeking truth is a more powerful antidote to schlep blindness (i.e. not being able to see certain paths - startup ideas in this case) than either relying on ignorance, or asking “what problem do I wish someone else would solve for me?”.
-
-- Something about how easy it is to delude yourself into thinking that
-- I definitely see myself increasing the duration of truth seeking practice as I have more leverage since the weight of idea increases far more than the weight of executing that idea (bec. AI will do it for me). - This is powerful. This just makes so much sense.
-
-In fact all of your essays are downstream consequences of this.
-Truth seeking teams NEED to be small because collective delusion grows exponentially with number of people. Truth seekers are invaluable, therefore you will only have companies of cofounders because only cofounder level equity makes sense for them. This is the truth about the world that at this moment I see unfolding in front of us, and probably faster than we expect.
-
-By building a truth seeking team the right way, you will outcompete any team that has a greater collective delusion than your team. It will only be a matter of time.
-
-Dear founder, I admire you for setting out to bring something of value into this world. (a nice heartfelt conclusion would be nice. I would appreciate it as a reader.)
-
-"Before I move onto the next essays, I welcome your feedback on this. I would like it stress tested and hope to improve my mental model of truth seeking and its importance before spending time on its downstream consequences. Further analysis on a shaky foundation may only increase my delusion.

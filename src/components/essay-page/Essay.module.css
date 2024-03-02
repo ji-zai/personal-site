@@ -129,6 +129,7 @@
   font-size: 1.5rem;
   margin-top: 4rem;
   font-weight: 500;
+  line-height: 2rem;
 }
 
 .content h3 {
@@ -137,6 +138,7 @@
   font-weight: 500;
   line-height: 24px;
   margin-top: 2rem;
+  line-height: 27px;
 }
 
 /* .content li {

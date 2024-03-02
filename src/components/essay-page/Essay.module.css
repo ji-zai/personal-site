@@ -100,7 +100,7 @@
 
 .content {
   font-weight: 400;
-  color: #272a2f;
+  color: rgba(0, 0, 0, 0.75);
   line-height: 26px;
   word-wrap: break-word;
 }
@@ -118,14 +118,11 @@
   background-color: #e4d58f;
 }
 
-/* .content ul,
-.content ol {
-} */
-
 .content h2,
 .content h3 {
   margin-bottom: 1.5rem;
   letter-spacing: 0.3px;
+  color: #343434;
 }
 
 .content h2 {

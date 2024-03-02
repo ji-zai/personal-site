@@ -10,6 +10,7 @@ import { logEvent } from "../../util/logging";
 import { Asterix } from "./asterisk";
 import { v4 as uuid } from "uuid";
 import { Note } from "./note";
+import { useScreenWidth } from "../../util/hooks";
 
 type Annotation = {
   id: string;
@@ -21,6 +22,11 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
   let [activeAnnotation, setActiveAnnotation] = useState<Annotation | null>(
     null
   );
+
+  const screenWidth = useScreenWidth();
+
+  const rightSpace = (screenWidth - 600) / 2;
+  const isAnnotationInline = rightSpace < 300;
 
   const WithAnnotation = (props: { line: string; markdown: string }) => {
     let id = "poop";
@@ -39,6 +45,18 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
             });
           }}
         />
+
+        {isAnnotationInline &&
+          activeAnnotation &&
+          activeAnnotation.id === id && (
+            <div style={{ marginTop: 16 }}>
+              <Note
+                isInLine={isAnnotationInline}
+                markdown={activeAnnotation.markdown}
+                onHide={() => setActiveAnnotation(null)}
+              />
+            </div>
+          )}
       </p>
     );
   };
@@ -52,7 +70,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
       <Navbar />
       <div className={styles.pageWrapper}>
         <div className={styles.container}>
-          {activeAnnotation && (
+          {activeAnnotation && !isAnnotationInline && (
             <Note
               markdown={activeAnnotation.markdown}
               onHide={() => setActiveAnnotation(null)}

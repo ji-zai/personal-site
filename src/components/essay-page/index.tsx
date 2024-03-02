@@ -71,10 +71,18 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
       <div className={styles.pageWrapper}>
         <div className={styles.container}>
           {activeAnnotation && !isAnnotationInline && (
-            <Note
-              markdown={activeAnnotation.markdown}
-              onHide={() => setActiveAnnotation(null)}
-            />
+            <div
+              style={{
+                position: "absolute",
+                right: 16,
+                width: rightSpace - 80,
+              }}
+            >
+              <Note
+                markdown={activeAnnotation.markdown}
+                onHide={() => setActiveAnnotation(null)}
+              />
+            </div>
           )}
           <div className={styles.header}>
             {props.essay.date && (

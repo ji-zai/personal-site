@@ -150,4 +150,10 @@ By how we've defined things, it's clear that a world in which more people have a
 
 What I'm going to do with my life.
 
+When you follow the truth, there's no need to make any decisions, they make themselves. The following is the plan for my life that I have no choice but to take given my worldview that I've shared above.
+
+If my world view above changes, then I'll have no choice but to analyze the downstream consequences of those changes, and update my plan for life.
+
+So I ask you. No, I beg you. Please force me to update my world view to be closer to the truth. I have no choice but to ask you to do this.
+
 ---

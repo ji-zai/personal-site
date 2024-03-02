@@ -16,9 +16,10 @@ export const TableOfContents = ({ toc }) => {
 
   return (
     <nav aria-label="Table of contents" className={styles.container}>
-      <ul>
+      <ul className={styles.list}>
         {toc.map((entry, index) => (
           <li
+            className={styles.listItem}
             key={index}
             onClick={(e: any) => handleClick(e, entry.id)}
             style={{ cursor: "pointer" }}

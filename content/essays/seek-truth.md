@@ -326,6 +326,14 @@ Which is why at the least starting from a position of greater truth in your own 
 
 When you see how deluded your mind is, and the value of truth seeking, you can’t help but only work with people who are great at seeking truth. Otherwise your company will drive itself off the cliff. [x].
 
+The root cause for why companies fail to adapt to the changing times is delusion.
+
+Why does Google look like they're floundering this AI transition despite being the original authors of the research that underpins LLM technology? Those that believe Google can win the AI race (or even be a prominent player) don't see the collective delusion as the root cause. If you did, you'd realize the only way for them to win is to become a truth seeking organization, which is near impossible given the way things stand.
+
+Why is it near impossible?
+
+(lay this out, and use this as a case study as to why it's incredibly important to be paranoid. The phrase "only the paranoid survive" is true, but not in the original context (i.e. being paranoid about competition, etc.), but in the context of: the only way to remain a truth seeking individual, and by extension a truth seeking company, is by being paranoid about truth seeking, realizing just how easy it is to slip into delusion: the default tendency of the mind.
+
 ---
 
 Dear founder,

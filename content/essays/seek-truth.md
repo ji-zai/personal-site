@@ -6,10 +6,7 @@ xLink: "https://x.com/jisnuzai"
 
 The ability to seek truth is the most valuable skill for a founder.
 
-<WithAnnotation
-    line="Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious."
-    markdown="When a contradiction between the conscious and subconscious mind itself is stressful, just imagine how stressful contradiction in the conscious mind itself can be! <p> High integrity people tend to be less stressed than low integrity people because they don’t add an additional stress on top of all the existing ones. <p> It’s also cool that “integrity” translates to both being honest and is also the quality of being whole or complete. When the conscious understands the subconscious, the mind becomes more whole and you’ll naturally be more honest.">
-</WithAnnotation>
+Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious.
 
 And importantly, any worthwhile human creation is based on some truth(s): about the world, or mind. Doing great work requires the ability to seek truth.
 

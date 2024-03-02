@@ -386,3 +386,5 @@ Truth seeking teams NEED to be small because collective delusion grows exponenti
 By building a truth seeking team the right way, you will outcompete any team that has a greater collective delusion than your team. It will only be a matter of time.
 
 Dear founder, I admire you for setting out to bring something of value into this world. (a nice heartfelt conclusion would be nice. I would appreciate it as a reader.)
+
+"Before I move onto the next essays, I welcome your feedback on this. I would like it stress tested and hope to improve my mental model of truth seeking and its importance before spending time on its downstream consequences. Further analysis on a shaky foundation may only increase my delusion.

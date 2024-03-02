@@ -6,7 +6,7 @@ xLink: "https://x.com/jisnuzai"
 
 The ability to seek truth is the most valuable skill.
 
-Any human creation you value is based on some truth(s) about the world, or mind. You need to be able to seek truth in order to do work that matters to you. And doing work that matters to you is both better for the world, and therefore yourself.
+Any human creation you value is based on some truth(s) about the world, or mind. You need to be able to seek truth in order to do work that matters to you. And doing work that matters to you is better for you, me, and everyone.
 
 As AI improves exponentially fast, the value of truth seeking rises in tandem.
 
@@ -88,32 +88,73 @@ Let's take 2 people A and B.
 
 If A wants something B has, and B wants something A has, there's a possibility for a transaction that depends on the magnitudes of the wants.
 
-If by giving B something that Be wants causes more pain to A that what they received from B didn't remove, then A wouldn't want to give B what B wants. The transaction wouldn't happen if both A, and B have agency (freedom to act or not act) in the situation.
+If by giving B something that B wants causes more pain to A than the relief of pain from the thing they received from B, then A wouldn't want to give B what B wants. Then, the transaction wouldn't happen if both A, and B have agency (freedom to act or not act) in the situation.
 
-Let's call that the transaction criteria.
+Also, we have to be careful with this statement because as it is, it's not true.
 
-Based on what we've observed in the world, a transaction only between A, and B when:
+Because A's willingness to transact has absolutely nothing to do with how much what B gives A actually reduce's A's pain. All A's willingness to transact depends solely on is whether they BELIEVE what they receive from B will reduce their pain more than the pain they BELIEVE will be inflicted on them by giving B what B wants.
 
-1. The transaction criteria has been met between them.
-2. There's a way for A and B to know that each other exists and that the transaction criteria has been met.
-3. There's a way for them to transfer to each other that which each other wants.
-4. There is the necessary force created that completes the transaction.
+There's a world of a difference in that subtle change, and it's one that we need to keep in mind because it's a critical piece of the puzzle to understand the world we live in.
 
-What's this "force"?
+This is of course not the only criteria that needs to be true for the transaction to happen.
 
-The force is determined by the agency of A and B. After meeting the first 3 criteria:
+Based on what we've observed in the world, all of the following need to be true for the transaction to happen. Let's call this the "transaction criteria".
 
-If A and B both have agency, then the force required to complete the transaction is entirely between them. If they agree to transact, it happens, else it doesn't.
+Transaction criteria:
 
-If one doesn't have agency, then the other can force the transaction by applying force.
+1. A can make something B wants, and B can make something A wants, such that what B offers A is is believed by A to reduce their pain more than what they believe giving B what B wants will cause.
+2. A and B to know that each other exists and that the transaction criteria has been met.
+3. A and B have a way for them to transfer to each other that which each other wants.
+4. There is the necessary agency to complete the transaction.
 
-If both don't have agency, then the transaction happens whether they want it to or not.
+After meeting the first 3 requirements:
 
-Let's summarize what we have so far:
+If A and B both have agency, the transaction happens.
 
-1. You will only want something if you feel pain.
-2. You will only make something if making it has the possibility of easing your pain.
-3. You will only transact (with agency) if someone else has something that you want, and you have something they want.
+If one doesn't have agency, then the other can force the transaction by applying force. And they will have no choice but to apply that force if they BELIEVE by having what the other has will lead to greater pain reduction than the effort to apply the force necessary to grab it will cause.
+
+They have no choice here if they believe
+
+If both don't have agency, then the transaction may happen or not regardless of whether they want it to happen or not. It's up to the laws of nature.
+
+The transaction criteria itself pushed all the people bound by the transaction criteria to reduce the effort required to meet this transaction criteria.
+
+Why?
+
+Because a person wants things to remove their pain. And the person wants more things in the world that they believe will remove pain.
+
+Why? Why isn't having just one thing that removes all of their pain enough?
+
+Because the reality of the world is that the "one thing" doesn't exist (or rather because we don't believe it to exist with a high degree of confidence because we haven't seen such a thing yet.).
+
+And therefore, rightly so, the individual believes not one thing will ease all of their pain, that multiple things are required. They don't know how many things will satisfy them, so they want for more things to exist, in the hopes that one day they will have consumed enough things to have no pain.
+
+(Once again, an individual is forced to want things because of their pain. Remember, if they had no pain, they would want nothing - by our definitions).
+
+When many individuals feel this way, they have no choice but to try and reduce the friction for a transaction, because that would enable more things to exist in the world that could potentially reduce the individual's pain.
+
+How does reducing the effort required for a transaction lead to more things to exist in the world?
+
+Because less effort to have a transaction means that the transaction happens more easily and more quickly.
+
+Let's use an example, 3 people: A, B, C.
+
+Let's say:
+
+- A knows how to make something B wants using what C gave A,
+- B knows how to make something C wants using what A gave B
+- C knows how to make something A wants using what B gave C.
+
+Let's say that somehow the effort for A to transact with B decreased. But there are 4 requirements for a transaction, which requirement became easier?
+
+Let's say the first requirement becomes easier:
+
+What are ways in which the effort for a transaction can decrease?
+
+1. Technology.
+2. Money.
+
+## Money
 
 Humans, then, cleverly created an abstraction called money that removed the need for A to have exactly what B wants, and B to have exactly what A wants.
 
@@ -157,3 +198,7 @@ If my world view above changes, then I'll have no choice but to analyze the down
 So I ask you. No, I beg you. Please force me to update my world view to be closer to the truth. I have no choice but to ask you to do this.
 
 ---
+
+Humans didn't invent money, money invented itself through humans as a logical consequence of the nature of a human. There was no other way. With enough time it was bound to happen.
+
+The only way to develop free will is to shift the craving to reduce pain from an external to internal process.

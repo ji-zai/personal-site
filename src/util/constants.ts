@@ -5,4 +5,5 @@ export const constants = {
   primaryBg: "#F3F3F3",
   inlineAnnotationFill: "#FBFBFB",
   essayContainerMaxWidth: 700,
+  marginNoteWidth: 250,
 };

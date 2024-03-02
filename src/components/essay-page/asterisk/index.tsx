@@ -7,10 +7,8 @@ export const Asterix = (props: {
 }) => (
   <span
     className={styles.container}
-    style={{
-      background: props.isSelected ? "#E8E5E5" : "default",
-    }}
     onClick={props.onClick}
+    style={{ background: props.isSelected ? "#eeeeee" : "" }}
   >
     <Image src={"/comment-text.svg"} width={17} height={17} alt="note" />
   </span>

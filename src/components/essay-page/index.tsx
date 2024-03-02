@@ -45,7 +45,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
 
   const screenWidth = useScreenWidth();
   const rightSpace = (screenWidth - constants.essayContainerMaxWidth) / 2;
-  const isAnnotationInline = rightSpace < 332;
+  const isAnnotationInline = rightSpace < constants.marginNoteWidth + 32;
 
   const WithAnnotation = (props: { line: string; markdown: string }) => {
     const [id, setId] = useState("");
@@ -122,9 +122,9 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
           <div
             style={{
               position: "absolute",
-              right: rightSpace - 300 - 16,
+              right: rightSpace - constants.marginNoteWidth - 16,
               top: activeAnnotation.y,
-              width: 300,
+              width: constants.marginNoteWidth,
             }}
           >
             <Note

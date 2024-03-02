@@ -1,12 +1,11 @@
 .container {
-    cursor: pointer;
-    background: #EEEEEE;
-    padding: 4px;
-    border-radius: 4px;
-    margin-left: 8px;
-    display: inline-flex;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  margin-left: 8px;
+  display: inline-flex;
 }
 
 .container:hover {
-    background: #E8E5E5;
+  background: #e8e5e5;
 }

@@ -122,7 +122,7 @@ Your mind HATES internal inconsistencies. In a panic it will try to bridge the g
 
 <WithAnnotation
   line="This is when your ego helps you."
-  markdown="This is why I’m not a fan team cultures that emphasize “low egos”. I often find these teams full of people that simply don’t care. It’s easy to agree with someone, or let your ideas be discarded when you don’t give a shit about the product. <p>Big ego to achieve something worthwhile + truth seeking => they do great work by making their egos work for what their conscious mind wants." />
+  markdown="<p>This is why I’m not a fan team cultures that emphasize “low egos”. I often find these teams full of people that simply don’t care. It’s easy to agree with someone, or let your ideas be discarded when you don’t give a shit about the product. <p>Big ego to achieve something worthwhile + truth seeking => they do great work by making their egos work for what their conscious mind wants." />
 
 To bridge the inconsistency, your mind can either:
 

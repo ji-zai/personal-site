@@ -12,6 +12,6 @@ export const Asterix = (props: {
     }}
     onClick={props.onClick}
   >
-    <Image src={"/comment-text.svg"} width={15} height={15} alt="note" />
+    <Image src={"/comment-text.svg"} width={17} height={17} alt="note" />
   </span>
 );

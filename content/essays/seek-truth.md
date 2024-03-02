@@ -8,11 +8,9 @@ The ability to seek truth is the most valuable skill for a founder.
 
 Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious.
 
-And importantly, any worthwhile human creation is based on some truth(s): about the world, or mind. Doing great work requires the ability to seek truth.
+Any worthwhile human creation is based on some truth(s): about the world, or mind. Doing great work requires the ability to seek truth.
 
-As AI improves exponentially fast, the value of truth seeking rises in tandem.
-
-You have no choice but to get great at it. And fortunately, it's a skill that can be trained.
+As AI improves exponentially fast, the value of truth seeking rises in tandem. Fortunately, it's a skill that can be trained.
 
 To understand truth seeking, we need to understand delusion.
 
@@ -50,7 +48,7 @@ The more you dig, the more crap comes up. Keep a bucket close by.
 
 **You are everything you hate in others, 10x’ed.**
 
-## Self-delusion keeps you from succeeding
+## Self-delusion causes failure
 
 All of your mistakes and failures stem from how deluded your conscious mind is about what’s actually happening in your subconscious.
 
@@ -122,7 +120,7 @@ Your mind HATES internal inconsistencies. In a panic it will try to bridge the g
 
 <WithAnnotation
   line="This is when your ego helps you."
-  markdown="This is why I’m not a fan team cultures that emphasize “low egos”. I often find these teams full of people that simply don’t care. It’s easy to agree with someone, or let your ideas be discarded when you don’t give a shit about the product. <p>Big ego to achieve something worthwhile + truth seeking => they do great work by making their egos work for what their conscious mind wants." />
+  markdown="This is why I’m not a fan team cultures that emphasize “low egos”. I often find these teams full of people that simply don’t care. It’s easy to agree with someone, or let your ideas be discarded when you don’t give a shit about the product. <p>Big ego to achieve something worthwhile + truth seeking => they do great work by making their egos work for what their conscious mind wants.<p>If this weren't the case, successful founders would all be saints, which is far from truth. <p>Dream big. Believe that YOU will change the world for the better. And then keep that ego soaked in the truth." />
 
 To bridge the inconsistency, your mind can either:
 
@@ -269,7 +267,7 @@ It’s tragically hilarious that a mind-”ful” practice can quickly devolve i
 
 Be cautious about applying standard productivity measurement techniques to truth seeking.
 
-## Apply internal truth seeking to the external world
+## Applying truth seeking to the world
 
 Truth seeking works well with other techniques to help you improve decision making, managing stress.
 
@@ -287,7 +285,7 @@ For example, when you’re analyzing
 
 You’ll find that you make better decisions, see greater possibilities, are more calm, more accepting of a rapidly changing world and environment.
 
-## Value of truth seeking is rising exponentially.
+## Truth seeking value is rising exponentially.
 
 Rapid increase in technological leverage, and anxiety.
 

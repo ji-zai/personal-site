@@ -352,11 +352,11 @@ Dear founder,
 
 Creating something, anything, is such a difficult thing to do.
 
-I'm grateful for all of you that create. You inspire me in ways I can't even put into words.
+I'm grateful for all of you that create, and those that came before us that toiled hard, and sacrificed so much for us to have what we have today.
 
-And I'm incredibly grateful for all of the lifetimes of toil of those that came before us who helped create the things we value today.
+You all inspire me in ways I can't even put into words.
 
-We owe it to them. To the world. To do great work and to create things that help us all grow and find what we're looking for.
+We owe it to the world to do great work and to create things that help us all grow and find what we're looking for.
 
 This is my effort to help you be more successful. I've failed more times than most. I've been to hell and back. I will do anything to help prevent anybody else from drowning in the depths of failure. I've seen my habits that keep me from succeeding, and I'm obsessively working to fix them. I have a long path in front of me, and I hope our paths cross someday. Take care.
 

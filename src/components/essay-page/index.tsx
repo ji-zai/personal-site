@@ -28,12 +28,29 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
   const rightSpace = (screenWidth - constants.essayContainerMaxWidth) / 2;
   const isAnnotationInline = rightSpace < 332;
 
+  async function hashString(string) {
+    const encoder = new TextEncoder();
+    const data = encoder.encode(string); // Convert string to Uint8Array
+    const hashBuffer = await crypto.subtle.digest("SHA-256", data); // Hash the data
+    const hashArray = Array.from(new Uint8Array(hashBuffer)); // Convert buffer to byte array
+    const hashHex = hashArray
+      .map((b) => b.toString(16).padStart(2, "0"))
+      .join(""); // Convert bytes to hex string
+    return hashHex;
+  }
+
   const WithAnnotation = (props: { line: string; markdown: string }) => {
-    let id = "poop";
+    const [id, setId] = useState("");
     const componentRef = useRef(null); // Step 1: Create a ref
     const [componentYPosition, setComponentYPosition] = useState(0); // To store the Y position
 
     useEffect(() => {
+      const poop = async () => {
+        const hash = await hashString(props.line.substring(0, 15));
+        setId(hash);
+      };
+      poop();
+
       if (componentRef.current) {
         const position =
           componentRef.current.getBoundingClientRect().top + window.scrollY; // Step 2: Read Y position

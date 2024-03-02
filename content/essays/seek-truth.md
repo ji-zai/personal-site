@@ -23,6 +23,8 @@ Truth seeking only matters if you're deluded in some way, because if you're not 
 
 ## You’re deluded
 
+(Start by defining what truth and delusion are. And how the inability to see the truth in a system is the result of delusion. Make this definition general such that it encapsulates ANY system: internal and external. Be precise with examples.)
+
 Your conscious mind and subconscious mind are in opposition with each other. They want different things for you.
 
 By definition, what happens in the conscious mind are all the things that you can perceive such as the thoughts you think, strong emotions, etc. and of course, what happens in the subconscious is invisible to the conscious mind.

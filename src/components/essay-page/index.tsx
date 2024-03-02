@@ -1,7 +1,7 @@
 import { Essay } from "../landing-page";
 import { Navbar } from "../navbar";
 import styles from "./Essay.module.css";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useReducer, useRef, useState } from "react";
 import { MDXRemote } from "next-mdx-remote";
 import { essayComponents } from "./EssayComponents";
 import { protoMono } from "../../fonts";
@@ -25,14 +25,24 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
   );
 
   const screenWidth = useScreenWidth();
-
   const rightSpace = (screenWidth - constants.essayContainerMaxWidth) / 2;
   const isAnnotationInline = rightSpace < 332;
 
   const WithAnnotation = (props: { line: string; markdown: string }) => {
     let id = "poop";
+    const componentRef = useRef(null); // Step 1: Create a ref
+    const [componentYPosition, setComponentYPosition] = useState(0); // To store the Y position
+
+    useEffect(() => {
+      if (componentRef.current) {
+        const position =
+          componentRef.current.getBoundingClientRect().top + window.scrollY; // Step 2: Read Y position
+        setComponentYPosition(position);
+      }
+    }, []);
+
     return (
-      <p>
+      <p ref={componentRef}>
         {props.line}
         <Asterix
           isSelected={activeAnnotation && activeAnnotation.id === id}
@@ -43,6 +53,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
             setActiveAnnotation({
               id,
               markdown: props.markdown,
+              y: componentYPosition,
             });
           }}
         />
@@ -75,6 +86,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
             style={{
               position: "absolute",
               right: rightSpace - 300 - 16,
+              top: activeAnnotation.y,
               width: 300,
             }}
           >

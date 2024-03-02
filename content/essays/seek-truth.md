@@ -120,7 +120,9 @@ The beauty of this process is that when you shed light on your subconscious and 
 
 Your mind HATES internal inconsistencies. In a panic it will try to bridge the gap between what your conscious mind wants to be, and what you actually are.
 
-This is where your ego actually helps you. [x]
+<WithAnnotation
+  line="This is when your ego helps you."
+  markdown="This is why I’m not a fan team cultures that emphasize “low egos”. I often find these teams full of people that simply don’t care. It’s easy to agree with someone, or let your ideas be discarded when you don’t give a shit about the product. <p>Big ego to achieve something worthwhile + truth seeking => they do great work by making their egos work for what their conscious mind wants." />
 
 To bridge the inconsistency, your mind can either:
 
@@ -200,7 +202,9 @@ The mind is like quicksand, it has a tendency to go down vicious cycles. Once th
 
 You need to find a way to cut that vicious cycle as early as you can. You’ll get better at this as you train the observation muscle.
 
-You could do this in many scenarios. While you go on a walk. You could sit with eyes closed. On a train looking out. Wherever. But the key is to not let the mind grasp onto details in the external world. This is why I tend to choose the sitting and closing eyes option when I can to remove the visual distractions of the world, but it’s also possible to do this with eyes open, just more difficult because there will be more distractions to pull yourself back from. [x]
+You could do this in many scenarios. While you go on a walk. You could sit with eyes closed. On a train looking out. Wherever. But the key is to not let the mind grasp onto details in the external world.
+
+This is why I tend to choose the sitting and closing eyes option when I can to remove the visual distractions of the world, but it’s also possible to do this with eyes open, just more difficult because there will be more distractions to pull yourself back from.
 
 It’s valuable to practice this in multiple scenarios - eyes open sometimes and eyes closed - because you never know when you’ll find yourself in a position in which you can’t keep your eyes closed (e.g. in a boring lecture in which you don’t want to come off as sleepy).
 
@@ -224,7 +228,10 @@ If something starts to feel easy for some reason, be cautious. It could be a tra
 
 The most uncomfortable, painful, profound truths often come after the “highs” when you feel like everything’s good. You need to give them time to rise.
 
-This is why I suggest using a timer. Set the time you want and don’t get up even if you feel good and “done” [x].
+<WithAnnotation
+line='This is why I suggest using a timer. Set the time you want and don’t get up even if you feel good and "done".'
+markdown="Of course, there's on need to push yourself too hard and hurt yourself. If you need to stop, stop."
+/>
 
 After that phase when you feel the world is perfect for that moment, some worry, anxiety, or heck, your back pain will kick in. Great! The productive work starts again. Look forward to the difficulties, you’re bound to have them.
 
@@ -302,7 +309,7 @@ Whether you take advantage of this rapid change or succumb to it depends on your
 
 ## Build a truth seeking company
 
-Teams that win consistently over long periods [x] of time require a strong foundation of truth seeking.
+Teams that win consistently over long periods of time require a strong foundation of truth seeking. The longer your period, the more powerful of a truth seeking foundation you need. And it must be preserved.
 
 And the nature of growth itself makes truth seeking more difficult as collective delusion scales exponentially with number of people in a team.
 
@@ -325,15 +332,19 @@ Communication is a lossy transmission of information. Even if you see the truth 
 
 Which is why at the least starting from a position of greater truth in your own mind allows you to communicate information that is more true so that you can collectively make better decisions.
 
-When you see how deluded your mind is, and the value of truth seeking, you can’t help but only work with people who are great at seeking truth. Otherwise your company will drive itself off the cliff. [x].
+When you see how deluded your mind is, and the value of truth seeking, you can’t help but only work with people who are great at seeking truth. Otherwise your company will drive itself off the cliff.
+
+(TODO: Case study of company! Google.).
 
 The root cause for why companies fail to adapt to the changing times is delusion.
 
 Why does Google look like they're floundering this AI transition despite being the original authors of the research that underpins LLM technology? Those that believe Google can win the AI race (or even be a prominent player) don't see the collective delusion as the root cause. If you did, you'd realize the only way for them to win is to become a truth seeking organization, which is near impossible given the way things stand.
 
+(Collective delusion is the primary cause for companies driving themselves off the cliff. And it looks ridiculous from the outside, like how could IBM not see the importance of home computers, or Japanese hardware companies see the shift in power to software, or Google see the importance of shipping actual AI products before some tiny, significantly less funded startup. But, it’s easy to point fingers at these companies until you run one off the cliff just like them. Curb that delusion my friend, or the world will humble you real fast.)
+
 Why is it near impossible?
 
-(lay this out, and use this as a case study as to why it's incredibly important to be paranoid. The phrase "only the paranoid survive" is true, but not in the original context (i.e. being paranoid about competition, etc.), but in the context of: the only way to remain a truth seeking individual, and by extension a truth seeking company, is by being paranoid about truth seeking, realizing just how easy it is to slip into delusion: the default tendency of the mind.
+(lay this out, and use this as a case study as to why it's incredibly important to be paranoid. The phrase "only the paranoid survive" is true, but not in the original context (i.e. being paranoid about competition, etc.), but in the context of: the only way to remain a truth seeking individual, and by extension a truth seeking company, is by being paranoid about truth seeking, realizing just how easy it is to slip into delusion: the default tendency of the mind.)
 
 ---
 
@@ -345,22 +356,9 @@ Have the cake and eat it.
 
 ---
 
-## Notes
-
-[x] This is why I’m not a fan team cultures that emphasize “low egos”. I often find these teams full of people that simply don’t care. It’s easy to agree with someone, or let your ideas be discarded when you don’t give a shit about the product. No, I want to work with people that have massive egos WITH the self-awareness to see the truth about themselves and in their work. They do great work by making their egos work for the product. I believe truth seeking is the most important cultural value.
-
-- Stop hating on your ego. When it operates with greater visibility into the truth, it’s a powerful positive force for your growth. High ego + truth seeking > low ego + delusion. Don’t worry about reducing ego. Enough truth seeking will do what needs to be done to it :).
-
-[x] (Something about how people say “Be more ambitious”, but they don’t really tell you how. It’s kind of silly).
-
-[x] I don’t think committee based decision making works well, except in certain extreme scenarios. So here I’m talking about feedback without necessarily increasing the number of decision makers.
-
-[x] Collective delusion is the primary cause for companies driving themselves off the cliff. And it looks ridiculous from the outside, like how could IBM not see the importance of home computers, or Japanese hardware companies see the shift in power to software, or Google see the importance of shipping actual AI products before some tiny, significantly less funded startup. But, it’s easy to point fingers at these companies until you run one off the cliff just like them. Curb that delusion my friend, or the world will humble you real fast.
-
----
-
 ### To add (maybe)
 
+- I don’t think committee based decision making works well, except in certain extreme scenarios. So here I’m talking about feedback without necessarily increasing the number of decision makers.
 - All great creations is constructed around a truth. That truth is often a truth about how our mind works, how the world works, or some combination. - Dive deep into this. It's a great point. It could actually be the foundation for the essay.
 - I think it would be helpful to talk about all of my failures to ground my learnings in my life. I’m not sure, will think about it later.
 - More thought on the connection between how seeking internal truth makes you that much better at observing external truth. There is a better explanation here with examples.

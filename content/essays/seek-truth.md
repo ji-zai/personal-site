@@ -6,19 +6,58 @@ xLink: "https://x.com/jisnuzai"
 
 The ability to seek truth is the most valuable skill for a founder.
 
-Seeking truth enables you to make better decisions, manage stress more effectively, be more productive, think longer term, and be more ambitious.
-
-Any worthwhile human creation is based on some truth(s): about the world, or mind. Doing great work requires the ability to seek truth.
+Any human creation we value is based on some truth(s) about the world, or mind. You need to be able to seek truth in order to do great work.
 
 As AI improves exponentially fast, the value of truth seeking rises in tandem. Fortunately, it's a skill that can be trained.
 
-To understand truth seeking, we need to understand delusion.
-
-Truth seeking only matters if you're deluded in some way, because if you're not deluded, it implies you can see reality clearly. I can assure that you, me, and everyone else out there are incredibly deluded about the realities of the world and our own minds.
-
 ## You’re deluded
 
-(Start by defining what truth and delusion are. And how the inability to see the truth in a system is the result of delusion. Make this definition general such that it encapsulates ANY system: internal and external. Be precise with examples.)
+To understand truth seeking, you need to understand what truth is. And to understand truth, you need to understand what delusion is.
+
+If you take any system, your delusion is not knowing how it works. The degree of delusion is the degree to which you don't understand how it works.
+
+If you were not deluded, you would make absolutely no mistakes. So clearly we're all deluded to some extent about most, if not all, systems that exist in the universe.
+
+We reduce our delusion about a system by uncovering truths about it.
+The statements: "uncovering a truth" is the exact equivalent to "reducing delusion". We reduce delusion to the extent that the uncovered truth shows us the reality of the system.
+
+The entire truth often doesn't present itself all at once, but rather in chunks. We uncover truths about a system by exploring that system.
+
+Of course, not all exploration is of the same quality. Randomly exploring a system and not taking note of what you already know, what you might not know and not planning anything leads to wasted time and effort.
+
+And so, as humanity evolved, we improved our ability to plan our exploration.
+
+For any system, we start with some model of what we think the reality of that system is, what truths we already know about the system (through previous exploration), to what degree our confidence is about each truth we already know (because not all discoveries from explorations are certain), and based on this information, we plan ways to explore the system to improve our understanding of its reality.
+
+When we come across a truth that disagrees with our model of the system, we methodically work through how to update our model to more accurately represent reality. This often involves a combination questioning our confidence in previous truths, questioning how we interpreted the results of previous explorations, and even questioning the boundary we set for the system: perhaps the system is larger, more encompassing, than we had originally thought.
+
+This became our chosen method to better understand the world we live in.
+
+And by definition, following this process is the absolute best we can do to understand any system, because doing anything otherwise would be introducing unnecessary randomness into the process.
+
+And best here means understanding it the most quickly we can possibly hope to understand it.
+
+To be clear, we're still following the optimal path if we choose a random area to explore IF our current model of the system has dark areas that we believe to be all equally potentially valuable to explore.
+
+Choosing a random area to explore by itself doesn't pollute our method, but rather adding randomness to our planning for how we choose is what pollutes the method.
+
+Now, you might say that it may not be the fastest way to explore the system by giving the example of two individuals exploring the same system without having any information from the other person. By following the most optimal strategy, one person might understand the entire system faster than the other.
+
+How can that be?
+
+Because not all truths are created equal.
+
+So, if at any point in an understanding of a model there are equally valued unknown areas to explore, unless in reality they both reveal an equal magnitude of truth, there is guaranteed to be a factor of "luck" that is beyond our control in how quickly we can understand a system.
+
+Based on what we've seen in the world, we know for a fact that not all truths we discover are of equal magnitude. And in fact, they follow the power law: the "top" truths have uncovered orders of magnitudes more about our world than the "lowest" truths.
+
+And we have no reason to believe that this isn't the case for all systems that can be explored.
+
+Therefore, let's take this power law of truth quality to be a truth - with a high confidence (which for all practical purposes is full confidence).
+
+Therefore, we know that there's a factor of luck in how quickly we can explore any system, that is completely out of our control.
+
+(Connect this to internal system by using the recent Google story).
 
 Your conscious mind and subconscious mind are in opposition with each other. They want different things for you.
 
@@ -305,47 +344,6 @@ At the same time, there are more distractions now than ever before as a result o
 
 Whether you take advantage of this rapid change or succumb to it depends on your ability to seek truth.
 
-## Build a truth seeking company
-
-Teams that win consistently over long periods of time require a strong foundation of truth seeking. The longer your period, the more powerful of a truth seeking foundation you need. And it must be preserved.
-
-And the nature of growth itself makes truth seeking more difficult as collective delusion scales exponentially with number of people in a team.
-
-Communication is a lossy transmission of information. Even if you see the truth clearly, when you share it with someone else, there is information lost, as well as information warped (by their own delusions that warp their perception of reality).
-
-1. You must only hire truth seekers.
-   1. Fortunately a truth seeker tends to only get better over time as they realize the immense value it offers.
-   2. How to evaluate truth seeking skill.
-      1. Observe how someone has changed their mind about something (but this can’t be in a dogmatic way - which is why their reasoning).
-      2. The interview process cannot be standardized in any way.
-      3. Creating value in any sense requires resonance with the truth. Doing it consistently over time requires truth seeking.
-2. Each member of the team must have constant exposure to end-users to take advantage of subconscious pain-minimization optimization. Otherwise their truth seeking skills go to waste since they’re not able to replicate external truths (that someone else has), internally. Mirror-neurons → What happens when you talk to a user in pain.
-3. Excellent communication. Realtime and async are important.
-4. Set up incentives that are aligned with truth seeking:
-   1. Right now, the way organizations are set up, there is great pressure against experimentation and cutting features
-
-- Incentives that align conscious and subconscious → This is huge. Think this through in detail.
-
-Communication is a lossy transmission of information. Even if you see the truth clearly, when you share it with someone else, there is information lost, as well as information warped (by their own delusions that warp their perception of reality).
-
-Which is why at the least starting from a position of greater truth in your own mind allows you to communicate information that is more true so that you can collectively make better decisions.
-
-When you see how deluded your mind is, and the value of truth seeking, you can’t help but only work with people who are great at seeking truth. Otherwise your company will drive itself off the cliff.
-
-(TODO: Case study of company! Google.).
-
-The root cause for why companies fail to adapt to the changing times is delusion.
-
-Why does Google look like they're floundering this AI transition despite being the original authors of the research that underpins LLM technology? Those that believe Google can win the AI race (or even be a prominent player) don't see the collective delusion as the root cause. If you did, you'd realize the only way for them to win is to become a truth seeking organization, which is near impossible given the way things stand.
-
-(Collective delusion is the primary cause for companies driving themselves off the cliff. And it looks ridiculous from the outside, like how could IBM not see the importance of home computers, or Japanese hardware companies see the shift in power to software, or Google see the importance of shipping actual AI products before some tiny, significantly less funded startup. But, it’s easy to point fingers at these companies until you run one off the cliff just like them. Curb that delusion my friend, or the world will humble you real fast.)
-
-Why is it near impossible?
-
-(lay this out, and use this as a case study as to why it's incredibly important to be paranoid. The phrase "only the paranoid survive" is true, but not in the original context (i.e. being paranoid about competition, etc.), but in the context of: the only way to remain a truth seeking individual, and by extension a truth seeking company, is by being paranoid about truth seeking, realizing just how easy it is to slip into delusion: the default tendency of the mind.)
-
-Only the paranoid survive. Those who are paranoid about making sure they're in line with the truth.
-
 ---
 
 Dear founder,
@@ -364,3 +362,5 @@ This is my effort to help you be more successful. I've failed more times than mo
 (TODO: share that you're working on a company, and I'm forced to go through this thinking to ensure that this is a company that does great work, and lasts for centuries.)
 
 ---
+
+Therefore, if you don't train your ability to seek truth, you're not maximizing your potential to do all that you want to do, and be all that you want to be.

@@ -4,8 +4,11 @@ Direct consequences of AI and truth seeking (will be the next essays):
 
 - How to evaluate a cofounder.
   - (The most important skills should be explained here).
-- Evolving company structure for AI.
-  - This should also dig into the equity.
+- How to build a truth seeking company.
+
+  - Evolving company structure for AI.
+    - This should also dig into the equity.
+
 - Only build products that you use.
 - Why remote work doesn't work.
 

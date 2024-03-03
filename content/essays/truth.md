@@ -21,6 +21,10 @@ If you take any system, your delusion is not knowing how it works. The degree of
 
 If you were not deluded, you would make absolutely no mistakes. So clearly we're all deluded to some extent about most, if not all, systems that exist in the universe.
 
+Why should we want to understand a system? Because understanding a system enables us to get what we want out of that system.
+
+Whether that system happens to be our physical system, the digital system, the biological system, mathematical system, or even the system that governs our own minds. And so, if you want to get what you want for anything, you'll benefit from being able to understand the systems that govern the things that you want.
+
 We reduce our delusion about a system by uncovering truths about it.
 The statements: "uncovering a truth" is the exact equivalent to "reducing delusion". We reduce delusion to the extent that the uncovered truth shows us the reality of the system.
 
@@ -34,11 +38,20 @@ For any system, we start with some model of what we think the reality of that sy
 
 When we come across a truth that disagrees with our model of the system, we methodically work through how to update our model to more accurately represent reality. This often involves a combination questioning our confidence in previous truths, questioning how we interpreted the results of previous explorations, and even questioning the boundary we set for the system: perhaps the system is larger, more encompassing, than we had originally thought.
 
-This became our chosen method to better understand the world we live in.
-
 And by definition, following this process is the absolute best we can do to understand any system, because doing anything otherwise would be introducing unnecessary randomness into the process.
 
-And best here means understanding it the most quickly we can possibly hope to understand it.
+This is the "optimal truth seeking strategy".
+
+"Optimal" here means understanding it the most quickly we can possibly hope to understand it. The only way the optimal differs from less optimal strategies is in the time it takes to understand a system.
+
+But, a person following a completely random strategy, who lives forever, would eventually still explore the entire space of the system. What's the point of speeding it up?
+
+<WithAnnotation
+    line="For humans, the only undebatable scarcity is time."
+    markdown="All other things can be debated. Whether physical material is scarce, whether energy is scarce, etc. since we haven't found any limitations in the universe for those things - though we might not yet have the means to extract it."
+/>
+
+Hence for us, it's valuable to reduce the time it takes to understand a system, so that we can take advantage of it more quickly to get what we want out of it.
 
 To be clear, we're still following the optimal path if we choose a random area to explore IF our current model of the system has dark areas that we believe to be all equally potentially valuable to explore.
 
@@ -64,23 +77,25 @@ Therefore, we know that there's a factor of luck in how quickly we can explore a
 
 We know that people want things. That thing could be a physical thing, or a feeling.
 
-Just like "delusion" is the exact flip of "truth", one is exactly the absence of the other, we need to define the opposite of wanting (i.e. not wanting). So let's define "pain" as not wanting.
+Why does someone want something in the first place? They aren't perfectly content with what they have. For the sake of having clear definitions, let's call this state of lack of contentment "pain".
 
-Which means, when someone feels pain, it means they want something that relieves them of that pain.
+Which means, when someone feels pain, it means they will want something to relieve that pain.
 
-And we know that the nature of pain changes over time. When a person feels a pain and they want something that removes the pain, and they get that which they wanted, that relief doesn't last forever.
+Based on our understanding of people we know that the nature of pain changes over time. When a person feels a pain, they will want something, and when they get what they want which relieves them of their pain, that relief doesn't last forever.
 
 And we can confidently assume this because we haven't seen a single example of someone who wants nothing for their entire existence. They might not want something sometimes, but they're bound to want something again later because some pain or the other arises in them.
 
-In order to make something that at a person wants, what you create must releive a pain they have, by definition.
+To be clear, a person wanting something has nothing to do with the reality of whether that thing will actually reduce their pain. They only have to believe it does in order for them to want it.
 
-And by definition, you would only create something a person wants if it relieved some pain for you because if it didn't you wouldn't even have the want to create it.
+Therefore, in order to make something that at a person wants, they have to believe that the thing you've created will reduce their pain.
 
-So, by definition, there's must be a reduction in pain for you everytime you do something you want. Without such a reduction in pain you wouldn't do it again (unless you were crazy. And please remember, this is all by definition so far).
+And by definition, you would only create something a person wants if it relieved some pain for you because if it didn't, then you wouldn't even have the want to create it.
 
-But wait, isn't a mother's love self-less? According to our definition, the mother would only care for her child if it impacted her level of pain. And clearly not caring for her child causes mothers unimaginable pain because a mother is wired such that when they see their children suffer, they feel unimaginable pain.
+There must be a reduction in pain for you everytime you do something you want. Without such a reduction in pain you wouldn't do it again (unless you were crazy. And please remember, this is all by definition so far).
 
-And so, a mother will do everything in her power to protect her children from feeling pain.
+But wait, isn't a mother's love self-less? In the normal sense, yes! But according to the way we've defined things, no.
+
+The mother would only care for her child if she believed caring for the child reduced her pain or to avoid pain that would come if she didn't. And clearly not caring for her child causes mothers unimaginable pain because a mother is wired such that when they see their children suffer, they suffer.
 
 ## Two individuals
 
@@ -100,12 +115,16 @@ This is of course not the only criteria that needs to be true for the transactio
 
 Based on what we've observed in the world, all of the following need to be true for the transaction to happen. Let's call this the "transaction criteria".
 
+## Transaction
+
 Transaction criteria:
 
 1. A can make something B wants, and B can make something A wants, such that what B offers A is is believed by A to reduce their pain more than what they believe giving B what B wants will cause.
 2. A and B to know that each other exists and that the transaction criteria has been met.
 3. A and B have a way for them to transfer to each other that which each other wants.
 4. There is the necessary agency to complete the transaction.
+
+(First )
 
 After meeting the first 3 requirements:
 
@@ -174,8 +193,13 @@ By how we've defined things, it's clear that a world in which more people have a
 
 ## Organizing many, many individuals
 
-- Ideologies on the spectrum of capitalism.
-- Ideologies on the spectrum of democracy.
+Given everything till now, there is no choice but for our ways of organization to become more decentralized because the more decentralized the group of people, the more transactions they will have, and they will collectively create more than other groups.
+
+What happens when you collectively create more? You will have greater resources at your disposal to control / conquer other groups of people, eventually absorbing them into your own system.
+
+Unless the fundamental truths of the individual change, there is no choice in the matter of the world becoming more decentralized. It's bound to happen given enough time.
+
+Decentralization begets new technologies which then make the world more decentralized. Exponential increase in decentralization.
 
 ##
 

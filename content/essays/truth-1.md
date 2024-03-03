@@ -4,8 +4,6 @@ date: "Feb 26, 2024"
 xLink: "https://x.com/jisnuzai"
 ---
 
-(There is no intro until you get to the end of the book).
-
 This is my understanding of the truths that govern our existence.
 I've attempted to express them in the best possible way that language allows me to.
 
@@ -61,8 +59,6 @@ You have some delusion about this system because you don't know which input will
 
 When you choose some value (x=a) and you receive some output (y), you can confidently say that you understand half of the truth of the system. You still don't know for sure what happens when you choose input b, without doing it and observing what happens.
 
-## Wanting something from a system
-
 If you didn't want anything, then you can just take any actions in any system and be perfectly fine.
 
 But, you have to live with two undeniable truths about the human condition:
@@ -70,22 +66,20 @@ But, you have to live with two undeniable truths about the human condition:
 1. You want.
 2. You want to get what you want as quickly as you can.
 
-And therefore, time is scarce for you as a result of the laws that govern the human condition, irrespective of the external world we live in.
+And therefore, time is scarce for you as a result of the laws that govern the human condition.
 
 (Note: time is not scarce because of the fact that you will die, but because of point 2. Even if we "solve" aging, time will still be scarce for you unless something about the laws that govern you fundamentally change.)
 
-Because time is scarce, there's a notion of skill regarding how you seek truth.
+Because time is scarce for you, if there were a way to be better at getting what you want, you'll want to learn it.
 
-Your truth seeking skill in a particular system determines how quickly you will get what you want in that system.
+## Truth seeking is a skill
 
-A person who seeks truth better than another person, will likely understand the system faster than the other person, and will therefore likely get what they want more quickly.
+Truth seeking is a skill that you can master.
 
-But, it's not guaranteed. Let's see why:
+The better you are at seeking truth, the better you will be at getting what you want.
 
-Let's take the same system as above:
+And importantly, it's a generalizable skill that works for any system you operate in.
 
-A system that takes one input (x) that can take either the value (x=a) or (x=b), and can return either (y) or (z).
+Let's see how.
 
-In this system, skill in truth seeking doesn't matter because there is only one strategy to uncover truths.
-
-In fact, it might even be that
+Let's take the same system

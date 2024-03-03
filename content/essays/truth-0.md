@@ -21,45 +21,54 @@ If you take any system, your delusion is not knowing how it works. The degree of
 
 If you were not deluded, you would make absolutely no mistakes. So clearly we're all deluded to some extent about most, if not all, systems that exist in the universe.
 
-Why should we want to understand a system? Because understanding a system enables us to get what we want out of that system.
+Why should you want to understand a system? Because understanding a system enables us to get what we want out of that system.
 
-Whether that system happens to be our physical system, the digital system, the biological system, mathematical system, or even the system that governs our own minds. And so, if you want to get what you want for anything, you'll benefit from being able to understand the systems that govern the things that you want.
+Whether that system happens to be our physical system, the digital system, the biological system, mathematical system, or even the system that governs your own mind. And so, if you want to get anything you want, you'll want to understand the systems that govern the things that you want.
 
 We reduce our delusion about a system by uncovering truths about it.
+
 The statements: "uncovering a truth" is the exact equivalent to "reducing delusion". We reduce delusion to the extent that the uncovered truth shows us the reality of the system.
 
 The entire truth often doesn't present itself all at once, but rather in chunks. We uncover truths about a system by exploring that system.
 
 Of course, not all exploration is of the same quality. Randomly exploring a system and not taking note of what you already know, what you might not know and not planning anything leads to wasted time and effort.
 
-And so, as humanity evolved, we improved our ability to plan our exploration.
+And so, as humanity evolved, in order to more quickly get the things we want, we improved our truth seeking process.
 
-For any system, we start with some model of what we think the reality of that system is, what truths we already know about the system (through previous exploration), to what degree our confidence is about each truth we already know (because not all discoveries from explorations are certain), and based on this information, we plan ways to explore the system to improve our understanding of its reality.
+For any system, we start with some model of what we think the reality of that system is, what truths we already know about the system (through previous exploration), to what degree our confidence is about each truth we already know (because not all discoveries from explorations are certain) - and based on this information, we plan ways to explore the system to improve our understanding of its reality.
 
 When we come across a truth that disagrees with our model of the system, we methodically work through how to update our model to more accurately represent reality. This often involves a combination questioning our confidence in previous truths, questioning how we interpreted the results of previous explorations, and even questioning the boundary we set for the system: perhaps the system is larger, more encompassing, than we had originally thought.
 
-And by definition, following this process is the absolute best we can do to understand any system, because doing anything otherwise would be introducing unnecessary randomness into the process.
+And by definition, following this process is the absolute best we can do to understand any system, because doing anything otherwise would be needlessly wasting effort.
 
-This is the "optimal truth seeking strategy".
+It is the "optimal truth seeking strategy".
 
 "Optimal" here means understanding it the most quickly we can possibly hope to understand it. The only way the optimal differs from less optimal strategies is in the time it takes to understand a system.
 
-But, a person following a completely random strategy, who lives forever, would eventually still explore the entire space of the system. What's the point of speeding it up?
+But, a person following a completely random strategy, who lives forever, would eventually still explore the entire space of the system. Why is it valuable to speed up the process?
 
 <WithAnnotation
-    line="For humans, the only undebatable scarcity is time."
-    markdown="All other things can be debated. Whether physical material is scarce, whether energy is scarce, etc. since we haven't found any limitations in the universe for those things - though we might not yet have the means to extract it."
+    line="For us, the only undebatably scarce thing is time."
+    markdown="All other things can be debated: e.g whether physical material is scarce, whether energy is scarce, etc. because we haven't found any limitations in the universe for those things - though we might not yet have the means to extract it for the time being. <p>Time is the only thing that we have never seen an instance of its abundance. It's a theoretical scarcity that we have no means to even test."
 />
 
-Hence for us, it's valuable to reduce the time it takes to understand a system, so that we can take advantage of it more quickly to get what we want out of it.
+And therefore it's valuable to reduce the time it takes to understand a system, so that we can take advantage of it more quickly to get what we want out of it.
 
-To be clear, we're still following the optimal path if we choose a random area to explore IF our current model of the system has dark areas that we believe to be all equally potentially valuable to explore.
+The optimal truth seeking strategy doesn't mean that there's no randomness involved.
 
-Choosing a random area to explore by itself doesn't pollute our method, but rather adding randomness to our planning for how we choose is what pollutes the method.
+For example, let's take the system of a computer program. This program takes in one input (x) that can take 2 different values ('a', and 'b'), and it either outputs 'y' or 'z', and the nature of the program will not change over time. And let's say you want 'y' to be the outcome.
 
-Now, you might say that it may not be the fastest way to explore the system by giving the example of two individuals exploring the same system without having any information from the other person. By following the most optimal strategy, one person might understand the entire system faster than the other.
+At this initial stage, you have no idea what the output of the program is going to be for any input. You just know you want 'y' as the output.
 
-How can that be?
+Therefore, in this initial stage, the optimal strategy is to pick something randomly.
+
+Let's say you choose x = a and the output of the program is something far off from y.
+
+You've realize a truth about this system, that x = a doesn't work, and therefore x = b will work.
+
+Therefore by making a single exploration, you've uncovered the entire truth of the system, and your delusion is entirely gone.
+
+What would have happened if you had chosen x = b to start with? That is still part of the optimal truth seeking strategy, and you would have similarly understood the entire truth about the system,
 
 Because not all truths are created equal.
 
@@ -115,7 +124,7 @@ This is of course not the only criteria that needs to be true for the transactio
 
 Based on what we've observed in the world, all of the following need to be true for the transaction to happen. Let's call this the "transaction criteria".
 
-## Transaction
+## A transaction
 
 Transaction criteria:
 

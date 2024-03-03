@@ -9,6 +9,10 @@ xLink: "https://x.com/jisnuzai"
 This is my understanding of the truths that govern our existence.
 I've attempted to express them in the best possible way that language allows me to.
 
+Based on these truths, I predict the following:
+
+And therefore, we have no choice but to:
+
 ## What is truth?
 
 To understand truth, you need to understand what delusion is.
@@ -68,14 +72,20 @@ But, you have to live with two undeniable truths about the human condition:
 
 And therefore, time is scarce for you as a result of the laws that govern the human condition, irrespective of the external world we live in.
 
-(Note: time is not scarce because you will die, but because of point 2. Even if we "solve" aging, time will still be scarce for you unless something about the laws that govern you fundamentally change.)
+(Note: time is not scarce because of the fact that you will die, but because of point 2. Even if we "solve" aging, time will still be scarce for you unless something about the laws that govern you fundamentally change.)
 
-Because time is scarce, there's a notion of quality about how you seek truth.
+Because time is scarce, there's a notion of skill regarding how you seek truth.
+
+Your truth seeking skill in a particular system determines how quickly you will get what you want in that system.
 
 A person who seeks truth better than another person, will likely understand the system faster than the other person, and will therefore likely get what they want more quickly.
 
 But, it's not guaranteed. Let's see why:
 
-## Luck
+Let's take the same system as above:
 
-## Not all truths are created equal
+A system that takes one input (x) that can take either the value (x=a) or (x=b), and can return either (y) or (z).
+
+In this system, skill in truth seeking doesn't matter because there is only one strategy to uncover truths.
+
+In fact, it might even be that

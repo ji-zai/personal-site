@@ -6,6 +6,9 @@ xLink: "https://x.com/jisnuzai"
 
 (There is no intro until you get to the end of the book).
 
+This is my understanding of the truths that govern our existence.
+I've attempted to express them in the best possible way that language allows me to.
+
 ## What is truth?
 
 To understand truth, you need to understand what delusion is.
@@ -63,7 +66,7 @@ But, you have to live with two undeniable truths about the human condition:
 1. You want.
 2. You want to get what you want as quickly as you can.
 
-And therefore, time is scarce.
+And therefore, time is scarce for you as a result of the laws that govern the human condition, irrespective of the external world we live in.
 
 (Note: time is not scarce because you will die, but because of point 2. Even if we "solve" aging, time will still be scarce for you unless something about the laws that govern you fundamentally change.)
 

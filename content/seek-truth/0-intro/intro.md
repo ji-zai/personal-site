@@ -4,7 +4,7 @@ Seeking truth enables us to understand the incentives of any system, so that we 
 
 Seeking truth is the most important skill today. Soon, it will be the only skill.
 
-In this book I’ve attempted to study the world from first principles to explain why.
+In this book I’ve attempted to explain why I believe this by studying what we are, how we interact with each other, the incentives those interactions lead to, and ultimately how those incentives lead us into a future in which seeking truth is all that remains.
 
 ### Incentives that govern us
 

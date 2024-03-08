@@ -1,18 +1,17 @@
-The incentives that govern humanity promise a bright future if we can manage to work in accordance with them. It is a skill that most of us suck at.
+Seeking truth enables us to understand the incentives / rules of any system, so that we can get what we want out of them.
 
-Seeking truth enables us to understand the incentives of any system, so that we can get what we want out of them.
+Seeking truth is the most important skill today, and eventually it will be the only skill.
 
-Seeking truth is the most important skill today. Soon, it will be the only skill.
+I’ve attempted to explain why I believe this through explaining what we are, how we interact with each other, the incentives those interactions lead to, and ultimately how those incentives lead us into a future in which seeking truth is all that remains.
 
-In this book I’ve attempted to explain why I believe this by studying what we are, how we interact with each other, the incentives those interactions lead to, and ultimately how those incentives lead us into a future in which seeking truth is all that remains.
-
+It's important we study where we're going because it will creep up on us faster than we anticipate. If it really is the most important skill, then we'll need to organize the world around it so that we can do the best we can.
 ### Incentives that govern us
 
 The incentives that govern humanity promise a bright future for our species if we can manage to work in accordance with them.
 
 The individual human mind wants things, wants what it wants as quickly as possible, and wants more intensely the things it keeps getting.
 
-The nature of the individual mind, when interacting with other individuals with the same nature creates incentives that govern our collective existence: **maximizing transactions between humans in both quantity and magnitude.**
+The nature of the individual mind, when interacting with other individuals with the same nature creates incentives that govern our collective existence: **maximizing transactions between people in both quantity and magnitude.**
 
 No revolution can stop these incentives (without ending our species) given enough time because the craving to end maximizing transactions is itself a craving, which is the cause for the incentives. It doesn’t change the criteria the incentives depend on.
 
@@ -20,7 +19,7 @@ The incentives show how we got here, and where we are going.
 
 I theorize that the incentives that govern us (maximizing transactions) also dictate the very wants we have, which explains why our culture evolved the way it did to get here, and what cultures will dominate the future.
 
-Technology is amplifying the power of the incentives that govern us - which makes it exponentially more difficult to swim against the current of the incentives. For example, in sufficient time there won’t even be a possibility for a dictator in our world.
+Technology is amplifying the power of the incentives that govern us - which makes it exponentially more difficult to swim against the current of the incentives. For example, in sufficient time the world won't have dictators.
 
 ### **The incentives paint the following picture of the future:**
 

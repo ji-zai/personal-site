@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seek-truth/0-intro/intro.md",
+                "file": "seek-truth/3-seeking-truth/0-nothing-else-remains.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seek-truth/0-intro/intro.md",
+                "file": "seek-truth/3-seeking-truth/0-nothing-else-remains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "seek-truth/0-intro/intro.md",
+                "file": "seek-truth/3-seeking-truth/0-nothing-else-remains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "seek-truth/0-intro/intro.md"
+                "file": "seek-truth/3-seeking-truth/0-nothing-else-remains.md"
               }
             }
           }
@@ -148,20 +148,21 @@
   },
   "active": "fcadb6847d72aa89",
   "lastOpenFiles": [
-    "seek-truth/1-foundation/4-seeking-truth.md",
-    "seek-truth/1-foundation/2-theory-of-mind.md",
-    "seek-truth/1-foundation/3-self-delusion.md",
-    "seek-truth/1-foundation/5-people.md",
-    "seek-truth/1-foundation/1-truth-and-delusion.md",
-    "seek-truth/1-foundation/0-system.md",
-    "seek-truth/2-incentives/1-trends.md",
-    "seek-truth/3-seeking-truth/3-team.md",
-    "seek-truth/3-seeking-truth/4-world.md",
-    "seek-truth/2-incentives/4-transition.md",
+    "seek-truth/2-incentives/0-what-are-incentives.md",
     "seek-truth/2-incentives/5-changing-incentives.md",
+    "seek-truth/2-incentives/4-transition.md",
     "seek-truth/2-incentives/3-technology.md",
     "seek-truth/2-incentives/2-history.md",
-    "seek-truth/2-incentives/0-what-are-incentives.md",
+    "seek-truth/2-incentives/1-trends.md",
+    "seek-truth/1-foundation/5-people.md",
+    "seek-truth/1-foundation/4-self-delusion.md",
+    "seek-truth/1-foundation/3-theory-of-mind.md",
+    "seek-truth/1-foundation/2-seeking-truth.md",
+    "seek-truth/1-foundation/1-truth-and-delusion.md",
+    "seek-truth/1-foundation/0-system.md",
+    "seek-truth/0-intro/intro.md",
+    "seek-truth/3-seeking-truth/3-team.md",
+    "seek-truth/3-seeking-truth/4-world.md",
     "seek-truth/4-next-steps/3-thanks.md",
     "seek-truth/4-next-steps/2-help.md",
     "seek-truth/4-next-steps/1-who-am-i.md",
@@ -169,7 +170,6 @@
     "seek-truth/3-seeking-truth/5-ai.md",
     "seek-truth/3-seeking-truth/1-feeling-thinking.md",
     "seek-truth/3-seeking-truth/2-individual.md",
-    "seek-truth/3-seeking-truth/0-nothing-else-remains.md",
-    "seek-truth/0-intro/intro.md"
+    "seek-truth/3-seeking-truth/0-nothing-else-remains.md"
   ]
 }

@@ -71,7 +71,7 @@ In order to answer these questions, I propose a theory of mind that I think is s
 
 The mind has two modes: it thinks and it feels.
 
-Thinking can be through language or audiovisual imagination.
+Thinking can be through language or audiovisual imagination. (note: you could also argue that language itself is an imagination which wouldn't change the observations below).
 Examples:
 - Your inner monologue: your voice (note: or rather, what you think is your voice) that you hear speak in your mind.
 - Imagining a painting, diagram, picture, a visual scene of something happening.
@@ -82,15 +82,20 @@ There are all sorts of degrees of intensity for a feeling. And it can come in al
 
 Even an "intuition" is a feeling because, by definition, it is an understanding of something without the need for conscious reasoning, and therefore it falls outside of the realm of thinking.
 
-The more intense a feeling, the more likely you're able to perceive it.
+A feeling has a higher level of detail (i.e. higher "resolution") than thinking, which is why you cannot fully encapsulate a feeling using thinking.
 
-A feeling has a higher level of detail than thinking, which is why you cannot fully encapsulate a feeling using thinking.
+I'm not at all claiming that this somehow makes feeling superior to thinking. In a way, the loss of level of detail of thinking is its strength: it's in the loss that each individual fills the remaining meaning through feeling. If we could represent feeling with full accuracy, then we'd be able to communicate it to others without any loss of information, and there would be no room for unique individual experiences. Lower resolution is also more efficient. This is likely why language and text dominate human communication. It's a necessity.
 
-I'm not at all claiming that this somehow makes feeling superior to thinking. In a way, the loss of level of detail of thinking is its strength: it's in the loss that each individual fills the remaining meaning through feeling. If we could represent feeling with full accuracy, then we'd be able to communicate it to others without any loss of information, and there would be no room for unique individual experiences in that exchange. 
+All I'm claiming is that thinking and feeling are fundamentally different modes of operation that are deeply connected. And that understanding how to seek truth requires understanding how these modes interact with each other.
 
-All I'm claiming is that thinking and feeling are fundamentally different modes of operation.
+Thinking is accompanied by feeling. Maybe not every thought, I'm not sure, but more thoughts than we think.
 
-One common self-delusion I see in our world is to disregard the impact of our feelings on our thinking.
+
+
+
+
+
+
 
 
 

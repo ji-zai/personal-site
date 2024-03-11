@@ -67,7 +67,7 @@ You can have the most accurate tools, more accurate references, most accurate ac
 
 What exactly are we deluded about regarding ourselves that leads us to be deluded about the systems we study? What causes it? And can we overcome it?
 
-In order to answer these questions, I propose a theory of mind that I think is sufficiently accurate based on my own experiences and observation of others, in order to try and make sense of self-delusion in a useful way, that doesn't just treat it as some abstract philosophical concept. *(note: In no way did I "come up" with this. There are many, many theories of mind from all parts of the world, in probably all time periods of human history. This is just what I think is the simplest, most useful way to look at the mind for the purpose of understanding what seeking truth means, that I've found reasonably accurate based on my observations. There are likely more fundamental truths of the mind that is more aligned with reality.).*
+In order to answer these questions, I propose a theory of mind that I think is sufficiently accurate based on my own experiences and observation of others, in order to try and make sense of self-delusion in a useful way, that doesn't just treat it as some abstract philosophical concept. I link to any relevant research for the claims that I make. *(note: In no way did I "come up" with this. There are many, many theories of mind from all parts of the world, in probably all time periods of human history. This is just what I think is the simplest, most useful way to look at the mind for the purpose of understanding what seeking truth means, that I've found reasonably accurate based on my observations. There are likely more fundamental truths of the mind that is more aligned with reality.).*
 
 The mind has two modes: it thinks and it feels.
 
@@ -108,14 +108,39 @@ And there's a timeline to the delusion as well. With enough time it seems to set
 
 I also believe we feel far less than we're capable of feeling. Artists call this "sensitivity", to refer to how acutely aware you are to what you're feeling in any given moment in time.
 
-Your sensitivity is how well you can observe your own feelings at any given point in time.  The more sensitive you are, the more subtle feelings you can perceive.
+Your sensitivity is how well you can observe your own feelings at any given point in time. The more sensitive you are, the more subtle feelings you can perceive.
 
-In the previous example of sending someone an angry message, if you don't have good sensitivity, you'll likely not be able to perceive the rise in anger up to its peak. You'll look back at it and only remember the peak and the fall, but not the subtle rise and the lingering subtle anger that lasts well after the fall.
+In the previous example of sending someone an angry message, if you don't have strong sensitivity, you'll likely not be able to perceive the rise in anger up to its peak. You'll look back at it and only remember a sharp rise to the peak and the fall, but not the subtle rise and the lingering subtle anger that lasts well after the fall, even when you think it's fully subsided.
 
+(TODO: a graph. y: "feeling intensity", x: "time". Show the sine wave curve of the rising and falling of feeling. Draw a y-intercept to show what your sensitivity is, you can only perceive what is above that sensitivity)
+
+Your sensitivity also correlates with your ability to feel what another person is going through (i.e. empathy) (todo: https://pubmed.ncbi.nlm.nih.gov/22957393/#:~:text=In%20view%20of%20empathy%20it,of%20the%20other%20persons%20feeling.).
+
+When you see someone feeling an emotion, mirror neurons are fire in your brain that release the feeling that it thinks the other person is feeling into your own mind.
+
+Therefore, the more sensitive you are to your own feelings, the more sensitive you will be to others'.
+
+**The more sensitive you are to your feelings, the more phenomena you can observe in the system of your mind, in the medium of feeling.**
+
+The more sensitive you are to your feelings, the greater is your ability to seek truth about your mind, in the medium of feeling - which is a core mode of operation that influences everything else your mind does.
+
+(note: our sensitivity also changes over time, it's not constant. Even the most sensitive people likely have days in which they feel less).
+
+So, specifically, our self-delusion is our delusion about what we're actually feeling in any given moment. Self-delusion is proportional to our lack of sensitivity.
+
+There's another degree to sensitivity (or maybe use a different word here): which is the difference between two feelings.
+
+Being able to tell apart anger (or some other negative bias) from intuition is also critical. The best way I can define intuition is a subtle "hunch" feeling that doesn't feel like anger, sadness, etc.
+
+Tomorrow's agenda:
+1. Dive deep into what "feeling" is, and all the properties of feeling that is needed to make the points I want to make about how self-delusion impacts our ability to seek truth.
 
 ---
 
 To add:
+- Truth seeking skill is generalizable to the same medium (and give explanation: )
+- In the conclusion, double down on the fact that I could be severely deluded.
+- An interesting product idea: more accurately measure what you're feeling (through sensors) and alert you when your mind is to compromised to do objective study - based on what you define that level to be, and ofc needs to be crazy private.
 - This way of seeing truth seeking shows that artists and scientists aren't really that different in the way they operate; they only differ in the medium in which they seek truth. An artist leans towards seeking truths about the human condition of feelings, and the scientist seeks truth in our external world through thinking. But even these difference fade away as you look at the highest caliber of artist or scientist: they converge into truth seeking across both mediums because it's not possible to do great work without excelling at seeking truth in both mediums, as they are deeply intertwined. An artist must still express that feeling through thinking as there is no other way to share it with another. And a scientist must be in tune with their feelings such that they can tell apart which feeling is an incorrect bias that will hold them back, and which feeling is a "hand of God" that will propel them forward in their research. In the upper echelons of human potential, there is only seeking truth. No distinctions exist, and if they do, are only a result of our clouded vision as a consequence of our self-delusions. Perhaps that's why the greats enjoyed each others' company so much: they found deep similarity as opposed to the deep divide the rest of the world conjured.
 	- Einstein: "The intuitive mind is a sacred gift and the rational mind is a faithful servant."
 	- (There are incredible quotes here from greats across all disciplines.)

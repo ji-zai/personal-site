@@ -66,10 +66,19 @@ You can have the most accurate tools, more accurate references, most accurate ac
 
 What exactly are we deluded about regarding ourselves that leads us to be deluded about the systems we study? What causes it? And can we overcome it?
 
-In order to answer this, I propose a theory of mind that I think is sufficiently accurate based on my own experiences and observation of others to be able to help us understand self-delusion in a useful way. (note: In no way did I "come up" with this. There are many, many theories of mind from all parts of the world, in probably all time periods of human history. This is just what I think is the simplest, most useful way to look at the mind for the purpose of understanding what seeking truth means, that I've found reasonably accurate based on my observations. There are likely more fundamental truths of the mind that is more aligned with reality.).
+In order to answer these questions, I propose a theory of mind that I think is sufficiently accurate based on my own experiences and observation of others, in order to try and make sense of self-delusion in a useful way that doesn't just treat it as some abstract philosophical concept. *(note: In no way did I "come up" with this. There are many, many theories of mind from all parts of the world, in probably all time periods of human history. This is just what I think is the simplest, most useful way to look at the mind for the purpose of understanding what seeking truth means, that I've found reasonably accurate based on my observations. There are likely more fundamental truths of the mind that is more aligned with reality.).*
 
-The mind operates by thinking and by feeling.
+The mind has two modes: it thinks and it feels.
 
+Thinking can be through language or audiovisual imagination.
+Examples:
+- Your inner monologue: your voice (note: or rather, what you think is your voice) that you hear speak in your mind.
+- Imagining a painting, diagram, picture, a visual scene of something happening.
+- Imagining sounds (that may go along with a visual scene, or on its own).
+
+A feeling is grounded in your body in the form of sensations.
+
+These are fundamentally distinct ways of operating, that often happen simultaneously whether we realize it or not.
 
 
 

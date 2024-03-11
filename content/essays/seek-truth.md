@@ -4,7 +4,7 @@ date: March 2024
 ---
 I started writing this essay to get a sense for what the most valuable skills will be in a future in which AI becomes incredibly powerful. As I spent more time exploring this question I realized that any valuable skill, at its core, is either a process of seeking the truth about the world we live in, or about ourselves. 
 
-And I believe even that distinction (internal vs. external) is only intellectual. Our ability to seek truth about what we are directly impacts our ability to seek truth about the world we live in. After all, your mind is your lens into the world; you can't trust it fully without understanding it fully.
+And I believe even that distinction (internal vs. external) is only intellectual. Our ability to seek truth about the world we live in is directly, greatly, impacted by our ability to seek truth about ourselves. After all, your mind is your lens into the world; you can't trust it without understanding it.
 
 By "truth" I mean some property or rule we can observe about a system that exists in reality.
 
@@ -12,7 +12,7 @@ By "system", I mean anything that has some phenomena, or things happening in it.
 
 By "seeking truth", I mean the quest to understand the properties / rules of any system. 
 
-I love the word "seek" because I think it perfectly encapsulates a fundamental truth about seeking truth: it is a process of iteration that can only better approximate the reality of a system, without ever reaching it. If you ever reach complete understanding of a system, you've "found" truth, which is clearly far from the case for most, if not all, systems we've encountered in nature.
+I love the word "seek" because I think it perfectly encapsulates a truth about seeking truth: it is a process of iteration that can only better approximate the reality of a system, without ever reaching it. If you ever reach complete understanding of a system, you've "found" truth, which is clearly far from being the case for most, if not all, systems we've encountered in nature.
 
 What's the point of seeking truth? Well, if you have no wants, are perfectly content what what you have and what you understand about the world and yourself, there would be no point to seeking truth.
 
@@ -20,11 +20,12 @@ Two characteristics of our minds gives purpose to seeking truth: we want, and we
 
 The things we want are part of systems, and so, the more quickly we can seek truths about the systems that govern our wants, the more quickly we can get what we want.
 
-Even curiosity is a want: wanting to understand a system with no other purpose than understanding it. But even those that are curious would prefer to understand a system more quickly if possible.
+Even curiosity is a want: wanting to understand a system with no other purpose than understanding it. But even those that are curious would prefer to understand a system more 
+quickly if possible.
+
+But, more often than not, the purpose of seeking truth is to gain power over a system, so that you can get what we want from it, as quickly as you can. 
 
 And so when you decide to become better at seeking truth, all it means is that you want to seek truth faster than you can right now. (note: time is our only scarcity not because we will die, but because of the second characteristic of the mind: wanting what we want as quick as possible).
-
-But, more often than not, the purpose of seeking truth is to gain power over a system, so that we can get what we want from it, as quickly as we can. 
 
 So clearly seeking truth is valuable. But is it a skill?
 
@@ -36,7 +37,7 @@ To make talking about seeking truth easier, let's define "delusion" as the exact
 
 But, of course this example was a contrived system to illustrate that there is skill to seeking truth. In nature, systems are incredibly messy. Not knowing the output for an input is simply one of the many kinds of delusions we can have about a system.
 
-Understanding all the ways we can be deluded about a system helps us have a more granular, higher resolution, more true understanding of what seeking truth even means.
+Understanding all the ways we can be deluded about a system helps us have a more granular, more accurate understanding of what seeking truth even means.
 
 Our delusions about a system often manifest through:
 - Inaccuracies in how we represent truths.
@@ -48,25 +49,25 @@ We often represent truths using formal language such as English, math, code, etc
 
 For example, if you try to describe "basketball" to someone using English statements, could you ever compile a list of such statements that perfectly communicates the meaning of a "basketball" to someone with no knowledge of it, such that after they read the list they have the exact understanding you have about "basketball"? It's impossible.
 
-The level of detail in reality is far greater than the level of detail that can be represented in language. This difference is the inherent inaccuracy in how we represent truths. (note: but of course most of us do a lot worse than the theoretical limit in the level of detail language can represent because we can't utilize language well).
+The level of detail in reality is far greater than the level of detail that can be represented in language. This difference is the inherent inaccuracy in how we represent truths. (note: but of course most of us do a lot worse than the theoretical limit in the level of detail language can represent because we don't utilize language well).
 
-If we design a contrived system to escape the limitations of language, well, then that system itself may not be correlated with reality in meaningful enough ways to not be useful. But, this is usually the best we can do.
+If we design a contrived system to escape the limitations of language, well, then that system itself may not be correlated with reality in meaningful enough ways to be useful. But, this is usually the best we can do.
 
-Anyone looking to seek truth ought to take these (and many more) inaccuracies and incorrect assumptions into account when seeking truth.
+Anyone looking to seek truth will have to take these (and many more) inaccuracies and incorrect assumptions into account when seeking truth.
 
 But, in my own experience, and based on what I've seen in the world, I believe the deadliest cause for our delusion about the systems is our own **self-delusion**: our lack of understanding in the way our minds work and all the ways in which our minds cloud our view of reality.
 
 I believe this is the reason we fail to see some of the most obvious, profound truths - which are often right under our noses.
 
-And why when someone makes a profound discovery, it can seem stupidly obvious in hindsight - whether it's an idea for a company, movie, scientific discovery, anything meaningful. 
+And why when someone makes a profound discovery, it often seem stupidly obvious in hindsight - whether it's an idea for a company, movie, scientific discovery, or anything transformative. 
 
-It's not that the truth was kept hidden and required great difficulty to excavate, but that our minds were too clouded to see it, even if we were trying to find it. Especially if we're trying to find it.
+It's not that the truth was kept hidden and required great difficulty to excavate, but that our minds were too clouded to see it, even if we were trying to find it. Especially if we were trying to find it.
 
 You can have the most accurate tools, more accurate references, most accurate account of what you already know, but if you fail to see reality as it is, then the most fundamental tool you use to understand the world outside is itself unreliable.
 
 What exactly are we deluded about regarding ourselves that leads us to be deluded about the systems we study? What causes it? And can we overcome it?
 
-In order to answer these questions, I propose a theory of mind that I think is sufficiently accurate based on my own experiences and observation of others, in order to try and make sense of self-delusion in a useful way that doesn't just treat it as some abstract philosophical concept. *(note: In no way did I "come up" with this. There are many, many theories of mind from all parts of the world, in probably all time periods of human history. This is just what I think is the simplest, most useful way to look at the mind for the purpose of understanding what seeking truth means, that I've found reasonably accurate based on my observations. There are likely more fundamental truths of the mind that is more aligned with reality.).*
+In order to answer these questions, I propose a theory of mind that I think is sufficiently accurate based on my own experiences and observation of others, in order to try and make sense of self-delusion in a useful way, that doesn't just treat it as some abstract philosophical concept. *(note: In no way did I "come up" with this. There are many, many theories of mind from all parts of the world, in probably all time periods of human history. This is just what I think is the simplest, most useful way to look at the mind for the purpose of understanding what seeking truth means, that I've found reasonably accurate based on my observations. There are likely more fundamental truths of the mind that is more aligned with reality.).*
 
 The mind has two modes: it thinks and it feels.
 
@@ -78,7 +79,12 @@ Examples:
 
 A feeling is grounded in your body in the form of sensations.
 
-These are fundamentally distinct ways of operating, that often happen simultaneously whether we realize it or not.
+The feelings that we can perceive are our conscious feelings, those that we can't, by definition, are in our subconscious.
+
+The more intense a feeling, the more likely you're able to perceive it.
+
+In a way, the loss of level of detail of thinking is its strength: it's in the loss that each individual fills the remaining 
+
 
 
 

@@ -86,19 +86,31 @@ A feeling has a higher level of detail (i.e. higher "resolution") than thinking,
 
 I'm not at all claiming that this somehow makes feeling superior to thinking. In a way, the loss of level of detail of thinking is its strength: it's in the loss that each individual fills the remaining meaning through feeling. If we could represent feeling with full accuracy, then we'd be able to communicate it to others without any loss of information, and there would be no room for unique individual experiences. Lower resolution is also more efficient. This is likely why language and text dominate human communication. It's a necessity.
 
-All I'm claiming is that thinking and feeling are fundamentally different modes of operation that are deeply connected. And that understanding how to seek truth requires understanding how these modes interact with each other.
+All I'm saying is that thinking and feeling are fundamentally different modes of operation that are deeply connected. And that understanding how to seek truth requires understanding how these modes interact with each other.
 
-Thinking is accompanied by feeling. Maybe not every thought, I'm not sure, but more thoughts than we think.
+Thinking is accompanied by feeling. Our thinking affects our feelings, and our feelings affect our thinking.
 
+Many of us know the feeling of sending someone that we love a message when we were angry only to later regret it once our mind settled from the anger.
 
+If we could rewind back to that moment and could somehow fully replace the feeling of anger with the feeling of love, then we most definitely wouldn't have worded the message in that way. And most likely, we wouldn't have even had that wording which was infused with anger, even arise as a thought in our mind.
 
+It's as if certain feelings (like anger) can cause temporary delusion that makes us not see the reality of the situation: that we're talking to someone we love deeply and that it is simply a misunderstanding that has many productive ways to deal with that doesn't cause a rift.
 
+On the other hand, feelings like compassion seem to settle the mind into a state of greater peace, that enables us to see the reality of the situation more clearly and act in a way that gets us what we want from that situation.
 
+And there's also a degree to which we can be deluded by certain feelings.
 
+An extreme example: no one would be able to say "I wish you were dead" to someone they loved without their feeling of anger cloud their view of reality to a great degree.
 
+Therefore, it's clear that some feelings have the power to warp our perception of reality such that we're not able to see it clearly, because if we could in that moment, then we wouldn't do what that "warped" version of ourselves did.
 
+And there's a timeline to the delusion as well. With enough time it seems to settle. The more intense the delusion, the more time it takes to settle. We regret what we've done only after our minds settle from the intense feeling, and we can look back at what we did more objectively.
 
+I also believe we feel far less than we're capable of feeling. Artists call this "sensitivity", to refer to how acutely aware you are to what you're feeling in any given moment in time.
 
+Your sensitivity is how well you can observe your own feelings at any given point in time.  The more sensitive you are, the more subtle feelings you can perceive.
+
+In the previous example of sending someone an angry message, if you don't have good sensitivity, you'll likely not be able to perceive the rise in anger up to its peak. You'll look back at it and only remember the peak and the fall, but not the subtle rise and the lingering subtle anger that lasts well after the fall.
 
 
 ---

@@ -39,28 +39,50 @@ But, of course this example was a contrived system to illustrate that there is s
 Understanding all the ways we can be deluded about a system helps us have a more granular, higher resolution, more true understanding of what seeking truth even means.
 
 Our delusions about a system often manifest through:
-- Inaccuracies in how we represent truths. (We often use formal language such as English, math, code, etc. and they are inherently only approximations of the truth - and often severely lacking approximations).
+- Inaccuracies in how we represent truths.
 - Observation inaccuracies in the tools we use to observe a system.
 - Overly limiting (or isolated) view of a system.
 - Inaccuracies in what you think you already know, and / or the degree of confidence you have in uncovered truths.
 
+We often represent truths using formal language such as English, math, code, etc. These are inherently only approximations of the truth - and often severely lacking approximations at that.
+
+For example, if you try to describe "basketball" to someone using English statements, could you ever compile a list of such statements that perfectly communicates the meaning of a "basketball" to someone with no knowledge of it, such that after they read the list they have the exact understanding you have about "basketball"? It's impossible.
+
+The level of detail in reality is far greater than the level of detail that can be represented in language. This difference is the inherent inaccuracy in how we represent truths. (note: but of course most of us do a lot worse than the theoretical limit in the level of detail language can represent because we can't utilize language well).
+
+If we design a contrived system to escape the limitations of language, well, then that system itself may not be correlated with reality in meaningful enough ways to not be useful. But, this is usually the best we can do.
+
 Anyone looking to seek truth ought to take these (and many more) inaccuracies and incorrect assumptions into account when seeking truth.
 
-But, in my own experience, and based on what I've seen in the world, I believe the deadliest cause for our delusion about the systems we study is our **self-delusion**: our lack of understanding in the way our minds work and the ways in which our minds cloud our view of reality.
+But, in my own experience, and based on what I've seen in the world, I believe the deadliest cause for our delusion about the systems is our own **self-delusion**: our lack of understanding in the way our minds work and all the ways in which our minds cloud our view of reality.
 
-I believe this is the biggest reason why we fail to see some of the most obvious, profound truths - which are often right under our noses.
+I believe this is the reason we fail to see some of the most obvious, profound truths - which are often right under our noses.
 
-This is why when someone makes a profound discovery, to many it seems stupidly obvious in hindsight. It's not that the truth was kept hidden and required great difficulty to excavate it, but that most of our minds were too clouded to see it, even if we were trying to find it. Especially if we're trying to find it.
+And why when someone makes a profound discovery, it can seem stupidly obvious in hindsight - whether it's an idea for a company, movie, scientific discovery, anything meaningful. 
 
-You can have the most accurate tools, more accurate references, most accurate account of what you already know, but if you fail to see reality as it is, then the most fundamental tool you use to understand the world outside is polluted. You can't rely on it.
+It's not that the truth was kept hidden and required great difficulty to excavate, but that our minds were too clouded to see it, even if we were trying to find it. Especially if we're trying to find it.
 
-What exactly are we deluded about regarding ourselves that leads us to be deluded about the systems we study? What causes it? Is there any way to overcome it - to reduce our self-delusions?
+You can have the most accurate tools, more accurate references, most accurate account of what you already know, but if you fail to see reality as it is, then the most fundamental tool you use to understand the world outside is itself unreliable.
+
+What exactly are we deluded about regarding ourselves that leads us to be deluded about the systems we study? What causes it? And can we overcome it?
+
+In order to answer this, I propose a theory of mind that I think is sufficiently accurate based on my own experiences and observation of others to be able to help us understand self-delusion in a useful way. (note: In no way did I "come up" with this. There are many, many theories of mind from all parts of the world, in probably all time periods of human history. This is just what I think is the simplest, most useful way to look at the mind for the purpose of understanding what seeking truth means, that I've found reasonably accurate based on my observations. There are likely more fundamental truths of the mind that is more aligned with reality.).
+
+The mind operates by thinking and by feeling.
+
+
+
+
 
 ---
 
+To add:
+- When we take self-delusion into account and give it the importance it deserves, we ought to work to find ways to reduce our individual and collective delusions. (Transition to training truth seeking, and building truth seeking teams and larger organizations).
+	- And the solution can't simply be to reward outcomes more. An overly intense pressure on outcomes can cloud judgement as well. See what happens when you try to do something impatiently, in a rush.
+- No one is immune to self-delusion. Even the best doctors. Even the best companies (Google sleeping on AI).
+- (Relevant link: academic fraud: )
+- You may think that the worst part about this delusion is being fraudulent. I actually think that's the least of our worries. The worst part is that most human efforts are mediocre at best as a consequence of being self-deluded.
 
-
-To add (potentially):
 - And we're terrible at keeping our self-delusions locked up in ourselves. When we meet others we inadvertently, often subconsciously, try to get them to be self-deluded in the same ways we are.
 - Meanwhile, the limit for how much power we can gain in the system is limited only by the degree to which there is order in the system. If everything happens randomly, all the time, 
 - Even if you don't believe it's the only skill, but see that it's important you'll want to get better at it.

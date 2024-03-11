@@ -34,32 +34,39 @@ To make talking about seeking truth easier, let's define "delusion" as the exact
 
 (Show this to be true with a simple, contrived example of a system and two strategies).
 
-But, of course this example was a contrived system to illustrate skillfulness in seeking truth. In reality, systems are incredibly messy. Not knowing the output for an input is simply one of the many kinds of delusions we can have about a system.
+But, of course this example was a contrived system to illustrate that there is skill to seeking truth. In nature, systems are incredibly messy. Not knowing the output for an input is simply one of the many kinds of delusions we can have about a system.
 
-Understanding all the ways we can be deluded about a system is incredibly valuable because it gives us a more granular, higher resolution understanding of what seeking truth even means in the messy real world. It's only then that we can start to see all the ways in which we suck at it, and how we can get better at it - which is a rational line of thinking if you believe a skill is important.
+Understanding all the ways we can be deluded about a system helps us have a more granular, higher resolution, more true understanding of what seeking truth even means.
 
-1. How we represent truths we uncover.
-2. Size of the system.
-3. How much of the system's phenomena is observable.
-4. 
+Our delusions about a system often manifest through:
+- Inaccuracies in how we represent truths. (We often use formal language such as English, math, code, etc. and they are inherently only approximations of the truth - and often severely lacking approximations).
+- Observation inaccuracies in the tools we use to observe a system.
+- Overly limiting (or isolated) view of a system.
+- Inaccuracies in what you think you already know, and / or the degree of confidence you have in uncovered truths.
 
-Meanwhile, our power of a system is limited (in theory) by:
-1. Extent of cause and effect of the system.
+Anyone looking to seek truth ought to take these (and many more) inaccuracies and incorrect assumptions into account when seeking truth.
 
+But, in my own experience, and based on what I've seen in the world, I believe the deadliest cause for our delusion about the systems we study is our **self-delusion**: our lack of understanding in the way our minds work and the ways in which our minds cloud our view of reality.
 
-A truth is restricted in two ways: by how we represent it, and by how fundamental it is.
+I believe this is the biggest reason why we fail to see some of the most obvious, profound truths - which are often right under our noses.
 
-Our representation of the truth is only an approximation of reality. We often use language (English, mathematical notation, code, etc.) to represent the truths we uncover about a system. But we have to admit that this is inherently limiting. Can you ever list out all the properties of something even as simple as a basketball such that another person has the exact same representation in their minds? 
-	*(note: you could define an artificial system such that how truths are defined are perfect descriptors of the reality of that system, but the real world is far from being this clean.)*
+This is why when someone makes a profound discovery, to many it seems stupidly obvious in hindsight. It's not that the truth was kept hidden and required great difficulty to excavate it, but that most of our minds were too clouded to see it, even if we were trying to find it. Especially if we're trying to find it.
 
-Uncovering a more fundamental truth about a system can often replace multiple less fundamental truths because it explains reality better. (todo: give a good example here).
+You can have the most accurate tools, more accurate references, most accurate account of what you already know, but if you fail to see reality as it is, then the most fundamental tool you use to understand the world outside is polluted. You can't rely on it.
+
+What exactly are we deluded about regarding ourselves that leads us to be deluded about the systems we study? What causes it? Is there any way to overcome it - to reduce our self-delusions?
 
 ---
 
+
+
 To add (potentially):
+- And we're terrible at keeping our self-delusions locked up in ourselves. When we meet others we inadvertently, often subconsciously, try to get them to be self-deluded in the same ways we are.
+- Meanwhile, the limit for how much power we can gain in the system is limited only by the degree to which there is order in the system. If everything happens randomly, all the time, 
 - Even if you don't believe it's the only skill, but see that it's important you'll want to get better at it.
 - Seeking truth turns from a passion to being useful based on how badly you want something. Fundamentally,
 - Reducing our delusion about a system also reduces our degrees of choice in the system. In the most extreme case, if you perfectly understand a system, the only thing you can change is what you want out of that system. You'll know what is possible and what is impossible, and you'll be forced to change your want to something you know is possible to even get (or you're insane).
+- Meanwhile, the limit for how much power we can gain in the system is limited only by the degree to which there is order in the system. If everything happens randomly, all the time, 
 
 Cut:
 - , because any unnoticed biases in our minds makes it more difficult for us to see reality as it is in our external worlds.

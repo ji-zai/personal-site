@@ -1,5 +1,4 @@
 # Theory of mind
-### Components
 - Thinking, feeling, mental balance
 ### Thinking
 

@@ -1,0 +1,21 @@
+- Start with an essay, not a book. Make the essay a single flow of thinking, without being artificially broken up into sections and parts.
+	- Explore the topic as naturally as possible.
+- This book should just focus on seeking truth. All the thinking about the incentives, etc. should be in a different essay altogether.
+- Dive deeper into:
+	- Infrastructure for seeking truth. What does this look like (from first principles), and what is the right priorities initially?
+	- Organizing a team around truth seekers. -> there are some innovative thoughts here.
+	- Most companies that exist in the world today won't be relevant soon as a result of exponential growth in technology => difference in truth seeking strategy quality is amplified exponentially, and the factor of luck drops exponentially (as exponentially more iterations are possible). Every company that exists in the world is on far flimsier ground than ever before. There is no longer any moat except for execution, and the best executers are, by definition, the best truth seekers.
+- I really like the way I'm framing the theory of mind because it means that I don't have to dig into any of the more subtle claims about the mind, I can talk about it, show it at a level that most people understand. Which is exactly what I want.
+
+Current outline:
+- A system
+- Truth & delusion
+- What I mean by seeking truth
+- Theory of mind
+- Self delusion
+- AI
+- Nothing else remains
+- A truth seeking individual
+- A truth seeking team
+- A truth seeking world
+- Next steps

@@ -78,12 +78,19 @@ Examples:
 - Imagining sounds (that may go along with a visual scene, or on its own).
 
 A feeling is grounded in your body in the form of sensations.
+There are all sorts of degrees of intensity for a feeling. And it can come in all shapes and forms that may even be indescribable.
 
-The feelings that we can perceive are our conscious feelings, those that we can't, by definition, are in our subconscious.
+Even an "intuition" is a feeling because, by definition, it is an understanding of something without the need for conscious reasoning, and therefore it falls outside of the realm of thinking.
 
 The more intense a feeling, the more likely you're able to perceive it.
 
-In a way, the loss of level of detail of thinking is its strength: it's in the loss that each individual fills the remaining 
+A feeling has a higher level of detail than thinking, which is why you cannot fully encapsulate a feeling using thinking.
+
+I'm not at all claiming that this somehow makes feeling superior to thinking. In a way, the loss of level of detail of thinking is its strength: it's in the loss that each individual fills the remaining meaning through feeling. If we could represent feeling with full accuracy, then we'd be able to communicate it to others without any loss of information, and there would be no room for unique individual experiences in that exchange. 
+
+All I'm claiming is that thinking and feeling are fundamentally different modes of operation.
+
+One common self-delusion I see in our world is to disregard the impact of our feelings on our thinking.
 
 
 
@@ -92,6 +99,9 @@ In a way, the loss of level of detail of thinking is its strength: it's in the l
 ---
 
 To add:
+- This way of seeing truth seeking shows that artists and scientists aren't really that different in the way they operate; they only differ in the medium in which they seek truth. An artist leans towards seeking truths about the human condition of feelings, and the scientist seeks truth in our external world through thinking. But even these difference fade away as you look at the highest caliber of artist or scientist: they converge into truth seeking across both mediums because it's not possible to do great work without excelling at seeking truth in both mediums, as they are deeply intertwined. An artist must still express that feeling through thinking as there is no other way to share it with another. And a scientist must be in tune with their feelings such that they can tell apart which feeling is an incorrect bias that will hold them back, and which feeling is a "hand of God" that will propel them forward in their research. In the upper echelons of human potential, there is only seeking truth. No distinctions exist, and if they do, are only a result of our clouded vision as a consequence of our self-delusions. Perhaps that's why the greats enjoyed each others' company so much: they found deep similarity as opposed to the deep divide the rest of the world conjured.
+	- Einstein: "The intuitive mind is a sacred gift and the rational mind is a faithful servant."
+	- (There are incredible quotes here from greats across all disciplines.)
 - When we take self-delusion into account and give it the importance it deserves, we ought to work to find ways to reduce our individual and collective delusions. (Transition to training truth seeking, and building truth seeking teams and larger organizations).
 	- And the solution can't simply be to reward outcomes more. An overly intense pressure on outcomes can cloud judgement as well. See what happens when you try to do something impatiently, in a rush.
 - No one is immune to self-delusion. Even the best doctors. Even the best companies (Google sleeping on AI).

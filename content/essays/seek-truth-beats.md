@@ -1,29 +1,32 @@
-I) What is seeking truth
+I) What is seeking truth?
 - Define "truth", "system", and "seeking truth"
-- Why we want to seek truth
+- **Why we want to seek truth**
 	- Nature of the human mind: wants, and wants what it wants as quickly as possible.
 	- Even curiosity is a want.
 	- Often, purpose is to gain power over a system.
 		- Show how understanding gravity gave us power by enabling us to fly (planes) and cut short our travel time significantly.
-- Is seeking truth a skill?
+		- With greater power over the systems that govern us, we have greater power to evolve our species.
+	- Technically, time is our only scarcity, no other resource is. All we lack is sufficient understanding of how things work to be able to take advantage of resources that are currently inaccessible to us.
+		- (note: time is not scarce because we will die, it is scarce because of the second characteristic of the human mind above. So solving aging won't impact the scarcity of time).
+		- As I'll show below, the only thing stopping us is our ability to seek truth.
+- **Is seeking truth a skill?**
 	- What even is a "skill"?
 	- Define "delusion" in order to better explain seeking truth.
 	- Contrived example of a small system that shows two individuals seeking the truth about it.
 	- The factor of luck, and how, given enough time, you can factor out luck.
-- What are the challenges in seeking truth?
+- **There is an optimal truth seeking strategy, and it is generalizable.**
+	- This is the best we can hope to do, there is literally nothing more we can do.
+	- Building this skill means that you can be put in any system, and get what you want out of it, given enough time.
+- **What stops us seeking truth optimally?**
 	- I.e. what are all of the delusions that we can have about a system?
 	- Describe each category of delusion.
 	- Truth seeking is a collective effort, we often build on the results of those that came before us.
 	- Inaccuracies compound with more layers.
-- What it means to have skill in seeking truth
-	- (summarize someone who can tackle all of the challenges above incredibly well).
-- There is an optimal truth seeking strategy, that is generalizable.
-	- This is the best we can hope to do, there is literally nothing more we can do.
-	- Building this skill means that you can be put in any system, and get what you want out of it, given enough time.
-- Self-delusion is the greatest delusion that keeps us from seeking truth optimally.
+- **Self-delusion is the greatest delusion that keeps us from seeking truth optimally.**
 	- Yet, there is one delusion that I haven't yet talked about, but I think is the greatest delusion that holds us back from seeking truth effectively. There are many people in the world with the right theoretical understanding of optimal truth seeking, who still fail to seek truth effectively.
 		- And it's easy to blame this on the factor of luck, whereas in reality it's not. In fact, given enough of a similar starting point, I think we overestimate the impact of luck.
-	- My hunch is that most inaccuracies in seeking truth aren't from the inaccuracies in tools, or anything of that sort, they mostly stem from our self-delusion. Our delusion about how our minds work, holds us back. We are our worst enemies.
+	- My hunch is that most inaccuracies in seeking truth aren't from the inaccuracies in tools, or anything of that sort, they mostly stem from our self-delusion. Our delusion about how our minds work, holds us back. 
+	- We are our worst enemies.
 
 II) Self-delusion is the greatest delusion
 - To explain this, proposing a theory of mind.
@@ -47,6 +50,18 @@ II) Self-delusion is the greatest delusion
 	- Feelings are where our biases are embedded.
 	- How exactly it holds us back from effectively seeking truth.
 	- Take the simplest example of sending someone you love a message that you will regret when your mind settles.
+- **Intuition vs. bias**
+	- Hunch: perhaps these are along the same spectrum and only differ in intensity. When a feeling becomes so strong that it overpowers you, and blinds you, it is a bias.
+		- Or perhaps the qualifier "conscious of it" makes sense. Because, if you're conscious of it, you're less blinded by it.
+	- When a feeling is more subtle, and more gently pulls you in a direction, but your thinking is still intact and you have the power to try and observe it and understand it without blindly believing it, it is an intuition.
+	- => An intuition can be wrong, but you have the power to see whether it is wrong. A bias can be wrong, but it's so powerful that you're too blinded to even be aware of the bias.
+	- Intuition accounts far more towards our progress as a species than we think it does. Why?
+		- Go back to the contrived state examples: when much of the space is equally unknown, intuition can greatly speed up the process. Why is this? 
+			- Subconscious processing power of the mind.
+	- Reference greats on Intuition:
+		- Einstein
+		- Richard Hamming: https://www.paulgraham.com/hamming.html
+	- Insight (might be a better word to use? Maybe it makes sense to reference it? Not sure.)
 - **The system of feeling**
 	- Reframe everything using the language of systems.
 	- Adding "medium of observation" as a property of seeking truth.
@@ -56,8 +71,8 @@ II) Self-delusion is the greatest delusion
 	- **But, we are more similar than we think**. Globalization has shown this.
 	- Art, products, ideologies, culture transcend human made identity boundaries: language, religions, color, anything you can think of.
 	- Seeking your truth about your mind in the medium of feeling, will show you the nature of your own mind, as well as most other peoples'.
-- **Truth seeking ability is generalizable, but only to the observation medium**
-	- Reference the generalizable above, but add to it the qualifier: "by medium".
+- **Truth seeking ability is generalizable, but only to the type of observation**
+	- Reference the generalizable above, but add to it the qualifier: "by medium". In fact, say that you were wrong above - it's a good way to emphasize that I'm figuring this out as we go as well!
 	- This is why you'll notice biases even in those that have the thinking muscle to seek truth.
 	- And this is why there's an identity, and ideological even, divide between those that prefer one medium to another.
 	- The muscle for observation is different. (one is to observe sensation, the other is to observe world using thinking - both are entirely different muscles. Training one doesn't necessarily train the other).
@@ -105,3 +120,11 @@ III) Seeking truth is the only skill
 	- How can we **collectively** be better at seeking truth? The closer we get to the optimal truth seeking in all domains of human endeavor, the closer we get to doing the best we can possibly do.
 	- We are incredibly far from this optimal truth seeking. I'd guess somewhere around 0.01% of the world is close to optimal truth seeking. Just imagine the impact moving that decimal one to the right would have on our ability to tackle the greatest challenges for humanity?
 	- What more can we ask from ourselves?
+
+---
+
+Examples of self-delusion:
+- Theranos.
+- Investors investing in companies because they find the founder attractive and want a date.
+- (There are many to list here that are absolutely outrageous, but also incredibly true. This sort of decision making plagues the world - have a punchy 3 - 10 one line examples outlining how absurdly common these are. And it's a spectrum obv, so even though some are this outright stupid, there are so, so, so, many subtler ones that go unnoticed in the moment, that compound into a team, organization, company that ends up completely sucking).
+	- The problem with Google is nothing other than a collective delusion. They have the capital, the leverage, but they won't be able to do much with it.

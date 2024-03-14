@@ -20,8 +20,7 @@ Two characteristics of our minds gives purpose to seeking truth: we want, and we
 
 The things we want are part of systems, and so, the more quickly we can seek truths about the systems that govern our wants, the more quickly we can get what we want.
 
-Even curiosity is a want: wanting to understand a system with no other purpose than understanding it. But even those that are curious would prefer to understand a system more 
-quickly if possible.
+Even curiosity is a want: wanting to understand a system with no other purpose than understanding it. But even those that are curious would prefer to understand a system more  quickly if possible.
 
 But, more often than not, the purpose of seeking truth is to gain power over a system, so that you can get what we want from it, as quickly as you can. 
 
@@ -31,7 +30,7 @@ So clearly seeking truth is valuable. But is it a skill?
 
 Something is a skill when there's some notion of "goodness" to it: i.e. one way of doing it is better than another. And in the case of seeking truth, "well" is simply how quickly you can seek truths about a system.
 
-To make talking about seeking truth easier, let's define "delusion" as the exact opposite of a "truth". "Uncovering a truth" about a system == "Reducing delusion" about a system such that the degree of delusion reduced is proportional to how much the truth tells us about the system.
+To make talking about seeking truth easier, let's define "delusion" as the exact opposite of a "truth". "Uncovering a truth" about a system == "Reducing delusion" about a system such that the degree of delusion reduced is proportional to how much the truth tells you about the system.
 
 (Show this to be true with a simple, contrived example of a system and two strategies).
 
@@ -44,6 +43,7 @@ Our delusions about a system often manifest through:
 - Observation inaccuracies in the tools we use to observe a system.
 - Overly limiting (or isolated) view of a system.
 - Inaccuracies in what you think you already know, and / or the degree of confidence you have in uncovered truths.
+- Inaccuracies in how we communicate 
 
 We often represent truths using formal language such as English, math, code, etc. These are inherently only approximations of the truth - and often severely lacking approximations at that.
 
@@ -55,15 +55,15 @@ If we design a contrived system to escape the limitations of language, well, the
 
 Anyone looking to seek truth will have to take these (and many more) inaccuracies and incorrect assumptions into account when seeking truth.
 
-But, in my own experience, and based on what I've seen in the world, I believe the deadliest cause for our delusion about the systems is our own **self-delusion**: our lack of understanding in the way our minds work and all the ways in which our minds cloud our view of reality.
+But, in my own experience, and based on what I've seen in the world, I believe the deadliest cause for our delusion about the systems we study is our **self-delusion**: our lack of understanding in the way our minds work and all the ways in which our minds cloud our view of reality.
 
 I believe this is the reason we fail to see some of the most obvious, profound truths - which are often right under our noses.
 
-And why when someone makes a profound discovery, it often seem stupidly obvious in hindsight - whether it's an idea for a company, movie, scientific discovery, or anything transformative. 
+And why when someone makes a profound discovery, it often seem stupidly obvious in hindsight - whether it's an idea for a company, movie, scientific discovery, or anything transformative.
 
-It's not that the truth was kept hidden and required great difficulty to excavate, but that our minds were too clouded to see it, even if we were trying to find it. Especially if we were trying to find it.
+It's not that the truth was kept hidden and required great difficulty to excavate, but that our minds were too clouded to see it sitting right under our noses, even if we were trying to find it; especially if we were trying to find it.
 
-You can have the most accurate tools, more accurate references, most accurate account of what you already know, but if you fail to see reality as it is, then the most fundamental tool you use to understand the world outside is itself unreliable.
+You can have the most accurate tools, more accurate references, most accurate account of what you already know, but if you fail to be able to see reality as it is, then the most fundamental tool you use to understand the world is itself unreliable.
 
 What exactly are we deluded about regarding ourselves that leads us to be deluded about the systems we study? What causes it? And can we overcome it?
 
@@ -116,28 +116,17 @@ In the previous example of sending someone an angry message, if you don't have s
 
 Your sensitivity also correlates with your ability to feel what another person is going through (i.e. empathy) (todo: https://pubmed.ncbi.nlm.nih.gov/22957393/#:~:text=In%20view%20of%20empathy%20it,of%20the%20other%20persons%20feeling.).
 
-When you see someone feeling an emotion, mirror neurons are fire in your brain that release the feeling that it thinks the other person is feeling into your own mind.
+When you see someone feeling an emotion, mirror neurons in your brain trigger the feeling that it thinks the other person is feeling into your own mind.
 
-Therefore, the more sensitive you are to your own feelings, the more sensitive you will be to others'.
+Therefore, the more sensitive you are to your own feelings, the more sensitive you will be to others' feelings.
 
-**The more sensitive you are to your feelings, the more phenomena you can observe in the system of your mind, in the medium of feeling.**
 
-The more sensitive you are to your feelings, the greater is your ability to seek truth about your mind, in the medium of feeling - which is a core mode of operation that influences everything else your mind does.
 
-(note: our sensitivity also changes over time, it's not constant. Even the most sensitive people likely have days in which they feel less).
-
-So, specifically, our self-delusion is our delusion about what we're actually feeling in any given moment. Self-delusion is proportional to our lack of sensitivity.
-
-There's another degree to sensitivity (or maybe use a different word here): which is the difference between two feelings.
-
-Being able to tell apart anger (or some other negative bias) from intuition is also critical. The best way I can define intuition is a subtle "hunch" feeling that doesn't feel like anger, sadness, etc.
-
-Tomorrow's agenda:
-1. Dive deep into what "feeling" is, and all the properties of feeling that is needed to make the points I want to make about how self-delusion impacts our ability to seek truth.
 
 ---
 
 To add:
+- Reducing stress isn't just to make you more "productive" in the traditional sense of working more hours, etc. but also because it enables you to be a better truth seeker. And the more technological leverage we have, the more critical the skill to be at ease will become. You need to be more calm to be able to observe reality as it is.
 - Truth seeking skill is generalizable to the same medium (and give explanation: )
 - In the conclusion, double down on the fact that I could be severely deluded.
 - An interesting product idea: more accurately measure what you're feeling (through sensors) and alert you when your mind is to compromised to do objective study - based on what you define that level to be, and ofc needs to be crazy private.

@@ -1,28 +1,46 @@
 I) What is seeking truth?
-- Define "truth", "system", and "seeking truth"
-- **Why we want to seek truth**
+- Defining "truth", "system", and "seeking truth".
+- **Why seeking truth matters.**
 	- Nature of the human mind: wants, and wants what it wants as quickly as possible.
-	- Even curiosity is a want.
-	- Often, purpose is to gain power over a system.
+	- Purpose of seeking truth is to get what you want out of a system (note: even if that want is just to understand it).
 		- Show how understanding gravity gave us power by enabling us to fly (planes) and cut short our travel time significantly.
-		- With greater power over the systems that govern us, we have greater power to evolve our species.
-	- Technically, time is our only scarcity, no other resource is. All we lack is sufficient understanding of how things work to be able to take advantage of resources that are currently inaccessible to us.
+		- With greater power over the systems that govern us, we can get what we want more quickly.
+	- Technically, time is our only scarcity, no other resource is. All we lack is sufficient understanding of how things work to be able to take advantage of resources that are currently inaccessible to us. All we lack is knowing the truths of the systems that govern our wants.
 		- (note: time is not scarce because we will die, it is scarce because of the second characteristic of the human mind above. So solving aging won't impact the scarcity of time).
 		- As I'll show below, the only thing stopping us is our ability to seek truth.
 - **Is seeking truth a skill?**
 	- What even is a "skill"?
 	- Define "delusion" in order to better explain seeking truth.
 	- Contrived example of a small system that shows two individuals seeking the truth about it.
-	- The factor of luck, and how, given enough time, you can factor out luck.
-- **There is an optimal truth seeking strategy, and it is generalizable.**
+	- There is a factor of luck, but given enough time you can factor it out.
+- **Not all truths are created equal**
+	- Fundamentality is what correlates with value for a truth.
+	- Power law of truths.
+	- Means slight difference in skill often results in massive difference in outcomes, given enough time.
+- **Truth seeking skill is generalizable**
+- **There is an optimal truth seeking strategy.**
 	- This is the best we can hope to do, there is literally nothing more we can do.
-	- Building this skill means that you can be put in any system, and get what you want out of it, given enough time.
+	- Building this skill means that **you can be put in any system, and get what you want** out of it, given enough time.
+		- (Arrival movie).
 - **What stops us seeking truth optimally?**
 	- I.e. what are all of the delusions that we can have about a system?
-	- Describe each category of delusion.
-	- Truth seeking is a collective effort, we often build on the results of those that came before us.
-	- Inaccuracies compound with more layers.
-- **Self-delusion is the greatest delusion that keeps us from seeking truth optimally.**
+	- Inaccuracies in:
+		- Observation (apparatus inaccuracies)
+		- Conclusions drawn from observations:
+			- Thinking something is not true when observations say it is.
+			- Thinking something is true when observations don't say so.
+			- Inaccuracy in the confidence you have in a truth.
+			- Inaccuracy in the scope of the system: oftentimes truths discovered in other systems impact truths in the current system - when there is a more fundamental truth that impacts both.
+		- Conclusions drawn from previous observations (by you or others that you're relying on).
+	- Inaccuracies compound
+		- Inaccuracies compound with more layers, and the more complex a system becomes.
+		- So it's incredibly important to minimize inaccuracies as much as possible.
+	- How would someone go about minimizing inaccuracies?
+		- Better apparatus
+		- And greater verification, validation for the truths that others have discovered, that you rely on.
+		- But, how does the second type of inaccuracy happen? Self-delusion is the only explanation.
+		- My hunch is that most inaccuracies in the world are of the category of self-delusion.
+- **Self-delusion is the greatest cause for inaccuracies in seeking truth**
 	- Yet, there is one delusion that I haven't yet talked about, but I think is the greatest delusion that holds us back from seeking truth effectively. There are many people in the world with the right theoretical understanding of optimal truth seeking, who still fail to seek truth effectively.
 		- And it's easy to blame this on the factor of luck, whereas in reality it's not. In fact, given enough of a similar starting point, I think we overestimate the impact of luck.
 	- My hunch is that most inaccuracies in seeking truth aren't from the inaccuracies in tools, or anything of that sort, they mostly stem from our self-delusion. Our delusion about how our minds work, holds us back. 
@@ -50,6 +68,11 @@ II) Self-delusion is the greatest delusion
 	- Feelings are where our biases are embedded.
 	- How exactly it holds us back from effectively seeking truth.
 	- Take the simplest example of sending someone you love a message that you will regret when your mind settles.
+- **Collective delusion**
+	 - Collective delusion is raised to order of magnitude number of people.
+	- How can we **collectively** be better at seeking truth? The closer we get to the optimal truth seeking in all domains of human endeavor, the closer we get to doing the best we can possibly do.
+	- We are incredibly far from this optimal truth seeking. I'd guess somewhere around 0.01% of the world is close to optimal truth seeking. Just imagine the impact moving that decimal one to the right would have on our ability to tackle the greatest challenges for humanity?
+	- What more can we ask from ourselves?
 - **Intuition vs. bias**
 	- Hunch: perhaps these are along the same spectrum and only differ in intensity. When a feeling becomes so strong that it overpowers you, and blinds you, it is a bias.
 		- Or perhaps the qualifier "conscious of it" makes sense. Because, if you're conscious of it, you're less blinded by it.
@@ -115,11 +138,7 @@ III) Seeking truth is the only skill
 	 - The most robust identity to change is the ability to seek truth. If you're going to call yourself something, you ought to use a label that inherently correlates to seeking truth (it doesn't matter what the label is, if it doesn't correlate with seeking truth, it'll be irrelevant soon enough).
  - **The role of AI in seeking truth**
 	 - I believe AI will be an invaluable tool for seeking truth. (explain why at a high level - this is another essay).
- - **Collective self-delusion**
-	 - Collective delusion is raised to order of magnitude number of people.
-	- How can we **collectively** be better at seeking truth? The closer we get to the optimal truth seeking in all domains of human endeavor, the closer we get to doing the best we can possibly do.
-	- We are incredibly far from this optimal truth seeking. I'd guess somewhere around 0.01% of the world is close to optimal truth seeking. Just imagine the impact moving that decimal one to the right would have on our ability to tackle the greatest challenges for humanity?
-	- What more can we ask from ourselves?
+	 - In a way, the evolution of AI will show us what it even means to be "human".
 
 ---
 

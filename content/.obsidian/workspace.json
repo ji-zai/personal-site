@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/seek-truth-beats.md",
+                "file": "scratch/join-me.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "452ddd3de2cf3b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/What stops us from seeking truth optimally.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 224.5
   },
   "right": {
     "id": "53a6a9a1c72682b2",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/seek-truth-beats.md",
+                "file": "scratch/join-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/seek-truth-beats.md",
+                "file": "scratch/join-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/seek-truth-beats.md"
+                "file": "scratch/join-me.md"
               }
             }
           }
@@ -148,8 +160,12 @@
   },
   "active": "2dadb782e0a762f6",
   "lastOpenFiles": [
+    "scratch/create-truth-seeking-world.md",
+    "scratch/join-me.md",
+    "scratch/seek-truth-beats.md",
+    "scratch/What stops us from seeking truth optimally.md",
+    "scratch",
     "essays/seek-truth.md",
-    "essays/seek-truth-beats.md",
     "seek-truth/_self-notes.md",
     "seek-truth/0-system.md",
     "seek-truth/1-truth-and-delusion.md",
@@ -171,10 +187,7 @@
     "seek-truth/2-seeking-truth/3-team.md",
     "seek-truth/2-seeking-truth/1-feeling-thinking.md",
     "incentives/5-people.md",
-    "seek-truth/2-seeking-truth/5-nothing-else-remains.md",
     "incentives",
-    "essays",
-    "incentives/2-incentives/0-what-are-incentives.md",
-    "incentives/2-incentives/5-changing-incentives.md"
+    "essays"
   ]
 }

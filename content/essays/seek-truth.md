@@ -109,13 +109,56 @@ And when a more "fundamental" or general truth is uncovered with reasonable conf
 In other words, the process of seeking truths about a system is to uncover the most fundamental truths that can be used to predict the entire behavior of the system.
 ### It naturally follows that truth seeking skill follows a power law.
 
-When truths follow a power law, and the most valuable truths are orders of magnitude more powerful than the least, it naturally follows that a truth seeker who is better than another by a linear factor, will have exponentially greater results, in a sufficiently complex system, given enough time.
+When truths follow a power law, and the most valuable truths are orders of magnitude more powerful than the least, it naturally follows that a truth seeker who is better than another by a linear factor, will have exponentially greater results, given enough time.
 
-In the system above
+To see why, let's continue with the same example: trying to uncover the truth about a simple function f(x) = ax + b, where (a, b) can take values -100 to 100.
+
+In addition to Alice and Bob, let's add Chad and Amy as well. They each follow the following strategies:
+
+1. Bob: stops at f(1) = 1 and declares f(x) = 1 based on this result.
+2. Alice: f(1), f(2), f(-1), f(-2), f(0), and declares with reasonable confidence that f(x) = absolute_value(x)
+3. Amy: declares f(x) = 1 because someone she respect said it's probably that.
+4. Chad: f(1), f(2), f(3), f(4), f(5), and ends up declaring with reasonable confidence that f(x) = x.
+
+Now, let's see the number of possibilities in which each will fail at.
+
+The worst is Amy who will fail in all systems except for the one in which f(x) = 1.
+
+The next worst is Bob who will fail in all systems except for ones in which f(x) = f(1). This is better than Amy, but not by much.
+
+Then comes Chad, who will likely fail in systems in which f(-x) is not equal f(x) because they don't check nonpositive numbers to see the behavior of the system in those scenarios. They will be fine in an order of magnitude more systems than Amy and Bob, but will fall short by a significant margin from being able to uncover truths about any system of f(x).
+
+Amy will eventually be able to approximate any system of f(x) if she continues to move upwards and downwards as she has done so far.
+
+Out of these approaches, Amy's is the most generalizable one, and therefore is the most skillful approach. 
+
+As the complexity of the function increases, Amy's approach will be rewarded more.
+
+In this example, 
+
+Of course, these are only a sliver of the possible strategies that are possible. You could have someone that only chooses random numbers, or people that keep trying, but choose the same value over and over again (and see the same result over and over again), etc.
+
+But even in this small, contrived, example, we can see how some strategies perform way better than others.
+
+Now, it might seem to you that Bob, Chad and Amy are stupid for seeking truth the way they did. In fact, you may even wonder if they wanted to seek truth in the first place.
+
+But it only seems that way because this system is trivially small. 
+
+If we expand the system to be sufficiently complex, like any naturally occurring system (e.g. physical, biological, chemical, financial markets, etc.), or even complex contrived systems (advanced mathematics, complex computer software), you'll see that most of us take the approaches of Bob, Chad, and Amy.
+
+My hunch is that 99.99% of us take the approaches of Bob, Chad, and Amy, with the majority of us taking Amy's approach of blind belief (based on what someone has told us) for most of the things we believe to be true.
+### Fixed approaches perform poorly in complex, real-world systems
+
+In the above example, we saw that Amy did better than others. But even Amy's approach of following a fixed approach won't work in any complex system.
+
+Any system worth understanding is so complex that we can't hope to try out every single possibility in order to reach conclusions. And the "functions" that describe these systems' behaviors aren't as straightforward as f(x).
+
+They often have an incredible number of variables, may change over time, or even exhibit different behaviors in extreme scenarios that we can't extrapolate from what we've seen so far.
+### What stops us from seeking truth well in real-world systems?
+
 ### Is there an upper limit to how good you can be at seeking truth?
 
-### What stops us from seeking truth optimally?
-
+- Talk about this using the above section's points.
 ### Skill in seeking truth generalizes to any system.
 ### Self-delusion is the greatest obstacle to being great at seeking truth.
 

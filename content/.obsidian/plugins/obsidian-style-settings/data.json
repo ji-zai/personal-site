@@ -3,5 +3,10 @@
   "minimal-style@@h2-style": "italic",
   "minimal-style@@h2-l": true,
   "minimal-style@@h2-color@@light": "#325796",
-  "minimal-style@@h2-size": "1.5em"
+  "minimal-style@@h2-size": "1.5em",
+  "minimal-style@@h3-weight": 500,
+  "minimal-style@@active-line-on": true,
+  "minimal-style@@line-number-color-active@@light": "#F9F9F9",
+  "minimal-style@@active-line-bg@@light": "#FAFAFA",
+  "minimal-style@@p-spacing": "3rem"
 }

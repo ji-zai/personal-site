@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f34e9895869e1271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/seek-truth-beats.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -174,8 +162,8 @@
   "active": "2dadb782e0a762f6",
   "lastOpenFiles": [
     "scratch/seek-truth-beats.md",
-    "scratch/Is seeking truth a skill?.md",
     "essays/seek-truth.md",
+    "scratch/Is seeking truth a skill?.md",
     "scratch/join-me.md",
     "scratch/What stops us from seeking truth optimally.md",
     "scratch/create-truth-seeking-world.md",

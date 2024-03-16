@@ -1,0 +1,7 @@
+{
+  "minimal-style@@h2-variant": "all-small-caps",
+  "minimal-style@@h2-style": "italic",
+  "minimal-style@@h2-l": true,
+  "minimal-style@@h2-color@@light": "#325796",
+  "minimal-style@@h2-size": "1.5em"
+}

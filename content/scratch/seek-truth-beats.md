@@ -10,19 +10,21 @@ I) What is seeking truth?
 		- As I'll show below, the only thing stopping us is our ability to seek truth.
 - **Is seeking truth a skill?**
 	- What even is a "skill"?
+		- When something has a notion of "goodness" to it.
 	- Define "delusion" in order to better explain seeking truth.
 	- Contrived example of a small system that shows two individuals seeking the truth about it.
 	- There is a factor of luck, but given enough time you can factor it out.
 - **Not all truths are created equal**
 	- Fundamentality is what correlates with value for a truth.
+	- Confidence in a truth: we're not equally confident about truths 
 	- Power law of truths.
 	- Means slight difference in skill often results in massive difference in outcomes, given enough time.
 - **Truth seeking skill is generalizable**
 - **There is an optimal truth seeking strategy.**
-	- This is the best we can hope to do, there is literally nothing more we can do.
+	- This is the best we can hope to do, there is literally nothing more we can do. (Double down on this).
 	- Building this skill means that **you can be put in any system, and get what you want** out of it, given enough time.
 		- (Arrival movie).
-- **What stops us seeking truth optimally?**
+- **But, what stops us seeking truth optimally?**
 	- I.e. what are all of the delusions that we can have about a system?
 	- Inaccuracies in:
 		- Observation (apparatus inaccuracies)
@@ -59,10 +61,13 @@ II) Self-delusion is the greatest delusion
 	- Feeling definitely impacts thinking. And it seems like thinking may impact feeling as well. It seems like it.
 - **Sensitivity**
 	- My hunch is that most feeling is subconscious. Most of us, most of the time, have no idea what we're actually feeling.
-	- A simple example to illustrate this: tension building up over time without us realizing it. They say many illnesses are rooted in the build up of stress over long periods of time. We only take action when we perceive it strongly enough. But the truth is likely that it's been building up subconsciously for a long, long time.
-	- And this is why it is our "self-delusion" because we don't even see what's going on.
+	- There are plenty of examples that demonstrate this: 
+		- tension building up over time without us realizing it. They say many illnesses are rooted in the build up of stress over long periods of time. We only take action when we perceive it strongly enough. But the truth is likely that it's been building up subconsciously for a long, long time.
+		- Only realizing what you were feeling after the fact, not in the moment.
+	- And this is why it is our "self-delusion" because we're deluded about a system that governs our behavior.
 	- Is the degree to which you understand what you're actually feeling in this given moment.
-	- Sensitivity changes over time, and is probably influenced by many factors.
+	- Some notes on sensitivity:
+		- Changes over time. You could be more sensitive in one moment, but that sensitivity changes due to other factors (e.g. if you're feeling too stuffed, or have some great pain, you probably aren't as sensitive to other subtler feelings).
 - **Self-delusion.**
 	- What it is.
 	- Feelings are where our biases are embedded.
@@ -85,7 +90,7 @@ II) Self-delusion is the greatest delusion
 		- Einstein
 		- Richard Hamming: https://www.paulgraham.com/hamming.html
 	- Insight (might be a better word to use? Maybe it makes sense to reference it? Not sure.)
-- **The system of feeling**
+- **The system of feeling** (cut this?)
 	- Reframe everything using the language of systems.
 	- Adding "medium of observation" as a property of seeking truth.
 		- I.e. observation is done through feeling, not thinking, which means you cannot intellectualize what's happening: i.e. reading a study on how you feel anger when something happens is not the same as actually being aware of that anger.
@@ -94,6 +99,8 @@ II) Self-delusion is the greatest delusion
 	- **But, we are more similar than we think**. Globalization has shown this.
 	- Art, products, ideologies, culture transcend human made identity boundaries: language, religions, color, anything you can think of.
 	- Seeking your truth about your mind in the medium of feeling, will show you the nature of your own mind, as well as most other peoples'.
+
+III) Seeking truth is the only skill
 - **Truth seeking ability is generalizable, but only to the type of observation**
 	- Reference the generalizable above, but add to it the qualifier: "by medium". In fact, say that you were wrong above - it's a good way to emphasize that I'm figuring this out as we go as well!
 	- This is why you'll notice biases even in those that have the thinking muscle to seek truth.
@@ -117,8 +124,6 @@ II) Self-delusion is the greatest delusion
 	- If you can only seek truth in feeling, but don't have the necessary thinking muscle, you cannot execute on it. How do you communicate feeling to the world?
 	- If you can only seek truth in thinking, but are oblivious to the biases that feelings impose on the mind, you'll fail to see the most profound, obvious truths sitting right in front of you.
 	- It's easier to be objective about someone else's problems. It's only when we're in the midst of a feelings "storm" that it becomes difficult to see clearly.
-
-III) Seeking truth is the only skill
 - **How technology impacts seeking truth**
 	- Seeking truth is iteration: seek truth by "exploring" / "acting" in a system.
 	- All acts of creation fundamentally are a process of seeking truth.

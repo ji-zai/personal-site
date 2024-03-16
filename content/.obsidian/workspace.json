@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/join-me.md",
+                "file": "essays/seek-truth.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "452ddd3de2cf3b04",
+            "id": "c779074061980679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/What stops us from seeking truth optimally.md",
+                "file": "scratch/Is seeking truth a skill?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f34e9895869e1271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/seek-truth-beats.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "53a6a9a1c72682b2",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scratch/join-me.md",
+                "file": "essays/seek-truth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scratch/join-me.md",
+                "file": "essays/seek-truth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scratch/join-me.md"
+                "file": "essays/seek-truth.md"
               }
             }
           }
@@ -160,12 +173,14 @@
   },
   "active": "2dadb782e0a762f6",
   "lastOpenFiles": [
-    "scratch/create-truth-seeking-world.md",
-    "scratch/join-me.md",
     "scratch/seek-truth-beats.md",
-    "scratch/What stops us from seeking truth optimally.md",
-    "scratch",
+    "scratch/Is seeking truth a skill?.md",
     "essays/seek-truth.md",
+    "scratch/join-me.md",
+    "scratch/What stops us from seeking truth optimally.md",
+    "scratch/create-truth-seeking-world.md",
+    "scratch/old version.md",
+    "scratch",
     "seek-truth/_self-notes.md",
     "seek-truth/0-system.md",
     "seek-truth/1-truth-and-delusion.md",
@@ -185,8 +200,6 @@
     "seek-truth/4-next-steps/0-plan.md",
     "seek-truth/2-seeking-truth/2-individual.md",
     "seek-truth/2-seeking-truth/3-team.md",
-    "seek-truth/2-seeking-truth/1-feeling-thinking.md",
-    "incentives/5-people.md",
     "incentives",
     "essays"
   ]

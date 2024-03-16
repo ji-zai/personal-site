@@ -13,8 +13,10 @@ Team
 World
 - How we allocate resources.
 - Credentials no longer play an important role in identifying talent.
+- Remove all unnecessary gate-keeping to seeking the truth that you want. Basically remove all friction for seeking truth (and there are many!!!).
+- Don't teach anything beyond first principles. Let people follow natural inclination (minus the addiction of consumption: of substance or content. Need to be very careful here because in a world of abundance, natural inclination is often a straight path to addiction).
 - Equality of opportunity without equality of outcomes (the latter goes against )
 - A company is the most powerful truth seeking vehicle, even more so than academia - by far. What keeps academia in the picture is that they can tackle problems that may only show results on an extremely long time horizon. But that can be fixed for companies  (potentially - need to see how).
 - Don't create any artificial boundaries to seeking truth:
 	- It can be an intense process, let the people who seek truth intensely, seek truth that way. (e.g. if you make it illegal to work more than 4 days a week for any employee, you will only speed up truth seekers arriving on the optimal execution. They will first leave your country, and they will have to find a way to work hard on what they want).
-
+- Over-competition holds back seeking truth because it curbs ambition too much. Way too much.

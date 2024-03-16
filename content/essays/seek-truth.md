@@ -63,20 +63,51 @@ Alice starts by executing the function with 1 as well and sees that the function
 Alice continues to observe how the system behaves by executing it with more values.
 
 She tries 0 this time and observes the system show 0.
-She then tries -1, and observes 1.
 She then tries 2, and observes 2.
+
+By this point, she thinks the function may be f(x) = x with some confidence.
+
+She then tries -1, and observes 1.
+
+She realizes her mistake and now she thinks it might be f(x) = absolute_value(x)
+
 She then tries -2, and observes 2.
+### Absolute truths are rare; only iteratively increasing confidence in truths.
 
-By this point, she's reasonably confident that the function is f(x) = absolute_value(x)
+The more numbers she tries, the more confidently she believes f(x) = absolute_value(x).
 
-Now, let's say that the reality of the function is that it's actually f(x) = 1! This means Bob was right and after he published the truth he uncovered, various others could come, test it out and see that it is in fact true, and therefore Bob is correct.
-### There are rarely absolute truths, only greater confidence
-### There is an element of luck, but it converges to nothing with sufficient system complexity and time.
+The more values she observes, the more confident she becomes in the truth she's uncovered.
 
-The more complex the system, the less luck is involved.
+After having sufficient confidence, she shares with the world that she believes the system's behaviors is represented by the function f(x) = absolute_value(x), and shows her observations so that others can verify and give her feedback.
+
+In this example, it's clear that Bob wasn't just wrong, but that he was terrible at seeking truth. While Alice on the other hand was better than Bob.
+
+Now, let's say that the system was actually: f(x) = 1! This means Bob was right and discovered the truth more quickly than Alice, even though Alice was better than Bob at seeking truth.
+
+The only reasonable explanation for this is luck.
+### There is an element of luck, but it converges to nothing as a system becomes more complex and unknown.
+
+It's clear that even though Bob might have discovered the truth about the system earlier than Alice, Alice was more skilled in seeking truth than Bob because Alice is more likely to discover truth more quickly than Bob as the behavior of system become more complicated, or less likely to match how we feel the system might work.
 ### Not all truths are created equal.
-### Skill in seeking truth compounds.
-- The more truths you know, the faster your decisions become because there is less choice. Not only will you make decisions faster for what to observe and how to do so, you will make them much faster than others.
+
+In this example, the following are all truths about the system:
+1. f(1) = 1 (very high confidence)
+2. f(2) = 2 (very high confidence)
+3. f(-1) = -1 (very high confidence)
+4. f(-2) = -2 (very high confidence)
+5. f(0) = 0 (very high confidence)
+6. f(x) = x (reasonable confidence)
+
+Yet, the value of the last truth is significantly higher than all of the truths above because it gives you predictive power: it tells you the behavior of the system for things you haven't yet observed in the system.
+
+In the systems of the world, we've found that truths follow a power law: the more valuable truths are orders of magnitudes more valuable than the least valuable truths.
+
+And when a more "fundamental" or general truth is uncovered with reasonable confidence, it replaces many less fundamental truths because they can all be derived from the more fundamental truth.
+
+In other words, the process of seeking truths about a system is to uncover the most fundamental truths that can be used to predict the entire behavior of the system.
+### Truth seeking skill follows a power law.
+
+
 ### Skill in seeking truth generalizes to any system.
 ### Is there an upper limit to how good you can be at seeking truth?
 ### What stops us from seeking truth optimally?
@@ -123,7 +154,7 @@ So it's not feeling that's the issue, it's certain feelings that more intensely 
 I was wrong above when I said that skill in seeking truth generalizes to any system. It only generalizes to the medium of observation.
 ### Seeking truth well requires seeking truth in both mediums: thinking and feeling.
 ### Exponential rise in technology will make seeking truth the only skill that remains.
-### All valuable skills are derived from seeking truth.
+### All valuable skills are derived from the ability to seek truth.
 ### "Truth seeker" is the most robust identity.
 ### AI will show us what makes us human.
 ### How do we create a truth seeking world?

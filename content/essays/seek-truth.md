@@ -88,6 +88,8 @@ The only reasonable explanation for this is luck.
 ### There is an element of luck, but it converges to nothing as a system becomes more complex and unknown.
 
 It's clear that even though Bob might have discovered the truth about the system earlier than Alice, Alice was more skilled in seeking truth than Bob because Alice is more likely to discover truth more quickly than Bob as the behavior of system become more complicated, or less likely to match how we feel the system might work.
+
+- Something about the only luck that will remain is Alice's health: how long can she keep studying this system. If she's hit by a car tomorrow, yes that would still be quite unlucky, and skill in truth seeking in a particular system likely can't prevent that sort of misfortune.
 ### Not all truths are created equal.
 
 In this example, the following are all truths about the system:
@@ -107,7 +109,9 @@ And when a more "fundamental" or general truth is uncovered with reasonable conf
 In other words, the process of seeking truths about a system is to uncover the most fundamental truths that can be used to predict the entire behavior of the system.
 ### Truth seeking skill follows a power law.
 
+When truths follow a power law, and the most valuable truths are orders of magnitude more powerful than the least, it naturally follows that a truth seeker who is better than another by a linear factor, will have exponentially greater results.
 
+In the system above, 
 ### Skill in seeking truth generalizes to any system.
 ### Is there an upper limit to how good you can be at seeking truth?
 ### What stops us from seeking truth optimally?
@@ -153,6 +157,9 @@ So it's not feeling that's the issue, it's certain feelings that more intensely 
 
 I was wrong above when I said that skill in seeking truth generalizes to any system. It only generalizes to the medium of observation.
 ### Seeking truth well requires seeking truth in both mediums: thinking and feeling.
+- Understanding your own feelings enables you to understand others' feelings as well.
+- Mirror neurons: https://pubmed.ncbi.nlm.nih.gov/22957393/
+- Empathy = sensitivity to your own feelings which start to mirror others' when you engage with them.
 ### Exponential rise in technology will make seeking truth the only skill that remains.
 ### All valuable skills are derived from the ability to seek truth.
 ### "Truth seeker" is the most robust identity.
@@ -161,3 +168,4 @@ I was wrong above when I said that skill in seeking truth generalizes to any sys
 
 ## Notes
 - Those that seek truth in feelings have a more difficult time building a team that sustains the test of time because feelings are far more difficult to communicate than thinking. (is this true? Is it more likely for Studio Ghibli to fail than it is for, say, Google? - yeah, this isn't that clear).
+- Those that sufficiently understand how the mind works, can only wish for peace the world.

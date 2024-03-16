@@ -38,8 +38,42 @@ Our visible universe has an abundance of energy, water, and any other resource t
 
 An action is a skill when it has some notion of "goodness": there is a better and worse way to perform that action.
 
-In the context of seeking truth
-### There is an element of luck, but it converges to nothing.
+In the context of seeking truth, goodness correlates with how quickly you can seek truth about a system. (note: speed is the only quality that matters because time is our only scarcity).
+
+Which means, if it's possible to be better at seeking truth for a system, you're able to get what you want out of that system faster.
+
+Let's see why seeking truth is a skill by using a contrived example.
+
+Let's take a system that is a function f(x) = y. This function takes an argument (the variable x), and returns some value: y.
+
+Let's say that this is the first time we've encountered this system, and we have no idea what values it returns for any given value of x.
+
+And so, in this simple system, the process of seeking truth about it is to simply figure out what the function is.
+
+And we will seek truth by "executing" the function with different values of x until we're confident that we know what the function is (i.e. what "y" is).
+
+Let's take two people Alice and Bob, who want to seek truth about this system of a function.
+
+Bob starts by executing the function with the value 1 (a natural first choice) and sees that the function also outputs the number 1.
+
+Bob concludes that the function must be f(x) = 1, writes it down, shares it with the world to claim that he uncovered the truth about this system.
+
+Alice starts by executing the function with 1 as well and sees that the function also outputs 1. Alice makes no conclusion about this because she feels that she doesn't yet know the behavior of this system well enough to be able to conclusively say that she's uncovered its truth.
+
+Alice continues to observe how the system behaves by executing it with more values.
+
+She tries 0 this time and observes the system show 0.
+She then tries -1, and observes 1.
+She then tries 2, and observes 2.
+She then tries -2, and observes 2.
+
+By this point, she's reasonably confident that the function is f(x) = absolute_value(x)
+
+Now, let's say that the reality of the function is that it's actually f(x) = 1! This means Bob was right and after he published the truth he uncovered, various others could come, test it out and see that it is in fact true, and therefore Bob is correct.
+### There are rarely absolute truths, only greater confidence
+### There is an element of luck, but it converges to nothing with sufficient system complexity and time.
+
+The more complex the system, the less luck is involved.
 ### Not all truths are created equal.
 ### Skill in seeking truth compounds.
 - The more truths you know, the faster your decisions become because there is less choice. Not only will you make decisions faster for what to observe and how to do so, you will make them much faster than others.
@@ -94,4 +128,5 @@ I was wrong above when I said that skill in seeking truth generalizes to any sys
 ### AI will show us what makes us human.
 ### How do we create a truth seeking world?
 
-
+## Notes
+- Those that seek truth in feelings have a more difficult time building a team that sustains the test of time because feelings are far more difficult to communicate than thinking. (is this true? Is it more likely for Studio Ghibli to fail than it is for, say, Google? - yeah, this isn't that clear).

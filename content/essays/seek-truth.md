@@ -36,13 +36,14 @@ Technically, time is the only thing that is scarce for us. All other resources a
 Our visible universe has an abundance of energy, water, and any other resource that we depend on. Seeking truth is how we will learn to extract these resources such that they are no longer scarce for us.
 ### Clearly seeking truth is valuable. But is it a skill?
 
-Firstly, what makes something a skill?
+An action is a skill when it has some notion of "goodness": there is a better and worse way to perform that action.
 
-
-### What is the role of luck?
+In the context of seeking truth
+### There is an element of luck, but it converges to nothing.
 ### Not all truths are created equal.
 ### Skill in seeking truth compounds.
-### It's a generalizable skill.
+- The more truths you know, the faster your decisions become because there is less choice. Not only will you make decisions faster for what to observe and how to do so, you will make them much faster than others.
+### Skill in seeking truth generalizes to any system.
 ### Is there an upper limit to how good you can be at seeking truth?
 ### What stops us from seeking truth optimally?
 ### Self-delusion is the greatest obstacle to being great at seeking truth.
@@ -57,8 +58,7 @@ This implies that there's some feelings that are happening that you can't feel r
 ### You feel a lot more than you think you do.
 - There are probably studies out there that measure the feelings a person has (measured on body), vs. what they think they feel. Reference them.
 - Talk about my personal experience: the more sensitive I've made my mind, the more I see what I'm feeling, and I can say confidently that there have been many moments in the past when I felt that I was "balanced" or not aggravated or feeling anything, I was extremely self-deluded. (Key moment: when someone says calm down and I scream back "I'm calm!" - no one's stupid enough to really believe that in hindsight, yet we all have the tendency to say that - clearly self-deluded in the moment).
-### Feelings are where our biases are held.
-### Our feelings hold us back from seeking truth.
+### Our delusion about what we're feeling holds us back from seeking truth optimally.
 - Impatience is rooted in feeling.
 - Procrastination is rooted in feeling.
 - Lying ( / fraud) is rooted in feeling.
@@ -80,6 +80,7 @@ So it's not feeling that's the issue, it's certain feelings that more intensely 
 
 - There is a beautiful equation here that demonstrates the exponential nature of increase in delusion when you add an additional member to the team.
 - There is also a point to be made about the "weakest link": one sufficiently self-deluded teammate can bring the entire team down.
+- Talk about how companies fail as a consequence of collective delusion. Use the terminology from "What stops us from seeking truth optimally" section above - which list out all the ways in which we can be deluded about a system.
 ### Bias != intuition. (TODO: seek truth about this)
 
 ## III) Why seeking truth is the only skill

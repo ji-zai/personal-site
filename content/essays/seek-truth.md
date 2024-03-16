@@ -72,7 +72,7 @@ She then tries -1, and observes 1.
 She realizes her mistake and now she thinks it might be f(x) = absolute_value(x)
 
 She then tries -2, and observes 2.
-### Absolute truths are rare; only iteratively increasing confidence in truths.
+### It's rare to find absolute truths; only iteratively increasing confidence in truths.
 
 The more numbers she tries, the more confidently she believes f(x) = absolute_value(x).
 
@@ -85,7 +85,7 @@ In this example, it's clear that Bob wasn't just wrong, but that he was terrible
 Now, let's say that the system was actually: f(x) = 1! This means Bob was right and discovered the truth more quickly than Alice, even though Alice was better than Bob at seeking truth.
 
 The only reasonable explanation for this is luck.
-### There is an element of luck, but it converges to nothing as a system becomes more complex and unknown.
+### There is an element of luck, but it becomes nothing as a system becomes more complex and unknown, given enough time.
 
 It's clear that even though Bob might have discovered the truth about the system earlier than Alice, Alice was more skilled in seeking truth than Bob because Alice is more likely to discover truth more quickly than Bob as the behavior of system become more complicated, or less likely to match how we feel the system might work.
 
@@ -107,14 +107,16 @@ In the systems of the world, we've found that truths follow a power law: the mor
 And when a more "fundamental" or general truth is uncovered with reasonable confidence, it replaces many less fundamental truths because they can all be derived from the more fundamental truth.
 
 In other words, the process of seeking truths about a system is to uncover the most fundamental truths that can be used to predict the entire behavior of the system.
-### Truth seeking skill follows a power law.
+### It naturally follows that truth seeking skill follows a power law.
 
-When truths follow a power law, and the most valuable truths are orders of magnitude more powerful than the least, it naturally follows that a truth seeker who is better than another by a linear factor, will have exponentially greater results.
+When truths follow a power law, and the most valuable truths are orders of magnitude more powerful than the least, it naturally follows that a truth seeker who is better than another by a linear factor, will have exponentially greater results, in a sufficiently complex system, given enough time.
 
-In the system above, 
-### Skill in seeking truth generalizes to any system.
+In the system above
 ### Is there an upper limit to how good you can be at seeking truth?
+
 ### What stops us from seeking truth optimally?
+
+### Skill in seeking truth generalizes to any system.
 ### Self-delusion is the greatest obstacle to being great at seeking truth.
 
 ## II) Self-delusion is the greatest delusion

@@ -7,7 +7,7 @@ I started writing this essay to get a sense for what the most valuable skills wi
 And I believe even that distinction (internal vs. external) is only intellectual. Our ability to seek truth about the world we live in is directly, greatly, impacted by our ability to seek truth about ourselves. After all, your mind is your lens into the world; you can't trust it without understanding it.
 
 As AI becomes more powerful, the ability to seek truth will be the only skill that matters.
-## I) Seeking truth
+## I) On seeking truth
 ### What does "seeking truth" mean?
 
 By "truth" I mean some property or rule we can observe about a system that exists in reality.
@@ -18,7 +18,7 @@ The world we live in is made of such systems: physical, biological, chemical, et
 
 By "seeking truth", I mean the quest to understand the properties / rules of any system. 
 
-I love the word "seek" because I think it perfectly encapsulates a truth about seeking truth: it is a process of iteration that can only better approximate the reality of a system, without ever reaching it. If you ever reach complete understanding of a system, you've "found" truth, which is clearly far from being the case for most, if not all, systems we've encountered in nature.
+The word "seek" is accurate because it encapsulates a truth about seeking truth: it is a process of iteration that can only better approximate the reality of a system, without ever reaching it. If you ever reach complete understanding of a system, you've "found" truth, which is clearly far from being the case for most, if not all, systems we've encountered in nature.
 ### What's the point of seeking truth? 
 
 Well, if you have no wants, and are perfectly content with everything, there would be no point to seeking truth.

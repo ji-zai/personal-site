@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6516808e321a16ae",
+        "id": "8c130be353516441",
         "type": "tabs",
         "children": [
           {
-            "id": "2dadb782e0a762f6",
+            "id": "cd27ecf25937cf60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "53a6a9a1c72682b2",
@@ -147,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dadb782e0a762f6",
+  "active": "cd27ecf25937cf60",
   "lastOpenFiles": [
-    "essays/truth-seeking-world.md",
+    "scratch/seek-truth.md",
     "essays/seek-truth.md",
+    "scratch/boat-guy.md",
+    "essays/truth-seeking-world.md",
     "scratch/create-truth-seeking-world.md",
     "scratch/Is seeking truth a skill?.md",
     "scratch/seek-truth-beats.md",
@@ -174,8 +175,6 @@
     "seek-truth/4-next-steps/3-thanks.md",
     "seek-truth/4-next-steps/2-help.md",
     "seek-truth/4-next-steps/1-who-am-i.md",
-    "seek-truth/4-next-steps/0-plan.md",
-    "seek-truth/2-seeking-truth/2-individual.md",
     "incentives",
     "essays"
   ]

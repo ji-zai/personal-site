@@ -113,9 +113,11 @@ Another way to look at it is:
 
 It may seem that the way a person values a truth is purely subjective, and changes from person to person. That is mostly true, but there is objectivity to this as well.
 
-Two people with the same exact want, with sufficient time to seek truth about the systems that governs their want, will eventually converge towards the same values for truths.
+Two people with the same want, with sufficient time to seek truth about the systems that govern their want, will eventually converge towards the same values for truths pertaining to those systems.
 
-For example, 
+For example, world leaders who want to keep their countries safe would all value greatly the truths about how nuclear weapons operate.
+
+And we've found in practice that the values of truths follow the power law: the most valuable truths are orders of magnitudes more valuable than the least valuable ones. (note: may need to substantiate this a bit more).
 ### We each have a model for what we believe to be true
 
 - Think of model as DB w/ rows with the fields:

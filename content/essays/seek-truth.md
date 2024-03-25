@@ -75,7 +75,47 @@ From an individual or collective perspective, seeking truth is incredibly valuab
 
 ### A truth has a notion of value.
 
+From nature's perspective, things just exist, and value is a feature of a being that wants something. If you have no wants, there's no sense to value on truth over another.
 
+How you value a truth depends on what you want. The value corresponds to how much you believe that truth will enable you to get what you want.
+
+Therefore, you'd value one truth more than another if it gets you more of what you want, more quickly.
+
+**Predictive power** and **relevance** determine a truth's value.
+
+Predictive power is how much that truth tells about the systems that govern your want, in a way that enables you to act on it.
+
+There are two aspects to power: fundamentality, and precision.
+
+For someone building a bridge, the truth about the formula for gravity is far more valuable than the truth: "when you throw something up, it will fall back down".
+
+From the perspective of this engineer, both are true, but the formula for gravity tells them a lot more about the system they're operating in. They're able to **predict** how the system will behave without having to see that behavior.
+
+They can tell a lot more because they can **derive** a variety of behaviors from the formula for gravity. A truth is more fundamental the more things that can be derived from it.
+
+The know what forces will act on the bridge and can therefore plan for it without having to go through the process of building something that doesn't work, having it break, and then learning from it. This is invaluable.
+
+For a truth to have power, it also needs to be precise. Precision is having enough detail to be actionable.
+
+For example: "Ai is going to greatly change the world" is far weaker of a truth than knowing exactly how it will impact the world, in which ways. The person that believes the former may lead the person to learn more about AI, and perhaps make a few good long term investments. A person that knows the latter will be able to help build the future of AI.
+
+In a way, precision is required for a truth to be fundamental as well. An overly generic truth can't be used to derive anything from it. So these are different ways of describing what at the end of the day is simply **predictive power**.
+
+Yet, a powerful truth is useless to someone if it doesn't help them get what they want, i.e. it's not **relevant** to them.
+
+For a person in a village who desperately needs to build a boat to get across a large body of water, e = mc^2 isn't valuable at all, even though it is an incredibly powerful truth that tells a lot about the world we live in.
+
+Therefore, relevancy is critical for a person to value a truth.
+
+Another way to look at it is:
+- Relevancy is how **aligned** it is with your want.
+- Power is the **magnitude** of the truth.
+
+It may seem that the way a person values a truth is purely subjective, and changes from person to person. That is mostly true, but there is objectivity to this as well.
+
+Two people with the same exact want, with sufficient time to seek truth about the systems that governs their want, will eventually converge towards the same values for truths.
+
+For example, 
 ### We each have a model for what we believe to be true
 
 - Think of model as DB w/ rows with the fields:

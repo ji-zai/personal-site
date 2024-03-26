@@ -219,7 +219,23 @@ Some of the most successful people (in terms of being able to get what they want
 
 For example, Ramanujan pulling profound theories from "God" that all happened to be right. He didn't even get around to proving most before he died. Those that simply have a feel for things, and that feel happens to be true. They may try to explain things after the fact, but that explanation is constructed, not what they actually used to have high skill.
 ### Our model is trained by observing, understanding, predicting.
+To observe is to consciously perceive something happening. You can perceive this through any of your senses: see, hear, taste, feel, smell, or thinking (i.e. observing a thought).
 
+To understand is to update your model according to an observation.
+This update could involve changing a truth (i.e. the statement that represents a truth), changing your confidence in a truth, or changing how much you value a truth. And this update could impact multiple rows in your model.
+
+To predict is to: __.
+
+Each of these steps works towards increasing the power of your model to enable you to get what you want.
+
+- Each is a reaction to another.
+- The cycle: want -> observe -> understand -> predict -> want (this complicates the model to an extent that I don't think is necessary. Will see how to simplify without losing its essence).
+- What you want impacts every part of this process.
+	- Determines what you observe.
+	- Determines how you understand
+	- Determines what you predict.
+	- Because everything is to increase the power of your model to help you get what you want.
+- Patience: how much time you're able to spend on the process.
 ### Delusion compounds.
 
 ### It takes effort to seek truth, but effort itself is not truth seeking.
@@ -239,7 +255,6 @@ This is actually more profound than I first thought. You ought not to be attache
 - Make the claim that this change is happening every moment whether you realize it or not.
 - This is an incredibly important point. It will be a valuable reference in the next section where I dig into the mind.
 - Wants evolve predictably.
-
 ### Seeking truth is a skill.
 Firstly, what makes something a skill?
 Why are the differences so pronounced?
@@ -318,7 +333,12 @@ There are two directions to improve truth seeking ability: internal and external
 - Conscious vs. subconscious models.
 ### Learn by doing
 ### Choose the right identity
+
 ### Choose what you want
+### Remember what you want
+In the messy process of getting what you want, it's incredibly easy to forget what you wanted in the first place, or rather, subconsciously morphing what you want without your say.
+
+The act of reminding yourself of your want is critical in order to stay on course.
 ### Learn to put the mind at ease
 ### Minimize dogma
 The cost of dogmatic beliefs is rising exponentially in tandem with technology.

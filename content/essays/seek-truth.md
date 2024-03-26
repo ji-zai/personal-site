@@ -3,39 +3,62 @@ title: Seeking truth is the only skill
 date: April 2024
 ---
 - [[#On seeking truth|On seeking truth]]
+	- [[#On seeking truth#Intro|Intro]]
 	- [[#On seeking truth#What is truth?|What is truth?]]
+	- [[#On seeking truth#The nature of an individual mind.|The nature of an individual mind.]]
 	- [[#On seeking truth#Why seek truth?|Why seek truth?]]
 	- [[#On seeking truth#A truth has a notion of value.|A truth has a notion of value.]]
-	- [[#On seeking truth#You have an internal model for what you believe to be true|You have an internal model for what you believe to be true]]
-	- [[#On seeking truth#We iteratively update our model|We iteratively update our model]]
-	- [[#On seeking truth#Seeking truth is to observe, understand, predict.|Seeking truth is to observe, understand, predict.]]
+	- [[#On seeking truth#We each have a model for what we believe to be true|We each have a model for what we believe to be true]]
+	- [[#On seeking truth#Our model is trained by observing, understanding, predicting.|Our model is trained by observing, understanding, predicting.]]
+	- [[#On seeking truth#Delusion compounds.|Delusion compounds.]]
 	- [[#On seeking truth#It takes effort to seek truth, but effort itself is not truth seeking.|It takes effort to seek truth, but effort itself is not truth seeking.]]
 	- [[#On seeking truth#Everything changes, all at once, all the time.|Everything changes, all at once, all the time.]]
 	- [[#On seeking truth#Seeking truth is a skill.|Seeking truth is a skill.]]
 	- [[#On seeking truth#Is there luck?|Is there luck?]]
 	- [[#On seeking truth#What stops us from seeking truth effectively?|What stops us from seeking truth effectively?]]
 	- [[#On seeking truth#Seeking truth happens consciously and subconsciously.|Seeking truth happens consciously and subconsciously.]]
-- [[#Self-delusion is the greatest impediment to seeking truth|Self-delusion is the greatest impediment to seeking truth]]
-- [[#Seeking truth is the only thing that remains|Seeking truth is the only thing that remains]]
-	- [[#Seeking truth is the only thing that remains#How technology impacts seeking truth|How technology impacts seeking truth]]
-- [[#Notes|Notes]]
-	- [[#Notes#Training in truth seeking must be experiential. (Learn by doing).|Training in truth seeking must be experiential. (Learn by doing).]]
-	- [[#Notes#Impact of exponential rise in technology:|Impact of exponential rise in technology:]]
-	- [[#Notes#Want does not imply imbalance of the mind.|Want does not imply imbalance of the mind.]]
-	- [[#Notes#Skill in seeking truth follows a power law.|Skill in seeking truth follows a power law.]]
-	- [[#Notes#Dogma penalty|Dogma penalty]]
-	- [[#Notes#Quotes|Quotes]]
-	- [[#Notes#Truths are clustered.|Truths are clustered.]]
+- [[#Feeling vs. thinking|Feeling vs. thinking]]
+	- [[#Feeling vs. thinking#You have a feeling model alongside the thinking model|You have a feeling model alongside the thinking model]]
+	- [[#Feeling vs. thinking#How is the feeling model trained?|How is the feeling model trained?]]
+	- [[#Feeling vs. thinking#Most of the feeling model operates subconsciously.|Most of the feeling model operates subconsciously.]]
+	- [[#Feeling vs. thinking#Contradictions b/w/ feeling and thinking blinds you.|Contradictions b/w/ feeling and thinking blinds you.]]
+	- [[#Feeling vs. thinking#You are not what you think you are.|You are not what you think you are.]]
+	- [[#Feeling vs. thinking#Intuition vs. bias.|Intuition vs. bias.]]
+	- [[#Feeling vs. thinking#We are more similar than we think.|We are more similar than we think.]]
+	- [[#Feeling vs. thinking#The more wants you have, the more muddled your models.|The more wants you have, the more muddled your models.]]
+- [[#Seeking truth is the only skill that will remain|Seeking truth is the only skill that will remain]]
+	- [[#Seeking truth is the only skill that will remain#Technological advancement minimizes effort to seek truth.|Technological advancement minimizes effort to seek truth.]]
+	- [[#Seeking truth is the only skill that will remain#All other skills will perish.|All other skills will perish.]]
+	- [[#Seeking truth is the only skill that will remain#Artists and scientists are the same.|Artists and scientists are the same.]]
+	- [[#Seeking truth is the only skill that will remain#Inequality in outcomes will rise.|Inequality in outcomes will rise.]]
+	- [[#Seeking truth is the only skill that will remain#Don't depend on universal basic income.|Don't depend on universal basic income.]]
+- [[#How to be better at seeking truth|How to be better at seeking truth]]
+	- [[#How to be better at seeking truth#Internal: De-condition unwanted reactions|Internal: De-condition unwanted reactions]]
+	- [[#How to be better at seeking truth#Learn by doing|Learn by doing]]
+	- [[#How to be better at seeking truth#Choose the right identity|Choose the right identity]]
+	- [[#How to be better at seeking truth#Choose what you want|Choose what you want]]
+	- [[#How to be better at seeking truth#Learn to put the mind at ease|Learn to put the mind at ease]]
+	- [[#How to be better at seeking truth#Minimize dogma|Minimize dogma]]
+	- [[#How to be better at seeking truth#Only work on things that you truly want to work on|Only work on things that you truly want to work on]]
+	- [[#How to be better at seeking truth#Minimize effort|Minimize effort]]
+	- [[#How to be better at seeking truth#Collaborate|Collaborate]]
+- [[#Concluding thoughts|Concluding thoughts]]
+- [[#Asides|Asides]]
+	- [[#Asides#TODO|TODO]]
+	- [[#Asides#Quotes|Quotes]]
+	- [[#Asides#Truths are clustered.|Truths are clustered.]]
+	- [[#Asides#Breadth and depth|Breadth and depth]]
+	- [[#Asides#People are far less replaceable than we'd like to think|People are far less replaceable than we'd like to think]]
 
 ## On seeking truth
 
+### Intro
 To seek truth is to understand the reality of the world we live in so that we can get what we want from it.
 
 Seeking truth has been the most important skill in human history that has led to the progress we’ve had a species. Soon, I believe, it will be the only skill that matters.
 
 This essay is my attempt to understand what seeking truth actually means, what stops us from being good at it, and how its importance in our world will change as technological advancement accelerates.
 ### What is truth?
-
 A truth is a reality of a system. A system is anything that has some phenomena happening inside of it. Physics, biology, chemistry, are all systems with varying events, characteristics and rules that govern them.
 
 Because a truth is aligned with reality, it exists whether someone observes it, understands it, or even agrees with it. Gravity exists regardless of what anyone thinks about it.
@@ -49,9 +72,15 @@ And so seeking truth is the process of understanding a system as it exists in re
 The word “seek” means “try to find”. I think this describes the process of seeking truth well. Seeking truth is an iterative process that only gets you closer to the truth. We’ve yet to “find” the truth about any naturally occurring system, and from what we can tell, we understand very, very little of what is possible to understand. There is always more truth to be uncovered.
 
 In other words, seeking truth is an iterative process that only gets you closer to understanding the truths of a system.
+### The nature of an individual mind.
+- Wants
+- Wants more of what it wants after it gets it.
+- Wants what it wants as quickly as possible.
+- Patience?
+- Everything changes all the time. (not sure if here or to keep it for the beat later on).
 
+Show why this is true with some examples perhaps. Or maybe this isn't a necessary chapter at the moment. I'm not sure yet.
 ### Why seek truth?
-
 **We want things, and we want to get what we want as quickly as possible.** _(This will be a fundamental driving point through the entire essay. The want and intensity of that want dictates almost everything in the truth seeking process)._
 
 This is a fundamental truth about how the mind works for most, if not all, of us.
@@ -72,9 +101,7 @@ And so, the only that prevents us from having an abundance in resources is our l
 
 From an individual or collective perspective, seeking truth is incredibly valuable. Our progress as a species is grounded in our ability to seek truth about the world we live in, and about ourselves.
 
-
 ### A truth has a notion of value.
-
 From nature's perspective, things just exist, and value is a feature of a being that wants something. If you have no wants, there's no sense to value on truth over another.
 
 How you value a truth depends on what you want. The value corresponds to how much you believe that truth will enable you to get what you want.
@@ -117,55 +144,85 @@ Two people with the same want, with sufficient time to seek truth about the syst
 
 For example, world leaders who want to keep their countries safe would all value greatly the truths about how nuclear weapons operate.
 
+Therefore, from here on out, I'll refer to the "true value" of a truth for a given want to be the value that someone who has the want, and a complete understanding of all the systems that govern that want, would assign to this truth.
+
+It's easy to see how the "true value" often differs from the value we associate with a truth.
+
+For example (show an example of someone who discovers something for the first time thinks it's a game changing breakthrough, that is stupidly valuable, but it's only after you discover something more powerful that you learn to put the previously highly valued truth in its place. Or even better: what seems like an unnecessary truth today, may actually be an incredibly valuable once sufficient understanding ripens in adjacent systems).
+
 And we've found in practice that the values of truths follow the power law: the most valuable truths are orders of magnitudes more valuable than the least valuable ones. (note: may need to substantiate this a bit more).
+
+(Todo: patience definitely has a role to play in the value function. If you're being chased by a tiger and all you want is to find a way to escape, only the truths that enable immediate escape are valued, and all values for all other truths go down to 0 for as long as you feel like your life is in danger).
 ### We each have a model for what we believe to be true
+Think of this model as a spreadsheet with many rows, each corresponding to a truth you believe in.
 
-- Think of model as DB w/ rows with the fields:
-	- Truth
-	- Confidence
-	- Value
-- Truth is the statement that you believe in. Technically, unless this is perfectly aligned with reality, it is "what you believe to be true", not necessarily the truth.
-- Confidence is how much you believe this truth to be true.
-- Value is as defined above.
-- Each row in this DB also corresponds with "delusion" (0 - 1.0) that corresponds with how aligned this truth, and value are with the objective reality.
-- Power (model) = summing (value)(confidence)(1 - delusion). across all rows.
-- Seeking truth is the process of optimizing for the power of your model. This is done by:
-	- Increasing value.
-	- Increasing confidence.
-	- Decreasing delusion.
-- Delusion lives outside of your model, i.e. outside of your head. If you could see what you're deluded about at this moment in time, then it's not a delusion for you as you know what it is.
-	- (note: show an elegant image showing the model in a mind, and the delusion existing outside of that mind as the gap between the mind and reality).
-- Delusion can only be understood in hindsight: after you've removed yourself of the delusion, you can better see how it existed in the past, and the nature of what it was (i.e. to what extent you were deluded about what things).
-- Note: Increasing confidence seems straightforward - if it's in your own head, you can just make all your confidence high, for everything. But if you do this, you will drastically increase delusion - defeating your efforts.
-- Note: the power of your model has nothing to do with whether you have proof or evidence to back up your model. If it's high value (objectively), you have high confidence, with minimal delusion, you have a powerful model.
-	- *This might be better suited for when we start talking about the subconscious.*
-	- E.g. Ramanujan pulling profound theories from "God" that all happened to be right. He didn't even get around to proving most before he died.
-	- Those that simply have a feel for things, and that feel happens to be true. They may try to explain things after the fact, but that explanation is constructed, not what they actually used to have high skill.
-- This is of course oversimplified, but it seems to be enough of an approximation for what's going on to enable a useful exploration and discussion. Here are where it may fall short:
-	- Delusion ought to have a negative value as well, because some delusions don't just not add power, but actually remove power.
-	- Here we've clubbed both kinds of delusions into a single value: i.e. the delusion 
-### Our model is trained by observing, understanding, predicting
+Each row would have the following columns:
+1. Your truth (a statement).
+2. Confidence (how much you believe that your truth is actually aligned with reality).
+3. Value (how much you value this truth, as we discussed above).
 
-To **observe** is to "see" something happen.
+To help make sense of this model, let's give each field a range of values it can take:
+- Let's say that "your truth" is just a statement written in English / mathematical characters.
+- Let's say that "confidence" ranges from 0 to 1, such that 0 = no confidence, 1 = so confident that you'd be willing to bet your life on this truth.
+- Let's say that "value" can be any positive integer value.
 
-To **understand** is to interpret what we've observed and update our inner model to reflect it.
+This spreadsheet exists in your head. And each row in this spreadsheet also corresponds to a value of "delusion": how mis-aligned that row is from reality.
 
-For example, we could observe something that invalidates a truth we believe and so we update our inner model that negates the truth statement.
+And there are multiple dimensions in which a row can be mis-aligned: 
 
-Or we observe something that reinforces a hunch that we have, and we increase the confidence for that truth.
+The degree to which what you believe to be true isn't true.
+And the degree to which your value of a truth is different from its true value.
 
-Understanding is like a reaction to an observation, and can impact multiple truths in our model as part of the re-orienting of that inner model.
+Delusion lives outside of your model, i.e. outside of your head. If you could see what you're deluded about at this moment in time, then it's not a delusion for you as you know what it is.
 
-To **predict** is to extrapolate our understanding.
+For now, let's say "delusion" ranges from 0 to 1, such that 0 = no delusion, meaning that what you believe is the truth is perfectly aligned with reality (i.e. your truth is THE truth).
 
-(Need to speak to the importance of prediction, and how without it the learning process is killed - i.e. takes much longer than required).
+(note: show an elegant image showing the model in a mind, and the delusion existing outside of that mind as the gap between the mind and reality).
 
-Some people say that these happen in a cycle, but I think it’s quite a messy process. Sometimes a prediction will lead to an experiment to enable the observation that tests the prediction, but just as often a prediction can be followed by a subconscious observation rising to the conscious mind out of seemingly nowhere, etc.
+Delusion can only be understood in hindsight: after you've removed yourself of the delusion, you can better see how it existed in the past, and the nature of what it was (i.e. to what extent you were deluded about what things).
 
-Which is why I think it’s safer to call to call an iteration any update to the model. It doesn’t matter what the order of the operations are, an update is an update if your model changes.
+Your model gives you power. The more powerful your model is, the better you understand the systems that govern what you want in that moment, and the more you get of what you want, more quickly.
+
+And the power of your model is the power of all of your truths - i.e. each row in this spreadsheet that we're using to represent the model:
+
+Power of row = (value)(confidence)(1 - delusion).
+The power of the model is the sum of the powers for each row.
+
+Why this formula?
+
+If you believe in a truth that is valuable (i.e. relevant to your want, and powerful), and you have high confidence in it, then you have greater power because you can predict more about the systems that govern your want, and therefore are more able to get what you want.
+
+If you believe in a truth with low confidence, you have less power because you're less able to act on it as you're unsure whether it's actually true. The higher the cost of acting on it, the more you'll need to increase your confidence somehow before you can act on it.
+
+The (1 - delusion) exists as a penalty for being for being mis-aligned with reality. The more deluded you are, the less power you have.
+
+If you have high confidence in your truth, but your truth isn't close to reality, then you'll have a more difficult time getting what you want.
+
+A person that wants to build a bridge across a river that believes that gravity exerts no force on the bridge is extremely deluded and any bridge they build is likely to collapse as a result.
+
+Therefore, seeking truth is to increase the power of your model so that you can get what you want more quickly.
+
+And how would you do that?
+1. Increase value.
+2. Increase confidence.
+3. Reduce delusion.
+
+The way we've defined this model is inaccurate in some ways. As we explore the process in which this model gets updated, we'll be in a better position to improve it. For now it's directionally right in the sense that increasing value, confidence and decreasing delusion builds a more powerful model.
+
+Delusion is a critical piece of this equation. Without taking delusion into account, anyone could simply believe their truth had higher value than it actually does, or increase their confidence in it randomly, leading to a more powerful model.
+
+Unfortunately, there is a great penalty for delusion that makes this a difficult way to increase the power of your model.
+
+The power of your model has nothing to do with whether you can explain why you believe what you do. If it's high value (objectively), you have high confidence, with minimal delusion, you have a powerful model.
+
+Some of the most successful people (in terms of being able to get what they want), would fail to explain well enough why they believe what they do about the world and themselves.
+
+For example, Ramanujan pulling profound theories from "God" that all happened to be right. He didn't even get around to proving most before he died. Those that simply have a feel for things, and that feel happens to be true. They may try to explain things after the fact, but that explanation is constructed, not what they actually used to have high skill.
+### Our model is trained by observing, understanding, predicting.
+
+### Delusion compounds.
 
 ### It takes effort to seek truth, but effort itself is not truth seeking.
-
 *(Two images, and later an animation: a cycle - kind of like the apple watch health cycle - with each segment corresponding to a component of truth seeking, or effort. As technology becomes more powerful, the segments corresponding to effort get smaller. Have a slider that corresponds to the power of technology, and show the cycle animating to less / more effort based on position of slider. The change is exponential, not linear, so one step increase in slider at later stages should have massive decrease in effort - actually see if the exponential is with time or technology).*
 
 - Differentiate between seeking truth and the effort to seek truth using the visual.
@@ -178,14 +235,12 @@ But, as we'll see later, this is becoming far less of an impediment. The world i
 
 This is actually more profound than I first thought. You ought not to be attached to the effort / pain it takes to seek truth. That itself is a hindrance. Just as the Buddha didn’t benefit from overly starving himself (by following the thought that hurting yourself is the path to truth).
 ### Everything changes, all at once, all the time.
-
 - Every component of the process, including what you want, is constantly changing, all the time.
 - Make the claim that this change is happening every moment whether you realize it or not.
 - This is an incredibly important point. It will be a valuable reference in the next section where I dig into the mind.
 - Wants evolve predictably.
 
 ### Seeking truth is a skill.
-
 Firstly, what makes something a skill?
 Why are the differences so pronounced?
 
@@ -203,7 +258,6 @@ What are the aspects of the skill?
   - You cannot truth seek effectively for wants you don’t really want. (This really needs to be expanded well - an important point).
 
 ### Is there luck?
-
 (Reference: you are not a lottery ticket - I lean towards this as well, with a small caveat: it's healthy to delude yourself into believing there is minimal luck).
 
 This is actually quite tough to understand. There seem to be too many factors at play. But I do think you can show how the factor of luck reduces the more iterations that take place.
@@ -213,7 +267,6 @@ This also goes into the nature vs. nurture debate: Even if you root out all the 
 Of course, we don’t know if that disability can be reversed, it may not be as permanently crippling of a disability in the future, as we continue to seek truth about the nature of the human experience: mind and body.
 
 ### What stops us from seeking truth effectively?
-
 - All the types of delusion
 - Outcomes:
   - Local vs. global maxima. (this probably deserves its own section)
@@ -221,7 +274,6 @@ Of course, we don’t know if that disability can be reversed, it may not be as 
   - Delusion. (talk about this towards the end as a segue to the next chapter).
 
 ### Seeking truth happens consciously and subconsciously.
-
 (This should come after I explore what stops us from seeking truth effectively? Or rather, how can we get better at seeking truth? Because you can just look at each delusion).
 
 This will require some time to explain, do this at a high level, will dig into it in detail in the next section.
@@ -230,50 +282,45 @@ The skill is experiential, not intellectual.
 
 (Todo: there's a great example here with the fear that comes from burning your hand in fire, and how in the future even smelling something burning jolts you into caution, whereas the person who only understands it theoretically doesn't have a similar reaction).
 
-## Self-delusion is the greatest impediment to seeking truth
+## Feeling vs. thinking
 
+### You have a feeling model alongside the thinking model
+### How is the feeling model trained?
+We come into the world with a default feeling model (trained from evolution).
+- This doesn't seem to happen with the thinking model.
+- Why a baby fears things, or likes certain things. There is an underlying model that pushes them to do things.
+- There is clearly variability in the feeling model that someone can be born with - which is why babies have different tendencies. (There is natural such variance).
+### Most of the feeling model operates subconsciously.
+### Contradictions b/w/ feeling and thinking blinds you.
+
+### You are not what you think you are.
+### Intuition vs. bias.
+### We are more similar than we think.
+
+## Seeking truth is the only skill that will remain
+### Technological advancement minimizes effort to seek truth.
+### All other skills will perish.
+### Artists and scientists are the same.
+
+### Inequality in outcomes will rise.
+Eventually, in any field, only those who can seek truth will thrive.
+### Don't depend on universal basic income.
+I don't believe it will ever suffice.
+
+In order to take control of your destiny, you have no choice but to become better at seeking truth.
+## How to be better at seeking truth
+
+There are two directions to improve truth seeking ability: internal and external.
+### Internal: De-condition unwanted reactions
 (Title likely needs to be updated).
-
-And this is the only difference between great truth seekers, and those who aren’t.
-
-- Really dig into the conscious vs. subconscious models (this is actually the thinking model vs. the feeling model. It's just that most of feeling is subconscious so we don't realize what's happening).
 - Sensitivity
 - Mirror neurons: https://pubmed.ncbi.nlm.nih.gov/22957393/.
 - Conscious vs. subconscious models.
-
-## Seeking truth is the only thing that remains
-
-### How technology impacts seeking truth
-
-- As technology becomes more powerful, you too will have more power to get what you want, if you understand how to seek truth effectively.
-
-## Notes
-
-### Training in truth seeking must be experiential. (Learn by doing).
-
-- Every single thing in (“what exactly is the skill”) is achieved through the realm of feeling. You simply cannot have a hard and fast rule for it.
-### Impact of exponential rise in technology:
-
-(Following happen in tandem with power of technology:)
-
-- Value of truth seeking will increase.
-- Penalty of dogma will increase.
-- Penalty of delusion will increase.
-
-### Want does not imply imbalance of the mind.
-
-- This is a common misconception that needs to be thoroughly debunked.
-
-### Skill in seeking truth follows a power law.
-
-(I might be able to shove this into the section on the impact of technology on truth seeking, and society at large). -> This is in act 3 (why seeking truth is the ONLY skill).
-
-What is the right example to use to build this on?
-
-- A person who wants to get across a body of water.
-
-### Dogma penalty
-
+### Learn by doing
+### Choose the right identity
+### Choose what you want
+### Learn to put the mind at ease
+### Minimize dogma
 The cost of dogmatic beliefs is rising exponentially in tandem with technology.
 
 Historically, you could have a dogmatic belief and it may be true for a while before it was no longer true. As change happens exponentially faster, you can no longer believe in things that will be invalidated before you even get a chance to act on that belief.
@@ -287,6 +334,44 @@ The skill is in knowing when to do what. That’s always been the case, and incr
 
 (Patrick Collison talks about minimizing the number of things a company innovates on, and how the organizational structure should be left as is - since the fundamental nature of the human being hasn’t changed that much - but perhaps even the organizational structure needs to be re-evaluated).
 
+
+### Minimize wants.
+
+### Only work on things that you truly want to work on
+
+### Minimize effort
+- But this has nothing to do with the number of hours worked. That correlation is an absolute illusion.
+- (I.e. talk about how the flow state is the most productive, and how it's also the least draining) => it's entirely possible to put in more hours, while also being more relaxed at the end of it.
+- When you work in a direction that you truly resonate with, and you learn how to put the mind at ease.
+### Collaborate
+- It's easier to spot delusions in others than in yourself. Take advantage of this weakness of your mind, by teaming up with others.
+- Working with the right people is paramount. There is actually nothing else more important than this.
+- Characteristics of the right people to work with (basically people who embody the above points in this chapter).
+	- At least intellectually understands what it means to seek truth.
+	- Minimal wants.
+	- Knows how to put their mind at ease.
+	- Has the right identity
+	- Minimizes effort - i.e. isn't one to be attached to putting in more effort than is required for the sake of appearances.
+## Concluding thoughts
+
+*You get the gist, obviously improve this section*.
+
+I don't take any credit for these ideas. They're simply the byproduct of seeking truth about my mind and the world that I live in. And my mind is a product of other minds, therefore it's certain that my thinking has been heavily influenced by others.
+
+If they have some truth to them, then they most likely already exist in the world out there. In fact, if there is something truly novel, then it's likely my own delusion.
+
+I started writing this essay as a means to explore what I should work on next. And as I wrote more, I've learned that this is by far the most important and meaningful problem for me.
+
+Would appreciate feedback, etc. etc.
+
+## Asides
+
+### TODO
+
+Value function keeps changing! This information would be good to know by the time we dig into the model.
+- I need to emphasize how the value function adapts to the current want. And your wants change all the time. Therefore, throughout the day, your value function changes many, many times.
+- And therefore, your model changes through the day as well, many, many times, as it also depends on your value function.
+
 ### Quotes
 
 - “But in writing alone there is a danger that your interpretation of another human being will suffer from one-sidedness.” - Kurosawa (https://mysterymanonfilm.blogspot.com/2009/07/kurosawa-on-screenwriting.html)
@@ -294,6 +379,8 @@ The skill is in knowing when to do what. That’s always been the case, and incr
   - The greater the gap, multiplied by the intensities = tension.
 - **The less delusion you have, the less choice you have.** Choice is a byproduct of delusion. Very easy to show why.
 - As part of the “skill”, will need to derive all the qualities of a skilled truth seeker: intuition, judgement, taste, everything.
+
+“**I didn’t plan anything, I found it. (...) In my subconscious.**” (Le Guin 1975, Dreams Must Explain Themselves, p. 6) - **Ursula K. Le Guin** experienced much the same writing process when writing the Earthsea-series. Here are some remarks from her:
 
 ### Truths are clustered.
 (This eventually needs to go into the part about subconscious induced myopia.)
@@ -304,3 +391,12 @@ To be clear, similarity and clustering also only make sense when we view it from
 Each of us likely has a different clusterings of truths because we have different “similarity functions”.
 
 (With infinite time, we should, in theory, arrive at similar / the same / clusterings. Why is that? Because there is some sense of objectivity here even though it seems subjective (and this same point applies to the “value” above).
+### Breadth and depth
+- Breadth until you find the want that you have a great natural inclination towards.
+- And then depth - as deep as you can go.
+- Depth in one thing is translatable to depth in another because you have the necessary meta skill.
+- This is quite easy to show with examples.
+### People are far less replaceable than we'd like to think
+ - Transmitting feeling model information via thinking has tremendous loss of information. Like, most of the information is lost. And yet, as technology becomes powerful, this is where the most valuable information is embedded. Why? Because anything "thinking" is dogma - fixed in time. Without the "resolution" of feeling.
+ - This is why when someone like, say, Steve Jobs dies, the intuitions that guided his decision making were lost with him.
+- People are far less replaceable than our modern work culture makes us believe. And any "cog in the machine" roles will be invalidated as technology becomes more powerful.

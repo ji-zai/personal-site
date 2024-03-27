@@ -224,32 +224,47 @@ To observe is to consciously perceive something happening. You can perceive this
 To understand is to update your model according to an observation.
 This update could involve changing a truth (i.e. the statement that represents a truth), changing your confidence in a truth, or changing how much you value a truth. And this update could impact multiple rows in your model.
 
-To predict is to: __.
+To predict is to make guesses about truths that can't be directly inferred by what you've observed.
 
-Each of these steps works towards increasing the power of your model to enable you to get what you want.
+These guesses are stored in your model just like any other truth. They simply differ in that they have lower confidence. After all, a guess with a high confidence isn't really a guess.
 
-- Each is a reaction to another.
-- The cycle: want -> observe -> understand -> predict -> want (this complicates the model to an extent that I don't think is necessary. Will see how to simplify without losing its essence).
-- What you want impacts every part of this process.
-	- Determines what you observe.
-	- Determines how you understand
-	- Determines what you predict.
-	- Because everything is to increase the power of your model to help you get what you want.
-- Patience: how much time you're able to spend on the process.
+Each step of this process is like a reaction to the preceding step. It feels like a cycle.
+
+Observation triggers understanding.
+Understanding triggers prediction.
+Prediction triggers observation.
+
+How does prediction trigger observations?
+
+When you predict a truth, you'll want to test it out. Testing it out is nothing but observing the phenomena that validates (or invalidates) what you think is true. This is often done through an experiment.
+
+But that's not all that can trigger an observation. What you want influences what you observe as well.
+
+Even without predicting, as soon as you want something, your mind starts working to observe the things that it thinks will help you get what you want.
+
+And not only does your want influence your observation, it also influences what you predict and how you understand. You will likely only predict the truths that you value (i.e. that you believe will help you get what you want).
+
+After all, this only makes sense since this entire process works to maximize the power of your model (as we discussed above), and your model is only powerful if it helps you get what you want.
+
+Time is a scarcity and therefore anything that takes time uses the most valuable resource you have. There is a cost to each step of the process.
+
+Which means there's a factor of "patience" that determines how long you can stick to a step before moving on. I.e. how long you spend understanding, observing, predicting.
+
+The greater the cost of the observation, the greater the time spent on understanding and predicting because you want to make sure that the experiment you design validates the most valuable prediction possible, such that your model becomes more powerful, more quickly.
+
+Often, external circumstances create pressure to speed things up that makes time even scarcer. If you're being chased by a tiger, you have no time to validate your hunches about how to successfully escape, you're just going to do something or the other.
+
+There's also an internal aspect to patience: the longer it takes to get what you want, the more agitated you become. It's this nature of the mind that makes you want to get what you want as quickly as possible. And this is often the determining factor for when you stop at a step and move on.
+
+But, this isn't entirely true. Rather than "the longer it takes to get what you want", the more appropriate phrase is "the longer it takes to get the next hit of what you want". The former makes it sound like you don't get what you want until you've trained your model sufficiently, and that only when you act on the model you've trained, can you go get what you want.
+
+In reality, training your model requires you to act - in order to validate a prediction. This means that as you train your model, you will likely get what you want, and once you do, your want morphs to want better versions of what you got, in greater magnitude, more quickly.
+
+This is the cycle that keeps pushing us to want better and better things. It's only when a want is fulfilled does it transform to wanting better things. This applies to learning as well: you want to understand a simple system, and once you understand it, you will naturally want to understand more complex systems.
+### Truths are clustered
+(Use this to refine the model above).
 ### Delusion compounds.
-
-### It takes effort to seek truth, but effort itself is not truth seeking.
-*(Two images, and later an animation: a cycle - kind of like the apple watch health cycle - with each segment corresponding to a component of truth seeking, or effort. As technology becomes more powerful, the segments corresponding to effort get smaller. Have a slider that corresponds to the power of technology, and show the cycle animating to less / more effort based on position of slider. The change is exponential, not linear, so one step increase in slider at later stages should have massive decrease in effort - actually see if the exponential is with time or technology).*
-
-- Differentiate between seeking truth and the effort to seek truth using the visual.
-
-You might have the question: even with a powerful model, if you can't act in the world according to it, or if the world isn't organized in a way that allows you to implement your model, then you're not really that powerful despite having a powerful model.
-
-And you'd be right. There are ample evidences in history of great truth seekers in a variety of fields end up with truths that they can't act on because they weren't able to exert the effort required to do so, due to a lack of leverage: technology & / or people.
-
-But, as we'll see later, this is becoming far less of an impediment. The world is rapidly evolving such that those with more powerful models will be more powerful because the friction to acting on them is rapidly falling.
-
-This is actually more profound than I first thought. You ought not to be attached to the effort / pain it takes to seek truth. That itself is a hindrance. Just as the Buddha didn’t benefit from overly starving himself (by following the thought that hurting yourself is the path to truth).
+(Use this to make the equation more accurate - reference the truths are clustered to show just how easy it is to climb the wrong hill).
 ### Everything changes, all at once, all the time.
 - Every component of the process, including what you want, is constantly changing, all the time.
 - Make the claim that this change is happening every moment whether you realize it or not.
@@ -311,9 +326,24 @@ We come into the world with a default feeling model (trained from evolution).
 ### You are not what you think you are.
 ### Intuition vs. bias.
 ### We are more similar than we think.
+### The more wants you have, the more muddled truth seeking becomes.
 
 ## Seeking truth is the only skill that will remain
+
+### It takes effort to seek truth, but effort itself is not truth seeking.
+*(Two images, and later an animation: a cycle - kind of like the apple watch health cycle - with each segment corresponding to a component of truth seeking, or effort. As technology becomes more powerful, the segments corresponding to effort get smaller. Have a slider that corresponds to the power of technology, and show the cycle animating to less / more effort based on position of slider. The change is exponential, not linear, so one step increase in slider at later stages should have massive decrease in effort - actually see if the exponential is with time or technology).*
+
+- Differentiate between seeking truth and the effort to seek truth using the visual.
+
+You might have the question: even with a powerful model, if you can't act in the world according to it, or if the world isn't organized in a way that allows you to implement your model, then you're not really that powerful despite having a powerful model.
+
+And you'd be right. There are ample evidences in history of great truth seekers in a variety of fields end up with truths that they can't act on because they weren't able to exert the effort required to do so, due to a lack of leverage: technology & / or people.
+
+But, as we'll see later, this is becoming far less of an impediment. The world is rapidly evolving such that those with more powerful models will be more powerful because the friction to acting on them is rapidly falling.
+
+This is actually more profound than I first thought. You ought not to be attached to the effort / pain it takes to seek truth. That itself is a hindrance. Just as the Buddha didn’t benefit from overly starving himself (by following the thought that hurting yourself is the path to truth).
 ### Technological advancement minimizes effort to seek truth.
+- Start with history, and then come to the modern day. Show, 
 ### All other skills will perish.
 ### Artists and scientists are the same.
 
@@ -323,6 +353,8 @@ Eventually, in any field, only those who can seek truth will thrive.
 I don't believe it will ever suffice.
 
 In order to take control of your destiny, you have no choice but to become better at seeking truth.
+### How to be better at seeking truth
+(Short version of what will be a much longer essay).
 ## How to be better at seeking truth
 
 There are two directions to improve truth seeking ability: internal and external.

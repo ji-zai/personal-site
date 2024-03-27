@@ -262,7 +262,33 @@ In reality, training your model requires you to act - in order to validate a pre
 
 This is the cycle that keeps pushing us to want better and better things. It's only when a want is fulfilled does it transform to wanting better things. This applies to learning as well: you want to understand a simple system, and once you understand it, you will naturally want to understand more complex systems.
 ### Truths are clustered
+There's a sense of similarity between truths.
 
+For a person who wants to get across a lake, the truths: "wood floats on water", and "a sail can propel with wind", are far more similar than the truth "gold sinks in water" is with either of them.
+
+Why is that? Because a person who wants to get across a body of water is probably not going to predict something about the floating nature of gold in water, as it's so unrelated to what they want. Similarly, they wouldn't predict the kind of insects that live in the wood after they understand "wood floats on water".
+
+In other words, the similarity between two truths is the likelihood of you predicting one as a reaction to the understanding of the other.
+
+Similarity doesn't seem to fully depend on the value the truths. You won't always predict truths that are valuable, and more often than not you'll predict a bunch of truths that are useless before you start to predict more useful ones. 
+
+So similarity(t1, t2) and value(t) seem to be independent functions.
+
+Similarity also impacts what you observe, because an observation can be a reaction to a prediction, and so if the similarity function determines prediction, it will impact observation since you'll only create experiments for what you predict. (note: what about the observation that is a direction reaction to a want and not a prediction?)
+
+This similarity function creates "clusters" of truths. Therefore, as you seek truth, you'll tend to understand it in clusters.
+
+Over time, as you understand more of the systems that govern your want, you'll realize that some clusters are much closer than you initially thought they were. (todo: show a good example for this).
+
+Similar to the value function, there is a sense of objectivity to the similarity function, or in other words there's a "true similarity" between two truths, for a given want.
+
+Two individuals with the same want, given infinite time to seek truth, will eventually converge on the same similarity function.
+
+They'd have no choice but to see the similarity between two truths that initially seemed far apart if those two truths work together to help them get what they want.
+
+For example, most people thought that the truths about rubber and metal were two "far apart" clusters of truths until we invented tools and materials that utilized both (like car tires). 
+
+Then, they became more similar truths. When someone thinks about how to use rubber to get what they want, they're now more likely to think about the truths about metals as a way to reinforce the rubber in more useful ways. (todo: there's definitely a better example, but this conveys the gist of what I'm trying to get at).
 ### Delusion compounds.
 (Use this to make the equation more accurate - reference the truths are clustered to show just how easy it is to climb the wrong hill).
 ### Everything changes, all at once, all the time.
@@ -346,7 +372,8 @@ This is actually more profound than I first thought. You ought not to be attache
 - Start with history, and then come to the modern day. Show, 
 ### All other skills will perish.
 ### Artists and scientists are the same.
-
+They're just seeking truths for different wants, and different mediums often. The difference is only in the distribution of thinking vs. feeling.
+https://www.youtube.com/watch?v=4ur3l2GKWzk
 ### Inequality in outcomes will rise.
 Eventually, in any field, only those who can seek truth will thrive.
 ### Don't depend on universal basic income.
@@ -423,7 +450,6 @@ Would appreciate feedback, etc. etc.
 Value function keeps changing! This information would be good to know by the time we dig into the model.
 - I need to emphasize how the value function adapts to the current want. And your wants change all the time. Therefore, throughout the day, your value function changes many, many times.
 - And therefore, your model changes through the day as well, many, many times, as it also depends on your value function.
-
 ### Quotes
 
 - “But in writing alone there is a danger that your interpretation of another human being will suffer from one-sidedness.” - Kurosawa (https://mysterymanonfilm.blogspot.com/2009/07/kurosawa-on-screenwriting.html)

@@ -262,7 +262,7 @@ In reality, training your model requires you to act - in order to validate a pre
 
 This is the cycle that keeps pushing us to want better and better things. It's only when a want is fulfilled does it transform to wanting better things. This applies to learning as well: you want to understand a simple system, and once you understand it, you will naturally want to understand more complex systems.
 ### Truths are clustered
-(Use this to refine the model above).
+
 ### Delusion compounds.
 (Use this to make the equation more accurate - reference the truths are clustered to show just how easy it is to climb the wrong hill).
 ### Everything changes, all at once, all the time.

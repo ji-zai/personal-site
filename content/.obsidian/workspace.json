@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "53a6a9a1c72682b2",
@@ -147,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd27ecf25937cf60",
+  "active": "0204e9daa9e36860",
   "lastOpenFiles": [
-    "scratch/What makes a model powerful?.md",
+    "scratch/How to be better at seeking truth.md",
+    "essays/Untitled.md",
     "essays/seek-truth.md",
+    "scratch/What makes a model powerful?.md",
     "scratch/seek-truth.md",
     "scratch/boat-guy.md",
     "essays/truth-seeking-world.md",
@@ -174,8 +175,6 @@
     "seek-truth/10-next-steps.md",
     "seek-truth/9-truth-seeking-world.md",
     "seek-truth/8-truth-seeking-team.md",
-    "seek-truth/4-next-steps/3-thanks.md",
-    "seek-truth/4-next-steps/2-help.md",
     "incentives",
     "essays"
   ]

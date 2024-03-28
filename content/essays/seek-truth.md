@@ -2,55 +2,7 @@
 title: Seeking truth is the only skill
 date: April 2024
 ---
-- [[#On seeking truth|On seeking truth]]
-	- [[#On seeking truth#Intro|Intro]]
-	- [[#On seeking truth#What is truth?|What is truth?]]
-	- [[#On seeking truth#The nature of an individual mind.|The nature of an individual mind.]]
-	- [[#On seeking truth#Why seek truth?|Why seek truth?]]
-	- [[#On seeking truth#A truth has a notion of value.|A truth has a notion of value.]]
-	- [[#On seeking truth#We each have a model for what we believe to be true|We each have a model for what we believe to be true]]
-	- [[#On seeking truth#Our model is trained by observing, understanding, predicting.|Our model is trained by observing, understanding, predicting.]]
-	- [[#On seeking truth#Delusion compounds.|Delusion compounds.]]
-	- [[#On seeking truth#It takes effort to seek truth, but effort itself is not truth seeking.|It takes effort to seek truth, but effort itself is not truth seeking.]]
-	- [[#On seeking truth#Everything changes, all at once, all the time.|Everything changes, all at once, all the time.]]
-	- [[#On seeking truth#Seeking truth is a skill.|Seeking truth is a skill.]]
-	- [[#On seeking truth#Is there luck?|Is there luck?]]
-	- [[#On seeking truth#What stops us from seeking truth effectively?|What stops us from seeking truth effectively?]]
-	- [[#On seeking truth#Seeking truth happens consciously and subconsciously.|Seeking truth happens consciously and subconsciously.]]
-- [[#Feeling vs. thinking|Feeling vs. thinking]]
-	- [[#Feeling vs. thinking#You have a feeling model alongside the thinking model|You have a feeling model alongside the thinking model]]
-	- [[#Feeling vs. thinking#How is the feeling model trained?|How is the feeling model trained?]]
-	- [[#Feeling vs. thinking#Most of the feeling model operates subconsciously.|Most of the feeling model operates subconsciously.]]
-	- [[#Feeling vs. thinking#Contradictions b/w/ feeling and thinking blinds you.|Contradictions b/w/ feeling and thinking blinds you.]]
-	- [[#Feeling vs. thinking#You are not what you think you are.|You are not what you think you are.]]
-	- [[#Feeling vs. thinking#Intuition vs. bias.|Intuition vs. bias.]]
-	- [[#Feeling vs. thinking#We are more similar than we think.|We are more similar than we think.]]
-	- [[#Feeling vs. thinking#The more wants you have, the more muddled your models.|The more wants you have, the more muddled your models.]]
-- [[#Seeking truth is the only skill that will remain|Seeking truth is the only skill that will remain]]
-	- [[#Seeking truth is the only skill that will remain#Technological advancement minimizes effort to seek truth.|Technological advancement minimizes effort to seek truth.]]
-	- [[#Seeking truth is the only skill that will remain#All other skills will perish.|All other skills will perish.]]
-	- [[#Seeking truth is the only skill that will remain#Artists and scientists are the same.|Artists and scientists are the same.]]
-	- [[#Seeking truth is the only skill that will remain#Inequality in outcomes will rise.|Inequality in outcomes will rise.]]
-	- [[#Seeking truth is the only skill that will remain#Don't depend on universal basic income.|Don't depend on universal basic income.]]
-- [[#How to be better at seeking truth|How to be better at seeking truth]]
-	- [[#How to be better at seeking truth#Internal: De-condition unwanted reactions|Internal: De-condition unwanted reactions]]
-	- [[#How to be better at seeking truth#Learn by doing|Learn by doing]]
-	- [[#How to be better at seeking truth#Choose the right identity|Choose the right identity]]
-	- [[#How to be better at seeking truth#Choose what you want|Choose what you want]]
-	- [[#How to be better at seeking truth#Learn to put the mind at ease|Learn to put the mind at ease]]
-	- [[#How to be better at seeking truth#Minimize dogma|Minimize dogma]]
-	- [[#How to be better at seeking truth#Only work on things that you truly want to work on|Only work on things that you truly want to work on]]
-	- [[#How to be better at seeking truth#Minimize effort|Minimize effort]]
-	- [[#How to be better at seeking truth#Collaborate|Collaborate]]
-- [[#Concluding thoughts|Concluding thoughts]]
-- [[#Asides|Asides]]
-	- [[#Asides#TODO|TODO]]
-	- [[#Asides#Quotes|Quotes]]
-	- [[#Asides#Truths are clustered.|Truths are clustered.]]
-	- [[#Asides#Breadth and depth|Breadth and depth]]
-	- [[#Asides#People are far less replaceable than we'd like to think|People are far less replaceable than we'd like to think]]
-
-## On seeking truth
+## What is seeking truth?
 
 ### Intro
 To seek truth is to understand the reality of the world we live in so that we can get what we want from it.
@@ -153,7 +105,7 @@ For example (show an example of someone who discovers something for the first ti
 And we've found in practice that the values of truths follow the power law: the most valuable truths are orders of magnitudes more valuable than the least valuable ones. (note: may need to substantiate this a bit more).
 
 (Todo: patience definitely has a role to play in the value function. If you're being chased by a tiger and all you want is to find a way to escape, only the truths that enable immediate escape are valued, and all values for all other truths go down to 0 for as long as you feel like your life is in danger).
-### We each have a model for what we believe to be true
+### We have a model for what we believe
 Think of this model as a spreadsheet with many rows, each corresponding to a truth you believe in.
 
 Each row would have the following columns:
@@ -218,7 +170,7 @@ The power of your model has nothing to do with whether you can explain why you b
 Some of the most successful people (in terms of being able to get what they want), would fail to explain well enough why they believe what they do about the world and themselves.
 
 For example, Ramanujan pulling profound theories from "God" that all happened to be right. He didn't even get around to proving most before he died. Those that simply have a feel for things, and that feel happens to be true. They may try to explain things after the fact, but that explanation is constructed, not what they actually used to have high skill.
-### Our model is trained by observing, understanding, predicting.
+### We learn by observing, understanding, predicting.
 To observe is to consciously perceive something happening. You can perceive this through any of your senses: see, hear, taste, feel, smell, or thinking (i.e. observing a thought).
 
 To understand is to update your model according to an observation.
@@ -289,38 +241,18 @@ They'd have no choice but to see the similarity between two truths that initiall
 For example, most people thought that the truths about rubber and metal were two "far apart" clusters of truths until we invented tools and materials that utilized both (like car tires). 
 
 Then, they became more similar truths. When someone thinks about how to use rubber to get what they want, they're now more likely to think about the truths about metals as a way to reinforce the rubber in more useful ways. (todo: there's definitely a better example, but this conveys the gist of what I'm trying to get at).
-### Delusion compounds.
-(Use this to make the equation more accurate - reference the truths are clustered to show just how easy it is to climb the wrong hill).
+
 ### Everything changes, all at once, all the time.
 - Every component of the process, including what you want, is constantly changing, all the time.
 - Make the claim that this change is happening every moment whether you realize it or not.
 - This is an incredibly important point. It will be a valuable reference in the next section where I dig into the mind.
 - Wants evolve predictably.
-### Seeking truth is a skill.
-Firstly, what makes something a skill?
-Why are the differences so pronounced?
+## Seeking truth is a skill
 
-The skill that matters is experiential, not intellectual.
-You can't train this skill by simply reading a book or even listening to someone else's experiences.
-
-What are the aspects of the skill?
-
-- Accurately assessing the value of a truth. (i.e. correctly prioritizing).
-- Maximizing the speed at which confidence is increased while minimizing delusion.
-- Designing your wants to not limit your view. (this goes even further into designing your own identity to not limit your view).
-- Knowing when to shift attention to reducing effort (speed up iteration), and when to shift back to the core truth seeking.
-- Knowing when to stop generating predictions and go execute / knowing when to keep generating more predictions because there is a significantly better approach that is worth the wait.
-- Keeping your want consistent, or understanding when you don’t really want something and switching to something you want as soon as possible.
-  - You cannot truth seek effectively for wants you don’t really want. (This really needs to be expanded well - an important point).
-
-### Is there luck?
-(Reference: you are not a lottery ticket - I lean towards this as well, with a small caveat: it's healthy to delude yourself into believing there is minimal luck).
-
-This is actually quite tough to understand. There seem to be too many factors at play. But I do think you can show how the factor of luck reduces the more iterations that take place.
-
-This also goes into the nature vs. nurture debate: Even if you root out all the luck in the world, there’s still likely a factor of luck of birth: perhaps there are some who have different upper bounds in skill than others for reasons that we can’t yet see. It’s quite difficult to comprehensively make sense of this with our current understanding, but we can easily see the extreme cases: highly mentally challenged individuals will have difficulty in seeking truth effectively.
-
-Of course, we don’t know if that disability can be reversed, it may not be as permanently crippling of a disability in the future, as we continue to seek truth about the nature of the human experience: mind and body.
+### Delusion compounds.
+(Use this to make the equation more accurate - reference the truths are clustered to show just how easy it is to climb the wrong hill).
+### Seeking truth follows the power law
+### Skill vs. luck?
 
 ### What stops us from seeking truth effectively?
 - All the types of delusion
@@ -328,7 +260,7 @@ Of course, we don’t know if that disability can be reversed, it may not be as 
   - Local vs. global maxima. (this probably deserves its own section)
   - Too many wants.
   - Delusion. (talk about this towards the end as a segue to the next chapter).
-
+## We hold ourselves back
 ### Seeking truth happens consciously and subconsciously.
 (This should come after I explore what stops us from seeking truth effectively? Or rather, how can we get better at seeking truth? Because you can just look at each delusion).
 
@@ -337,24 +269,20 @@ This will require some time to explain, do this at a high level, will dig into i
 The skill is experiential, not intellectual.
 
 (Todo: there's a great example here with the fear that comes from burning your hand in fire, and how in the future even smelling something burning jolts you into caution, whereas the person who only understands it theoretically doesn't have a similar reaction).
-
-## Feeling vs. thinking
-
-### You have a feeling model alongside the thinking model
+### Feeling & thinking
 ### How is the feeling model trained?
 We come into the world with a default feeling model (trained from evolution).
 - This doesn't seem to happen with the thinking model.
 - Why a baby fears things, or likes certain things. There is an underlying model that pushes them to do things.
 - There is clearly variability in the feeling model that someone can be born with - which is why babies have different tendencies. (There is natural such variance).
-### Most of the feeling model operates subconsciously.
-### Contradictions b/w/ feeling and thinking blinds you.
+### Most of our feelings are subconscious.
+### Contradictions b/w/ feeling and thinking blinds us.
 
 ### You are not what you think you are.
 ### Intuition vs. bias.
 ### We are more similar than we think.
-### The more wants you have, the more muddled truth seeking becomes.
 
-## Seeking truth is the only skill that will remain
+## Seeking truth is the only thing that remains
 
 ### It takes effort to seek truth, but effort itself is not truth seeking.
 *(Two images, and later an animation: a cycle - kind of like the apple watch health cycle - with each segment corresponding to a component of truth seeking, or effort. As technology becomes more powerful, the segments corresponding to effort get smaller. Have a slider that corresponds to the power of technology, and show the cycle animating to less / more effort based on position of slider. The change is exponential, not linear, so one step increase in slider at later stages should have massive decrease in effort - actually see if the exponential is with time or technology).*
@@ -382,55 +310,6 @@ I don't believe it will ever suffice.
 In order to take control of your destiny, you have no choice but to become better at seeking truth.
 ### How to be better at seeking truth
 (Short version of what will be a much longer essay).
-## How to be better at seeking truth
-
-There are two directions to improve truth seeking ability: internal and external.
-### Internal: De-condition unwanted reactions
-(Title likely needs to be updated).
-- Sensitivity
-- Mirror neurons: https://pubmed.ncbi.nlm.nih.gov/22957393/.
-- Conscious vs. subconscious models.
-### Learn by doing
-### Choose the right identity
-
-### Choose what you want
-### Remember what you want
-In the messy process of getting what you want, it's incredibly easy to forget what you wanted in the first place, or rather, subconsciously morphing what you want without your say.
-
-The act of reminding yourself of your want is critical in order to stay on course.
-### Learn to put the mind at ease
-### Minimize dogma
-The cost of dogmatic beliefs is rising exponentially in tandem with technology.
-
-Historically, you could have a dogmatic belief and it may be true for a while before it was no longer true. As change happens exponentially faster, you can no longer believe in things that will be invalidated before you even get a chance to act on that belief.
-
-All of the following are dogmatic beliefs:
-
-- “Work less”, “work more”
-- “Move fast”, “move slow”.
-
-The skill is in knowing when to do what. That’s always been the case, and increasingly that will be the only viable option, you can’t risk blindly following a belief system without seeking the truth about it.
-
-(Patrick Collison talks about minimizing the number of things a company innovates on, and how the organizational structure should be left as is - since the fundamental nature of the human being hasn’t changed that much - but perhaps even the organizational structure needs to be re-evaluated).
-
-
-### Minimize wants.
-
-### Only work on things that you truly want to work on
-
-### Minimize effort
-- But this has nothing to do with the number of hours worked. That correlation is an absolute illusion.
-- (I.e. talk about how the flow state is the most productive, and how it's also the least draining) => it's entirely possible to put in more hours, while also being more relaxed at the end of it.
-- When you work in a direction that you truly resonate with, and you learn how to put the mind at ease.
-### Collaborate
-- It's easier to spot delusions in others than in yourself. Take advantage of this weakness of your mind, by teaming up with others.
-- Working with the right people is paramount. There is actually nothing else more important than this.
-- Characteristics of the right people to work with (basically people who embody the above points in this chapter).
-	- At least intellectually understands what it means to seek truth.
-	- Minimal wants.
-	- Knows how to put their mind at ease.
-	- Has the right identity
-	- Minimizes effort - i.e. isn't one to be attached to putting in more effort than is required for the sake of appearances.
 ## Concluding thoughts
 
 *You get the gist, obviously improve this section*.

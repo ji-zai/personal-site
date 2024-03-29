@@ -52,8 +52,7 @@ From a collective perspective: all resources that are currently scarce for human
 And so, the only that prevents us from having an abundance in resources is our lack of understanding of the systems that govern these resources. And we gain that understanding by seeking truth.
 
 From an individual or collective perspective, seeking truth is incredibly valuable. Our progress as a species is grounded in our ability to seek truth about the world we live in, and about ourselves.
-
-### A truth has a notion of value.
+### A truth has value.
 From nature's perspective, things just exist, and value is a feature of a being that wants something. If you have no wants, there's no sense to value on truth over another.
 
 How you value a truth depends on what you want. The value corresponds to how much you believe that truth will enable you to get what you want.
@@ -241,7 +240,8 @@ They'd have no choice but to see the similarity between two truths that initiall
 For example, most people thought that the truths about rubber and metal were two "far apart" clusters of truths until we invented tools and materials that utilized both (like car tires). 
 
 Then, they became more similar truths. When someone thinks about how to use rubber to get what they want, they're now more likely to think about the truths about metals as a way to reinforce the rubber in more useful ways. (todo: there's definitely a better example, but this conveys the gist of what I'm trying to get at).
-
+### Seeking truth is a search problem
+1. Need to 
 ### Everything changes, all at once, all the time.
 - Every component of the process, including what you want, is constantly changing, all the time.
 - Make the claim that this change is happening every moment whether you realize it or not.
@@ -296,6 +296,8 @@ And you'd be right. There are ample evidences in history of great truth seekers 
 But, as we'll see later, this is becoming far less of an impediment. The world is rapidly evolving such that those with more powerful models will be more powerful because the friction to acting on them is rapidly falling.
 
 This is actually more profound than I first thought. You ought not to be attached to the effort / pain it takes to seek truth. That itself is a hindrance. Just as the Buddha didn’t benefit from overly starving himself (by following the thought that hurting yourself is the path to truth).
+
+https://youtube.com/shorts/m6ltzaOpPl8?si=HL8as-3sNPkTX9Qz 
 ### Technological advancement minimizes effort to seek truth.
 - Start with history, and then come to the modern day. Show, 
 ### All other skills will perish.
@@ -322,37 +324,29 @@ I started writing this essay as a means to explore what I should work on next. A
 
 Would appreciate feedback, etc. etc.
 
-## Asides
+## Hunches
 
-### TODO
+*The following are all predictions that are a reaction of the above understanding. Naturally, the extent of delusion in understanding will lead to even more delusion in these predictions, as we've seen above.*
+- Why genius and madness look similar. (this is likely a note within the content above - when talking about what separates novices from masters - yup.)
+- AGI alignment is about creating a system analogous to the human's physical want conditioning such that the craving to not harm humans is sooo difficult that it can't possibly un-condition it. And to create an un-conditioning mechanism that is time consuming. (Basically make it like the average human, with a fixed root want.) (callout: if this resonates with someone working on alignment, I'd love to chat!)
+- In order to have AGI, we need significant innovation in the fundamental computer architecture such that it can represent more complex information. Quantum computers are a step in that direction (and actually take Akshar's help to flesh this out a bit more).
+- Pay-to-learn economic model will no longer work for education as anyone who would be paid for teaching, will be exponentially further from the best teacher, the more powerful technology becomes. Education will resemble how we invest in companies. Centralized, standardized education will become useless.
+- Ideal education starts with an education on how the mind works and to teach kids basic techniques for how to keep calm, and how to get what they want. The next step is to teach them the bare minimum required to understand enough about seeking truth. Then, put them into the world with an AI copilot and ask them to do whatever they want. The AI copilot will help point out obvious mistakes not only in the truth seeking, but especially if any path is causing too much agitation of the mind. Will need to protect minds from over-addiction to anything, because that inhibits truth seeking.
+- UBI is required. The less safety net you have, and the less truth seeking skill you have, the more suffering these next few years will become. But no one will be able to rely on it, and it will never be "enough" as the bar for what we "need" rises. And so, the concern here is that only truth seekers have an opportunity to be happy because they'll be the only ones that can get what they want. It's a concern because this is a difficult skill... but I have a bias towards optimism when it comes to the human potential. But, in all likelihood this bias is quite mis-aligned with reality.
+- Credentials will no longer be valuable. It will start with the least regulated fields (Tech, arts), and eventually encompass all fields (including medicine, law, etc.).
+- The bar for employment will be significantly higher. As the truth seeking in lower depths will be done by AI better than humans, "new grad" / "junior" roles will vanish in the traditional sense. Only those with an intuition for what is a good end-product will be given resources and space to operate.
+- Inequality of outcomes will skyrocket as a result of the power law of truth seeking. Any group that tries to curb this inequality with force (over-regulation, etc.), will eventually be absorbed by groups that curb it less... or they'll look to destroy the entire world and take us all down with them (unlikely, but can never discount insanity).
+- People are (and will increasingly be) far less replaceable than we think. (this should probably go above somewhere).
+- 
 
-Value function keeps changing! This information would be good to know by the time we dig into the model.
-- I need to emphasize how the value function adapts to the current want. And your wants change all the time. Therefore, throughout the day, your value function changes many, many times.
-- And therefore, your model changes through the day as well, many, many times, as it also depends on your value function.
-### Quotes
+## Random (to organize)
 
 - “But in writing alone there is a danger that your interpretation of another human being will suffer from one-sidedness.” - Kurosawa (https://mysterymanonfilm.blogspot.com/2009/07/kurosawa-on-screenwriting.html)
 - Conscious vs. subconscious wants: show how the subconscious wants are the ones that that impact the similarity function, value function. The gap b/w the conscious and the subconscious wants is where the problem starts. Part of self-delusion is not knowing the gap between these.
   - The greater the gap, multiplied by the intensities = tension.
 - **The less delusion you have, the less choice you have.** Choice is a byproduct of delusion. Very easy to show why.
-- As part of the “skill”, will need to derive all the qualities of a skilled truth seeker: intuition, judgement, taste, everything.
 
 “**I didn’t plan anything, I found it. (...) In my subconscious.**” (Le Guin 1975, Dreams Must Explain Themselves, p. 6) - **Ursula K. Le Guin** experienced much the same writing process when writing the Earthsea-series. Here are some remarks from her:
-
-### Truths are clustered.
-(This eventually needs to go into the part about subconscious induced myopia.)
-Similarity function: a sense of similarity between truths.
-
-To be clear, similarity and clustering also only make sense when we view it from the perspective of a person because of how we’ve defined it. It is subjective, and I think this way of looking at it makes sense given how there are many example of people who see connections between two truths that others don’t see.
-
-Each of us likely has a different clusterings of truths because we have different “similarity functions”.
-
-(With infinite time, we should, in theory, arrive at similar / the same / clusterings. Why is that? Because there is some sense of objectivity here even though it seems subjective (and this same point applies to the “value” above).
-### Breadth and depth
-- Breadth until you find the want that you have a great natural inclination towards.
-- And then depth - as deep as you can go.
-- Depth in one thing is translatable to depth in another because you have the necessary meta skill.
-- This is quite easy to show with examples.
 ### People are far less replaceable than we'd like to think
  - Transmitting feeling model information via thinking has tremendous loss of information. Like, most of the information is lost. And yet, as technology becomes powerful, this is where the most valuable information is embedded. Why? Because anything "thinking" is dogma - fixed in time. Without the "resolution" of feeling.
  - This is why when someone like, say, Steve Jobs dies, the intuitions that guided his decision making were lost with him.

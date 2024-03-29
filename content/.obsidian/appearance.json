@@ -3,5 +3,7 @@
   "theme": "moonstone",
   "cssTheme": "Minimal",
   "translucency": true,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "baseFontSize": 17
 }

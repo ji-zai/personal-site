@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "11b8892f5d79866b",
+            "id": "27e4cfc2bd75b5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "53a6a9a1c72682b2",
@@ -160,17 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11b8892f5d79866b",
+  "active": "27e4cfc2bd75b5df",
   "lastOpenFiles": [
+    "essays/truth-seeking-world.md",
+    "scratch/seek-truth-with-headers.md",
     "scratch/Seeking truth is a search problem.md",
-    "scratch/re-write-seek-truth.md",
+    "scratch/old-predict.md",
     "essays/seek-truth.md",
-    "scratch/How to be better at seeking truth.md",
     "essays/Untitled.md",
+    "scratch/re-write-seek-truth.md",
+    "scratch/How to be better at seeking truth.md",
     "scratch/What makes a model powerful?.md",
     "scratch/seek-truth.md",
     "scratch/boat-guy.md",
-    "essays/truth-seeking-world.md",
     "scratch/create-truth-seeking-world.md",
     "scratch/Is seeking truth a skill?.md",
     "scratch/seek-truth-beats.md",
@@ -187,8 +188,6 @@
     "seek-truth/5-technology.md",
     "seek-truth/4-self-delusion.md",
     "seek-truth/3-theory-of-mind.md",
-    "seek-truth/2-seeking-truth.md",
-    "seek-truth/10-next-steps.md",
     "incentives",
     "essays"
   ]

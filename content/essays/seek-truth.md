@@ -142,128 +142,65 @@ Then, they became more similar truths. When someone thinks about how to use rubb
 
 ---
 
-We live life with an internal model of what we believe is true, and this model influences how we act in the world. We act according to our model in order to get the things that we want.
+We live with an internal model of what we believe is true, and this model determines how we act in the world. We act according to our model in order to get the things that we want.
 
 For now, let's think of this model as a spreadsheet with many rows, each corresponding to a truth you believe in.
 
 Each row would have the following columns:
 1. Your truth (a statement).
 2. Confidence (how much you believe that your truth is actually aligned with reality).
-3. Value (how much you value this truth, as we discussed above).
+3. Value (how much you value this truth).
 
-To help make sense of this model, let's give each field a range of values it can take:
-- Let's say that "your truth" is just a statement written in English / mathematical characters.
-- Let's say that "confidence" ranges from 0 to 1, such that 0 = no confidence, 1 = so confident that you'd be willing to bet your life on this truth.
-- Let's say that "value" can be any positive integer value.
+The "value" field of each row depends on what you want in that moment. And of course, you only value a truth if it helps you fulfill what you want in that moment. Which means that each time our want changes, the values in our model are updated to reflect our value for the new want.
 
-This spreadsheet exists in your head. And each row in this spreadsheet also corresponds to a value of "delusion": how mis-aligned that row is from reality.
+You might ask what happens when we want multiple things at once. I believe the mind focuses on one want at a time, and the feeling that we can multi-task probably exists because we're not aware of the jumps between wants that the mind is always making - sometimes within a single second.
 
-And there are multiple dimensions in which a row can be mis-aligned: 
+(side note:
+An interesting example is what I experienced just now: I was typing a word in the above paragraph, felt some hunger, wanted some food - all while not stopping the typing. And then my mind noticed a spelling mistake in my typing and my current want shifted to wanting to to fix it, leading me to hit backspaces and re-type.
 
-The degree to which what you believe to be true isn't true.
-And the degree to which your value of a truth is different from its true value.
+Even in this small window of typing a word, my stomach growled, my mind wanted food, and then saw that I made a typo and then jumped back to wanting to fix it. I don't think those wants happened simultaneously, but because of the short duration in which it happened, it may seem so. But if they didn't happen simultaneously, how did my fingers keep typing while I was wanting something else other than to write the next word? I think because we can do things mindlessly without actively wanting, just how we can drive a car without wanting to.
 
-Delusion lives outside of your model, i.e. outside of your head. If you could see what you're deluded about at this moment in time, then it's not a delusion for you as you know what it is.
+The presence of mindless action that is fulfilling a previous want doesn't disprove that the mind can only want one thing at a time.
+)
 
-For now, let's say "delusion" ranges from 0 to 1, such that 0 = no delusion, meaning that what you believe is the truth is perfectly aligned with reality (i.e. your truth is THE truth).
+But even if you believe otherwise (that there are multiple "threads" so to speak), understanding how a single thread operates should at least be directionally illuminating.
 
-(note: show an elegant image showing the model in a mind, and the delusion existing outside of that mind as the gap between the mind and reality).
+So, what happens when we want something?
 
-Delusion can only be understood in hindsight: after you've removed yourself of the delusion, you can better see how it existed in the past, and the nature of what it was (i.e. to what extent you were deluded about what things).
+The mind recollects the highest value truth for this want that it has. But clearly this truth doesn't always suffice in helping you get what you want, so there has to be some notion of a "requirement" for a want, such that if your highest valued truth for a given want doesn't meet the requirement for your want, you have to find another way to fulfill your want.
 
-Your model gives you power. The more powerful your model is, the better you understand the systems that govern what you want in that moment, and the more you get of what you want, more quickly.
+For example: you're on your phone and you feel hunger (a want for food). The top value truth in your head is that there's a large sandwich in your fridge that you know will satiate your hunger. Because the top value truth meets the requirement of your want, you're able to act on your model without needing to improve it, to fulfill your want - by eating that sandwich.
 
-And the power of your model is the power of all of your truths - i.e. each row in this spreadsheet that we're using to represent the model:
+In other words, the state of your model for this want, in this moment, is powerful enough to fulfill it.
 
-Power of row = (value)(confidence)(1 - delusion).
-The power of the model is the sum of the powers for each row.
+But, it could be that you believed there's a sandwich in the fridge, but when you went and opened it, the sandwich wasn't there. Clearly what we believe to be true may not be aligned with reality.
 
-Why this formula?
+Let's call this misalignment with reality "delusion". You're deluded to the extent that your model is misaligned with reality.
 
-If you believe in a truth that is valuable (i.e. relevant to your want, and powerful), and you have high confidence in it, then you have greater power because you can predict more about the systems that govern your want, and therefore are more able to get what you want.
+On the other hand, when you feel hunger and want food, and the top value truth is you could order food on an app to fulfill it, it clearly doesn't have a high enough value to fulfill your want because the truth lacks sufficient precision, and therefore lacks the value required to act on it and fulfill your want. Your model isn't powerful enough.
 
-If you believe in a truth with low confidence, you have less power because you're less able to act on it as you're unsure whether it's actually true. The higher the cost of acting on it, the more you'll need to increase your confidence somehow before you can act on it.
-
-(todo: give a good example here)
-
-The (1 - delusion) exists as a penalty for being for being mis-aligned with reality. The more deluded you are, the less power you have.
-
-If you have high confidence in your truth, but your truth isn't close to reality, then you'll have a more difficult time getting what you want.
-
-A person that wants to build a bridge across a river that believes that gravity exerts no force on the bridge is extremely deluded and any bridge they build is likely to collapse as a result.
-
-Therefore, seeking truth is to increase the power of your model so that you can get what you want more quickly.
-
-And how would you do that?
-1. Increase value.
-2. Increase confidence.
-3. Reduce delusion.
-
-The way we've defined this model is inaccurate in some ways. As we explore the process in which this model gets updated, we'll be in a better position to improve it. For now it's directionally right in the sense that increasing value, confidence and decreasing delusion builds a more powerful model.
-
-Delusion is a critical piece of this equation. Without taking delusion into account, anyone could simply believe their truth had higher value than it actually does, or increase their confidence in it randomly, leading to a more powerful model.
-
-Unfortunately, there is a great penalty for delusion that makes this a difficult way to increase the power of your model.
-
-To be clear, the power of your model has nothing to do with whether you can explain why you believe what you do. If it's truly high value, you have high confidence, with minimal delusion, you have a powerful model that will enable you to get what you want more quickly, and easily, regardless of whether you can explain it.
-
-(note: some of the most successful people (in terms of being able to get what they want), would fail to explain well enough why they believe what they do about the world and themselves.)
-
-For example, Ramanujan pulling profound theories from "God" that all happened to be right. He didn't even get around to proving most before he died. Those that simply have a feel for things, and that feel happens to be true. They may try to explain things after the fact, but that explanation is constructed, not what they actually used to have high skill.
+So, what happens next? Your mind works to make its model more powerful, by uncovering a truth with enough value to fulfill your want.
 
 ---
 
-We learn by observing, understanding, and predicting.
+The mind uncovers truths by observing, understanding, and predicting.
 
-To observe is to consciously perceive something happening. You can perceive this through any of your senses: see, hear, taste, feel, smell, or thinking (i.e. observing a thought).
+To understand is to update values.
 
-To understand is to update your model according to an observation.
-This update could involve changing a truth (i.e. the statement that represents a truth), changing your confidence in a truth, or changing how much you value a truth. And this update could impact multiple rows in your model.
-
-To predict is to make guesses about truths that can't be directly inferred by what you've observed.
-
-These guesses are stored in your model just like any other truth. They simply differ in that they have lower confidence. After all, a guess with a high confidence isn't really a guess.
-
-When you observe something, your mind starts trying to understand it.
-
-When you understand something (i.e. you've updated your model to reflect it), your mind starts to predict what else is likely to be true given this understanding.
-
-The mind seems to operate in multiple ways to get to a prediction from understanding. Questions pop up that push you in that direction. You may feel some "intuition" that tugs at you to consciously form a hunch about the world. But regardless of the way to get there, we arrive at a prediction: a truth with some confidence, but not very high confidence because if it were, it wouldn't be a prediction.
-
-And when you predict something to be true, and your mind believes it is high value (i.e. your value function returns a high value), then you'll want to see whether it's actually true, because if it is, you're model will become more powerful.
-
-So, a prediction triggers another want.
-
-But, what triggers an observation? Does it come out of a void? I think it comes from a want.
-
-When we want something, the mind is conditioned to try and notice the things that it believes will help it get what we want, to the degree of the intensity of our want.
-
-For example, ().
-
-This makes a cycle: want -> observe -> understand -> predict.
-
-And since we never stop wanting, we're constantly in this cycle.
-
-This is the fundamental process of seeking truth in order to get what we want. Every one of us goes through this process. Some of it happens consciously, using some systematic method to go from one step to another, but I believe most of it happens unconsciously.
-
-(todo: not sure where to put this, here or later when talking about thinking / feeling: To be clear, this "want to see whether it's actually true" doesn't need to be an actual thought that arises in the mind. Oftentimes we're just led by a feeling to figuring out if something is true.)
+To predict is to guess.
 
 ---
 
-Another way to look at this process, is that it's a search problem that has many branches. And each branch spawns more branches. It's recursive (link: wiki article).
+Of course this is oversimplified. It's possible that when you're actively seeking truth to fulfill a want, another want comes and bombards you and commands immediate, full attention that pulls you away from your current want. Reality is messy. Nonetheless, I believe that understanding this simplified version of what actually happens preserves the essence of what's happening to make it useful (what does "useful" mean? Be more precise).
 
-You start with a want. The want leads to observations that your mind believes can help fulfill that want. Observations leads to understandings, which lead to multiple predictions, and predictions that your mind considers valuable become wants, each with its own sub-cycle.
+---
 
-The mind focuses on one want at a time. The feeling that we can multi-task probably exists because we're not aware of the jumps between wants that the mind is always making - sometimes within a single second.
+Delusion compounds.
 
-An interesting example is what I experienced just now: I was typing a word in the above on my laptop, felt some hunger, wanted some food - all while not stopping the typing. And then my mind noticed a spelling mistake in my typing and I wanted to fix it so I hit backspaces and re-wrote it.
+(Show from the diagram above).
 
-Even in this small window of typing a word, my stomach growled, my mind wanted food, and then saw that I made a typo and then jumped back to wanting to fix it. I don't think those wants happened simultaneously. But if they didn't, how did my fingers keep typing while I was wanting something else other than to write the next word? I think because we can do things mindlessly without wanting, just how we can drive a car without actively, consciously wanting.
+---
 
-The presence of mindless action that is fulfilling a previous want doesn't disprove that the mind can only want one thing at a time. But even if you believe otherwise (that there are multiple "threads"), understanding how a single thread operates should at least be directionally illuminating.
+Seeking truth follows the power law. The best are orders of magnitude better than the average. And so much better than the worst that's it's not even comparable.
 
-
-
-
-
-
+Let's say two people have the exact same want: 

@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e331d75b3d12e93e",
+            "id": "b8fea664f7581603",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/Seeking truth is a search problem.md",
+                "file": "essays/seek-truth.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -25,14 +27,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/seek-truth.md",
+                "file": "scratch/The update step during learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f116e5e8b50d711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/Outdated model of the model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "531da0b33ef3bb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/Concluding thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27e4cfc2bd75b5df",
+  "active": "b8fea664f7581603",
   "lastOpenFiles": [
+    "scratch/Outdated model of the model.md",
+    "scratch/Concluding thoughts.md",
+    "essays/seek-truth.md",
+    "scratch/The update step during learning.md",
+    "scratch/Seeking truth is a search problem.md",
     "essays/truth-seeking-world.md",
     "scratch/seek-truth-with-headers.md",
-    "scratch/Seeking truth is a search problem.md",
     "scratch/old-predict.md",
-    "essays/seek-truth.md",
     "essays/Untitled.md",
     "scratch/re-write-seek-truth.md",
     "scratch/How to be better at seeking truth.md",
@@ -185,9 +213,6 @@
     "seek-truth/00-intro.md",
     "seek-truth/6-no-other-skill.md",
     "seek-truth/7-truth-seeking-individual.md",
-    "seek-truth/5-technology.md",
-    "seek-truth/4-self-delusion.md",
-    "seek-truth/3-theory-of-mind.md",
     "incentives",
     "essays"
   ]

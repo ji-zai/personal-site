@@ -56,8 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b51b25b5cc8b158a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/OUTLINE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/seek-truth.md",
+                "file": "scratch/OUTLINE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/seek-truth.md",
+                "file": "scratch/OUTLINE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/seek-truth.md"
+                "file": "scratch/OUTLINE.md"
               }
             }
           }
@@ -184,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8fea664f7581603",
+  "active": "b51b25b5cc8b158a",
   "lastOpenFiles": [
+    "essays/seek-truth.md",
+    "scratch/OUTLINE.md",
     "scratch/Outdated model of the model.md",
     "scratch/Concluding thoughts.md",
-    "essays/seek-truth.md",
     "scratch/The update step during learning.md",
     "scratch/Seeking truth is a search problem.md",
     "essays/truth-seeking-world.md",
@@ -212,7 +226,6 @@
     "seek-truth/1-truth-and-delusion.md",
     "seek-truth/00-intro.md",
     "seek-truth/6-no-other-skill.md",
-    "seek-truth/7-truth-seeking-individual.md",
     "incentives",
     "essays"
   ]

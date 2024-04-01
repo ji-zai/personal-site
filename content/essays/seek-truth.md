@@ -64,7 +64,7 @@ We fail to get what we want when:
 
 The first scenario is when you don't feel you know exactly what to do to get what you want. The second is when you believe you know what to do to get what you want, but when you try it, you fail to get what you want. The last is the unfortunate situation of knowing exactly what to do, being aligned with reality, and yet unable to act on it for whatever reason.
 
-To make our model more concrete, let's think of it as a spreadsheet with many rows, each corresponding to a truth you believe in.
+To make our model more concrete, let's think of it as a spreadsheet with many rows, each corresponding to a truth you believe in. Obviously this is not how the mind represents information, but it offers us a valuable starting point to understand how the mind works at a high level, before we explore how it's represented in the framework of the brain / body.
 
 Each row would have the following columns:
 1. Your truth (a statement describing what you believe).
@@ -140,9 +140,26 @@ This makes sense from our experience as a beginners. We don't really know what w
 ---
 ### What happens when we want something?
 
+Firstly, our model is updated to reflect the values for this want. It must do this since our value function depends on the current want.
+
+You might ask what happens when we want multiple things at once, a great question. I think that the mind focuses on one want at a time, and the feeling that we can multi-task seems to exist because we're not aware of the subtle jumps between wants that the mind is always making - sometimes within a single second. (reference the consciousness seems to be a single thread research paper from HN).
+
+But even if you disagree, and and believe that multiple wants can exist simultaneously, understanding the cycle for a single want should still be useful.
+
+When our model has our values for this want, the mind picks the top valued truth from the model and judges whether it can fulfill the want or not. 
+
+Not all wants can be immediately fulfilled by the top-valued truth in our model because if that were the case, all of our wants would be fulfilled. Our delusion means that there are many wants that our model doesn't enable us to fulfill right away (by acting on our model).
+
+This means that a want comes with some notion of a "fulfillment value": the minimum value of the top valued truth in our model that, if were to act on, would fulfill this want.
+
+When our best truth fulfills our want, we simply act on it and get what we want. There is no need for seeking truth in this scenario. 
+
+You feel hunger, you want to eat something, and your best truth is that your fridge contains sufficient leftovers from brunch, then you simply act on this truth and go eat it.
+
+It's when your best truth does cannot fulfill your want, seeking truth begins in order to improve your model so that your best truth can get you what you want.
 
 ---
-### The mind uncovers truths by observing, understanding, and predicting.
+### The mind seeks truth by observing, understanding, and predicting.
 
 To observe is to perceive something happening. You can perceive this through any of your senses: see, hear, taste, feel, smell, or thinking (i.e. observing a thought). 
 
@@ -182,12 +199,10 @@ When this happens, your mind wants to act on this top truth to get what you want
 
 (Transition, need to put somewhere appropriate)
 
-So far, it may seem that how you value a truth and how you predict a truth is purely subjective. After all, it's just what your mind believes. But in reality, there is an objectivity to how you value and predict. That can only be the case, otherwise no one would be bad at seeking truth, meaning no one would struggle to get what they want.
-
 ---
 ### How does your mind predict truths from what it already knows?
 
-It does this by having a notion of similarity between two truths.
+I believe it does this with a notion of similarity between two truths.
 
 For a person who wants to get across a lake, the truths: "wood floats on water", and "a sail can propel with wind", are far more similar than the truth "gold sinks in water" is with either of them.
 

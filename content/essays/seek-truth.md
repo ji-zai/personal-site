@@ -2,26 +2,13 @@
 title: Seeking truth is the only skill
 date: April 2024
 ---
-- [[#What is truth?|What is truth?]]
-- [[#Why seek truth?|Why seek truth?]]
-- [[#We live with an internal model of what we believe is true, and this model determines how we act in the world.|We live with an internal model of what we believe is true, and this model determines how we act in the world.]]
-- [[#What happens when we want something?|What happens when we want something?]]
-- [[#The mind uncovers truths by observing, understanding, and predicting.|The mind uncovers truths by observing, understanding, and predicting.]]
-- [[#How does the mind value a truth?|How does the mind value a truth?]]
-- [[#How does your mind predict truths from what it already knows?|How does your mind predict truths from what it already knows?]]
-
-### What is truth?
+### Why seek truth?
 
 A truth is a reality of a system. A system is anything that has some phenomena happening inside of it. Physics, biology, chemistry, are all systems with varying events, characteristics and rules that govern them.
 
 Because a truth is aligned with reality, it exists whether someone observes it, understands it, or even agrees with it. Gravity exists regardless of what anyone thinks about it.
 
-For now, let’s think of a truth as a statement that’s represented by a sequence of English characters. A statement is true to the degree that it’s aligned with reality.
-
-The word “seek” means “try to find”. This describes the process well: seeking truth is a search problem. As you search and uncover more truths, you only get closer to the complete truth. We’ve yet to “find” the truth about any naturally occurring system, and from what we can tell, we understand very, very little of what is possible to understand. There is always more truth to be uncovered, and we will likely be perpetually seeking.
-
----
-### Why seek truth?
+Therefore, seeking truth is the process of understanding the realities of the systems that govern what you want.
 
 Seeking truth only matters in the context of wanting something. If you don't want anything, then what's the point of seeking truth about anything? There is no such thing as understanding something for the sake of it, because even that curiosity is just a want: a want to understand the nature of something.
 
@@ -37,9 +24,7 @@ Using "Seeking truth" to define such a fundamental skill is useful because it's 
 
 And therefore, using this phrase to describe the most fundamental skill is far more useful than using something like "learning", "growing", etc. which don't offer such a glimpse into what it means.
 
-So, where do we start? There's only one place: how the mind works to help you get what you want. We need some model of the mind in order to explore seeking truth because that is where the mechanism for any skill exists.
-
-Anyone talking about any skill, whether they realize it or not, has an implicit assumption about the way the mind works that they base their reasoning on. For example, in today's mainstream culture, phrases like "learn by doing", "the more you do, the better you get", or "you need to be resilient to do great work" are commonly used to describe how to get better at skills.
+Why study seeking truth when there's already so much wisdom around it? After all, in today's mainstream culture, phrases like "learn by doing", "the more you do, the better you get", or "you need to be resilient to do great work" are commonly used to describe how to get better at skills.
 
 While I believe these advices are directionally correct, they can be dangerous when followed blindly.
 
@@ -49,7 +34,7 @@ And when we follow "the more you put out, the better you get", we assume that ra
 
 Dogmatic understanding of what it means to seek truth will lead us astray, if not now, then eventually.
 
-Then there's the catch all term "judgement": knowing when to do what. We're advised to have better judgement so that we don't fall into the traps of dogmatically following approaches. Of course, this would be incredibly useful to train, but what does this mean and how do you get better at it? Is the only way to keep doing? Or are there other techniques we can use to improve this?
+Then there's the catch all term "judgement": knowing when to do what. We're advised to have better judgement so that we don't fall into the traps of dogmatically following approaches. Of course, this would be incredibly useful to train, but what does this mean and how do you get better at it? Is the only way to train this to keep performing your skill? Or are there other techniques we can use to improve this?
 
 And then there's the "you can only answer these questions by doing". Once again, I think this advice is correct directionally, but creates the dangerous impression that there is nothing else that can be done to improve your rate of learning.
 
@@ -59,49 +44,102 @@ Where do we start?
 
 The only place we can start is by understanding how the mind works.
 
-All of the mainstream wisdom implicitly assumes a theory of mind, whether it's acknowledged or not. "Resilience" is only required if the mind struggles when learning. "Doing is the best way to learn" implies that when the mind intellectualizes a skill, it's not enough to be good at it. We need to try and understand why these things happen.
+Any wisdom about how to improve assumes a theory of mind, whether it's explicit or implicit. "Resilience" is only required if the mind struggles when learning. "Doing is the best way to learn" implies that when the mind intellectualizes a skill, it's not enough to be good at it. We need to try and understand what aspects of the mind causes these behaviors.
 
-When we have a more nuanced, precise theory of how the mind works, we should be able to derive and define all of the commonly used terms related to seeking truth.
+When we have a more nuanced, precise theory of how the mind operates, how it seeks truth, and what can be done to change how it operates to improve our truth seeking ability, we should be able to derive and define all of the commonly used terms related to seeking truth.
+
+And if there isn't much else we can do than just learn by performing any skill over and over again, at least we'll know why.
 
 ---
-### The mind has an internal model of what it believes is true, and this model determines how we act to get what we want.
+### The mind has a representation of what it believes is true.
 
-When you want something, if you know exactly what to do to get it, and you're able to, then in order to fulfill that want, you can just act on what you know and get it. 
+Let's call this representation a our "model" of what we believe are the truths about the world.
 
-When you want something and don't perfectly know what you need to do to get it, you have no choice but to seek truth about the systems that govern what you want, so that you understand what you need to do to get what you want.
-*(todo: need to potentially move the nature of want someplace else, or change how I start this section).*
+We act according to this model in order to get the things that we want.
 
-We act according to our model in order to get the things that we want.
+We fail to get what we want when:
+1. Our model doesn't yet have sufficient truth about the systems that governs our want
+2. Or, if our model is sufficiently mis-aligned from reality.
+3. Or, despite having a powerful enough model, we cannot act on it.
 
-For now, let's think of this model as a spreadsheet with many rows, each corresponding to a truth you believe in.
+The first scenario is when you don't feel you know exactly what to do to get what you want. The second is when you believe you know what to do to get what you want, but when you try it, you fail to get what you want. The last is the unfortunate situation of knowing exactly what to do, being aligned with reality, and yet unable to act on it for whatever reason.
+
+To make our model more concrete, let's think of it as a spreadsheet with many rows, each corresponding to a truth you believe in.
 
 Each row would have the following columns:
-1. Your truth (a statement).
+1. Your truth (a statement describing what you believe).
 2. Confidence (how much you believe that your truth is actually aligned with reality).
-3. Value (how much you value this truth).
+3. Value (how much the mind values this truth - depending on how much it thinks this truth will help you get what you want as fast as possible.).
 
-The "value" field of each row depends on what you want in that moment. And of course, you only value a truth if it helps you fulfill what you want in that moment. Which means that each time our want changes, the values in our model are updated to reflect our value for the new want.
+The "value" field of each row depends on what you want in that moment. And of course, you only value a truth if it helps you fulfill what you want in that moment.
 
-You might ask what happens when we want multiple things at once. I believe the mind focuses on one want at a time, and the feeling that we can multi-task probably exists because we're not aware of the jumps between wants that the mind is always making - sometimes within a single second.
+There are 2 ways in which your model can be mis-aligned with reality: the degree to which your truth is wrong, and the degree to which you've "mis-valued" a truth: the degree to which what you thought it was worth (to help you get what you want) is different than what it was actually worth.
 
-(side note:
-An interesting example is what I experienced just now: I was typing a word in the above paragraph, felt some hunger, wanted some food - all while not stopping the typing. And then my mind noticed a spelling mistake in my typing and my current want shifted to wanting to to fix it, leading me to hit backspaces and re-type.
+This implies there is an objectively "correct" value for a truth.
 
-Even in this small window of typing a word, my stomach growled, my mind wanted food, and then saw that I made a typo and then jumped back to wanting to fix it. I don't think those wants happened simultaneously, but because of the short duration in which it happened, it may seem so. But if they didn't happen simultaneously, how did my fingers keep typing while I was wanting something else other than to write the next word? I think because we can do things mindlessly without actively wanting, just how we can drive a car without wanting to.
+---
+### How does the mind value a truth?
 
-The presence of mindless action that is fulfilling a previous want doesn't disprove that the mind can only want one thing at a time.
-)
+From nature's perspective, things just exist, and value can only be assigned by something that wants since only a being that wants has a notion of one truth being better than the other to help them get what they want. If you have no wants, there's no sense to value one truth over another.
 
-But even if you believe otherwise (that there are multiple "threads" so to speak), understanding how a single thread operates should at least be directionally illuminating.
+Therefore, how the mind values a truth depends on your want. The value represents the degree to which the mind believes that this truth will enable you to get what you want. The mind values one truth more than another if it gets you more of what you want, more quickly.
+
+Predictive power and relevance determine a truth's value.
+
+Predictive power is how much that truth tells about the systems that govern your want.
+
+For someone building a bridge, the truth about the formula for gravity is far more valuable than the truth: "when you throw something up, it will fall back down".
+
+From the perspective of this engineer, both are true, but the formula for gravity tells them a lot more about the system they're operating in. They're able to predict how the system will behave without having to see that behavior.
+
+They can tell a lot more because they can derive a variety of behaviors from the formula for gravity. A truth is more fundamental the more things that can be derived from it.
+
+They know what forces will act on the bridge and can therefore plan for it without having to go through the process of building something that doesn't work, having it break, and then learning from it. This is invaluable.
+
+Yet, a powerful truth is useless to you if it doesn't help them you what you want, i.e. it's not relevant to you.
+
+For a person in a village who desperately needs to build a boat to get across a large body of water, e = mc^2 isn't valuable at all, even though it is an incredibly powerful truth that tells a lot about the world we live in.
+
+Therefore, relevancy is critical for a person to value a truth.
+
+Another way to look at it is:
+- Relevancy is how aligned it is with your want.
+- Power is the magnitude of the truth.
+
+It may seem that the way a person values a truth is purely subjective, and changes from person to person. But there is an objective quality to it.
+
+Two people with the same exact want, with sufficient time to seek truth about the systems that govern their want, will eventually converge towards the same values for truths pertaining to those systems.
+
+For example, world leaders who want to keep their countries safe would all value greatly the truths about how nuclear weapons operate.
+
+Therefore, from here on out, I'll refer to the "true value" of a truth for a given want to be the value that someone who has the want, and a complete understanding of all the systems that govern that want, would assign to this truth.
+
+The more different two individual's wants are, the less we can objectively compare how much better one is valuing a truth than the other.
+
+Therefore, I believe subjectivity exists to the extent that we want different things. And looking at the world it definitely seems that there is rich variety of human wants, and therefore it's difficult to compare how one person values, objectively with another's.
+
+But, this becomes much more productive when we use it to compare how we value truths to ourselves in the past, for the same want. Improving the way we value a truth such that we get closer to assigning it a value closer to the "true value" is a key component of becoming better at what we do.
+
+Let's call how the mind values a truth the "value function": a function that, for a particular want, and truth combination, returns a value for it. For now, to help us visualize our model, let's treat this value as a positive integer.
+
+It's easy to see how the "true value" from the value we associate with a truth.
+
+For example (show an example of someone who discovers something for the first time thinks it's a game changing breakthrough, that is stupidly valuable, but it's only after you discover something more powerful that you learn to put the previously highly valued truth in its place. Or even better: what seems like an unnecessary truth today, may actually be an incredibly valuable once sufficient understanding ripens in adjacent systems).
+
+---
+### Seeking truth is to reduce delusion in our model
+
+Delusion in our model is the degree to which our value function is incorrect. A perfect value function would value wrong statements with 0, and will work its way up from there with more, and more powerful truths that help us get what we want.
+
+It's only when we fully understand exactly how to get what we want, and we know it's aligned with reality (i.e. acting on it always gets us what we want), that we can see the true values for all the truths we've uncovered along the way.
+
+In other words, we only see our delusion looking backwards. If we could see exactly what we're deluded about right now then we wouldn't be deluded about it.
+
+This makes sense from our experience as a beginners. We don't really know what we're not doing well, though we can often see that it's not "great" by comparing ourselves with those that we think are great at the skill. When we get better, we can look back and see our foolishness due to the delusion we had in the past.
 
 ---
 ### What happens when we want something?
 
-Either we have the muscle memory to fulfill it right away 
-
-The mind recollects the highest value truth for this want that it has. But clearly this truth doesn't always suffice in helping you get what you want, so there has to be some notion of a "requirement" for a want, such that if your highest valued truth for a given want doesn't meet the requirement for your want, you have to uncover more truths until you have one with a high enough value to fulfill your want.
-
-(And to be clear, your model could be wrong. Even if you have a truth with sufficient value, acting on it still might not result in fulfilling what you want. Let's call this gap between your model and reality "delusion". You're deluded to the extent that your model is misaligned with reality. We'll see later all the ways your model can be deluded, but for now, it's clear that delusion reduces the power of your model because the greater the delusion, the less likely your model is enables you get what you want.)
 
 ---
 ### The mind uncovers truths by observing, understanding, and predicting.
@@ -145,59 +183,6 @@ When this happens, your mind wants to act on this top truth to get what you want
 (Transition, need to put somewhere appropriate)
 
 So far, it may seem that how you value a truth and how you predict a truth is purely subjective. After all, it's just what your mind believes. But in reality, there is an objectivity to how you value and predict. That can only be the case, otherwise no one would be bad at seeking truth, meaning no one would struggle to get what they want.
-
----
-### How does the mind value a truth?
-
-From nature's perspective, things just exist, and value is a feature of a being that wants something. If you have no wants, there's no sense to value one truth over another.
-
-How you value a truth depends on what you want. The value corresponds to how much you believe that truth will enable you to get what you want.
-
-Therefore, you'd value one truth more than another if it gets you more of what you want, more quickly.
-
-Predictive power and relevance determine a truth's value.
-
-Predictive power is how much that truth tells about the systems that govern your want, in a way that enables you to act on it.
-
-There are two aspects to this predictive power: fundamentality, and precision.
-
-For someone building a bridge, the truth about the formula for gravity is far more valuable than the truth: "when you throw something up, it will fall back down".
-
-From the perspective of this engineer, both are true, but the formula for gravity tells them a lot more about the system they're operating in. They're able to predict how the system will behave without having to see that behavior.
-
-They can tell a lot more because they can derive a variety of behaviors from the formula for gravity. A truth is more fundamental the more things that can be derived from it.
-
-The know what forces will act on the bridge and can therefore plan for it without having to go through the process of building something that doesn't work, having it break, and then learning from it. This is invaluable.
-
-For a truth to have power, it also needs to be precise. Precision is having enough detail to be actionable.
-
-For example: "Ai is going to greatly change the world" is far weaker of a truth than knowing exactly how it will impact the world, in which ways. The person that believes the former may lead the person to learn more about AI, and perhaps make a few good long term investments. A person that knows the latter will be able to help build the future of AI.
-
-In a way, precision is required for a truth to be fundamental as well. An overly generic truth can't be used to derive anything from it. So these are different ways of describing what at the end of the day is simply predictive power.
-
-Yet, a powerful truth is useless to someone if it doesn't help them get what they want, i.e. it's not relevant to them.
-
-For a person in a village who desperately needs to build a boat to get across a large body of water, e = mc^2 isn't valuable at all, even though it is an incredibly powerful truth that tells a lot about the world we live in.
-
-Therefore, relevancy is critical for a person to value a truth.
-
-Another way to look at it is:
-- Relevancy is how aligned it is with your want.
-- Power is the magnitude of the truth.
-
-It may seem that the way a person values a truth is purely subjective, and changes from person to person. That is mostly true, but there is objectivity to this as well.
-
-Two people with the same want, with sufficient time to seek truth about the systems that govern their want, will eventually converge towards the same values for truths pertaining to those systems.
-
-For example, world leaders who want to keep their countries safe would all value greatly the truths about how nuclear weapons operate.
-
-Therefore, from here on out, I'll refer to the "true value" of a truth for a given want to be the value that someone who has the want, and a complete understanding of all the systems that govern that want, would assign to this truth.
-
-It's easy to see how the "true value" often differs from the value we associate with a truth.
-
-For example (show an example of someone who discovers something for the first time thinks it's a game changing breakthrough, that is stupidly valuable, but it's only after you discover something more powerful that you learn to put the previously highly valued truth in its place. Or even better: what seems like an unnecessary truth today, may actually be an incredibly valuable once sufficient understanding ripens in adjacent systems).
-
-And we've found in practice that the values of truths follow the power law: the most valuable truths are orders of magnitudes more valuable than the least valuable ones. (note: may need to substantiate this a bit more).
 
 ---
 ### How does your mind predict truths from what it already knows?

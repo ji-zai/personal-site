@@ -152,30 +152,24 @@ Not all wants can be immediately fulfilled by the top-valued truth in our model 
 
 This means that a want comes with some notion of a "fulfillment value": the minimum value of the top valued truth in our model that, if were to act on, would fulfill this want.
 
-When our best truth fulfills our want, we simply act on it and get what we want. There is no need for seeking truth in this scenario. 
+When our best truth fulfills our want, and you know exactly how to act on it, there is no need for seeking truth in this scenario.
 
 You feel hunger, you want to eat something, and your best truth is that your fridge contains sufficient leftovers from brunch, then you simply act on this truth and go eat it.
 
-It's when your best truth does cannot fulfill your want, seeking truth begins in order to improve your model so that your best truth can get you what you want.
+When your best truth does not fulfill our want, we seek truth in order to improve your model so that your best truth can get you what you want.
 
 ---
-### The mind seeks truth by observing, understanding, and predicting.
+### The mind seeks truth by observing, understanding, valuing, and predicting.
 
 To observe is to perceive something happening. You can perceive this through any of your senses: see, hear, taste, feel, smell, or thinking (i.e. observing a thought). 
 
-Think of this step as adding a row to your model: when you observe, say, a tree floating down a river for the first time, a row with the truth "tree floats on river" is added to your model.
+Think of this as the trigger for adding a new row to the model.
 
-As soon as the mind observes something, it tries to understand it.
+As soon as the mind observes something, it tries to understand it. In the way we've designed our model, to understand is to write a statement that describes the observation.
 
-To understand is to assign a value to a truth in your model. But, as we discussed, the value depends on a want, so your mind values the truth according to what you want in that moment. 
+When an understanding happens, the mind applies its value function to this new truth, for the current want.
 
-If, in that moment, you want to eat something, then this truth you observed is valued quite low.
-
-Understanding also happens whenever your want changes.
-
-In this situation, if your want changes from wanting to eat something to wanting to find a way across the river, then your mind re-values the previous observation of the tree floating quite highly, because it believes it will help fulfill your want.
-
-To predict is to guess other truths based on the ones already in your model. The mind tries to predict the truths that will help you get what you want in that moment.
+To predict is to guess other truths based on the ones already in your model. The mind tries to predict the truths that will help you get what you currently want.
 
 A prediction is nothing but another row in your model, often with less confidence than the truths that you've derived directly from an observation. This makes sense as a guess wouldn't be a guess if you already had high confidence in it.
 
@@ -193,11 +187,24 @@ A want gives energy to this cycle. When the want dies down (either when it's ful
 
 Eventually the mind finds a truth with sufficient value that could fulfill your current want.
 
-When this happens, your mind wants to act on this top truth to get what you want.
+Earlier I mentioned that when you have a truth that fulfills your want, and you know how to act on it, then you'll simply act on it and get what you want. But there's one more scenario that I left out: when you don't know how to act on a truth that will get you what you want.
+
+In this situation (and it's the most common situation we find ourselves in), we need to seek truth about how to act on this truth, in order to get what we want.
+
+For example, let's say you want to build a software product to solve a particular problem that your friends have. By seeking truth (observing, understanding, valuing, predicting), you eventually predict that a particular product will solve the problem, i.e. will satisfy your want. But, if you don't know how to build the product (e.g. write software), then despite having a truth with sufficient value, you cannot act on it.
+
+When this happens, a new want is generated: the want to learn how to act on your best truth, so that you can get what you want.
+
+this want is a sort of "child" want to the "parent" want of building a product to solve a problem. In order to fulfill the parent want, the child want must be fulfilled, and so another cycle of seeking truth starts.
 
 ---
+### Seeking truth is a recursive search problem.
 
-(Transition, need to put somewhere appropriate)
+The search resembles a tree: with your first want at the root, with children wants and their children wants.
+
+(todo: show the image).
+
+
 
 ---
 ### How does your mind predict truths from what it already knows?

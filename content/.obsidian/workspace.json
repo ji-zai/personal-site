@@ -22,31 +22,7 @@
             }
           },
           {
-            "id": "27e4cfc2bd75b5df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/The update step during learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f116e5e8b50d711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/Outdated model of the model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "531da0b33ef3bb2d",
+            "id": "35af935d5c583542",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,19 +34,18 @@
             }
           },
           {
-            "id": "b51b25b5cc8b158a",
+            "id": "a4f3729a91307772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/OUTLINE.md",
+                "file": "scratch/What happens when we want?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scratch/OUTLINE.md",
+                "file": "essays/seek-truth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scratch/OUTLINE.md",
+                "file": "essays/seek-truth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scratch/OUTLINE.md"
+                "file": "essays/seek-truth.md"
               }
             }
           }
@@ -197,13 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51b25b5cc8b158a",
+  "active": "b8fea664f7581603",
   "lastOpenFiles": [
-    "essays/seek-truth.md",
-    "scratch/OUTLINE.md",
-    "scratch/Outdated model of the model.md",
     "scratch/Concluding thoughts.md",
+    "essays/seek-truth.md",
+    "scratch/What happens when we want?.md",
     "scratch/The update step during learning.md",
+    "scratch/Outdated model of the model.md",
+    "scratch/OUTLINE.md",
+    "scratch/Muscle memory.md",
+    "scratch/Precision vs. value vs. actionability.md",
     "scratch/Seeking truth is a search problem.md",
     "essays/truth-seeking-world.md",
     "scratch/seek-truth-with-headers.md",
@@ -223,9 +201,6 @@
     "scratch",
     "seek-truth/_self-notes.md",
     "seek-truth/0-system.md",
-    "seek-truth/1-truth-and-delusion.md",
-    "seek-truth/00-intro.md",
-    "seek-truth/6-no-other-skill.md",
     "incentives",
     "essays"
   ]

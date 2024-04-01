@@ -2,6 +2,22 @@
 title: Seeking truth is the only skill
 date: April 2024
 ---
+- [[#Why seek truth?|Why seek truth?]]
+- [[#The mind has a representation of what it believes is true.|The mind has a representation of what it believes is true.]]
+- [[#How does the mind value a truth?|How does the mind value a truth?]]
+- [[#Seeking truth is to reduce delusion in our model|Seeking truth is to reduce delusion in our model]]
+- [[#What happens when we want something?|What happens when we want something?]]
+- [[#The mind seeks truth by observing, understanding, valuing, and predicting.|The mind seeks truth by observing, understanding, valuing, and predicting.]]
+- [[#The mind predicts based on its notion of similarity between two truths.|The mind predicts based on its notion of similarity between two truths.]]
+- [[#Seeking truth is a recursive search problem.|Seeking truth is a recursive search problem.]]
+- [[#When do we stop the search in the child want?|When do we stop the search in the child want?]]
+- [[#When we're satiated or lose patience, the mind updates our model.|When we're satiated or lose patience, the mind updates our model.]]
+- [[#The mind also updates its value and similarity functions.|The mind also updates its value and similarity functions.]]
+- [[#Delusion compounds exponentially.|Delusion compounds exponentially.]]
+- [[#Seeking truth follows the power law.|Seeking truth follows the power law.]]
+- [[#How much of it is a skill?|How much of it is a skill?]]
+- [[#|]]
+
 ### Why seek truth?
 
 A truth is a reality of a system. A system is anything that has some phenomena happening inside of it. Physics, biology, chemistry, are all systems with varying events, characteristics and rules that govern them.
@@ -175,6 +191,8 @@ A prediction is nothing but another row in your model, often with less confidenc
 
 When a prediction adds a truth to the model, the mind understands is (i.e. assigns it a value).
 
+The mind may predict through a variety of methods. For example, it may try to connect your current understanding to a new truth by asking questions, or maybe by a feeling. But regardless of the underlying mechanism (which we'll get to later), the end result is a truth with some level of confidence (i.e. a hunch / guess).
+
 Each step in this cycle is a reaction. An understanding is a reaction to an observation or prediction. A prediction is a reaction to an understanding.
 
 But where does an observation come from? I don't believe it comes from a void and that it's a direct reaction to a want.
@@ -185,31 +203,10 @@ Through all the senses, we consume a great deal of information, yet only a small
 
 A want gives energy to this cycle. When the want dies down (either when it's fulfilled, or when it gets weaker on its own) this cycle no longer has the energy to keep going. (probably want to keep this later).
 
-Eventually the mind finds a truth with sufficient value that could fulfill your current want.
-
-Earlier I mentioned that when you have a truth that fulfills your want, and you know how to act on it, then you'll simply act on it and get what you want. But there's one more scenario that I left out: when you don't know how to act on a truth that will get you what you want.
-
-In this situation (and it's the most common situation we find ourselves in), we need to seek truth about how to act on this truth, in order to get what we want.
-
-For example, let's say you want to build a software product to solve a particular problem that your friends have. By seeking truth (observing, understanding, valuing, predicting), you eventually predict that a particular product will solve the problem, i.e. will satisfy your want. But, if you don't know how to build the product (e.g. write software), then despite having a truth with sufficient value, you cannot act on it.
-
-When this happens, a new want is generated: the want to learn how to act on your best truth, so that you can get what you want.
-
-this want is a sort of "child" want to the "parent" want of building a product to solve a problem. In order to fulfill the parent want, the child want must be fulfilled, and so another cycle of seeking truth starts.
+Similar to how there is an objective quality to the mind's value function (a person with the same want will value truths equally given sufficient truth seeking), there is an objective quality to how well the mind predicts.
 
 ---
-### Seeking truth is a recursive search problem.
-
-The search resembles a tree: with your first want at the root, with children wants and their children wants.
-
-(todo: show the image).
-
-
-
----
-### How does your mind predict truths from what it already knows?
-
-I believe it does this with a notion of similarity between two truths.
+### The mind predicts based on its notion of similarity between two truths.
 
 For a person who wants to get across a lake, the truths: "wood floats on water", and "a sail can propel with wind", are far more similar than the truth "gold sinks in water" is with either of them.
 
@@ -236,3 +233,51 @@ They'd have no choice but to see the similarity between two truths that initiall
 For example, most people thought that the truths about rubber and metal were two "far apart" clusters of truths until we invented tools and materials that utilized both (like car tires). 
 
 Then, they became more similar truths. When someone thinks about how to use rubber to get what they want, they're now more likely to think about the truths about metals as a way to reinforce the rubber in more useful ways. (todo: there's definitely a better example, but this conveys the gist of what I'm trying to get at).
+
+---
+### Seeking truth is a recursive search problem.
+
+Eventually by seeking truth (observing, understanding, valuing, predicting), the mind finds a truth with sufficient value that could fulfill your current want.
+
+Earlier, we saw that when you have a truth that fulfills your want, and you know how to act on it, then you'll simply act on it and get what you want. But there's one more scenario that I left out: when you don't know how to act on a truth that will get you what you want.
+
+In this situation (and it's the most common situation we find ourselves in), we need to seek truth about how to act on this truth, in order to get what we want.
+
+For example, let's say you want to build a software product to solve a particular problem that your friends have. By seeking truth (observing, understanding, valuing, predicting), you eventually predict that a particular product will solve the problem, i.e. will satisfy your want. But, if you don't know how to build the product (e.g. write software), then despite having a truth with sufficient value, you cannot act on it.
+
+When this happens, a new want is generated: the want to learn how to act on your best truth, so that you can get what you want.
+
+this want is a sort of "child" want to the "parent" want of building a product to solve a problem. In order to fulfill the parent want, the child want must be fulfilled, and so another cycle of seeking truth starts.
+
+The search resembles a tree: with your first want at the root, with children wants and their children wants.
+
+(todo: show the image).
+### When do we stop the search in the child want?
+
+When does the mind stop the search in the child and come back to the parent want?
+Either when:
+1. The want is sufficiently fulfilled (i.e. it has been acted on fully and therefore satiated)
+2. Or you run out of patience.
+
+The want is fulfilled when your best truth satisfies it AND you know exactly how to act on it. There is no more room for a question on how to act on it, and therefore a new child want isn't generated.
+
+This can take some time and going down many, many layers of the tree.
+
+But more often than not, what happens is that we run out of patience exploring a branch of the tree, when we don't find a truth with sufficient value, and therefore we "come back up" to the parent want having concluded that the branch isn't going to be fruitful.
+
+When this satiation or impatience causes us to climb back up to the parent want, our model is updated.
+### When we're satiated or lose patience, the mind updates our model.s
+
+---
+### The mind also updates its value and similarity functions.
+
+---
+### Delusion compounds exponentially.
+
+---
+### Seeking truth follows the power law.
+
+---
+### How much of it is a skill?
+
+---

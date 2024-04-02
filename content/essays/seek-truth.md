@@ -17,7 +17,6 @@ date: April 2024
 - [[#Seeking truth follows the power law.|Seeking truth follows the power law.]]
 - [[#How much of it is a skill?|How much of it is a skill?]]
 - [[#|]]
-
 ### Why seek truth?
 
 A truth is a reality of a system. A system is anything that has some phenomena happening inside of it. Physics, biology, chemistry, are all systems with varying events, characteristics and rules that govern them.
@@ -74,13 +73,13 @@ Let's call this representation a our "model" of what we believe are the truths a
 We act according to this model in order to get the things that we want.
 
 We fail to get what we want when:
-1. Our model doesn't yet have sufficient truth about the systems that governs our want
+1. Our model doesn't yet have sufficient truth about the systems that governs our want.
 2. Or, if our model is sufficiently mis-aligned from reality.
-3. Or, despite having a powerful enough model, we cannot act on it.
+3. Or, despite having a good enough model, we cannot act on it for some reason.
 
 The first scenario is when you don't feel you know exactly what to do to get what you want. The second is when you believe you know what to do to get what you want, but when you try it, you fail to get what you want. The last is the unfortunate situation of knowing exactly what to do, being aligned with reality, and yet unable to act on it for whatever reason.
 
-To make our model more concrete, let's think of it as a spreadsheet with many rows, each corresponding to a truth you believe in. Obviously this is not how the mind represents information, but it offers us a valuable starting point to understand how the mind works at a high level, before we explore how it's represented in the framework of the brain / body.
+To make our model more concrete, let's think of it as a spreadsheet with many rows, each corresponding to a truth the mind believes in. Obviously this is not how the mind represents information, but it offers us a valuable starting point to understand how the mind works at a high level, before we explore how it represents information in the framework of the brain / body.
 
 Each row would have the following columns:
 1. Your truth (a statement describing what you believe).
@@ -116,7 +115,7 @@ Yet, a powerful truth is useless to you if it doesn't help them you what you wan
 
 For a person in a village who desperately needs to build a boat to get across a large body of water, e = mc^2 isn't valuable at all, even though it is an incredibly powerful truth that tells a lot about the world we live in.
 
-Therefore, relevancy is critical for a person to value a truth.
+Therefore, relevancy is critical for the mind to value a truth.
 
 Another way to look at it is:
 - Relevancy is how aligned it is with your want.
@@ -124,26 +123,22 @@ Another way to look at it is:
 
 It may seem that the way a person values a truth is purely subjective, and changes from person to person. But there is an objective quality to it.
 
-Two people with the same exact want, with sufficient time to seek truth about the systems that govern their want, will eventually converge towards the same values for truths pertaining to those systems.
+Two people with the same exact want will eventually converge at the same values for truths.
 
 For example, world leaders who want to keep their countries safe would all value greatly the truths about how nuclear weapons operate.
 
-Therefore, from here on out, I'll refer to the "true value" of a truth for a given want to be the value that someone who has the want, and a complete understanding of all the systems that govern that want, would assign to this truth.
+Let's define "true value" of a truth (for a specific want) to be the value that someone who has the want, and a complete understanding of all the systems that govern that want, would assign to this truth.
 
-The more different two individual's wants are, the less we can objectively compare how much better one is valuing a truth than the other.
+The more different two individuals' wants are, the less we can objectively compare how much better one is valuing a truth than the other.
 
-Therefore, I believe subjectivity exists to the extent that we want different things. And looking at the world it definitely seems that there is rich variety of human wants, and therefore it's difficult to compare how one person values, objectively with another's.
+Therefore, I believe subjectivity exists to the extent that we want different things. And looking at the world it definitely seems that there is rich variety of human wants, and therefore it's difficult to compare how two people value truths.
 
-But, this becomes much more productive when we use it to compare how we value truths to ourselves in the past, for the same want. Improving the way we value a truth such that we get closer to assigning it a value closer to the "true value" is a key component of becoming better at what we do.
+But, this notion of "true value" becomes productive when we use it to compare how we value truths to ourselves in the past, for the same want. Improving the way we value a truth such that we get closer to assigning it a value closer to the "true value" is a key component of becoming better at what we do.
 
 Let's call how the mind values a truth the "value function": a function that, for a particular want, and truth combination, returns a value for it. For now, to help us visualize our model, let's treat this value as a positive integer.
 
-It's easy to see how the "true value" from the value we associate with a truth.
-
-For example (show an example of someone who discovers something for the first time thinks it's a game changing breakthrough, that is stupidly valuable, but it's only after you discover something more powerful that you learn to put the previously highly valued truth in its place. Or even better: what seems like an unnecessary truth today, may actually be an incredibly valuable once sufficient understanding ripens in adjacent systems).
-
 ---
-### Seeking truth is to reduce delusion in our model
+### Seeking truth is to reduce delusion in our model, and increase its highest value
 
 Delusion in our model is the degree to which our value function is incorrect. A perfect value function would value wrong statements with 0, and will work its way up from there with more, and more powerful truths that help us get what we want.
 
@@ -153,57 +148,57 @@ In other words, we only see our delusion looking backwards. If we could see exac
 
 This makes sense from our experience as a beginners. We don't really know what we're not doing well, though we can often see that it's not "great" by comparing ourselves with those that we think are great at the skill. When we get better, we can look back and see our foolishness due to the delusion we had in the past.
 
+Reducing delusion isn't enough, our best truth needs to have sufficient value to fulfill our want. Someone that wants something but doesn't know how to get it still has work to do.
+
+This means that a want has a notion of a "fulfillment value": the minimum value of the top valued truth in our model that, if were to act on, would fulfill this want. And when we don't have a sufficiently valued truth, it means our model doesn't have enough information to enable us to get what we want.
+
+But, "not knowing" is also a form of delusion: your model is mis-aligned with reality because the model of reality would contain all the truths of reality. And therefore, to seek truth is simply minimize delusion: of which there are multiple kinds. And we'll see soon that there is delusion in how we seek truth as well.
+
+So now we know what our model is, how the mind values truths, and that reducing delusion is how we make our model good enough to get what we want.
+
 ---
 ### What happens when we want something?
 
 Firstly, our model is updated to reflect the values for this want. It must do this since our value function depends on the current want.
 
-You might ask what happens when we want multiple things at once, a great question. I think that the mind focuses on one want at a time, and the feeling that we can multi-task seems to exist because we're not aware of the subtle jumps between wants that the mind is always making - sometimes within a single second. (reference the consciousness seems to be a single thread research paper from HN).
+When our model is updated with the values for this want, the mind picks the top valued truth from the model and judges whether it can fulfill the want or not (i.e. whether the best value >= want's fulfillment value).
 
-But even if you disagree, and and believe that multiple wants can exist simultaneously, understanding the cycle for a single want should still be useful.
+When your best truth fulfills your want, and you know exactly how to act on it, there is no need for seeking truth. You have all the truths you need to act and get what you want.
 
-When our model has our values for this want, the mind picks the top valued truth from the model and judges whether it can fulfill the want or not. 
+For example, you feel hunger, you want to eat something, and your best truth is that your fridge contains sufficient leftovers from brunch, and you simply act on this truth and go eat it. No need to seek truth.
 
-Not all wants can be immediately fulfilled by the top-valued truth in our model because if that were the case, all of our wants would be fulfilled. Our delusion means that there are many wants that our model doesn't enable us to fulfill right away (by acting on our model).
-
-This means that a want comes with some notion of a "fulfillment value": the minimum value of the top valued truth in our model that, if were to act on, would fulfill this want.
-
-When our best truth fulfills our want, and you know exactly how to act on it, there is no need for seeking truth in this scenario.
-
-You feel hunger, you want to eat something, and your best truth is that your fridge contains sufficient leftovers from brunch, then you simply act on this truth and go eat it.
-
-When your best truth does not fulfill our want, we seek truth in order to improve your model so that your best truth can get you what you want.
+When our best truth does not fulfill our want, we seek truth in order to improve our model so that the best truth can get us what we want.
 
 ---
 ### The mind seeks truth by observing, understanding, valuing, and predicting.
 
 To observe is to perceive something happening. You can perceive this through any of your senses: see, hear, taste, feel, smell, or thinking (i.e. observing a thought). 
 
-Think of this as the trigger for adding a new row to the model.
+An observation is the trigger for adding a new row to the model.
 
 As soon as the mind observes something, it tries to understand it. In the way we've designed our model, to understand is to write a statement that describes the observation.
 
-When an understanding happens, the mind applies its value function to this new truth, for the current want.
+When an understanding happens, the mind assigns a value to this new truth, for the current want, using its value function.
 
 To predict is to guess other truths based on the ones already in your model. The mind tries to predict the truths that will help you get what you currently want.
 
 A prediction is nothing but another row in your model, often with less confidence than the truths that you've derived directly from an observation. This makes sense as a guess wouldn't be a guess if you already had high confidence in it.
 
-When a prediction adds a truth to the model, the mind understands is (i.e. assigns it a value).
+When a prediction adds a truth to the model, the value function assigns a value to it.
 
-The mind may predict through a variety of methods. For example, it may try to connect your current understanding to a new truth by asking questions, or maybe by a feeling. But regardless of the underlying mechanism (which we'll get to later), the end result is a truth with some level of confidence (i.e. a hunch / guess).
+The mind may predict through a variety of methods. For example, it may try to connect an existing truth to a new truth by asking questions, or maybe by a feeling. But regardless of the underlying mechanism (which we'll get to later), the end result is that a prediction produces a truth with some level of confidence (i.e. a hunch / guess).
 
 Each step in this cycle is a reaction. An understanding is a reaction to an observation or prediction. A prediction is a reaction to an understanding.
 
 But where does an observation come from? I don't believe it comes from a void and that it's a direct reaction to a want.
 
-When you want something, the mind is primed to observe things that it believes will help fulfill your want. 
+When you want something, the mind is primed to observe things that it believes will fulfill your want.
 
 Through all the senses, we consume a great deal of information, yet only a small fraction of that information rises to our conscious mind in a way that we can observe. What we want influences what reaches our conscious mind. And how intensely we want influences what our mind observes: the more intense, the more observations will be ones that your mind believes are more directly related to fulfilling your want. (note: easy to show this with example: tiger chasing you).
 
-A want gives energy to this cycle. When the want dies down (either when it's fulfilled, or when it gets weaker on its own) this cycle no longer has the energy to keep going. (probably want to keep this later).
+A want gives energy to this cycle. When the want dies down (either when it's fulfilled, or when it gets weaker on its own as a result of not being satiated for a long time) this cycle no longer has the energy to keep going. (probably want to keep this later).
 
-Similar to how there is an objective quality to the mind's value function (a person with the same want will value truths equally given sufficient truth seeking), there is an objective quality to how well the mind predicts.
+Similar to how there is an objective quality to the mind's value function (a person with the same want will value truths equally given sufficient truth seeking), there is an objective quality to how well the mind predicts new truths from existing ones.
 
 ---
 ### The mind predicts based on its notion of similarity between two truths.
@@ -226,50 +221,67 @@ Over time, as you understand more of the systems that govern your want, you'll r
 
 Similar to the value function, there is a sense of objectivity to the similarity function, or in other words there's a "true similarity" between two truths, for a given want.
 
-Two individuals with the same want, given infinite time to seek truth, will eventually converge on the same similarity function.
+Two individuals with the same want, given infinite time to seek truth, will eventually converge on the same similarity function. They'd have no choice but to see the similarity between two truths that initially seemed far apart if those two truths work together to help them get what they want.
 
-They'd have no choice but to see the similarity between two truths that initially seemed far apart if those two truths work together to help them get what they want.
+And there is subjectivity how good a similarity function is to the extent that the wants that they are based on are different (similar to the subjectivity of the value function).
 
-For example, most people thought that the truths about rubber and metal were two "far apart" clusters of truths until we invented tools and materials that utilized both (like car tires). 
-
-Then, they became more similar truths. When someone thinks about how to use rubber to get what they want, they're now more likely to think about the truths about metals as a way to reinforce the rubber in more useful ways. (todo: there's definitely a better example, but this conveys the gist of what I'm trying to get at).
+Therefore, as you improve, your similarity function should objectively become better for a given want.
 
 ---
 ### Seeking truth is a recursive search problem.
 
 Eventually by seeking truth (observing, understanding, valuing, predicting), the mind finds a truth with sufficient value that could fulfill your current want.
 
-Earlier, we saw that when you have a truth that fulfills your want, and you know how to act on it, then you'll simply act on it and get what you want. But there's one more scenario that I left out: when you don't know how to act on a truth that will get you what you want.
+Earlier, we saw that when you have a truth that fulfills your want, and you know how to act on it, then you'll simply act on it and get what you want. But there's one more scenario that we didn't cover: **when you don't know how to act on a truth that will get you what you want.**
 
 In this situation (and it's the most common situation we find ourselves in), we need to seek truth about how to act on this truth, in order to get what we want.
 
-For example, let's say you want to build a software product to solve a particular problem that your friends have. By seeking truth (observing, understanding, valuing, predicting), you eventually predict that a particular product will solve the problem, i.e. will satisfy your want. But, if you don't know how to build the product (e.g. write software), then despite having a truth with sufficient value, you cannot act on it.
+For example, let's say you want to build a software product to solve a problem that you have. By seeking truth (observing, understanding, valuing, predicting), you eventually predict that a particular product will solve the problem, i.e. will satisfy your want, and you've described it in great detail: drawings, descriptions, etc. 
 
-When this happens, a new want is generated: the want to learn how to act on your best truth, so that you can get what you want.
+But, if you don't know how to build the product (by actually coding and building the software), then despite having a truth with sufficient value, you cannot act on it.
 
-this want is a sort of "child" want to the "parent" want of building a product to solve a problem. In order to fulfill the parent want, the child want must be fulfilled, and so another cycle of seeking truth starts.
+When this happens, a new want is generated: **the want to act on your best truth**, so that you can get what you want.
+
+This want is a sort of "child" want to the "parent" want of building a product to solve a problem. In order to fulfill the parent want, the child want must be fulfilled, and so another cycle of seeking truth starts.
+
+For this child want, your mind again observes, understands, values, predicts to generate better truths that can fulfill it. For example, a prediction may be that your friend knows how to do this and that you should be able to convince him to help you. Another prediction may be that you can build it yourself by learning how to code.
+
+As you can see, each of those develops more child wants, that require more truth seeking. If you want to get your friend's help, the truth seeking will be about what would be the best way to convince him (i.e. what does he want, and how to make the best pitch). If you want to build it yourself, you will seek truth about the want to learn how to build software.
 
 The search resembles a tree: with your first want at the root, with children wants and their children wants.
 
 (todo: show the image).
-### When do we stop the search in the child want?
+### When does a want end?
 
-When does the mind stop the search in the child and come back to the parent want?
-Either when:
-1. The want is sufficiently fulfilled (i.e. it has been acted on fully and therefore satiated)
-2. Or you run out of patience.
+It may seem that a want ends when it's fulfilled, but from our life experiences we know that's the opposite of what happens. When we satiate a want, it comes back with a higher fulfillment value. It recalibrates expectations to be higher.
 
-The want is fulfilled when your best truth satisfies it AND you know exactly how to act on it. There is no more room for a question on how to act on it, and therefore a new child want isn't generated.
+On the other hand, not satiating a want and making it run out of patience doesn't necessary destroy the want, it only appears again with a lower fulfillment value (recalibrates expectations to be lower).
 
-This can take some time and going down many, many layers of the tree.
+Satiating a want is only temporary.
 
-But more often than not, what happens is that we run out of patience exploring a branch of the tree, when we don't find a truth with sufficient value, and therefore we "come back up" to the parent want having concluded that the branch isn't going to be fruitful.
+And this mechanism can be a good thing: it means you will keep improving. 
 
-When this satiation or impatience causes us to climb back up to the parent want, our model is updated.
-### When we're satiated or lose patience, the mind updates our model.s
+For example, someone wanting to build a product to solve a problem will never satiate that want. They will continue to improve their product even after launching the first version that may technically fulfill their want.
 
----
-### The mind also updates its value and similarity functions.
+This is why artists, entrepreneurs, and any human continues to improve for the majority of their lives.
+
+It's only when you fail to satiate a want for an extended period of time, that it withers out.
+
+Entrepreneurs who have failed to get what they want for multiple decades in a row will likely have a decreased want to build companies. And the same applies to almost any profession.
+
+So if you want to keep improving, the goal shouldn't be to fulfill the want, but rather to satiate the want by becoming great at getting what you want, so that the bar rises, and you can improve.
+### Satiation happens during each step
+
+It may seem that satiation happens only when you get what you want, but in reality it happens every single time you have a truth in your model that your mind believes will fulfill the current want.
+
+In other words, the mind is rewarded when it sees a path to fulfill your want, in addition to being rewarded when you actually get what you want.
+
+Perhaps this is why we have a tendency to derive joy from the pursuit rather than the destination since we are rewarded each step of the way to get there.
+
+
+### The mind updates your model and the value, similarity functions according to satiation.
+
+
 
 ---
 ### Delusion compounds exponentially.
@@ -279,5 +291,6 @@ When this satiation or impatience causes us to climb back up to the parent want,
 
 ---
 ### How much of it is a skill?
+*This is the transition to the next section: what are the variables that we may be able to control / not control?*
 
 ---

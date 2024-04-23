@@ -39,9 +39,9 @@ For example, in the modern world if you want food and have some money in your ha
 
 ---
 
-### What impacts your ability to get what you want?
+### What impacts your ability to seek truth well?
 
-_And define that this ability depends on ability to navigate_
+(_And define that this ability in terms of navigating the tree_).
 
 For now, let’s ignore factors about the world such as the level of technology available, whether you have the liberty to act freely, etc. Let’s fix all of those factors by saying you’re a person living in a place with access to the internet, the freedom to consume information freely, and can share your thinking with the world.
 
@@ -324,13 +324,13 @@ Conditioning that worked for them at one point eventually stop working to help t
 
 ---
 
-### Truths expire
+### Truths expire (change)
 
 Intuition becomes bias because every truth has an expiry date when it will cease to be true. _(note: in all likelihood, even the truths about our universe, and physical world will likely expire at some point - just far beyond any practical timeline - there is no evidence to believe they won’t, and the safer belief is to believe that the truths of the universe follow the same pattern as any other truths we’ve uncovered)._
 
 ---
 
-### Intuition morphs into bias every single moment
+### Intuition turns into bias
 
 (Need to reference theory of mind in which we see how conditioning happens every moment).
 
@@ -355,11 +355,7 @@ You can’t avoid believing in temporary truths because most truths we operate o
 
 ---
 
-### Human progress accelerates change
-
----
-
-### Exponential change
+### Progress accelerates rate at which truths expire.
 
 - Really dive into what this means with parables, and talk about how unintuitive it is.
 - We aren’t evolved to handle this.
@@ -372,11 +368,20 @@ Even as recent as a few decades ago, you could continue to get what you want by 
 
 ---
 
-### The average’s conditioning will be outdated by the time it’s conditioned
+### The average is outdated from the start
 
 - Only the novice, greats and masters will be valued.
 - Novice ought to figure out path to mastery and do their best to skip the average stage entirely. - unfortunately our world is designed to train for the average. Modern education has many, many proxies between a student and reality, leading to the biases of teachers and modern day “experts” passing onto students like a deadly virus - a virus more harmful than any pandemic we’ve ever experienced or will experience.
 - A great example: imagine someone training to become good at Chess or Go, and every minute the rules of the game change in some way. Sometimes the change is small, sometimes it’s massive. (You can really dive into this example - it’s a great thought experiment).
+
+---
+
+### Average does not lead to great
+
+The longer you stay average, the more difficult it becomes for you to be great.
+Stagnation is an illusion.
+
+Most of us drastically miscalculate risk. (Talk about how when people decide to take any path that has more proxies to reality, they don't take into account how the mind conditions itself to the path and becomes significantly more deluded than if they had interfaced more closely with reality).
 
 ---
 
@@ -391,10 +396,13 @@ Even as recent as a few decades ago, you could continue to get what you want by 
 
 - And this isn’t through sheer willpower - as we saw earlier, willpower only works for conditioning you can see, but not the conditioning that you’re blind to. (reference the piece above).
 - They have choice over how they are conditioned.
+
   - Even greats are smart enough to put themselves in situations that minimize satiation that goes against what they want, but a master has control over how strongly they are satiated.
   - This means a master can choose to condition or de-condition their mind at will:
   - They have a set of techniques, both individual and collaborative that minimize their delusions.
-  - And they can see their conditioning more clearly than the rest of us. They’re skillful in navigating their outdated conditioning that prevents them from getting what they want.
+  - (The first step to control is to see it!) And they can see their conditioning more clearly than the rest of us. They’re skillful in navigating their outdated conditioning that prevents them from getting what they want.
+
+  The key point here is: two people with the same exact experiences and everything can still differ in how strongly their mind is conditioned in a particular way. I.e. strong beliefs weakly held is precisely this.
 
 ---
 
@@ -404,17 +412,15 @@ Even as recent as a few decades ago, you could continue to get what you want by 
 - The mind will make the jump from “I’m voting for X” to “I am X” without you even realizing. The mind wants to latch onto things quickly and fiercely. Countering this tendency isn’t as easy as it may seem at first glance. (not sure how this point applies here - but it’s a critical point).
 - Conscious vs. subconscious.
 
----
-
-### In order to get what we want, we have no choice but to fall into the traps of our conditioning
-
 Going back to the example of the Nobel laureate who can’t do good work [anymore](http://anymore.In): in most situations the right truth seeking move is to operate in ways that our outdated conditioning latches onto.
 
 For example, becoming popular feeds self-preservation, but is also incredibly valuable for seeking truth: it allows the world to criticize your ideas, which helps you improve more quickly. But it also sets a massive trap: the more you allow the popularity to satiate you, the more you’ll be derailed from getting what you consciously want.
 
 ---
 
-### The average feel that world is changing too fast. Greats embrace it. Masters crave even faster change
+### Masters crave even faster change
+
+The average feel that world is changing too fast. Greats embrace it. Masters crave even faster change.
 
 - Masters don’t crave more change for sadistic reasons, but rather because they know that more change leads to faster improvement and less suffering for the world. More rapid change means that we’ll more quickly have improvements for all human problems - from global warming, diseases, etc. The slower the world changes, the longer we hold onto our problems that cause immense suffering for most that live in the world.
 - This doesn’t mean that everyone that craves more change is a master, but the point is that the master benefits from change in ways that no one else does.
@@ -434,11 +440,14 @@ For example, becoming popular feeds self-preservation, but is also incredibly va
 
 ---
 
-### The human potential
+### Our potential
 
 - The efficient market hypothesis paints a deluded picture of the world.
 - Draw a bar with the top being the best we can do, and a line towards the top that shows where we are, in this moment in time. This efficient market hypothesis makes you believe that we are much higher than reality.
 - In reality: the line is too close to the bottom to even represent the difference with one pixel, and therefore it could not even be drawn on your screen. Yes, that’s how fucking off we are from what we could be. The human potential.
+- Most valuable truths are not uncovered.
+- We know barely anything.
+- Believing in progress is an act of humility.
 
 ---
 
@@ -453,3 +462,5 @@ This journey to understand how to become a master will also involve grounding ou
 I also believe the path to mastery is far from a solo path. It's incredibly difficult to see our own delusions and conditionings that prevent us from seeing reality as it is, and therefore friends that can show us our delusions are invaluable. So, understanding the path to mastery will also require studying what it means to collaborate and to make friends on our path to mastering seeking truth.
 
 I need your feedback! Especially if you have any life experiences or beliefs that contradict with the theories I've proposed above. Certainly my theories are deluded to some degree, because I'm an incredibly deluded person, as are you. But the beauty of our species is that you and I are bound to be deluded differently. So your feedback can help show me my own delusions. Please be as critical as you can be. I'll be grateful for it.
+
+(TODO): a link for how to give me feedback.

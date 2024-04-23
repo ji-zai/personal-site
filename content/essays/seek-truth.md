@@ -444,4 +444,12 @@ For example, becoming popular feeds self-preservation, but is also incredibly va
 
 ### Concluding thoughts
 
-How the hell does someone become a master? That requires an even deeper dive into how the mind works, and specifically, how conditioning works and grounding our theory of mind in neurobiology - because without understanding the mechanism for how conditioning happens, we can’t de-condition as quickly as possible. This will be the focus of my next essay (”How to master seeking truth”).
+I hope by now we're aligned on how important the ability to seek truth is, how it is the essence of any skill we value, and just how terribly difficult it is to be good at it. We have a glimpse of what the stages of mastery look like, but it's still quite unclear what is the best training strategy is - to become a master at seeking truth.
+
+That's the focus of my next essay. It's a nuanced, difficult path. Fortunately, we have masters in the our world today, and in the past, that we can study to make sense of how they developed their mastery.
+
+This journey to understand how to become a master will also involve grounding our theory of mind in neurobiology. After all, if a master has greater control over how their mind is conditioned, then we need to dive deeper into understanding what conditioning even is. My current model of conditioning as I shared in this essay is far from having the accuracy required in order to describe the path to mastery.
+
+I also believe the path to mastery is far from a solo path. It's incredibly difficult to see our own delusions and conditionings that prevent us from seeing reality as it is, and therefore friends that can show us our delusions are invaluable. So, understanding the path to mastery will also require studying what it means to collaborate and to make friends on our path to mastering seeking truth.
+
+I need your feedback! Especially if you have any life experiences or beliefs that contradict with the theories I've proposed above. Certainly my theories are deluded to some degree, because I'm an incredibly deluded person, as are you. But the beauty of our species is that you and I are bound to be deluded differently. So your feedback can help show me my own delusions. Please be as critical as you can be. I'll be grateful for it.

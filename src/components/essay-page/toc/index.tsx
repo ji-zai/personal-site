@@ -22,9 +22,13 @@ export const TableOfContents = ({ toc }) => {
             className={styles.listItem}
             key={index}
             onClick={(e: any) => handleClick(e, entry.id)}
-            style={{ cursor: "pointer" }}
+            style={{
+              cursor: "pointer",
+              marginBottom: "10px",
+              breakInside: "avoid",
+            }}
           >
-            <a href={`#${entry.id}`}>{entry.label}</a>
+            <a href={`#${entry.id}`}>{index + 1 + ". " + entry.label}</a>
           </li>
         ))}
       </ul>

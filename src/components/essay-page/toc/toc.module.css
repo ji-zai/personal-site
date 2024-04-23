@@ -7,10 +7,12 @@
 .list {
   list-style-type: none;
   padding-left: 0px;
+  column-count: 3;
 }
 
 .listItem {
-  font-size: 14px;
+  font-size: 17px;
+  line-height: 26px;
 }
 
 .listItem a {
@@ -19,4 +21,10 @@
 
 .listItem a:hover {
   color: rgba(0, 0, 0, 0.6);
+}
+
+@media only screen and (max-width: 600px) {
+  .list {
+    column-count: 1;
+  }
 }

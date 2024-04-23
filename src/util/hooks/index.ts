@@ -37,9 +37,9 @@ export const generateTable = (
   const lines = markdown.split("\n");
 
   for (let line of lines) {
-    if (line.startsWith("## ")) {
-      // Check if the line is an H2 header
-      const label = line.replace("## ", "").trim();
+    if (line.startsWith("### ")) {
+      // Check if the line is an H3 header
+      const label = line.replace("### ", "").trim();
       const id = getIdFromHeader(label);
 
       toc.push({ label, id });

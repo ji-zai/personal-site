@@ -95,7 +95,10 @@ export const essayComponents = {
     const label = props.children;
     return <h2 id={getIdFromHeader(label)} variant="h2" {...props} />;
   },
-  h3: (props) => <h3 variant="h3" {...props} />,
+  h3: (props) => {
+    const label = props.children;
+    return <h3 id={getIdFromHeader(label)} variant="h3" {...props} />;
+  },
   a: (props) => <ExternalLink src={props.href}>{props.children}</ExternalLink>,
   hr: (props) => <Divider />,
 };

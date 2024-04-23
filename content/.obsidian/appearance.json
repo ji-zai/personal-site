@@ -1,8 +1,8 @@
 {
-  "accentColor": "#458bb0",
+  "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Minimal",
-  "translucency": true,
+  "translucency": false,
   "showViewHeader": false,
   "nativeMenus": true,
   "baseFontSize": 17

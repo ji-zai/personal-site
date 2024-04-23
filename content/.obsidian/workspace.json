@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c130be353516441",
+        "id": "e83e2371b182b035",
         "type": "tabs",
         "children": [
           {
-            "id": "b8fea664f7581603",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/seek-truth.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "710adad64972189f",
+            "id": "88f5462ae233c3af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c7945bbbf73b50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/seek-truth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,12 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8fea664f7581603",
+  "active": "0c7945bbbf73b50f",
   "lastOpenFiles": [
-    "scratch/Concluding thoughts.md",
-    "scratch/What happens when we want?.md",
     "scratch/Margin notes.md",
     "essays/seek-truth.md",
+    "scratch/Summarizing our theory of mind.md",
+    "scratch/Fleshing out the update function.md",
+    "scratch/Concluding thoughts.md",
+    "scratch/Untitled.md",
+    "scratch/What happens when we want?.md",
     "scratch/The update step during learning.md",
     "scratch/Outdated model of the model.md",
     "scratch/OUTLINE.md",
@@ -186,10 +188,7 @@
     "scratch/Is seeking truth a skill?.md",
     "scratch/seek-truth-beats.md",
     "scratch/join-me.md",
-    "scratch/What stops us from seeking truth optimally.md",
-    "scratch/old version.md",
     "scratch",
-    "seek-truth/_self-notes.md",
     "incentives",
     "essays"
   ]

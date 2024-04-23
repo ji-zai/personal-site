@@ -97,4 +97,5 @@ export const essayComponents = {
   },
   h3: (props) => <h3 variant="h3" {...props} />,
   a: (props) => <ExternalLink src={props.href}>{props.children}</ExternalLink>,
+  hr: (props) => <Divider />,
 };

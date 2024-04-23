@@ -1,0 +1,22 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+* Hey what's up
+kfdl; ajfk;as djf
+jfkdal; fjkasdlj f
+jkfda;lsjf
+
+This is somewhat dope.
+For now, don't expand the line too much, will figure that out later
+
+** Fascinating if you ask me.
+
+*** Incredibly fascinating if you ask me.
+
+HEY THERE
+	
+* What is going on?
+- Are you serioeus
+  Fascinating if you ask me.
+  Absolutely fascinating.
+- This is interesting

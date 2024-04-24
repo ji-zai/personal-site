@@ -368,7 +368,7 @@ Even as recent as a few decades ago, you could continue to get what you want by 
 
 ---
 
-### The average is outdated from the start
+### The average will be outdated from the start
 
 - Only the novice, greats and masters will be valued.
 - Novice ought to figure out path to mastery and do their best to skip the average stage entirely. - unfortunately our world is designed to train for the average. Modern education has many, many proxies between a student and reality, leading to the biases of teachers and modern day “experts” passing onto students like a deadly virus - a virus more harmful than any pandemic we’ve ever experienced or will experience.
@@ -440,6 +440,14 @@ The average feel that world is changing too fast. Greats embrace it. Masters cra
 
 ---
 
+### A master is also deluded
+
+Just less than others, due to the limitations of our own minds: the rate at which we process information, the information we are exposed to, the depth of the conditoinings we are born with.
+
+But, with progress, these limitations will become smaller, amplifying our ability to seek truth.
+
+---
+
 ### Our potential
 
 - The efficient market hypothesis paints a deluded picture of the world.
@@ -464,3 +472,5 @@ I also believe the path to mastery is far from a solo path. It's incredibly diff
 I need your feedback! Especially if you have any life experiences or beliefs that contradict with the theories I've proposed above. Certainly my theories are deluded to some degree, because I'm an incredibly deluded person, as are you. But the beauty of our species is that you and I are bound to be deluded differently. So your feedback can help show me my own delusions. Please be as critical as you can be. I'll be grateful for it.
 
 (TODO): a link for how to give me feedback.
+
+(Something about compassion, love, etc. and how that isn't seeking truth - but it is. Even compassion can be cultivated, trained if you seek truth about how. But why? Because we are more peaceful as a result. So, even if you want to be happier, more compassionate, seeking truth is the technique. And just like how deluded we are at all the things we want, we are even more deluded about what it means to feel peace, and how to attain it. But that isn't the focus of my essays at the moment. I care more about worldly pursuits: how to get what you want in the world, to solve our collective external problems. When we've become sufficiently good at that, I'll likely shift my attention to seeking truth about inner peace).

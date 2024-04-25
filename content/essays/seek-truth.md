@@ -1,5 +1,6 @@
 ---
 title: Seeking truth is the only skill
+caption: What it is, and why we are terrible at it.
 date: April 2024
 ---
 
@@ -159,23 +160,47 @@ Most of our wants are difficult to fulfill. What this means is that there are ma
 
 Yet, we want to get what we want as quickly as possible.
 
-This is what creates the necessary tension in our system to push us to be more effective at seeking truth.
+This is what creates the necessary tension in our system to push us to be more effective at seeking truth. Otherwise we would have infinite patience.
 
-If we didn't want to get what we wanted as quickly as possible, then we'd just keep going down a single branch of the tree without ever coming back up, and just die.
+If we didn't want to get what we wanted as quickly as possible, then we'd just keep going down a single branch of the tree without ever coming back up. With infinite patience there would be no need to stop exploring a path even when it doesn't enable us to get what we want.
 
-Of course that doesn't happen becuase we become frustrated the longer we go without getting what we want. This is useful. Without this frustration (or discomfort / agitation - whatever you want to call it), time would not be scarce for us, and there would be no need to be effective at seeking truth, and, well, we wouldn't be where we are as a species.
+Of course that doesn't happen becuase we become frustrated the longer we go without getting what we want. This is useful. Without this frustration (or discomfort / agitation - whatever you want to call it), time would not be scarce for us, and there would be no need to be effective at seeking truth.
+
+Understanding time is scarce allows us to define how good someone is at seeking truth as how quickly they can get what they want.
 
 ---
 
 ### Satiation & the lack of it
 
-We cut off paths of exploration based on satiation or lack of it. Satiation means that we fulfill our want. Lack of it means we haven't. So clearly there's an aspect of time here.
+Satiation occurs when we get what we want. It's a feeling that we all like and want more of. Our craving for satiation pushes us to seek truth to get what we want.
 
-Lack of satiation is proportional to the time you've spent seeking truth without satiating your want.
+Lack of satiation is proportional to the time you've spent seeking truth without satiating your want. The longer you are seeking truth about a want and unable to uncover a truth you believe will fulfill your want (i.e. a truth with high enough value), the less patience you have left. With enough time passed, you will give up on that direction.
 
----
+Interestingly, we're not just satiated when we act on our beliefs and get what we want, but also when we uncover a truth that we believe will help us get what we want. This means that every time we move deeper down the tree, we experience a sort of satiation.
 
-### Every skill can be modeled as seeking truth
+This feature is why often find ourselves stuck in sub-trees completely forgeting how we got there in the first place, and why we become addicted to the act of seeking itself. Perhaps this is why we are always in pursuit of things. Uncovering new truths is growth, and we are addicted to growing.
+
+If we didn't experience satiation every time we uncovered a valuable truth, and only when we acted on beliefs to get what we wanted, we would not be able to work on ambitious, long-term projects. Long-term projects require us to spend a lot of time seeking truth before we can execute and get what we want.
+
+For example, an author that wants to write a well meaningful, well received book may spend months writing it before publishing it to the world. If they didn't feel some satiation every time they had a great idea they thought would work, or when they received valuable feedback from a friend that improves their beliefs about what will work, they wouldn't last the process. We can say the same about the scientific journey, building products, etc.
+
+I like to think of this mechanism of satiation as a sort of "energy bar" that we find in video games. We have a patience bar for each want we have, and every moment we don't have a truth that we believe will fulfill our want, the energy bar is slightly depleted.
+
+Every time we uncover a truth that we believe will fulfill our want, our patience bar is bumped up a bit (proportional to how valuable the truth is).
+
+When the energy bar is completely depleted, that child want disappears, and we move back up to the parent want ready to explore another child, and so on until this want's energy bar is also depleted.
+
+(todo: animation that represents satiation as a "health bar" like in video games, but every moment it depletes. When you uncover a truth, you get a slight bump up. The animation should show a person going a couple of levels deep and coming back up when the satiation runs out).
+
+How quickly our patience bar runs out differs for each of us, and also depends on the want and how difficult it is to seek truth for it.
+
+There's also a different degree of satiation from actually acting on the belief and getting what we want (destination) vs. uncovering truths and learning (journey). When satiation of the destination is greater than the satiation of the journey, you probably don't like what you're doing. And if you do like what you're doing, the satiation of the destination isn't that fulfilling.
+
+Satiation from the journey is valuable, but over-satiation from the journey is a common factor for why we are ineffective at seeking truth.
+
+An example from the world of startups that I see often: a founder that sets off to solve a problem that ends up falling in love with the satiation that comes from seeking truth about building the product. They overemphasize building over other critical functions of building a company and therefore fail to build something people actually use. (and you can find such examples in any skill).
+
+### Summarizing our model of seeking truth
 
 - A founder building a company
 - A scientist understanding something
@@ -194,6 +219,7 @@ Lack of satiation is proportional to the time you've spent seeking truth without
 
 ### Why do we blunder?
 
+- Becuase even if we understand up till this point grasp how we seek truth, it's still difficult to do anything about it. In order to analyze how well we actually seek truth, we need to have a theory of how our mind works, so that we understand
 - We need a theory of mind to explain this.
 - And anyone that talks about any skill either explicitly or implicitly has a theory of mind.
 
@@ -304,7 +330,9 @@ Culturally I feel that we've moved away from looking at the world in terms of ri
 
 ---
 
-### Small difference in ability = massive difference in results
+### small difference in ability = massive difference in results
+
+The more difficult a want, the more pronounced this is.
 
 → Keep this minimal, there is no need to get into crazy theory, or get too technical. That’s not the point of this.
 
@@ -314,7 +342,9 @@ Culturally I feel that we've moved away from looking at the world in terms of ri
 
 ### What impacts your ability to seek truth well?
 
-(_And define that this ability in terms of navigating the tree_).
+(_And navigating the tree_).
+
+Earlier we saw how we blunder. Now, let's make our explanation more accurate using our theory of mind.
 
 For now, let’s ignore factors about the world such as the level of technology available, whether you have the liberty to act freely, etc. Let’s fix all of those factors by saying you’re a person living in a place with access to the internet, the freedom to consume information freely, and can share your thinking with the world.
 
@@ -401,12 +431,15 @@ In order to better understand how these factors impact individuals and how these
 
 ### Four stages of mastery
 
+Why is studying people so important? So that we can ground our theory in practice and see exactly how someone better than us would operate.
+
 Each stage corresponds to a change in ability (i.e. conditioning, memory, ability to act, willpower).
 
 1. _Novice_ = has no useful conditioning, no useful beliefs to recall (memory), minimal ability to act since they don’t know the tools, methodologies, techniques, frameworks of the craft. They may have willpower, which may have been trained separately from this process of getting what you want.
 2. _Average_ = has some conditioning that makes them somewhat useful to their teams, and companies, has some useful beliefs to recall, has some ability to act: by mimicking others, intellectually learning certain techniques, frameworks, etc.
 3. _Great_ = intuition. But even greats eventually become outdated.
 4. _Master_ = a great that can become & remain great in a rapidly changing world.
+5. ? = same as master, but more powerful senses (can capture more of reality than we can.) - this is like a powerful chess engine in the context of chess. - this point is just to say that the our theory of seeking truth ought to be the measure of how good any technology we create is (e.g. AI).
 
 ---
 
@@ -644,7 +677,8 @@ Even as recent as a few decades ago, you could continue to get what you want by 
 ### Average does not lead to great
 
 The longer you stay average, the more difficult it becomes for you to be great.
-Stagnation is an illusion.
+
+_Stagnation is an illusion_
 
 Most of us drastically miscalculate risk. (Talk about how when people decide to take any path that has more proxies to reality, they don't take into account how the mind conditions itself to the path and becomes significantly more deluded than if they had interfaced more closely with reality).
 

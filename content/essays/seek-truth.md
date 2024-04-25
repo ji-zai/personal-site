@@ -3,17 +3,248 @@ title: Seeking truth is the only skill
 date: April 2024
 ---
 
-### Seeking truth vs. acting on beliefs
+### There is only one skill
 
-- This ought to also touch on “intelligence” as it’s commonly known vs. intuition... yeah, not sure, will figure out what goes here based on how well the ending works.
+I believe there is only one skill that lies at the root of all skills: seeking truth.
+
+Our ability to get what we want depends on how good we are this skill. Improving this skill positively impacts our ability to get what we want. And it doesn’t matter what it is that we want.
+
+Unfortunately, we’re terrible at it.
+
+Partly because of limitations of ourselves (the human condition) and inability of our minds to understand the incredibly complex world and universe that we operate in.
+
+But, mostly because we haven’t sufficiently studied what this skill is and how to improve it. I believe we are very far from being as good as we can be individually, and by extension, as a species we are incredibly far from being as good as we can be to get what we collectively want: i.e. solving all of humanity’s problems.
+
+I started writing this essay to understand how to become better at my craft: building products and companies. But the more I made sense of what held me back, the more I realized the same things held me back from every single thing that I aimed to be great at. Whether that was becoming a better friend, son, partner, or becoming better at having ideas, or becoming better at communicating, or understanding myself, or even becoming better at being at peace.
+
+The underlying principles are the exact same, because fundamentally, they all require us to use a common set of tools: a mind and body. Our mind fundamentally doesn’t change how it approaches getting what it wants, no matter what that want is. Whether it is to build a great product, to create a meaningful song, to dance well, to connect with others, or anything. All visible differences are surface level.
+
+I was selfishly excited by this realization because it meant that if I studied in depth the essence of what held me back in one domain, I could improve my ability to get anything I want.
+
+After studying how the world is changing, I also believe that it’s more important now than ever before to become great at this skill because the penalty for being bad at it is rising. That sounds like a paradox: with greater technology shouldn’t it be easier for us to get what we want, and therefore shouldn’t the bar for this skill be lowered? That’s not what happens because our wants evolve in response to technology. When it gets easy to get what we want, we move the goalpost for what we want. Our expectations rise.
+
+That’s both the blessing and the curse of the human condition. It means that we are always aiming higher, growing, and improving ourselves. There’s always room to want more.
+
+And because our wants are more difficult to fulfill, it is incredibly important to improve our ability to seek truth, so that we improve our skill to match the higher difficulty of our wants.
+
+But, even if you don’t buy that it will become more difficult to get what we want, if you want to improve your ability to get what you want today, it would still make sense to study how.
+
+I’ve divided this essay into 3 sections. In the first I walk through what I mean when I say “seek truth”. I then explore what mastery looks through examples to help us see what makes someone great and how they are different from the rest of us. Lastly, I’ll discuss how I see the world changing and how the nature of this skill is changing in response to the changing world.
 
 ---
 
-### Can we objectively measure ability to seek truth?
+### Seeking truth
 
-Objectivity exists to the degree that wants are similar. Two people with the exact same want can be directly compared: the one that can fulfill the want more quickly than the other has greater ability (for that want).
+In its essence, seeking truth is to understand how things work in order to get what we want.
 
-// By extension, there is an objectively “true value” for a belief. (need to determine where exactly this point goes. Perhaps here).
+That sounds incredibly obvious. Why can’t we just call it “understanding things” and just get on with it? Because while it’s true, it’s incredibly inaccurate. And an inaccurate understanding means it’s difficult to act on it. After all, all of us are trying to understand things to get what we want, and yet there’s a lot of room for improvement.
+
+I like “seek truth” as the name for this skill because it hints at certain non-intuitive qualities about the process.
+
+“Seek” means always striving, but never getting. For anyone that has tried to understand anything, it will be clear that we can only improve our understanding but never fully know. There is always greater understanding to be had.
+
+“Seek” also implies that it is a search problem. And I believe that representing this process as a recursive search problem is the right way to think about it.
+
+“Truth” implies that there is at least some sense of order to the world. For example, the equation that represents gravity is a truth that represents how two bodies of masses interact with each other. Similarly, there is a sense of order to every aspect of world: business, arts, policy etc.
+
+Truth also implies that there is reality. And the fact that we are seeking truth means that we don’t fully understand reality.
+
+Another important point is that seeking truth only matters if you want things. If you don’t want anything, there is no need to seek truth. Each want has its own truth seeking process, and of course it’s possible to be good at fulfilling one want but not another.
+
+---
+
+### Truth & delusion
+
+We’ll need to define a few fundamental concepts in order for us to build up a model of what seeking truth means.
+
+Let’s define “truth” as a statement (for now let’s consider this statement to be in English / mathematical notation).
+
+(note: Of course a statement written in English that describes something can never fully represent it, but let’s ignore this for now since that leads to an unnecessarily philosophical tangent. By treating it as a statement, we can still build a reasonably accurate model of seeking truth.)
+
+Each of us has a set of truths that we believe to be true. These truths that we live by impact the way we live our lives, what we do, and how we go about getting the things we want.
+
+Naturally, the truths we believe in are not always aligned with reality to varying degrees.
+
+Let’s define “delusion” as the degree to which a belief is mis-aligned with reality. We are deluded to the degree what we believe in is mis-aligned with reality.
+
+When we seek truth and understand more about the world, we form beliefs about what is true. This may include clearing out beliefs we had that we realized weren’t actually true, and forming new beliefs that we didn’t have before about what is true.
+
+The challenge with delusion is that we can only see it in hindsight. When we are deluded about something, we don’t know what we’re deluded about, because if we knew exactly what it was, it would no longer be a delusion.
+
+We’re also deluded about the things we don’t know, not just our inaccurate beliefs. E.g. someone who wants to get something but has no idea how to is quite deluded, as is someone who has very strong beliefs about how to get what they want but all of their beliefs are glaringly incorrect. Are there situations in which one kind of delusion is better than the other? I think so, and we’ll explore this as we dive deeper.
+
+---
+
+### A truth has a notion of value
+
+The value of a truth corresponds with how helpful it is in enabling you to get what you want. The notion of “value” only exists when coupled with a want. Nature has no notion of value, everything is just true. Only a being that wants, values.
+
+For example, if you want to build a bridge understanding the truths about gravity, forces, materials, resistance, etc. are incredibly valuable, while truths about how to make music wouldn’t be.
+
+Of course our wants can change. Value of a truth changes over time, depending on how wants change. Something you valued highly when you wanted something, you may not value at all once that want passes - until the want returns.
+
+---
+
+### Values of truths follow a power law
+
+Some truths are orders of magnitude more powerful than others.
+
+_Give good examples._
+
+This is just an observation of nature. I don’t know why this is the case, but I believe it’s a byproduct of the way our minds work.
+
+At times you’ll need to uncover multiple truths in order to “unlock” a significantly higher value truth.
+
+---
+
+### Seeking truth is a recursive search for higher value truths
+
+Recursion is a method of solving a problem where a solution depends on the solution of smaller instances of the same problem.
+
+This looks like a tree:
+
+The process of
+
+We predict truths based on the truths we believe in.
+
+A prediction is simply a truth that you believe in. A prediction has a notion of confidence. Sometimes when you predict,
+
+The mind generates predictions (let’s ignore how exactly it does this for now - that is a detail that will be more relevant as we dig deeper later in this essay).
+
+A want leads to more wants (the tree)
+
+- Why is seeking truth recursive? Because the mind is fundamentally recursive. Even in our day to day conversations, we go from one topic, and deeper into tangents. This is why in a conversation, we get lost in tangents, or “sub-trees”.
+- But, why does the mind work like that? This fractal pattern seems to be common in nature. Not just our mind works this way, but trees grow this way, etc. (note: https://en.wikipedia.org/wiki/Fractal#Natural_phenomena_with_fractal_features → many things we see in our universe follow this fractal pattern of one leading to more leading to more. The way we seek truth seems to be aligned with how nature is.
+
+---
+
+### Wants returns with higher expectations
+
+---
+
+### A truth has an objectively correct value.
+
+For a given want, there is an objectively better and worse way to value a truth.
+
+Subjectivity also exists. When two people value truths differently, it doesn’t mean one is better and the other is worse because there is subjectivity to the degree that wants differ. In the extreme case: two people with very different wants will value the same truth quite differently, while both could potentially be valuing it well.
+
+So we can objectively compare how well two individuals value a truth to the degree they want the same thing. This objectivity is incredibly useful because it helps us study a skill by comparing individuals, or by comparing ourselves with our past selves and seeing the difference in how we valued a truth and why we did.
+
+---
+
+### Ability to act is critical
+
+- But it is not seeking truth. Seeking is forming beliefs. Acting is acting on those beliefs in the world.
+- Rational thought, reasoning, etc. is also acting on beliefs, not seeking truth.
+- If you can’t act on beliefs, you can’t get what you want.
+- If you can’t act, you can’t improve your beliefs as well.
+
+---
+
+### Time is scarce
+
+- Infinite tree of paths
+- Doing both paths
+- There’s a delusion: we are terrible at realizing just how precious time is.
+
+---
+
+### Every skill can be modeled as seeking truth
+
+- A founder building a company
+- A scientist understanding something
+- An artist making a video
+
+---
+
+### How we blunder
+
+- Show every single way we get lost in the search.
+- We get stuck to paths even when there is strong evidence that is presented to us that it isn’t the best path.
+- We often predict what we want to be true, but is far from the truth, leading us down wrong paths (wrong in the sense of being able to get what you want).
+- But this isn’t enough detail to understand how to improve, or to even understand what’s going on. If my mind isn’t generating the predictions, and if it isn’t able to accurately value predictions so that it chooses the best ones, then what can I do to improve? What impacts that ability?
+
+---
+
+### Why do we blunder?
+
+- We need a theory of mind to explain this.
+- And anyone that talks about any skill either explicitly or implicitly has a theory of mind.
+
+---
+
+### Four seeking functions of the mind
+
+---
+
+### A. Observe
+
+---
+
+### B. Understand
+
+---
+
+### C. Value
+
+---
+
+### D. Predict
+
+---
+
+### The mind updates through satiation, or the lack of it.
+
+---
+
+### Conditioning
+
+- Conditioning is a reaction to a want. It gets triggered (meaning you feel the pull) as soon as the want arises.
+
+---
+
+### The mind is fundamentally addictive
+
+- This is why intellectually understanding what to do will not enable us to act on it if our conditioning is too difficult to override.
+
+---
+
+### A belief is also conditioned
+
+- This is
+
+---
+
+### Conditioning can be blinding\*
+
+- (this also means that we are blind to the conditioning).
+- Map back to the tree search
+- If the conditioning is too deeply rooted, it will blind you.
+- Schlep blindness.
+- Scientific approach blindness.
+- Artist blindness.
+
+---
+
+### Willpower
+
+- The ability to act against conditioning
+- Map back to the tree search.
+
+---
+
+### Memory
+
+- Define: recall beliefs in the form of thoughts, and to recall the search tree - to remember where you are, and how you got here in the tree.
+- Our memory is not as good as we think it is (even in day to day conversations we tend to forget how we got there, or we go deep into unnecessary tangents forgetting the purpose of our conversation in the first place (when there is a purpose ofc). This is the memory function of the mind.
+- Map back to the tree search.
+
+---
+
+### Ability to act vs. conditioning
+
+- Why is it necessary to make this distinction? - because they are fundamentally different processes.
+- Ability to act also includes: reasoning, and engaging with the outside world.
 
 ---
 
@@ -27,7 +258,7 @@ The possible paths grows larger for more difficult wants, and it’s more diffic
 
 For example, in the modern world if you want food and have some money in your hands, you have a small set of options in front of you: groceries and cook, restaurant, free food at an event, etc. There’s only so much you can explore here before you exhaust all options. Making a movie on the other hand has too many paths that are difficult to assess which is better.
 
-- Maybe there’s some mathematical angle here that is useful. (tree breadth vs. depth. The more possibilities, the larger the tree, and the larger the tree, the more opportunities for delusion.
+- Maybe there’s some mathematical angle here that is useful. (tree breadth vs. depth. The more possibilities, the larger the tree, and the larger the tree, the more opportunities for delusion.)
 
 ---
 
@@ -110,7 +341,7 @@ Interestingly, the mind, in order to protect itself from lack of satiation, will
 
 ---
 
-### Priority
+### These factors are not equal, nor independent
 
 One factor can impact the other. They aren’t completely independent as I’ve made them seem.
 
@@ -123,22 +354,6 @@ Someone with great conditioning but amnesia will likely perform better than some
 So prioritizing clearly depends on the individual. But for an individual, I believe these factors are not equally contributing to an their ability to get what they want - in that moment in time, and that there would be a top factor that is the main bottleneck for them.
 
 In order to better understand how these factors impact individuals and how these factors change over time, it’ll help to look at some examples of people becoming better at what they do and study how they did so.
-
----
-
-### All positive qualities can be derived from these core factors
-
-Focus = memory + willpower. Steve Jobs was right about “focus is about saying no”.
-
-Resilience = willpower to resist your conditioning that wants to push you away from a scenario that doesn’t have satiation.
-
-Judgement = Seeking truth well so that your beliefs are aligned with reality, valuable, and so that you have a more granular notion of values of truths, so that you can prioritize effectively. And
-
-Self-awareness = the ability to see (in this context this would be “feel” since conditioning manifests as a feeling) how your mind is conditioned.
-
-Good taste = having good conditioning such that your mind produces good predictions.
-
-Discernment = having good conditioning such that your value function is more granular: you can see the difference between the value of two beliefs whereas others would see them as equal.
 
 ---
 
@@ -392,6 +607,10 @@ Most of us drastically miscalculate risk. (Talk about how when people decide to 
 
 ---
 
+### Conditioning is becoming more important than ability to act.
+
+---
+
 ### A master has better control over their conditioning
 
 - And this isn’t through sheer willpower - as we saw earlier, willpower only works for conditioning you can see, but not the conditioning that you’re blind to. (reference the piece above).
@@ -415,6 +634,8 @@ Most of us drastically miscalculate risk. (Talk about how when people decide to 
 Going back to the example of the Nobel laureate who can’t do good work [anymore](http://anymore.In): in most situations the right truth seeking move is to operate in ways that our outdated conditioning latches onto.
 
 For example, becoming popular feeds self-preservation, but is also incredibly valuable for seeking truth: it allows the world to criticize your ideas, which helps you improve more quickly. But it also sets a massive trap: the more you allow the popularity to satiate you, the more you’ll be derailed from getting what you consciously want.
+
+I suspect that when we think we want to be great at something, what we actually want is to simply become great at something that people appreciate - and that could be anything.
 
 ---
 
@@ -456,6 +677,26 @@ But, with progress, these limitations will become smaller, amplifying our abilit
 - Most valuable truths are not uncovered.
 - We know barely anything.
 - Believing in progress is an act of humility.
+
+---
+
+### Mapping every day advice, knowledge to the terms we've used
+
+Clearly if our model doesn't explain commonly used concepts that are likely true, then we're probably wrong somewhere.
+
+Focus = memory + willpower. Steve Jobs was right about “focus is about saying no”.
+
+Resilience = willpower to resist your conditioning that wants to push you away from a scenario that doesn’t have satiation.
+
+Judgement = Seeking truth well so that your beliefs are aligned with reality, valuable, and so that you have a more granular notion of values of truths, so that you can prioritize effectively. And
+
+Self-awareness = the ability to see (in this context this would be “feel” since conditioning manifests as a feeling) how your mind is conditioned.
+
+Good taste = having good conditioning such that your mind produces good predictions.
+
+Discernment = having good conditioning such that your value function is more granular: you can see the difference between the value of two beliefs whereas others would see them as equal.
+
+And there is more: can map every bias / fallacy to our terms: (confirmation bias, sunken cost fallacy, etc.)
 
 ---
 

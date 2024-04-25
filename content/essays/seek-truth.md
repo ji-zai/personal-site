@@ -87,23 +87,53 @@ Of course our wants can change. Value of a truth changes over time, depending on
 
 ### Values of truths follow a power law
 
-Some truths are orders of magnitude more powerful than others.
+For a given want, some truths are orders of magnitude more valuable than others.
 
-_Give good examples._
+This is just an observation of nature. I don’t know why this is the case, but it seems to be true if we look back at how we've uncovered truths about the world.
 
-This is just an observation of nature. I don’t know why this is the case, but I believe it’s a byproduct of the way our minds work.
+For example, for someone that wants to build a bridge, the truth about the equation of gravity is orders of magnitude more valuable than the truth "when you throw a ball up it falls down".
 
-At times you’ll need to uncover multiple truths in order to “unlock” a significantly higher value truth.
+Both are true, yet one is far more valuable because of its predictive power: it explains far more about the world, and therefore you can leverage that truth to get more of what you want, more quickly, for longer periods of time (i.e. robust to change).
+
+At times you’ll need to uncover multiple truths in order to “unlock” a significantly higher valued truth. This feature of truths seeking is the hallmark of human progress. We collectively uncover a set of truths, and then someone connects the dots and finds a much more valuable underlying truth that explains them all, and also explains phenomena that we might not have even understood yet.
+
+These are breakthroughs, and we find them in every field. Companies too are founded on a set of truths that the founders believe about the world. And if the truths they build the company on are incredibly valuable, they are far more likely to succeed and build a generational company.
+
+Art is also grounded in some truths the artist feels about the human condition. Every now and then we find an artist that expresses these truths in such a profound way that we can't help but be moved by them. They create a new trend.
+
+Seeking truth is all about uncovering such higher valued truths so that we can be much better at getting what we want.
 
 ---
 
+### Wants have expectations
+
+When you want something it requires a certain set
+
+---
+
+### Acting on your beliefs is how you get what you want.
+
+### A want leads to more wants
+
+When you want something and you know how to get it, there's of course no need to seek truth, you'll simply act on your beliefs and get what you want.
+
+Seeking truth only happens when you are unable to fulfill your want in this moment. This pushes you to uncover more valuable truths than the ones you already believe in, to fulfill your want.
+
+In this process, you may uncover a truth that you believe is valuable enough to fulfill your want, but you still cannot act on that truth to get what you want. When this happens, your mind generates a new want: the want to be able to act on the truth. Let's call this new want a "child" of the initial "parent" want.
+
+For example, let's say you have a want to solve a problem you have by building an app. By seeking truth you uncover the truth: "The solution can be coded using acme programming framework.". You believe this truth, but you don't know how to program in that way.
+
+When this happens, a child want is formed: the want to learn how to code in the acme framework in order to build the app, in order to fulfill your want to solve your problem.
+
+Similarly, the child want will generate more child wants.
+
 ### Seeking truth is a recursive search for higher value truths
 
-Recursion is a method of solving a problem where a solution depends on the solution of smaller instances of the same problem.
+To solve for one want, we often must solve for other wants.
 
-This looks like a tree:
+Recursion is a method of solving a problem where a solution depends on the solution of smaller instances of the same problem. And therefore fulfilling a want is a recursive process.
 
-The process of
+This process looks like a tree:
 
 We predict truths based on the truths we believe in.
 
@@ -118,10 +148,6 @@ A want leads to more wants (the tree)
 
 ---
 
-### Wants returns with higher expectations
-
----
-
 ### A truth has an objectively correct value.
 
 For a given want, there is an objectively better and worse way to value a truth.
@@ -132,7 +158,7 @@ So we can objectively compare how well two individuals value a truth to the degr
 
 ---
 
-### Ability to act is critical
+### Ability to act
 
 - But it is not seeking truth. Seeking is forming beliefs. Acting is acting on those beliefs in the world.
 - Rational thought, reasoning, etc. is also acting on beliefs, not seeking truth.
@@ -215,9 +241,9 @@ So we can objectively compare how well two individuals value a truth to the degr
 
 ---
 
-### Conditioning can be blinding\*
+### Conditioning can be blinding
 
-- (this also means that we are blind to the conditioning).
+- (this also means that we are blind to the conditoining itself).
 - Map back to the tree search
 - If the conditioning is too deeply rooted, it will blind you.
 - Schlep blindness.

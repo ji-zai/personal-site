@@ -91,6 +91,9 @@ export const essayComponents = {
   Caption,
   PlaceHolder,
   CustomImage,
+  aside: (props) => {
+    return <div>POOOP</div>;
+  },
   h2: (props) => {
     const label = props.children;
     return <h2 id={getIdFromHeader(label)} variant="h2" {...props} />;

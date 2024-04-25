@@ -31,6 +31,8 @@ But, even if you don’t buy that it will become more difficult to get what we w
 
 I’ve divided this essay into 3 sections. In the first I walk through what I mean when I say “seek truth”. I then explore what mastery looks through examples to help us see what makes someone great and how they are different from the rest of us. Lastly, I’ll discuss how I see the world changing and how the nature of this skill is changing in response to the changing world.
 
+Understanding how the world is changing and how that impacts this skill is critical because it directly impacts the way we train ourselves. If we train a muscle that it turns out won't be required soon, then it's wasted effort. It could also be dangerous if we train ourselves in ways that will make us worse at seeking truth in the long-run. We will only know that if we understand how this skill itself will change over time.
+
 ---
 
 ### Seeking truth
@@ -107,11 +109,21 @@ Seeking truth is all about uncovering such higher valued truths so that we can b
 
 ### Wants have expectations
 
-When you want something it requires a certain set
+When you want something and you don't know how to fulfill it it means the highest value truth you believe in (for this want) isn't high enough value to enable you to fulfill it.
 
 ---
 
-### Acting on your beliefs is how you get what you want.
+### Ability to act
+
+If you can’t act on beliefs, you can’t get what you want.
+
+Acting is doing things that aren't directly related to updating your beliefs. For example, if you want to eat food and you believe that there are leftovers in your refrigerator, acting would be you grabbing that food and eating it.
+
+Similarly, if you want to edit a video, don't know how to (i.e. the highest value truth you believe in isn't sufficient to fulfill this want), and believe that searching online will lead you to learning how, then acting on that belief would be typing the search term in your phone and pressing submit.
+
+By not being able to act, not only would you not get what you want, you won't be able to improve your beliefs. Acting is what shows you whether what you believed will fulfill your want actually does. And when it doesn't, you're forced to improve your understanding.
+
+---
 
 ### A want leads to more wants
 
@@ -127,51 +139,39 @@ When this happens, a child want is formed: the want to learn how to code in the 
 
 Similarly, the child want will generate more child wants.
 
-### Seeking truth is a recursive search for higher value truths
+---
 
-To solve for one want, we often must solve for other wants.
+### Seeking truth is a recursive search for higher value truths
 
 Recursion is a method of solving a problem where a solution depends on the solution of smaller instances of the same problem. And therefore fulfilling a want is a recursive process.
 
-This process looks like a tree:
+To solve for one want, we often must solve for other wants, and therefore the process of getting what we want (seeking truth) is a recursive process.
 
-We predict truths based on the truths we believe in.
+This process looks like a tree.
 
-A prediction is simply a truth that you believe in. A prediction has a notion of confidence. Sometimes when you predict,
-
-The mind generates predictions (let’s ignore how exactly it does this for now - that is a detail that will be more relevant as we dig deeper later in this essay).
-
-A want leads to more wants (the tree)
-
-- Why is seeking truth recursive? Because the mind is fundamentally recursive. Even in our day to day conversations, we go from one topic, and deeper into tangents. This is why in a conversation, we get lost in tangents, or “sub-trees”.
-- But, why does the mind work like that? This fractal pattern seems to be common in nature. Not just our mind works this way, but trees grow this way, etc. (note: https://en.wikipedia.org/wiki/Fractal#Natural_phenomena_with_fractal_features → many things we see in our universe follow this fractal pattern of one leading to more leading to more. The way we seek truth seems to be aligned with how nature is.
-
----
-
-### A truth has an objectively correct value.
-
-For a given want, there is an objectively better and worse way to value a truth.
-
-Subjectivity also exists. When two people value truths differently, it doesn’t mean one is better and the other is worse because there is subjectivity to the degree that wants differ. In the extreme case: two people with very different wants will value the same truth quite differently, while both could potentially be valuing it well.
-
-So we can objectively compare how well two individuals value a truth to the degree they want the same thing. This objectivity is incredibly useful because it helps us study a skill by comparing individuals, or by comparing ourselves with our past selves and seeing the difference in how we valued a truth and why we did.
-
----
-
-### Ability to act
-
-- But it is not seeking truth. Seeking is forming beliefs. Acting is acting on those beliefs in the world.
-- Rational thought, reasoning, etc. is also acting on beliefs, not seeking truth.
-- If you can’t act on beliefs, you can’t get what you want.
-- If you can’t act, you can’t improve your beliefs as well.
+(todo: a stellar animation to show how this works)
 
 ---
 
 ### Time is scarce
 
-- Infinite tree of paths
-- Doing both paths
-- There’s a delusion: we are terrible at realizing just how precious time is.
+Most of our wants are difficult to fulfill. What this means is that there are many, many sub-trees. So many that it feels infinite (and maybe it is?).
+
+Yet, we want to get what we want as quickly as possible.
+
+This is what creates the necessary tension in our system to push us to be more effective at seeking truth.
+
+If we didn't want to get what we wanted as quickly as possible, then we'd just keep going down a single branch of the tree without ever coming back up, and just die.
+
+Of course that doesn't happen becuase we become frustrated the longer we go without getting what we want. This is useful. Without this frustration (or discomfort / agitation - whatever you want to call it), time would not be scarce for us, and there would be no need to be effective at seeking truth, and, well, we wouldn't be where we are as a species.
+
+---
+
+### Satiation & the lack of it
+
+We cut off paths of exploration based on satiation or lack of it. Satiation means that we fulfill our want. Lack of it means we haven't. So clearly there's an aspect of time here.
+
+Lack of satiation is proportional to the time you've spent seeking truth without satiating your want.
 
 ---
 
@@ -219,13 +219,13 @@ So we can objectively compare how well two individuals value a truth to the degr
 
 ---
 
-### The mind updates through satiation, or the lack of it.
-
----
-
 ### Conditioning
 
 - Conditioning is a reaction to a want. It gets triggered (meaning you feel the pull) as soon as the want arises.
+
+---
+
+### The mind conditions itself in response to satiation.
 
 ---
 
@@ -267,10 +267,14 @@ So we can objectively compare how well two individuals value a truth to the degr
 
 ---
 
-### Ability to act vs. conditioning
+### Ability to act and ability to seek truth are different.
 
+- Yet, they are tightly coupled. Without one the other isn't useful. Imagine having the ability to act but inability to seek truth, meaning you'll build products that no one wants. Or publish a book that you yourself don't like.
 - Why is it necessary to make this distinction? - because they are fundamentally different processes.
 - Ability to act also includes: reasoning, and engaging with the outside world.
+- Can use Chess as an example here.
+
+(This may go in the change section when I talk about how the importance of each is changing).
 
 ---
 
@@ -285,6 +289,18 @@ The possible paths grows larger for more difficult wants, and it’s more diffic
 For example, in the modern world if you want food and have some money in your hands, you have a small set of options in front of you: groceries and cook, restaurant, free food at an event, etc. There’s only so much you can explore here before you exhaust all options. Making a movie on the other hand has too many paths that are difficult to assess which is better.
 
 - Maybe there’s some mathematical angle here that is useful. (tree breadth vs. depth. The more possibilities, the larger the tree, and the larger the tree, the more opportunities for delusion.)
+
+---
+
+### There is objectivity in how to measure ability to seek truth.
+
+For a given want, there is an objectively better and worse way to value a truth.
+
+Subjectivity also exists. When two people value truths differently, it doesn’t mean one is better and the other is worse because there is subjectivity to the degree that wants differ. In the extreme case: two people with very different wants will value the same truth quite differently, while both could potentially be valuing it well.
+
+So we can objectively compare how well two individuals value a truth to the degree they want the same thing. This objectivity is incredibly useful because it helps us study a skill by comparing individuals, or by comparing ourselves with our past selves and seeing the difference in how we valued a truth and why we did.
+
+Culturally I feel that we've moved away from looking at the world in terms of right and wrong, better and worse, etc. But this is a glaring mistake. There is almost certainly a better way of approaching things - for a given want. Yet, between us, what is better or worse only differs to the degree that our wants differ.
 
 ---
 
@@ -606,6 +622,14 @@ Truths always expired, but they didn’t expire nearly as quickly as they do tod
 Even as recent as a few decades ago, you could continue to get what you want by allowing yourself to condition yourself deeply to your beliefs.
 
 - That strategy no longer works.
+
+- GDP is a lagging indicator of the value of truths we have collectively uncovered, but it is still an indicator. How much it lags depends on our collective speed at which we can turn ideas into reality.
+
+---
+
+### Our delusion grows every moment.
+
+- This is actually a solid point. It shows just how flawed we are in a sense. Powerful. There is a nice few paras here that are incredibly powerful.
 
 ---
 

@@ -200,11 +200,11 @@ Satiation from the journey is valuable, but over-satiation from the journey is a
 
 An example from the world of startups that I see often: a founder that sets off to solve a problem that ends up falling in love with the satiation that comes from seeking truth about building the product. They overemphasize building over other critical functions of building a company and therefore fail to build something people actually use. (and you can find such examples in any skill).
 
-### Summarizing our model of seeking truth
+### Our model of seeking truth
 
-- A founder building a company
-- A scientist understanding something
-- An artist making a video
+- todo: do this at the end, after the entire draft is complete. This will predominantly be a visualization exercise.
+- Solid animation. Use a real world example.
+- Will need to speak to how priorities shift because how you value the truth change.
 
 ---
 
@@ -251,7 +251,7 @@ An example from the world of startups that I see often: a founder that sets off 
 
 ---
 
-### The mind conditions itself in response to satiation.
+### Satiation conditions the mind
 
 ---
 

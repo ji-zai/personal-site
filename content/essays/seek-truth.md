@@ -226,20 +226,38 @@ Subjectivity also exists to the degree that the wants are different. When two pe
 
 ---
 
-### How we blunder
+### We blunder
 
-Now that we have a model for what seeking truth is and have established a notion of objectivity, we can bring clarity to all the ways in which we blunder.
+Now that we have a model for what seeking truth is and have established a notion of objectivity, we can bring clarity to all the ways we blunder. Understanding how we blunder shows us where our potential for improvement is.
 
-As a thought experiment, let's pit ourselves against a perfect truth seeker, for a given want. This hypothetical perfect truth seeker makes no mistakes. They just magically know what the right move is.
+The first category of blunders stem from not knowing what we don't know. Given the information we've been exposed to, we are guaranteed to make mistakes that the all knowing being wouldn't make. And there is no way for us to not make such mistakes.
 
-By seeing how our actions differ from the perfect player's actions, we can see where potential for improvement exists.
+Of course a good truth seeker would work hard to minimize this gap. But even if you were to learn about all the truths that all humans have collectively uncovered for the history of humanity, there would still be a massive gap between us and the hypothetical all knowing being. And this gap naturally translates to massive blunders. Blunders we can do nothing about.
 
-The perfect player will accurately value truths such that they don't misprioritize what to do in any given moment in time.
+I suspect this gap is massive: that we have barely scratched the surface of all there is to know in the universe. Therefore, even the best human truth seeker will make many, many blunders that they will realize in hindsight as they learn more about the world.
 
-- Show every single way we get lost in the search.
-- We get stuck to paths even when there is strong evidence that is presented to us that it isn’t the best path.
-- We often predict what we want to be true, but is far from the truth, leading us down wrong paths (wrong in the sense of being able to get what you want).
-- But this isn’t enough detail to understand how to improve, or to even understand what’s going on. If my mind isn’t generating the predictions, and if it isn’t able to accurately value predictions so that it chooses the best ones, then what can I do to improve? What impacts that ability?
+If those great at what they do published all of their thinking and notes, it would be clear just how many misteps, backtracking, adjusting, etc. that takes place. It's not possible to be at the frontier of any skill without committing many blunders due to how little we know.
+
+The corrollary is also important: if we are not blundering much in our exploration, it probably means that we're not pushing the boundaries of human understanding and capacity.
+
+But, this is an incredibly dangerous belief because it leads to laziness. We'd develop a tendency to disown our blunders and pat ourselves on the back thinking we're pushing the boundaries whereas in reality we're just blundering due to stupidity that is entirely in our control to change.
+
+But not acknowledging that masters will also blunder massively paints an unrealistic expectation of what mastery looks like, and so as someone seeking truth about seeking truth, I can't not acknowledge this fundamental truth about mastery.
+
+Therefore the goal is not to not blunder, but to not blunder in ways that we can avoid.
+
+Unlike most of us, the master is obsessed with discerning which blunders are the result of their lack in skill, and which blunders were inevitable. They know that this miscalculation is biggest blunder of them all.
+
+I believe we significantly underestimate how much control we have over our blunders.
+
+---
+
+### How do we blunder?
+
+In terms of our tree search model, we blunder by:
+
+1. Not predicting high value truths. This means that we don't even see the right paths to go down.
+2. Not valuing truths accurately. This causes mis-prioritization in the truths that we've uncovered / predicted.
 
 ---
 

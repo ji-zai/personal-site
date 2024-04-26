@@ -198,7 +198,7 @@ There's also a different degree of satiation from actually acting on the belief 
 
 Satiation from the journey is valuable, but over-satiation from the journey is a common factor for why we are ineffective at seeking truth.
 
-An example from the world of startups that I see often: a founder that sets off to solve a problem that ends up falling in love with the satiation that comes from seeking truth about building the product. They overemphasize building over other critical functions of building a company and therefore fail to build something people actually use. (and you can find such examples in any skill).
+An example from the world of startups that I see often: a founder that sets off to solve a problem that ends up falling in love with the satiation that comes from building the product. They overemphasize building over other critical functions of growing a company and therefore fail to create something people actually use. (and you can find such examples in any skill).
 
 ### Our model of seeking truth
 
@@ -208,7 +208,33 @@ An example from the world of startups that I see often: a founder that sets off 
 
 ---
 
+### There is an objectively accurate value for a truth.
+
+Given a want, a truth has an objectively accurate value.
+
+To see why we can look at when we've improved our ability to seek truth for a want. When we start learning how to get what we want, we often prioritize truths that aren't the best truths to prioritize. Only after improving can we look back and see how we've mis-prioritized.
+
+This mis-prioritization implies that for that want, we were initially inaccurate in how we valued truths, and over time became more accurate (i.e. better), allowing us to prioritize paths of exploration that are more fruitful.
+
+Another way to see it is to imagine someone who understands everything about the entire universe that has uncovered all the truths that can be uncovered (an all knowing being). Given this understanding they would be able to assign the perfect value for a truth - for a particular want. And they would also perfectly assign the value 0 to anything that doesn't correlate with fulfilling the want.
+
+Every time we improve, we approach a bit closer to this perfectly accurate value for a truth, but of course achieving it is impractical as the only way you would know you are there is if you knew everything that impacts that want.
+
+Objectivity is useful because it means we can become better: by being more accurate in how we value truths. And objectivity is useful to compare individuals in a group that all share the same / similar want, as we'll do later to study how the world is changing.
+
+Subjectivity also exists to the degree that the wants are different. When two people value truths differently, it doesn’t mean one is better and the other is worse if they want different things. In the extreme case: two people with very different wants will value the same truth quite differently, while both could potentially be valuing it accurately.
+
+---
+
 ### How we blunder
+
+Now that we have a model for what seeking truth is and have established a notion of objectivity, we can bring clarity to all the ways in which we blunder.
+
+As a thought experiment, let's pit ourselves against a perfect truth seeker, for a given want. This hypothetical perfect truth seeker makes no mistakes. They just magically know what the right move is.
+
+By seeing how our actions differ from the perfect player's actions, we can see where potential for improvement exists.
+
+The perfect player will accurately value truths such that they don't misprioritize what to do in any given moment in time.
 
 - Show every single way we get lost in the search.
 - We get stuck to paths even when there is strong evidence that is presented to us that it isn’t the best path.
@@ -315,18 +341,6 @@ The possible paths grows larger for more difficult wants, and it’s more diffic
 For example, in the modern world if you want food and have some money in your hands, you have a small set of options in front of you: groceries and cook, restaurant, free food at an event, etc. There’s only so much you can explore here before you exhaust all options. Making a movie on the other hand has too many paths that are difficult to assess which is better.
 
 - Maybe there’s some mathematical angle here that is useful. (tree breadth vs. depth. The more possibilities, the larger the tree, and the larger the tree, the more opportunities for delusion.)
-
----
-
-### There is objectivity in how to measure ability to seek truth.
-
-For a given want, there is an objectively better and worse way to value a truth.
-
-Subjectivity also exists. When two people value truths differently, it doesn’t mean one is better and the other is worse because there is subjectivity to the degree that wants differ. In the extreme case: two people with very different wants will value the same truth quite differently, while both could potentially be valuing it well.
-
-So we can objectively compare how well two individuals value a truth to the degree they want the same thing. This objectivity is incredibly useful because it helps us study a skill by comparing individuals, or by comparing ourselves with our past selves and seeing the difference in how we valued a truth and why we did.
-
-Culturally I feel that we've moved away from looking at the world in terms of right and wrong, better and worse, etc. But this is a glaring mistake. There is almost certainly a better way of approaching things - for a given want. Yet, between us, what is better or worse only differs to the degree that our wants differ.
 
 ---
 

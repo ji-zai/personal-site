@@ -230,6 +230,10 @@ Subjectivity also exists to the degree that the wants are different. When two pe
 
 Now that we have a model for what seeking truth is and have established a notion of objectivity, we can bring clarity to all the ways we blunder. Understanding how we blunder shows us where our potential for improvement is.
 
+What is a blunder? We can only define blunder in terms of time because time is our only scarcity. Blunder is something we do that overly delays our ability to get what we want - i.e. to uncover higher valued truths. Some blunders are more costly than others. For example, someone who only always explores only the first prediction they have, will likely not only delay their ability to uncover high valued truths, but will never even uncover them before they die.
+
+And naturally, more problematic than an individual blunder is consistently making blunders.
+
 The first category of blunders stem from not knowing what we don't know. Given the information we've been exposed to, we are guaranteed to make mistakes that the all knowing being wouldn't make. And there is no way for us to not make such mistakes.
 
 Of course a good truth seeker would work hard to minimize this gap. But even if you were to learn about all the truths that all humans have collectively uncovered for the history of humanity, there would still be a massive gap between us and the hypothetical all knowing being. And this gap naturally translates to massive blunders. Blunders we can do nothing about.
@@ -244,48 +248,65 @@ But, this is an incredibly dangerous belief because it leads to laziness. We'd d
 
 But not acknowledging that masters will also blunder massively paints an unrealistic expectation of what mastery looks like, and so as someone seeking truth about seeking truth, I can't not acknowledge this fundamental truth about mastery.
 
-Therefore the goal is not to not blunder, but to not blunder in ways that we can avoid.
+**Therefore the goal is not to not blunder, but to not blunder in ways that we can avoid.**
 
 Unlike most of us, the master is obsessed with discerning which blunders are the result of their lack in skill, and which blunders were inevitable. They know that this miscalculation is biggest blunder of them all.
 
-I believe we significantly underestimate how much control we have over our blunders.
-
----
-
 ### How do we blunder?
 
-In terms of our tree search model, we blunder by:
+Accoridng to our model of seeking truth as a search problem represented by a tree of possibilities, our blunders look like the following:
 
-1. Not predicting high value truths. This means that we don't even see the right paths to go down.
-2. Not valuing truths accurately. This causes mis-prioritization in the truths that we've uncovered / predicted.
+1. We assign a value to a truth that is lower than it should be, leading us to ignore a valuable path.
+2. We assign a value to a truth that is higher than it should be, leading us down a path that isn’t nearly as fruitful as another.
+3. We quit a branch too soon.
+4. We don’t quit a branch soon enough.
+5. We act too soon, without giving ourselves time to predict, thereby seeing less possible paths and missing the best ones.
+6. We take too long to act, and spend too much time thinking and predicting beyond a necessary point that won’t improve the paths available to us.
+7. We don’t spend as much time as we could to seeking truth.
 
----
+What’s clear is that there are tradeoffs for everything except for one thing: how much time we spend seeking truth to get what we want. That if you find a way to commit more time to seeking truth for a particular want, you will get better at fulfilling that want.
 
-### Why do we blunder?
+For the others, there is a tradeoff, and a tradeoff implies there’s an optimal point. And the answer to what that optimal point is, is of course “it depends”. But what does it depend on? And are the factors on which it depends on changing? If so, how does the change in factors impact how the optimal point shifts?
 
-- Becuase even if we understand up till this point grasp how we seek truth, it's still difficult to do anything about it. In order to analyze how well we actually seek truth, we need to have a theory of how our mind works, so that we understand
-- We need a theory of mind to explain this.
-- And anyone that talks about any skill either explicitly or implicitly has a theory of mind.
+In order to be able to draw valuable conclusions and make predictions that actually help us become better at seeking truth and getting what we want, we need to dig much deeper to better understand why we commit these blunders.
 
----
+Specifically, we need to understand how the mind goes from what it understands to predicting truths. This is how the search tree is formed. If you act only based on what you know and see without predicting, you won't get far in your ability to get what you want.
 
-### Four seeking functions of the mind
-
----
-
-### A. Observe
-
----
-
-### B. Understand
+To explain what happens in this process, we need a theory of mind: how the mind observes, understands, values, and predicts truths.
 
 ---
 
-### C. Value
+### 5 functions of the mind
+
+I believe the mind has five functions.
+
+1. Perceive: to take in information through the senses.
+2. Observe: to consciously take note of some phenomena.
+3. Understand: to turn an observation into a truth.
+4. Value: to assign a value to the truth.
+5. Predict: to predict new truths based on what the mind believes to be true.
+
+Every time
 
 ---
 
-### D. Predict
+### 1. Perceive
+
+---
+
+### 2. Observe
+
+---
+
+### 3. Understand
+
+---
+
+### 4. Value
+
+---
+
+### 5. Predict
 
 ---
 
@@ -305,7 +326,7 @@ In terms of our tree search model, we blunder by:
 
 ---
 
-### A belief is also conditioned
+### A belief is an addiction
 
 - This is
 
@@ -334,6 +355,12 @@ In terms of our tree search model, we blunder by:
 - Define: recall beliefs in the form of thoughts, and to recall the search tree - to remember where you are, and how you got here in the tree.
 - Our memory is not as good as we think it is (even in day to day conversations we tend to forget how we got there, or we go deep into unnecessary tangents forgetting the purpose of our conversation in the first place (when there is a purpose ofc). This is the memory function of the mind.
 - Map back to the tree search.
+
+---
+
+### The mind is single threaded
+
+We focus on one thing at a time. Our consciousness can move from one thing to another, but
 
 ---
 
@@ -672,8 +699,19 @@ You can’t avoid believing in temporary truths because most truths we operate o
 
 <aside>
 💡 Therefore, intuition is guaranteed to turn into bias at the rate at which the truths you rely on expire.
-
 </aside>
+
+---
+
+### Conditioning will misguide us
+
+As a result of the rapid change, our conditioning (feeling) will misguide us in domains that are changing fast, whereas they will be a great help in domains that aren’t.
+
+For example, our feeling about whether someone is lying to us or trying to manipulate us is probably really good. Similarly what we feel someone else is feeling isn’t likely to be outdated. We may be terrible at it, but improving it in the ways we were should be fine.
+
+But, the danger is in following our intuitions for what it means to build the right team to make a successful film, or company, or research group, etc. Or our intuitions about how to prioritize work. Or how much time to spend thinking vs. acting. The nature of these trade-offs has changed so drastically that whatever we feel is the right thing to do is almost certainly far from the optimal.
+
+This is precisely why existing advice while directionally correct are terrible pieces of advice because they don’t take into account change. For example “think before you act”, “move fast”, “knowing when to do what”, etc. are all right, but the way in which we believe them is becoming outdated - because a belief is a feeling.
 
 ---
 
@@ -747,7 +785,7 @@ Most of us drastically miscalculate risk. (Talk about how when people decide to 
 - The mind will make the jump from “I’m voting for X” to “I am X” without you even realizing. The mind wants to latch onto things quickly and fiercely. Countering this tendency isn’t as easy as it may seem at first glance. (not sure how this point applies here - but it’s a critical point).
 - Conscious vs. subconscious.
 
-Going back to the example of the Nobel laureate who can’t do good work [anymore](http://anymore.In): in most situations the right truth seeking move is to operate in ways that our outdated conditioning latches onto.
+Going back to the example of the Nobel laureate who can’t do good work anymore: in most situations the right truth seeking move is to operate in ways that our outdated conditioning latches onto.
 
 For example, becoming popular feeds self-preservation, but is also incredibly valuable for seeking truth: it allows the world to criticize your ideas, which helps you improve more quickly. But it also sets a massive trap: the more you allow the popularity to satiate you, the more you’ll be derailed from getting what you consciously want.
 
@@ -831,3 +869,14 @@ I need your feedback! Especially if you have any life experiences or beliefs tha
 (TODO): a link for how to give me feedback.
 
 (Something about compassion, love, etc. and how that isn't seeking truth - but it is. Even compassion can be cultivated, trained if you seek truth about how. But why? Because we are more peaceful as a result. So, even if you want to be happier, more compassionate, seeking truth is the technique. And just like how deluded we are at all the things we want, we are even more deluded about what it means to feel peace, and how to attain it. But that isn't the focus of my essays at the moment. I care more about worldly pursuits: how to get what you want in the world, to solve our collective external problems. When we've become sufficiently good at that, I'll likely shift my attention to seeking truth about inner peace).
+
+---
+
+### Predictions (will later be referenced in intro as well)
+
+1. We spend too little time thinking vs. acting - by an order of magnitude. I predict for every decision you make, if you multiply the time you spend analyzing and thinking before acting by 10, you will achieve results many orders of magnitude better and surprisingly quickly. When AI becomes double as powerful as it is today, make it 20.
+2. Becoming an employee anywhere is a terrible decisions in ways it wasn’t a few years ago.
+3. Those that want to be good at getting what they want (whatever that want may be - including happiness) will have to operate in a lopsided manner: be all in, in ways that were not true for those who are already making a living and doing well.
+4. Pay-to-learn education no longer works. Institutions and companies operating on this business model will not be relevant within 5 years.
+5. Inequality of outcomes will rise incredibly fast. By 2030, 0.01% world will create 99.99% value. (But, this needs to be framed in a more positive way. Everything sounds so negative so far).
+6. Universal basic income will never be enough, and getting what you want will become incredibly difficult.

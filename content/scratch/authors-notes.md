@@ -1,3 +1,17 @@
+### Thinking vs. feeling
+
+Understanding happens at a level below thinking. Of course, after the understanding happens, our minds naturally form thoughts about it, and often our thoughts are in the form of language. But even before language was invented, even in the days of cavepeople, they understood things such as sticking your hand in fire will burn you.
+
+---
+
+A really interesting feedback soliciting experience came to mind: essentially a way to grab user feedback as they read the essay. Let the do it at their own pace and time, perhaps even spread across a few days if they'd like. Give them the flexibility. But, be really good about capturing the essence of their feedback. Anyways, need to think this through.
+
+Another approach could be to release it piece by piece. That would be interesting as well... One piece at a time, and get their thoughts on it.
+
+Anyways, will get there when I get there. Amen.
+
+---
+
 Where to talk about how words are interpreted differently due to different conditioning.
 
 Also: the point about what AI will take over first and how it will progress - will be an entirely different essay. That doesn't need to go here at all. They are good points, but

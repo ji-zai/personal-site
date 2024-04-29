@@ -339,7 +339,7 @@ Ambiguity is inevitable, and therefore there will be room for us to form differe
 
 ### 3. Value
 
-After the mind generates a belief through understanding an observation, it assigns it a value. This value enables you to prioritize.
+After the mind generates a belief through understanding an observation, it assigns it a value. This value enables us to prioritize this belief.
 
 As with all of the functions, how you value a truth you believe in depends on what you want in that moment. If you want to eat food, the values of all the truths relevant fulfilling your hunger are higher than the truths not relevant to food.
 
@@ -353,23 +353,25 @@ The same observation and same belief, for the same want, may still lead two mind
 
 ### 4. Predict
 
-Once
+The mind forms new beliefs based on the truths it already believes in, and how it values them.
+
+Predicting truths often manifests as questions. For example, when you ask the question about whether A is better than B (for whatever that is), you have likely already predicted A is better than B, but with a low confidence (i.e. you don't know for sure), and therefore the question arises.
+
+But, even in the scenario in which you truly don't know which is better there are underlying predictions that led to the question. You predicted both that A can be better than B, and that B can be better than A, or they can be similar, and therefore these predictions have led to a question.
+
+More often than not, we don't predict anything, and therefore we don't even have the question arise.
+
+Just like the above function, two individuals with the exact same want, same beliefs, same values for those beliefs, may still predict quite differently: either in the type of prediction or even in the number of predictions.
 
 ---
-
-### Room for error
-
-Of course
-
----
-
-### Thinking vs. feeling
-
-Understanding happens at a level below thinking. Of course, after the understanding happens, our minds naturally form thoughts about it, and often our thoughts are in the form of language. But even before language was invented, even in the days of cavepeople, they understood things such as sticking your hand in fire will burn you.
 
 ### Conditioning
 
 I believe all of these functions are highly interconnected. In other words, a change in one function likely implies a change in every other function. If you want to change what the mind observes, you'll need to change how you understand, and once that changes, naturally, what you value changes, and how you predict changes, and all of these changes also impact what you observe. Everything is affected.
+
+As you predict beliefs, and if the mind values that belief highly, then it will likely change the value of what it previously thought was a high value truth to be lower, because this new truth is clearly better. Everything impacts everything else.
+
+And since they seem to be quite
 
 From here on out I'll use the word "conditioning" to reference the underlying thing in the mind that determines how each function works.
 
@@ -378,6 +380,12 @@ From here on out I'll use the word "conditioning" to reference the underlying th
 ---
 
 ### Satiation conditions the mind
+
+---
+
+### What determines conditioning?
+
+- It's tempting to believe that it's due to past experiences. That if one person
 
 ---
 

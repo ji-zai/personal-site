@@ -10,6 +10,13 @@
   column-count: 3;
 }
 
+.big {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  color: rgba(0, 0, 0, 0.3);
+}
+
 .listItem {
   font-size: 17px;
   line-height: 26px;

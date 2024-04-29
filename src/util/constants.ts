@@ -4,6 +4,6 @@ export const constants = {
   primary: "#ff3434",
   primaryBg: "#F3F3F3",
   inlineAnnotationFill: "#FBFBFB",
-  essayContainerMaxWidth: 700,
+  essayContainerMaxWidth: 770,
   marginNoteWidth: 250,
 };

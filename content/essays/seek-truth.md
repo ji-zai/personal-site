@@ -36,7 +36,11 @@ Understanding how the world is changing and how that impacts this skill is criti
 
 ---
 
-### Seeking truth
+## I: Seeking
+
+---
+
+### On seeking truth
 
 In its essence, seeking truth is to understand how things work in order to get what we want.
 
@@ -276,41 +280,98 @@ To explain what happens in this process, we need a theory of mind: how the mind 
 
 ---
 
-### 5 functions of the mind
+## II: Mind
 
-I believe the mind has five functions.
+### Our senses capture more information than we notice
 
-1. Perceive: to take in information through the senses.
-2. Observe: to consciously take note of some phenomena.
-3. Understand: to turn an observation into a truth.
-4. Value: to assign a value to the truth.
-5. Predict: to predict new truths based on what the mind believes to be true.
+The mind is constantly perceiving information that comes through the senses. This is a subconscious process. We do not consciously take note of most of the information that is absorbed through the senses. We're talking about nonstop recording of audio, visual, sensations, smell, tastes that we experience every moment. What we can recall is only a tiny, tiny sliver of the information that passes through us.
 
-Every time
+This perception has nothing to do with seeking truth. It just happens to the degree that our sense organs are intact, functioning, and to the extent that the parts of our brain responsible for capturing the data our sense organs transmit are intact. I predict that most healthy people consume similar information when put in similar environments.
+
+The differences between us start from the next function.
 
 ---
 
-### 1. Perceive
+### 4 functions of the mind
+
+1. Observe: to consciously notice of some phenomena.
+2. Understand: to turn an observation into a truth.
+3. Value: to assign a value to the truth.
+4. Predict: to predict new truths based on what the mind believes to be true.
+
+The way each function operates depends on what you want in that moment.
 
 ---
 
-### 2. Observe
+### 1. Observe
+
+By observation I mean your attention falling on something. When you receive an email, before you even read and understand it, your attention goes to the first word of the email. That's what I mean by an observation. Or when you're walking and your attention goes to a falling tree - you've observed it.
+
+We only consciously observe a small sliver of information that enter our minds from our environment in any given moment. It's quite easy to test this out: just try to remember everything happening around you a minute ago. You'll be able to remember it, but whatever you can recall, when compared to the information gathered by a host of computer sensors that capture audio, video, smell, the sensations that happen in your body (e.g. heart beating, the touch of the table on your hands, etc.), and all the tastes that occur in your mouth, what you remember is a tiny, tiny sliver of all the things that your senses actually felt in that moment.
+
+Therefore, at any given moment in time, we only consciously observe a small sliver of the reality of the moment. And especially so if we're not present.
+
+This means that technically it's possible for both of us to be in the same room, consume the same exact information (or quite similar), and yet have entirely different observations. And we see this happen often. A great painter will observe very different things than a novice when looking at the same paining. A great graphic designer will notice very different things than a novice when looking at the same piece of design.
+
+And similarly for other things, we will observe similar things given the same information. For example, when two individuals go on a walk and hear a loud bang near them, they will both observe that bang. Therefore, our observations can be similar or quite different - even when we consume the same information through our senses.
 
 ---
 
-### 3. Understand
+### 2. Understand
+
+After we observe something, the mind works to form a belief about what is true. By understanding, I mean his process of forming a belief based on an observation.
+
+To be clear, this belief that is formed through understanding has nothing to do with a thought. For example, someone who observes a tree float down a river doesn't need to have the thought "tree floats on water" for them to understand it. Even before language was invented, in the days of cavepeople, they understood things such as sticking your hand in fire will burn you. Animals too understand various aspects of reality and nature without having to actively think about it (using language, imagination, or anything).
+
+Therefore my earlier definition of belief as a statement is inaccurate. In reality, the statement only approximates what the underlying belief is. Of course, when discussing specific beliefs I'll continue to describe them in an English statement (or pictures, videos, etc.) simply because I have no better tools to describe them to you. But any such representation only approximates the underlying belief.
+
+Similar to how we can consume the same information and observe two entirely different things, it's possible to observe the same thing, and yet form two entirely different beliefs about what is true, even when we want the same exact thing.
+
+For example, two individuals are walking on a path in a forest and both observe the same thing in the distance. One jumps up in fear because they've understood it to be a snake, while the other doesn't react because they understood it to be a piece of rope someone left behind.
+
+Or two students that both want the same thing, to get good grades, hear the same advice "work hard", who both agree with it wholeheartedly, yet form entirely different beliefs about what "work hard" means and therefore act quite differently.
+
+You might say that ambiguity leads to different beliefs, and that if there was nothing ambiguous, they'd have the same exact understanding. You're right about ambiguity impacting understanding, which is why being as precise as possible in how we communicate is important. But it's not possible to have no ambiguity in communication. For example, I challenge you to teach someone a worthwhile skill (for example, how to write well) without any ambiguity. You simply can't. Even if you spent all your life writing the guide for how to write well, you cannot help but have ambiguity. And that is partly becuase ambiguity is necessary! Most great advice for any reasonably difficult skill often has an underlying tone of "you need to learn when to do what", and "you need to see for yourself how to do it, and find your own style", and even "you need to build your own intuition".
+
+Ambiguity is inevitable, and therefore there will be room for us to form different beliefs about an observation. The more ambiguous, the more room.
 
 ---
 
-### 4. Value
+### 3. Value
+
+After the mind generates a belief through understanding an observation, it assigns it a value. This value enables you to prioritize.
+
+As with all of the functions, how you value a truth you believe in depends on what you want in that moment. If you want to eat food, the values of all the truths relevant fulfilling your hunger are higher than the truths not relevant to food.
+
+And similar to observing and understanding, there can be a great difference in how two individuals value a belief, even if their belief is exactly the same, even if they want the same exact thing.
+
+For example, two researchers at an institution that want the same thing: to publish groundbreaking research that fundamentally changes how we understand something, who are working on the same problem, may both observe and understand a paper published in a conference that talks about a novel way to do something that they both think is important to help them with their research. Yet, one of the researchers may value it incredibly highly, and therefore drops everything they're doing to focus on applying the novel technique to one of their problems, while the other researcher decides to focus on it after a few months - once they're done with their current experiment.
+
+The same observation and same belief, for the same want, may still lead two minds to assign very different values.
 
 ---
 
-### 5. Predict
+### 4. Predict
+
+Once
 
 ---
+
+### Room for error
+
+Of course
+
+---
+
+### Thinking vs. feeling
+
+Understanding happens at a level below thinking. Of course, after the understanding happens, our minds naturally form thoughts about it, and often our thoughts are in the form of language. But even before language was invented, even in the days of cavepeople, they understood things such as sticking your hand in fire will burn you.
 
 ### Conditioning
+
+I believe all of these functions are highly interconnected. In other words, a change in one function likely implies a change in every other function. If you want to change what the mind observes, you'll need to change how you understand, and once that changes, naturally, what you value changes, and how you predict changes, and all of these changes also impact what you observe. Everything is affected.
+
+From here on out I'll use the word "conditioning" to reference the underlying thing in the mind that determines how each function works.
 
 - Conditioning is a reaction to a want. It gets triggered (meaning you feel the pull) as soon as the want arises.
 
@@ -320,21 +381,18 @@ Every time
 
 ---
 
-### The mind is fundamentally addictive
-
-- This is why intellectually understanding what to do will not enable us to act on it if our conditioning is too difficult to override.
-
----
-
 ### A belief is an addiction
 
 - This is
+- This is why intellectually understanding what to do will not enable us to act on it if our conditioning is too difficult to override.
 
 ---
 
 ### Conditioning can be blinding
 
-- (this also means that we are blind to the conditoining itself).
+(Introduce the concept of depth of conditioning)
+
+- (this also means that we are blind to the conditioning itself).
 - Map back to the tree search
 - If the conditioning is too deeply rooted, it will blind you.
 - Schlep blindness.
@@ -345,7 +403,7 @@ Every time
 
 ### Willpower
 
-- The ability to act against conditioning
+- The ability to act against conditioning (depending on the depth. The deeper, the more difficult to override with willpower. And the deepest ones, you will not even be able to see, and therefore you will be unable to override it).
 - Map back to the tree search.
 
 ---
@@ -355,16 +413,20 @@ Every time
 - Define: recall beliefs in the form of thoughts, and to recall the search tree - to remember where you are, and how you got here in the tree.
 - Our memory is not as good as we think it is (even in day to day conversations we tend to forget how we got there, or we go deep into unnecessary tangents forgetting the purpose of our conversation in the first place (when there is a purpose ofc). This is the memory function of the mind.
 - Map back to the tree search.
+- Use the amnesia example.
+- Use the reading example.
 
 ---
 
 ### The mind is single threaded
 
-We focus on one thing at a time. Our consciousness can move from one thing to another, but
+We focus on one thing at a time. Our consciousness can move from one thing to another, but cannot focus on multiple things simultaneously. If you don't believe this, well, our discussion will still be directionally useful: you'll just extrapolate what happens on one thread to multiple. But from my experience observing myself, and research has shown to some degree that it's likely we are single threaded.
 
 ---
 
-### Ability to act and ability to seek truth are different.
+## III: Skill
+
+### Acting and seeking truth are different.
 
 - Yet, they are tightly coupled. Without one the other isn't useful. Imagine having the ability to act but inability to seek truth, meaning you'll build products that no one wants. Or publish a book that you yourself don't like.
 - Why is it necessary to make this distinction? - because they are fundamentally different processes.
@@ -391,17 +453,19 @@ For example, in the modern world if you want food and have some money in your ha
 
 ### small difference in ability = massive difference in results
 
+(Will need to think through whether discussing this even makes sense. It might not, and might be better suited to another essay. As of now I feel that this discussion goes best inside of "Change". ).
+This is what's called a power law.
 The more difficult a want, the more pronounced this is.
 
 → Keep this minimal, there is no need to get into crazy theory, or get too technical. That’s not the point of this.
-
-→ Actually I do need to get into the power law - but perhaps the more detailed example can come later.
+→ Actually I do need to get into the power law - but perhaps the more detailed example can come
+later.
+-> A great example to show this is to compare the power law in chess vs. Go. Go is more complex of a game than chess, and thefore it is a more difficult want to fulfill winning a game of Go. And hence, when we look at the Elo ratings between Chess and Go, it's clear that Go has a more pronounced power law.
+-> And the simpler the game, the lower the power law: e.g. tic-tac-toe.
 
 ---
 
 ### What impacts your ability to seek truth well?
-
-(_And navigating the tree_).
 
 Earlier we saw how we blunder. Now, let's make our explanation more accurate using our theory of mind.
 
@@ -634,10 +698,9 @@ This is also why many scientists fear the hit of the Nobel prize because the mon
 ### Greats are paranoid about what satiates them
 
 → In other words, they’re paranoid about how their minds are conditioned.
-
 → Average founder vs. great founder.
 
-The average usually isn’t that paranoid because if they were, they probably wouldn’t have put themselves on the path t
+The average usually isn’t too concerned about whether they're on the right path.
 
 ---
 
@@ -656,11 +719,8 @@ The crux:
   - Perhaps it will arrive after spending a lot of time, but that’s not clear, and my hunch is that the time required is much longer than most people are willing to put up with.
 
 → The Steve Jobs example vs. an employee at Apple.
-
 → The top tier scientist approach vs. the average scientist.
-
 → A great filmmaker vs. the average one.
-
 → The average will realize the gap once they try to do something great.
 
 ---
@@ -673,9 +733,13 @@ Conditioning that worked for them at one point eventually stop working to help t
 
 ---
 
+## IV: Change
+
 ### Truths expire (change)
 
-Intuition becomes bias because every truth has an expiry date when it will cease to be true. _(note: in all likelihood, even the truths about our universe, and physical world will likely expire at some point - just far beyond any practical timeline - there is no evidence to believe they won’t, and the safer belief is to believe that the truths of the universe follow the same pattern as any other truths we’ve uncovered)._
+Intuition becomes bias because every truth has an expiry date when it will cease to be true.
+
+(note: in all likelihood, even the truths about our universe, and physical world will likely expire at some point - just far beyond any practical timeline - there is no evidence to believe they won’t, and the safer belief is to believe that the truths of the universe follow the same pattern as any other truths we’ve uncovered)
 
 ---
 

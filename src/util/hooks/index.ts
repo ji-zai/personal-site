@@ -41,8 +41,12 @@ export const generateTable = (
       // Check if the line is an H3 header
       const label = line.replace("### ", "").trim();
       const id = getIdFromHeader(label);
-
-      toc.push({ label, id });
+      toc.push({ label, id, level: 3 });
+    } else if (line.startsWith("## ")) {
+      // Check if the line is an H3 header
+      const label = line.replace("## ", "").trim();
+      const id = getIdFromHeader(label);
+      toc.push({ label, id, level: 2 });
     }
   }
 

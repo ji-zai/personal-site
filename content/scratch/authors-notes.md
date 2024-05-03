@@ -1,3 +1,127 @@
+---
+Some poeple undermine the power of AI by saying that all it does is predict the next token. I don't think they understand how the mind works becuase that's what we mostly do!
+
+Intelligence is mistaken to be reasoning or logical thinking or rational thought, but as we've seen the conditioning is incredibly valuable and more valuable than what most people consider to be "intelligence".
+
+Therefore I believe how we're building AI is directionally correct. Where we lag behind is in how much we can scale it. And it is far, far away from matching the complexity that human conditioning is able to represent. Classical computers will no be able to achieve it becuase they don't scale fast enough. We'll almost definitely require higher order compute infrastructure (quantum, beyond?) which is why I believe we'll have another AI winter, but shorter than our previous one.
+
+Predicting the next thing is possibly the most valuable human skill. Someone that is better at predicting but slower or worse at reasoning will likely perform much better than someone who can't even predict the right branches to go down, even if they have spectacular reasoning.
+---
+
+Where to discuss the value and similarity functions? - or in other words, how equality is a delusion. But as the complexity grows, equality becomes more rare. Once again use the example of Chess and Go to illustrate this.
+
+## Actually, I'll absolutely need to discuss this in change. And only after I discuss this can I discuss skill right?
+
+OK:
+
+1. Intro
+2. Seeking truth (includes the theory of a want)
+3. Conditioning
+4. Factors that determine skill
+5. Stages of mastery
+6. Change
+7. Evolution
+8. Predictions
+
+---
+
+Einstein's approach to communicate relativity was incredible. The way he breaks it down. How he starts with beliefs that the reader can easily agree with and then tears those beliefs apart.
+
+The aligning to build trust and then ripping apart was so beautifully done.
+
+---
+
+DO NOT THINK ABOUT PREDICTIONS / HEURISTICS UNTIL YOU'VE WRITTEN THE ESSAY. SIT AND SPEND TIME ON PREDICTIONS ONCE YOU'VE FLESHED OUT YOUR UNDERSTANDING SUFFICIENTLY. AND ONCE YOU WRITE THEM, THEN GO BACK AND WRITE THE INTRO.
+
+This is the way to go about it. Don't pigeonhole yourself into any particular prediction or approach. Take the broad, fundamental approach and then draw from it the most fundamental, important, impactful predictions you possibly can.
+
+---
+
+### The mind is single threaded (may want to eliminate this)
+
+We focus on one thing at a time. Our consciousness can move from one thing to another, but cannot focus on multiple things simultaneously. If you don't believe this, well, our discussion will still be directionally useful: you'll just extrapolate what happens on one thread to multiple. But from my experience observing myself, and research has shown to some degree that it's likely we are single threaded.
+
+---
+
+The flow that I think works best:
+
+1. Let them know the four factors that determines ability to seek truth.
+2. Conditioning
+3. Ability to act.
+4. Memory: explaining feelings.
+5. Willpower
+
+Therefore, in order to train ability to seek truth, we train all of these factors. But, they are not made equal. To understand why, we need to understand how the world is changing.
+
+...
+
+OK, so there's a clear set of priorities here on what to train.
+
+The game that we're all playing is clearer.
+
+Now, I think there is great advice here that is possible to enable us to seek truth more effectively in this new world. A wise person will deploy everything they can to prevent themselves from holding themselves back. And it truly is a collaborative effort: you need the world's help to stop you from holding yourself back.
+
+I believe the following heuristics will help us navigate this rapidly changing world more effectively to get what we want.
+
+A quick note on how all heuristics are bound to be eventually misinterpreted. There is absolutely no way around this, but I believe the following will remain true for as far as I can see (up to having AGI at the level of human intelligence. Beyond that who the fuck knows).
+
+There are immediately applicable heuristics that I'll leave you with.
+
+Immediate
+
+1. Thinking vs. acting: Think more than you think you should.
+2. Ignore pay-to-learn education. Only trade equity for education.
+3. Do not join any company as an employee.
+
+- The opportunity cost between joining company and starting
+
+4. Do not join any team that has any standardized test to assess ability.
+5. Start much younger than you think you should. Dropping out of the average high school is the right move today. Until the education system shift significantly, you will simply condition your mind in ways that will be tough to decondition. This comes with difficulties:
+6. Seek the power law in everything. Equality is a delusion.
+7. Life is a single player game
+8. Ignore specific advice according to the difficulty of the want, and rate of change of truths for that want.
+9.
+
+When GPT-5 comes out + 2 years:
+
+1. Do not join any company as a cofounder if the company has even one employee or plans to have employees in the future.
+2.
+
+---
+
+Everything stems from the nature of conditioning, how it's important and why the nature of conditioning determines everything about humans. Writing this part will literally write the rest of the essay. Amen.
+
+---
+
+The nature of conditioning and truth makes seeking truth incredibly difficult because:
+
+1. Our minds are wired to become addicted.
+2. We cannot communicate conditioning to another human being. All we can say is what to do to best develop the right conditioning. This means education and training is incredibly difficult, and takes time - the time it takes to condition.
+
+(All of us know our education is outdated, but the usual explanation. It's not that what we're learning is outdated - even though it is, but it's that the entire system is not set up to test conditioning. Anything you can have a standardized test for does not test conditioning). Or rather, any test that you can prepare for by intellectual understanding will fail to test conditioning. This is also why a standardized test for any job will no longer work because we will increasingly need to test for conditioning, not for intellectual understanding. And the best way to test for conditioning for any domain is to see if they've already done great work in that domain, anything else is a bet - and a bet that will follow the power law. Does that sound familiar? It's the meme about how you need experience to get a job in order to get experience. Another paradox.
+
+And importantly, the faster the world changes, the more difficult it is for us to be great at seeking truth. But the ones that are better will be much, much better as a result of a faster changing world.
+
+And this is the paradox of our times. ("Paradox" requires its own piece).
+
+I want to completely cut out the novice becoming a master for a particular skill story nonsense. That can come later when this essay is expanded perhaps, but I need to keep things as fucking tight as I can possibly keep them. This is critical. Don't let the path slip. Writing a good essay is as difficult as walking a razor's edge.
+
+---
+
+People generally undervalue conditioning and overvalue intellectual understanding. This often leads us to incorrect conclusions. For example, a person with the right conditioning is invaluable. A company led by someone with the right conditioning will perform orders of magnitude greater than a company led by someone with slightly less valuable conditioning.
+
+Therefore CEO compensations at the best companies are likely far below the true market value of their skill.
+
+---
+
+The more I write, the more value I see in putting your beliefs about a section up front in the strongest, most precise way you possibly can - so that you create the curiosity to understand why I believe that. There is no such thing as natural curiosity - it only exists if it is related to getting what you want. Therefore, I have two tasks: 1. Show them why they should want to understand this, and then to make the claims that, if true, will impact how they go about getting what they want, and therefore they are now curious to see why I believe what I believe, and what that means for how they go about getting what they want.
+
+I'm also realizing that I really ought to go chronologically. It's only when you go chronologically that the right train of thought / flow arise. For example, right now I'm seeing a much, much better way to approach the "skill" section - by tying everything back to the blunders, but simply explaining how with the new theory of mind.
+
+Every single thing needs to point back at the blunders - because that is the origin of the desire to dig deeper.
+
+---
+
 ### Thinking vs. feeling
 
 Understanding happens at a level below thinking. Of course, after the understanding happens, our minds naturally form thoughts about it, and often our thoughts are in the form of language. But even before language was invented, even in the days of cavepeople, they understood things such as sticking your hand in fire will burn you.

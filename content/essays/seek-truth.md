@@ -184,15 +184,15 @@ Interestingly, we're not just satiated when we act on our beliefs and get what w
 
 This feature is why often find ourselves stuck in sub-trees completely forgeting how we got there in the first place, and why we become addicted to the act of seeking itself. Perhaps this is why we are always in pursuit of things. Uncovering new truths is growth, and we are addicted to growing.
 
-If we didn't experience satiation every time we uncovered a valuable truth, and only when we acted on beliefs to get what we wanted, we would not be able to work on ambitious, long-term projects. Long-term projects require us to spend a lot of time seeking truth before we can execute and get what we want.
+If we didn't experience satiation every time we uncovered a valuable truth, and only when we acted on beliefs to get what we wanted, we would not be able to work on ambitious, long-term projects. Long-term projects require us to spend a lot of time seeking truth before we can execute and get what we want. Hope is a powerful drug.
 
 For example, an author that wants to write a well meaningful, well received book may spend months writing it before publishing it to the world. If they didn't feel some satiation every time they had a great idea they thought would work, or when they received valuable feedback from a friend that improves their beliefs about what will work, they wouldn't last the process. We can say the same about the scientific journey, building products, etc.
 
-I like to think of this mechanism of satiation as a sort of "energy bar" that we find in video games. We have a patience bar for each want we have, and every moment we don't have a truth that we believe will fulfill our want, the energy bar is slightly depleted.
+I like to think of this mechanism of satiation as a sort of "patience bar" (similar to an energy bar in video games). We have a patience bar for each want we have, and every moment we don't have a truth that we believe will fulfill our want, the energy bar is slightly depleted.
 
 Every time we uncover a truth that we believe will fulfill our want, our patience bar is bumped up a bit (proportional to how valuable the truth is).
 
-When the energy bar is completely depleted, that child want disappears, and we move back up to the parent want ready to explore another child, and so on until this want's energy bar is also depleted.
+When the patience bar is completely depleted, that child want disappears, and we move back up to the parent want ready to explore another child, and so on until this want's energy bar is also depleted.
 
 (todo: animation that represents satiation as a "health bar" like in video games, but every moment it depletes. When you uncover a truth, you get a slight bump up. The animation should show a person going a couple of levels deep and coming back up when the satiation runs out).
 
@@ -372,13 +372,19 @@ We've all had experiences that illustrate this interconnectedness. For example, 
 
 Due to the interconnectedness, I'm going to refer to all 4 functions as conditioning. As I explain more features of conditioning, I hope it'll become clear why this is the most appropriate word to describe the state of these functions of the mind.
 
-### Conditioning can be felt
+### Conditioning manifests as a feeling.
 
-I believe conditioning is a subconscious force (a "pull") that can be felt when you try to oppose it. For example, someone trained
+It is a "pull" towards a particular direction. It is instinctive. It is not active thinking.
 
-### Conditioning is a reaction to a want
+### Conditioning updates in response to satiation
 
----
+For a given want, whenever we experience satiation (from getting what we want, or believing we've found a way to get what we want), the mind updates its conditioning by reinforcing what it did to achieve this satiation.
+
+Whenever this want appears again, you are drawn by your conditioning to observe, understand, value, and predict the way you did last time (which achieved satiation).
+
+(Todo: make sure we've established how a want disappears and reappears later in the first section - that is a necessary pre-requisite to make sense of this).
+
+For example, let's say you're
 
 ### Conditioning has a notion of depth
 
@@ -397,24 +403,30 @@ I believe conditioning is a subconscious force (a "pull") that can be felt when 
 
 ---
 
-### Conditioning has a useful purpose
+### Conditioning is a response to a stimuli
+
+A want is one such stimuli. Emotional reactions are also conditioning - a response to a situation. But you can model that situation as a want as well.
+
+---
+
+### Conditioning has a purpose
 
 The purpose of conditioning from an evolutionary perspective is to enable us to get what we want more quickly. Seeking truth takes time and effort. If you had to seek truth every time you wanted to do something, you'd be incredibly slow.
 
-Conditioning allows you to act without seeking truth.
+**Conditioning allows you to act without seeking truth.** (this is the right, and critically important framing. Conditioning is not seeking truth. - but this is only for deep conditioning right? When the conditioning becomes deep, it )
+
+### Conditioning is muscle memory
+
+(Give examples of athletes, chess players, artists, etc. forming strong conditionings - or habits of the mind. Falling into a "groove").
 
 ---
 
-### Conditioning updates in response to satiation
-
-- It's tempting to believe that it's entirely due to past experiences. That if one person
-
----
-
-### A belief is an addiction
+### The mind is fundamentally addictive
 
 - This is
 - This is why intellectually understanding what to do will not enable us to act on it if our conditioning is too difficult to override.
+
+## III: Factors of ability
 
 ---
 
@@ -433,10 +445,6 @@ Conditioning allows you to act without seeking truth.
 - Use the amnesia example.
 - Use the reading example.
 - Use example of how we often tend to forget the purpose of an experiment or a result. Researchers who often spend years at lower rungs of the tree struggle to explain the purpose of their research to a person who knows nothing about it because they have forgotten and it takes some time to piece it together - even for themselves! Conversations follow the same principle. Memory is incredibly important, else it's easy to get lost in our search for truths.
-
----
-
-## III: Factors of ability
 
 ---
 
@@ -465,3 +473,5 @@ There's another case to identify:
 - Someone who is perceived great at one point in life, that ends up doing things incredibly unpopular later on, and perhaps is ostracized as a result. (Einstein). Actually, now that I think about it, this might not be a good heuristic. There may be too many false positives here.
 
 ---
+
+##

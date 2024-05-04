@@ -20,19 +20,20 @@ How we blunder
 ### 2. Conditioning
 
 Four functions of the mind
-Observe
-Understand
-Value
-Predict
-Conditioning
-Conditioning can be felt
-Conditioning is a reaction to a want
-Conditioning has a notion of depth
-Conditioning can be blinding
-Conditioning has a useful purpose
-Conditioning updates in response to satiation
-The mind is fundamentally addictive
-Delusion compounds (not sure if this is the right place)
+
+1. Observe
+2. Understand
+3. Value
+4. Predict
+   Conditioning
+   Conditioning is felt
+   Conditioning has a notion of depth
+   Conditioning can be blinding
+   Conditioning is a reaction to a stimulus
+   Conditioning saves time
+   Conditioning updates in response to satiation
+   Intuition and bias are both conditioning
+   The mind is fundamentally addictive
 
 ### 3. Factors of ability
 
@@ -69,6 +70,7 @@ Our wants become more complex
 
 Nature seeks truth
 Why we want what we want
+Evolution of our minds (in terms of the four factors)
 Nature's conditioning is somewhat outdated
 Nature is hoping for an intelligence "take-off"
 

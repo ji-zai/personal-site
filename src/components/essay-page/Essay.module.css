@@ -105,16 +105,12 @@
 }
 
 .content a {
-  padding: 4px;
-  background-color: #f1e29b;
-  border-radius: 4px;
-  color: black;
-  text-decoration: none;
+  color: rgba(24, 76, 108, 0.6);
+  text-decoration: underline;
 }
 
 .content a:hover {
   color: black;
-  background-color: #e4d58f;
 }
 
 .content h2,

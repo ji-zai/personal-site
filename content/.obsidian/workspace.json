@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6aca3f3375fa84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/fear-equality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }

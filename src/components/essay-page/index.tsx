@@ -146,7 +146,7 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
             </span>
           )}
           <h1 style={{ marginTop: 0 }}>{props.essay.title}</h1>
-          {toc && <TableOfContents toc={toc} />}
+          {/* {toc && <TableOfContents toc={toc} />} */}
         </div>
 
         <div

@@ -20,7 +20,7 @@ We cannot stop the rise in asymmetry because it is intrinsically tied to human p
 
 To see why, we need to first understand what asymmetry even is, what causes it, see how it's changing, and understand how exactly that impacts our world. Then we can see where we're going wrong and try to make sense of it.
 
-...
+---
 
 We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want and our process resembles a tree. Each decision we make leads to more decisions that have to be made.
 
@@ -68,7 +68,7 @@ Lastly, we should notice that the more complex the game becomes, outcomes (i.e. 
 
 Therefore, as the complexity of the game increases so does the asymmetry of the values of moves, as well as the asymmetry in outcomes. And lastly, asymmetry is not linear (i.e. the gap between 1 & 2 is greater than gap between 2 & 3, and so on).
 
-...
+---
 
 The games we play today to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. 
 
@@ -91,7 +91,7 @@ As leverage increases, we stop playing simpler games. Before we had computers, a
 
 And lastly, games that were always complex become even more complex due to leverage. Our ideas are subconsciously limited by the leverage we have available to us because our minds don't like to dream about things that it believes are impossible. Most filmmakers a century ago likely wouldn't have dreamt of making a film about intergalactic politics, and constrained their ideas to films that could take place in the normal world. As leverage increased, filmmakers were able to dream bigger and wider. Their minds opened up to more possibilities within the same game, making the game more complex.
 
-...
+---
 
 I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation. Even though my intuition led me to write that claim quickly (and I suspect many readers would have a similar intuition), the explanation wasn't as straightforward as I initially felt it would be.
 
@@ -101,7 +101,7 @@ And the representational complexity of feeling is far greater than that of Chess
 
 To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. This is because a feeling has a much higher representational complexity than words. Trying to represent a feeling in words is difficult because we are trying to represent something of a higher complexity into a medium that has less complexity. Information is bound to be lost in that translation.
 
-It's precisely this lost information that allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, anything - even if I spend my entire life trying. I believe this gap is quite large.
+It's precisely this lost information that allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, anything - even if I spend my entire life trying. I believe this gap between feeling and being able to express it is quite large.
 
 The representational complexity of Chess and Go can easily be represented by symbols, and therefore I believe that any game in which success is measured by how good you make someone feel will be orders of magnitude more complex than Chess and Go (proportional to the difference in complexity between feeling and a sequence of symbols). Therefore, the underlying asymmetry that we are moving towards is quite extreme.
 
@@ -111,7 +111,7 @@ We notice this trend today as well. Programmers are being asked to become better
 
 Artists for thousands of years have been solving for how to make people feel. Which is why it's no surprise that the arts have always had extreme asymmetry. Human progress is pushing us all towards the games that artists have been playing for a long time, and also the extreme asymmetry that artists have felt for a long time.
 
-...
+---
 
 We can't be satisfied with any conclusions about asymmetry without also considering the role of fairness. The real world is not like a board game. Life's not fair.
 
@@ -135,7 +135,7 @@ And this isn't even taking into account the difference in our abilities at birth
 
 Therefore, in a fair, leveraged world in which our activities are complex, we would see extreme asymmetry.
 
-...
+---
 
 Unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. Being able to differentiate between them is an important skill that as we'll see later, will help us navigate an asymmetric world.
 
@@ -151,7 +151,7 @@ When you look at those curves closely, you'll notice something interesting: the 
 
 The idea that a fair world would be equal is delusional. A more fair, more leveraged world will be more unequal in outcomes, because the underlying exploration of life will be more varied. And the inequality that stems from unfairness is actually more equal than the inequality that stems from fairness & leverage.
 
-...
+---
 
 Human progress makes the world more fair by increasing leverage and spreading it wider.
 
@@ -159,7 +159,7 @@ Today, even in many of the poorest communities around the world, many kids have 
 
 Yet, it's undeniable that the child that has access to higher quality feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. We have a lot of work to do to make the world fair, but the world is more fair than it has ever been in modern history.
 
-...
+---
 
 Asymmetry is a function of complexity. The greater the complexity of a game, the greater the asymmetry within the game and for the outcomes of the game.
 
@@ -169,7 +169,7 @@ Leverage is a function of human progress. Every advancement: technology, human r
 
 Therefore, asymmetry is rising due to progress.
 
-...
+---
 
 But, asymmetry isn't rising linearly. Leverage is accelerating exponentially, and therefore so does the complexity of our activities, and therefore so does asymmetry.
 
@@ -183,7 +183,7 @@ We can see how leverage is accelerating exponentially by observing how our globa
 
 Therefore asymmetry is not just increasing, but increasing exponentially fast.
 
-...
+---
 
 Intellectual understanding of asymmetry is not enough to act optimally in an asymmetric world that is rapidly accelerating in its asymmetry. 
 
@@ -203,7 +203,7 @@ Our second problem is that we don't have the right emotional response to equalit
 
 Our craving for equality blinds us to reality. The more disconnected our beliefs are from reality, the more we suffer. And reality is slipping away from us quickly. Through the following examples I hope to show how our intuitions are outdated
 
-...
+---
 
 When a team leader sees that a group of teammates are performing equally well, they celebrate it, whereas they should be fear it. In a world with extreme asymmetry, equally performing teammates implies the following:
 1. *The team is not well leveraged*. They are using outdated technology that is slower to turn their ideas into reality, or they don't know how to apply leverage effectively.
@@ -222,7 +222,7 @@ Everything is connected in ways that we may not like, but cannot deny.
 
 Since asymmetry is indirectly a function of leverage, every time we see a bump in leverage (e.g. a more powerful AI model is released), we will notice massive layoffs, as well as a sharp rise in compensation and demand for top talent. Many are already feeling this "paradox": the job market seems terrible, yet companies are desperate for great talent and are willing to pay more than ever. Reality is giving us a wake up call.
 
-...
+---
 
 A young person who wants to join a great company should fear companies in which there is great equality between employees. I often hear people coming back from interviews claiming "wow, everyone there seems great at what they do!", and end up joining the company. This was a great heuristic when we had less leverage (meaning the world was less asymmetric and there wasn't as great of a difference between great players), but is incredibly dangerous today.
 
@@ -232,7 +232,7 @@ To be clear, there are many highly valued companies on the market that are incre
 
 A great team is asymmetric, but not all asymmetric teams are great. If you notice asymmetry in a team and the best player doesn't seem unfathomably great, they're not a great team. And the degree of "unfathomable" increases as leverage increases in the world.
 
-...
+---
 
 A prospective student that wants to join the best learning program, with the right intuition, would be fearful of any program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. Since there is no stagnation, only accelerated growth or death, those companies will become irrelevant more quickly than ever before, and these students will be left wondering what went wrong.
 
@@ -242,7 +242,7 @@ And lastly it's important to also be cautious of asymmetry when the best player 
 
 We need entirely new playbooks to optimally build companies, educate ourselves, and even build society [^5] that are aligned with sharply rising asymmetry. Some of these optimal paths will feel quite counterintuitive.
 
-...
+---
 
 The need for compassion, towards others and ourselves, is greater than ever before.
 
@@ -260,7 +260,7 @@ Just like how we see asymmetric outcomes in all external things, I predict we'll
 
 Acting optimally in an asymmetric world requires understanding ourselves, retraining our minds at the most fundamental level. In an extremely asymmetric world, to get what we want, we will need to work against the programming that evolution has given us.
 
-...
+---
 
 Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally.
 
@@ -268,9 +268,9 @@ If you can manage to train yourself to be aligned with reality, there has never 
 
 I wish you the best.
 
-...
+---
 
-[[I'd appreciate your feedback]] on this essay.
+[I'd appreciate your feedback](/feedback) on this essay.
 
 ---
 

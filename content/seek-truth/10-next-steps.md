@@ -1,5 +1,0 @@
-## Plan
-
-## Help
-
-## Thanks

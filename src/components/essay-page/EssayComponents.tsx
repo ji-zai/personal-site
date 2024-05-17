@@ -84,8 +84,6 @@ const ExternalLink = (props: { src: string; children: any }) => (
 
 export const essayComponents = {
   Image,
-  Link,
-  ChapterLink,
   Divider,
   EmailTemplate,
   Caption,

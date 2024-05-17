@@ -165,7 +165,7 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
                   Please read these feedback guidelines
                 </a>{" "}
                 before reading the essay. And please don't share this essay yet,
-                it's not yet ready. Thank you.
+                it's not ready. Thank you.
               </Callout>
             )}
             <MDXRemote

@@ -30,7 +30,7 @@ The advantage of framing our endeavors as games is that we can study the nature 
 
 Games have a notion of "complexity" <FootnoteReference number={2} />. While there are many ways to calculate complexity of a game it boils down to how many possibilities exist in the game. In a simple game there are only so many different moves a player can make, and only so many states that a player can end up in. More complex games have more moves (choices), more states, and therefore more possibilities.
 
-Complexity is important for us to understand because asymmetry is a function of complexity. *The greater the complexity of the game, the greater the asymmetry that exists in the game.*
+Complexity is important for us to understand because asymmetry is a function of complexity. ***The greater the complexity of the game, the greater the asymmetry that exists in the game.***
 
 Let's look at three simple (relative to most of the games we play) games: Tic Tac Toe (simple game), Chess (medium complexity), and Go (high complexity), to get a sense for how asymmetry is related to the complexity of the game.
 

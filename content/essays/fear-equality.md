@@ -31,7 +31,7 @@ Games have a notion of "complexity" <FootnoteReference number={2} />. While ther
 
 Complexity is important for us to study because asymmetry is a function of complexity. ***The greater the complexity of the game, the greater the asymmetry that exists in the game, and in the outcomes of players of the game.***
 
-Let's look at three simple (relative to most of the games we play) games: [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) (simple game), [Chess](https://en.wikipedia.org/wiki/Chess) (medium complexity), and [Go](https://en.wikipedia.org/wiki/Go_(game) (high complexity), to get a sense for how asymmetry is related to the complexity of the game.
+Let's look at three simple (relative to most of the games we play) games: [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) (simple game), [Chess](https://en.wikipedia.org/wiki/Chess) (medium complexity), and [Go](https://en.wikipedia.org/wiki/Go_(game)) (high complexity), to get a sense for how asymmetry is related to the complexity of the game.
 
 There are two ways we can observe asymmetry in these games:
 1. Asymmetry in the moves (inputs).
@@ -251,31 +251,29 @@ Asymmetry is inevitable, and it will increasingly be the case that someone or th
 
 This is why we see another "paradox": in the developed world we have more things, luxuries, and can manifest our ideas more quickly than ever before... yet, we seem less happy. Not retraining ourselves to be aligned with the growing asymmetry impacts our wellbeing.
 
-We will need to retrain ourselves to not put those who have more wealth or status on pedestals. And the only way to do that is to retrain ourselves to not think we are better than others who have less wealth or status than we do. And I guarantee that even if you think you're good at this, you're not. These tendencies exist in the deep recesses of our minds. Millions of years of evolution has put them there, don't be deluded into thinking that you can just "think" your way out of them.
+We will need to retrain ourselves to not put those who have more wealth or status on pedestals. And the only way to do that is to retrain ourselves to not think we are better than others who have less wealth or status than we do. If you think you're good at this, I don't believe you. This habit exists in the deep recesses of our minds. Millions of years of evolution has put them there, and we can't just "think" ourselves out of these habits.
 
-Therefore, the more asymmetric the world becomes, the more compassion we need to build towards ourselves and others in order to be happy - in ways that were not required in a more symmetric world.
+The more asymmetric the world becomes, the more compassion we need to build towards ourselves and others in order to be happy - in ways that were not required in a more symmetric world.
 
-Asymmetry manifests in everything, including our happiness. Those that can retrain their minds will find themselves incredibly happy. Those that cannot will be less happy than previous generations (on average) even though they will have more than ever.
+Asymmetry manifests in everything, including our happiness. Those that can retrain their minds will find themselves incredibly happy. Those that cannot will be less happy than previous generations (on average) even though they will have more than those that came before them.
 
-Acting optimally in an asymmetric world requires understanding ourselves, retraining our minds at the most fundamental level. In an extremely asymmetric world the greatest barrier to getting what we want is our evolutionary conditioning. In other words: ourselves.
+In an extremely asymmetric world, the greatest barrier to getting what we want is our evolutionary conditioning. You are your greatest enemy.
 
 ---
 
 Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally.
 
-If you can manage to train yourself to be aligned with reality, there has never before been such an opportunity in human history to get what you want, whatever that may be.
-
-I wish you the best.
+If you can manage to train yourself to be aligned with reality, there has never before been such an opportunity to get what you want, whatever that may be.
 
 ---
 
 [I'd appreciate your feedback](/feedback) on this essay.
 
-When we don't have the right intuition for how to act optimally, heuristics are useful. Heuristics are like shortcuts or rules of thumb that help us shift our behaviors towards the optimal.
+When we don't have the right intuition for how to act optimally, heuristics are useful.
 
-In subsequent essays I'll share the heuristics that I'm developing for myself to act optimally in an extremely asymmetric world. These heuristics have already impacted every aspect of my life (because asymmetry impacts every aspect of our lives): how I work, what ideas I think about, how I invest in my relationships, etc.
+In subsequent essays I'll share the heuristics that I'm developing for myself to act optimally as asymmetry grows. These heuristics have already impacted every aspect of my life (because asymmetry impacts every aspect of our lives): how I work, what ideas I think about, how I invest in my relationships, etc.
 
-All I can say now is that I'm incredibly surprised every day by how suboptimal I'm acting for almost everything I do. I'm struggling to change my outdated habits that have been ingrained for years. I'm excited to share these heuristics with you in upcoming essays for your feedback. I suspect you too will be surprised.
+All I can say now is that I'm incredibly surprised every day by how suboptimal I'm acting for almost everything I do. I'm struggling to change my outdated habits that have been ingrained for years. I'm look forward to sharing these heuristics with you in upcoming essays. I suspect you too will be surprised.
 
 ---
 

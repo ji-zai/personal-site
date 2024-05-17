@@ -13,6 +13,7 @@ import { Note } from "./note";
 import { generateTable, hashString, useScreenWidth } from "../../util/hooks";
 import { constants } from "../../util/constants";
 import { TableOfContents } from "./toc";
+import Callout from "./callout";
 
 type Annotation = {
   id: string;
@@ -20,7 +21,7 @@ type Annotation = {
   y?: number;
 };
 
-const EssayPage = (props: { essay: Essay; source: any }) => {
+const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
   let [activeAnnotation, setActiveAnnotation] = useState<Annotation | null>(
     null
   );
@@ -156,17 +157,28 @@ const EssayPage = (props: { essay: Essay; source: any }) => {
           }}
         >
           <div className={styles.content}>
+            {props.isDraft && (
+              <Callout>
+                Hey! You're probably here because I requested your feedback on
+                this essay.{" "}
+                <a href="/feedback" target="_blank">
+                  Please read these feedback guidelines
+                </a>{" "}
+                before reading the essay. And please don't share this essay yet,
+                it's not yet ready. Thank you.
+              </Callout>
+            )}
             <MDXRemote
               {...props.source}
               components={{ ...essayComponents, WithAnnotation }}
             />
           </div>
-          <div className={styles.footer}>
+          {/* <div className={styles.footer}>
             <XLink
               label="Discuss"
               onClick={() => window.open(props.essay.xLink)}
             />
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

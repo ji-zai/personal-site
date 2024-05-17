@@ -1,0 +1,13 @@
+.callout {
+  background-color: rgba(0, 0, 0, 0.015);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-bottom: 48px;
+  border-radius: 4px;
+  padding: 10px; /* Adjust padding as needed */
+  /* Add more styling as needed */
+  width: 100%;
+  padding: 24px;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 15px;
+  line-height: 24px;
+}

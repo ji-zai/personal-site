@@ -27,11 +27,12 @@
               "state": {
                 "file": "essays/fear-equality.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/feedback.md",
+                "file": "essays/fear-equality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/feedback.md",
+                "file": "essays/fear-equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/feedback.md"
+                "file": "essays/fear-equality.md"
               }
             }
           }
@@ -145,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88f5462ae233c3af",
+  "active": "e6aca3f3375fa84d",
   "lastOpenFiles": [
-    "essays/fear-equality.md",
     "essays/feedback.md",
+    "essays/fear-equality.md",
     "scratch/Margin notes.md",
     "essays/extreme-asymmetry.md",
     "essays/seek-truth.md",

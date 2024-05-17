@@ -5,34 +5,14 @@ import React, { useState } from "react";
 import Image from "next/image";
 import { getIdFromHeader } from "../../util/hooks";
 
-const NavLink = (props: {
-  title: string;
-  href: string;
-  direction: "next" | "previous";
-}) => {
-  const arrow = <span>{props.direction === "previous" ? "⟵" : "⟶"}</span>;
-  let comps =
-    props.direction === "next" ? [props.title, arrow] : [arrow, props.title];
-  return (
-    <Link className={styles.navLink} href={props.href}>
-      {comps.map((item) => (
-        <span>{item}</span>
-      ))}
-    </Link>
-  );
-};
-
-// MDX components to replace in the MDX content.
-const ChapterLink = (props: { href: string; children: React.ReactNode }) => {
-  return <Link {...props} href={"/get-interviews/" + props.href} />;
-};
-
 const Divider = (props: { belowHeader?: boolean }) => (
   <div
     className={
       styles.divider + " " + (props.belowHeader ? styles.belowHeader : "")
     }
-  />
+  >
+    ...
+  </div>
 );
 
 // Email templating:
@@ -82,6 +62,37 @@ const ExternalLink = (props: { src: string; children: any }) => (
   </a>
 );
 
+const FootnoteNumber = (props: { number: number }) => {
+  return <span className={styles.footnoteNumber}>{props.number}</span>;
+};
+
+const Footnote = (props: { number: number; children: any }) => {
+  return (
+    <div id={"ref_" + props.number} className={styles.footnote}>
+      <a href={"#inline_" + props.number}>
+        <FootnoteNumber number={props.number} />
+      </a>
+      {props.children}
+    </div>
+  );
+};
+
+const FootnoteReference = (props: { number: number }) => {
+  return (
+    <a
+      id={"inline_" + props.number}
+      href={"#ref_" + props.number}
+      className={styles.footnoteReference}
+    >
+      <FootnoteNumber number={props.number} />
+    </a>
+  );
+};
+
+const Footnotes = (props: { children: any }) => {
+  return <div className={styles.footnoteContainer}>{props.children}</div>;
+};
+
 export const essayComponents = {
   Image,
   Divider,
@@ -89,6 +100,7 @@ export const essayComponents = {
   Caption,
   PlaceHolder,
   CustomImage,
+  Footnotes,
   aside: (props) => {
     return <div>POOOP</div>;
   },
@@ -102,4 +114,6 @@ export const essayComponents = {
   },
   a: (props) => <ExternalLink src={props.href}>{props.children}</ExternalLink>,
   hr: (props) => <Divider />,
+  Footnote,
+  FootnoteReference,
 };

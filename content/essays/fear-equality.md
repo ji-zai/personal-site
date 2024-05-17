@@ -94,7 +94,7 @@ And the representational complexity of feeling is far greater than that of Chess
 
 To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. This is because a feeling has a much higher representational complexity than words. Trying to represent a feeling in words is difficult because we are trying to represent something of a higher complexity into a medium that has less complexity. Information is bound to be lost in that translation.
 
-This lost information is precisely what allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, anything - even if I spend my entire life trying. I believe this gap between feeling and being able to express it is quite large.
+This lost information is precisely what allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, anything - even if I spend my entire life trying. I believe this gap between feeling and being able to express it is quite large. <FootnoteReference number={3} />
 
 The representational complexity of Chess and Go can easily be represented by symbols (text, pictures, etc.), and therefore I believe that any game in which success is measured by how good you make people feel will be orders of magnitude more complex than Chess and Go (proportional to the difference in complexity between feeling and a sequence of symbols).  The underlying asymmetry that we are moving towards is quite extreme because we are moving towards feeling games.
 
@@ -120,7 +120,7 @@ I believe it would be incredibly asymmetric. The richest person in this imaginar
 
 I believe this because in a highly leveraged world, we have more possibilities and we make moves much quicker. Therefore, slight differences in choices at the start of the game would lead to drastic differences by the time we die due to the complexity of the game.
 
-And not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software. <FootnoteReference number={3} />
+And not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software. <FootnoteReference number={4} />
 
 Being influenced slightly differently early on, which leads to a slightly different choices will have incredibly large difference in where you end up. The greater the leverage, the greater the difference because the deeper in the game decision tree you can get to before you die as you can make many more moves.
 
@@ -194,7 +194,7 @@ Since we all suck at responding optimally to exponential change, you will always
 
 Any change you make in your life that is directionally correct will almost certainly not be a strong enough change. In the COVID analogy, if you believed the math that predicted it, even though the optimal strategy in Jan 2020 was to mask up, you would have just washed you hands an extra time thinking it's enough. This is because even though we understand it something intellectually, we don't have the appropriate fear (that manifests as caution) towards it.
 
-Our second problem is that we don't have even a directionally correct emotional response to equality (symmetry). ***Instead of fearing equality as we should, we crave it.***<FootnoteReference number={3} /> 
+Our second problem is that we don't have even a directionally correct emotional response to equality (symmetry). ***Instead of fearing equality as we should, we crave it.***
 
 This makes shifting our behaviors to act optimally even more difficult than it would have been to act optimally towards a viral pandemic because we don't crave a pandemic (except maybe psychos), as we crave equality. Undoing craving and cultivating fear is more difficult than just cultivating fear. And it's not twice as difficult, it's orders of magnitude more difficult because overcoming craving is far more difficult than cultivating fear.
 
@@ -233,11 +233,11 @@ A great team is asymmetric, but not all asymmetric teams are great. If you notic
 
 A prospective student that wants to join the best learning program, who correctly understands asymmetry, would be fearful of any program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. Since there is no stagnation, only accelerated growth or death, those companies they join will become irrelevant more quickly than ever before, and these students will be left wondering what went wrong.
 
-Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes, before you end up giving them your hard earned money. <FootnoteReference number={4} /> A sharp perspective student will find ways to get the benefits, without paying the cost because they will understand that the most important education comes from having great peers, and not the institution.
+Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes, before you end up giving them your hard earned money <FootnoteReference number={5} />. A sharp prospective student will find ways to get the benefits, without paying the cost because they will understand that the most important education comes from having great peers, and not the institution.
 
 And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant in a highly leveraged world, it means they suck at teaching even simpler skills.
 
-We need entirely new playbooks to optimally build companies, educate ourselves, and even build society <FootnoteReference number={5} /> in ways that are aligned with sharply rising asymmetry. Some of these optimal paths will feel quite counterintuitive.
+We need entirely new playbooks to optimally build companies, educate ourselves, and even build society <FootnoteReference number={6} /> in ways that are aligned with sharply rising asymmetry. Some of these optimal paths will feel quite counterintuitive.
 
 ---
 
@@ -291,14 +291,18 @@ There are many ways to measure game complexity, and it's an active space of rese
 </Footnote>
 
 <Footnote number={3}>
-To be clear, when I say "outcomes" I only mean external outcomes: wealth, status, etc. It could be the case that the person who makes baskets is much happier.
+I believe the difference in representational complexity of feeling and language will determine how long it takes to get to artificial general intelligence that surpasses human capabilities. I also believe that we're quite far away from that. Still, the advancements in the short-term will be rapid.
 </Footnote>
 
 <Footnote number={4}>
-I suspect the only role that most colleges play today is to put a bunch of sharp, ambitious people together. If those individuals were similarly grouped together outside of a college environment, I'm confident we'd still see incredible results, and possibly even much greater results because they'll have more time to work on what they want, not what they're told to.
+To be clear, when I say "outcomes" I only mean external outcomes: wealth, status, etc. It could be the case that the person who makes baskets is much happier.
 </Footnote>
 
 <Footnote number={5}>
+I suspect the only role that most colleges play today is to put a bunch of sharp, ambitious people together. If those individuals were similarly grouped together outside of a college environment, I'm confident we'd still see incredible results, and possibly even much greater results because they'll have more time to work on what they want, not what they're told to. Also, as asymmetry rises, the value of a certificate disconnected from competence in the real world will fall sharply.
+</Footnote>
+
+<Footnote number={6}>
 For example, we will need universal basic income.
 </Footnote>
 </Footnotes>

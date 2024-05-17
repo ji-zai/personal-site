@@ -1,41 +1,11 @@
-## Conditioning
+## On conditioning
 
-1. Observe
-2. Understand
-3. Value
-4. Predict
-   Conditioning
-   Conditioning is felt
-   Conditioning has a notion of depth
-   Conditioning can be blinding
-   Conditioning is a reaction to a stimulus
-   Conditioning saves time
-   Conditioning updates in response to satiation
-   Intuition and bias are both conditioning
-   The mind is fundamentally addictive
+If the entire explanation for why we are terrible at seeking truth had to be boiled down to one concept, that would be conditioning.
 
-   ***
+Conditioning is an instinctive response to a stimuli. It is not an active thought, but rather a feeling, a “tug” in a particular direction. Each of us are conditioned in various ways to various stimuli. One such stimuli is a want.
 
-### Conditioning
+Conditioning isn’t restricted to humans. We see conditioning in every living organism that reacts to the external world in some way. A plant is conditioned to grow towards sunlight. A lizard is conditioned to chase insects and run away from fire. While we share much of the conditioning from other species that we’ve evolved from. We’re also capable of being conditioned in more complex ways as we’ll see. It seems to me that conditioning is one of the earlier mechanisms developed on our evolutionary journey towards becoming homo sapiens.
 
-I believe all of these functions are interconnected. In other words, a change in one function likely implies a change in every other function. A change in how the mind observes likely implies a change in how it understands, values, and predicts as well.
+I believe we don't give conditioning as much importance as it deserves. I sure didn't for much of my life, and I probably still don't.
 
-We've all had experiences that illustrate this interconnectedness. For example, as you seek truth about a topic and give yourself the time and space to ask probing questions (i.e. put effort into making more and different predictions), you would have noticed that your mind starts to observe things related to your research wherever you look. That your conversations seem to more quickly bend in the direction of your research. That your priorities change
-
-Due to the interconnectedness, I'm going to refer to all 4 functions as conditioning. As we cover more features of conditioning, I hope it'll become clear why this is the most appropriate word to describe the state of these functions of the mind.
-
-Conditioning manifests as a feeling. A "pull" towards a particular direction. It is instinctive. It is not active thinking.
-
-### Conditioning updates due to satiation
-
-When we seek truth and are satiated
-
-### Conditioning saves time
-
-### Intuition & bias
-
-Intuition and bias are both just conditioning! The poitn sit hat
-
-### Conditioning has a notion of intensity
-
-### Conditioning can be blinding
+(note: the transition to deep dive: what do I mean by “direction”, what do I mean by “feeling”, and how does this “tug” feel?)

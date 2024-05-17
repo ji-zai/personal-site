@@ -1,3 +1,5 @@
+_Anything can change - this outline is simply a suggestion and something to help me remember high level things that I want to talk about, that's all_
+
 ### Intro
 
 ### 1. Seeking truth

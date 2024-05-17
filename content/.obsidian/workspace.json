@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/Margin notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c7945bbbf73b50f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/seek-truth.md",
+                "file": "essays/feedback.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "53a6a9a1c72682b2",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/seek-truth.md",
+                "file": "essays/feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/seek-truth.md",
+                "file": "essays/feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/seek-truth.md"
+                "file": "essays/feedback.md"
               }
             }
           }
@@ -160,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c7945bbbf73b50f",
+  "active": "88f5462ae233c3af",
   "lastOpenFiles": [
+    "essays/fear-equality.md",
+    "essays/feedback.md",
     "scratch/Margin notes.md",
+    "essays/extreme-asymmetry.md",
     "essays/seek-truth.md",
     "scratch/Summarizing our theory of mind.md",
     "scratch/Fleshing out the update function.md",
@@ -178,7 +167,6 @@
     "essays/truth-seeking-world.md",
     "scratch/seek-truth-with-headers.md",
     "scratch/old-predict.md",
-    "essays/Untitled.md",
     "scratch/re-write-seek-truth.md",
     "scratch/How to be better at seeking truth.md",
     "scratch/What makes a model powerful?.md",
@@ -186,8 +174,6 @@
     "scratch/boat-guy.md",
     "scratch/create-truth-seeking-world.md",
     "scratch/Is seeking truth a skill?.md",
-    "scratch/seek-truth-beats.md",
-    "scratch/join-me.md",
     "scratch",
     "incentives",
     "essays"

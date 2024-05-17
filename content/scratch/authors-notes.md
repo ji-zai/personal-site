@@ -1,12 +1,24 @@
+OK, conditioning is the absolute crux of the essay. And it's the most difficult concept for me to communicate. I'm really struggling if I'm being honest with myself.
+
+If I can write the section on conditioning well, I'm confident the rest of the essay will flow quite well. That's what it feels like to me right now anyway.
+
+Head home and get the ink? I think I'll need it to seriously grind. Hmm... Yeah, this is something that I ought to flesh out on paper. It's going to be a ridiculous grind, but I want to have a solid understanding of conditioning by e.o.d today for sure. At least a foundation on which I can dive deeper in the coming days. I didn't expect that I'd have such a difficult time communicating it.
+
 ---
+
+Do not fall into the trap of the outline! If you feel the need to explain something in conditioning, then do it there! Only later re-organize. Follow the more natural path of explanation without adhering to some predetermined outline that you want to stick to.
+
+Your conditioning to follow an outline is incredibly strong. You must push back against it.
+
+---
+
 Some poeple undermine the power of AI by saying that all it does is predict the next token. I don't think they understand how the mind works becuase that's what we mostly do!
 
 Intelligence is mistaken to be reasoning or logical thinking or rational thought, but as we've seen the conditioning is incredibly valuable and more valuable than what most people consider to be "intelligence".
 
 Therefore I believe how we're building AI is directionally correct. Where we lag behind is in how much we can scale it. And it is far, far away from matching the complexity that human conditioning is able to represent. Classical computers will no be able to achieve it becuase they don't scale fast enough. We'll almost definitely require higher order compute infrastructure (quantum, beyond?) which is why I believe we'll have another AI winter, but shorter than our previous one.
 
-Predicting the next thing is possibly the most valuable human skill. Someone that is better at predicting but slower or worse at reasoning will likely perform much better than someone who can't even predict the right branches to go down, even if they have spectacular reasoning.
----
+## Predicting the next thing is possibly the most valuable human skill. Someone that is better at predicting but slower or worse at reasoning will likely perform much better than someone who can't even predict the right branches to go down, even if they have spectacular reasoning.
 
 Where to discuss the value and similarity functions? - or in other words, how equality is a delusion. But as the complexity grows, equality becomes more rare. Once again use the example of Chess and Go to illustrate this.
 

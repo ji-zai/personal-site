@@ -11,9 +11,9 @@ date: May 2024
 
 Asymmetry exists everywhere in our modern world and is rapidly accelerating. Yet, we deeply crave equality, symmetry. Our craving for equality is outdated, and blinds us to the rapidly shifting reality of our world. The more blind we are, the more difficult it will be to get what we want - whatever that may be.
 
-The optimal strategy to get what we want feels counterintuitive.
+The optimal strategy to get what we want is counterintuitive.
 
-Today, a team leader who celebrates that everyone is performing well will fail. An job hunter that joins a company in which everyone is similarly great will join a subpar company that will become irrelevant soon. A prospective student who joins an institution that seems to produce good results for most students will receive a terribly outdated education.
+A team leader who celebrates when everyone is performing well will fail. An job hunter that joins a company in which everyone is similarly great will join a subpar company that will become irrelevant soon. A prospective student who joins an institution that seems to produce good results for most students will receive a terribly outdated education.
 
 Our craving to see equality everywhere not only blinds us to the optimal strategy, but pulls us into traps that will become increasingly costly as asymmetry rises. Instead of craving equality, we should be fearing it, because equality is a sign of rot. Increasingly so.
 

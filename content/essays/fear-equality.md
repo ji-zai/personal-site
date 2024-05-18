@@ -13,7 +13,7 @@ Asymmetry exists everywhere in our modern world and is rapidly accelerating. Yet
 
 The optimal strategy to get what we want feels counterintuitive.
 
-In an asymmetric world, a team leader who celebrates that everyone is performing well will fail. An job hunter that joins a company in which everyone is similarly great will join a subpar company that will become irrelevant soon. A prospective student who joins an institution that seems to produce good results for most students will receive a terribly outdated education.
+Today, a team leader who celebrates that everyone is performing well will fail. An job hunter that joins a company in which everyone is similarly great will join a subpar company that will become irrelevant soon. A prospective student who joins an institution that seems to produce good results for most students will receive a terribly outdated education.
 
 Our craving to see equality everywhere not only blinds us to the optimal strategy, but pulls us into traps that will become increasingly costly as asymmetry rises. Instead of craving equality, we should be fearing it, because equality is a sign of rot. Increasingly so.
 

@@ -160,12 +160,12 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
             {props.isDraft && (
               <Callout>
                 Hey! You're probably here because I requested your feedback on
-                this essay. If you're interested in providing feedback,{" "}
+                this essay. Feel free to{" "}
                 <a href="/feedback" target="_blank">
-                  please read these guidelines
+                  read these guidelines
                 </a>{" "}
-                before reading the essay. And please don't share this essay yet,
-                it's not ready. Thank you.
+                on how I'd appreciate your feedback. And please don't share this
+                essay yet, it's not ready. Thank you.
               </Callout>
             )}
             <MDXRemote

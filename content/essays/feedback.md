@@ -12,7 +12,7 @@ No matter how deeply I think things through, it's impossible for me to question 
 
 You're incredibly deluded as well! But we're both certainly deluded in different ways; this is the beauty of nature: nothing is equal. You'll be able to sniff out some of my delusions in ways that I can't because you might not share that exact delusion, or may not share it to the same degree. Our differences will help you push me to be less deluded.
 
-This is why I'd greatly appreciate your feedback on my essays. Your feedback is essential to help me seek truth effectively. In fact, I can't do it without your help.
+This is why I'd greatly appreciate your feedback on my essays. I can't think well without your help.
 
 For writing motivated in this way, I believe there is a great way to give feedback, and I ask that you try to give me great feedback. 
 
@@ -38,15 +38,7 @@ As you can see, giving great feedback is a lot of effort. Reading an essay thoro
 
 I think there are many benefits, but one outshines them all. By giving me great feedback I will hold you in high regard. I will want to collaborate with you. I will want to invite you to everything I do. I will want to share with you ideas much sooner.  I believe there's a dearth of quality thinking in our world, and by demonstrating your ability to think well, I will have no choice but to try and collaborate with you.
 
-If I were you, I'd stop and ask the question: "Is this person even going to do something meaningful?". Because if you believe that I'm not going to achieve much in the world, you probably shouldn't prioritize giving me feedback on my writing because the returns on your investment would be quite low: the most you'd get is probably my feedback on your writing.
-
-But if you believe that there's a chance that I may do something meaningful someday that could change the world, then the expected return on investment would be much, much higher because by taking the time to give me great feedback, you greatly increase the likelihood of us collaborating.
-
 I have ambitious ideas that I believe will meaningfully impact the world if executed well. Give me great feedback to increase the chances of us working on them together. And of course you too will shape and own those ideas because as I said: I'm deluded. You will find ample opportunity to make every idea I have better and own them.
-
-Lastly, if you don't think you can carve out the time to give me great feedback, just wait until you have the time. By sending me not great feedback I will form a negative impression about your ability to think well. Great feedback takes time, so if you choose to give me feedback, take the time to do it well. Consistent poor feedback means I will not ask you for your feedback again. No hard feelings. I have limited time and I need to prioritize well because the faster I uncover my delusions, the faster I get what I want.
-
-Nothing stagnates; it only accelerates upwards or downwards. This principle applies to collaboration as well.
 
 I look forward to hearing from you.
 

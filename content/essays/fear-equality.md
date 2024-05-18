@@ -9,15 +9,17 @@ date: May 2024
 - A small percentage of employees in a company are responsible for the majority of output.
 - A small percentage of companies capture most of the market.
 
-Asymmetry exists everywhere in our modern world and is rapidly accelerating. Yet, we deeply crave equality, symmetry. Our craving for equality is outdated and it blinds us to the rapidly shifting reality of our world.
+Asymmetry exists everywhere in our modern world and is rapidly accelerating. Yet, we deeply crave equality, symmetry. Our craving for equality is outdated, and blinds us to the rapidly shifting reality of our world. The more blind we are, the more difficult it will be to get what we want - whatever that may be.
 
-The more blind we are to reality, the more we suffer because as the world becomes more asymmetric, the right strategy to get what we want increasingly looks very different than what we do. We will find it more difficult than ever to get the things we want unless we adapt ourselves to be more aligned with reality.
+The optimal strategy to get what we want feels counterintuitive.
 
-Optimally organized companies, nations, teams, schools, governments, etc. all look quite different than how they are today. The optimal strategy is not only different, it's repulsive because it goes against our deeply held beliefs about how the world works.
+In an asymmetric world, a team leader who celebrates that everyone is performing well will fail. An job hunter that joins a company in which everyone is similarly great will join a subpar company that will become irrelevant soon. A prospective student who joins an institution that seems to produce good results for most students will receive a terribly outdated education.
 
-We cannot stop the rise in asymmetry because it is intrinsically tied to human progress. Every single thing that we do: the stories we tell, the technology we build, the policies we craft, and our humanitarian efforts - all make our world more asymmetric, more unequal.
+Our craving to see equality everywhere not only blinds us to the optimal strategy, but pulls us into traps that will become increasingly costly as asymmetry rises. Instead of craving equality, we should be fearing it, because equality is a sign of rot. Increasingly so.
 
-To see why, we need to first understand what causes asymmetry and study how it's changing. We can then can see how our approach to getting the things we want is becoming increasingly suboptimal.
+We cannot stop the rise in asymmetry because it is intrinsically tied to human progress. Every single thing that we do: the stories we tell, the technology we build, the policies we craft, and our humanitarian efforts - all make our world more asymmetric, more unequal. All we can do is adapt.
+
+To see why the world is changing this way, and how our approach is outdated, we need to first understand what causes asymmetry and study how it's changing.
 
 ---
 

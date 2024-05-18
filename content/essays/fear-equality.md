@@ -15,9 +15,9 @@ The more blind we are to reality, the more we suffer because as the world become
 
 Optimally organized companies, nations, teams, schools, governments, etc. all look quite different than how they are today. The optimal strategy is not only different, it's repulsive because it goes against our deeply held beliefs about how the world works.
 
-We cannot stop the rise in asymmetry because it is intrinsically tied to human progress. Every single thing that we do: the stories we tell, the technology we build, the government policies we craft, and the humanitarian effort we strive for all make our world more asymmetric, more unequal.
+We cannot stop the rise in asymmetry because it is intrinsically tied to human progress. Every single thing that we do: the stories we tell, the technology we build, the policies we craft, and our humanitarian efforts - all make our world more asymmetric, more unequal.
 
-To see why, we need to first understand what causes asymmetry and study how it's changing. Then we can see how our approach to life is becoming increasingly suboptimal.
+To see why, we need to first understand what causes asymmetry and study how it's changing. We can then can see how our approach to getting the things we want is becoming increasingly suboptimal.
 
 ---
 

@@ -69,7 +69,7 @@ The games we play today to get the things we want are of much, much higher in co
 
 But, if the games we play have always been more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry in the world, and importantly, why is it increasing?
 
-That's because the complexity of the games we play is a function of leverage. By leverage I mean: the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
+That's because the complexity of the games we play is a function of leverage. By leverage I mean: how little time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
 Human progress increases leverage, and spreads it to more people. For example, when a dictatorship is replaced by a democracy, the citizens gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it reduces the time and effort to turn your idea into reality, thereby increasing leverage.
 

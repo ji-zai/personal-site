@@ -263,7 +263,7 @@ In an extremely asymmetric world, the greatest barrier to getting what we want i
 
 ---
 
-Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally.
+Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the hidden accelerating asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally.
 
 If you can manage to train yourself to be aligned with reality, there has never before been such an opportunity to get what you want, whatever that may be.
 

@@ -8,9 +8,9 @@ The more deluded I am, the more I suffer. Because the less my beliefs are aligne
 
 I write in order to identify and correct my own delusions, so that I can get what I want. I've noticed that no matter how deeply I think about something, feedback from others helps me identify my own delusions in ways that I can't do on my own. Your help is invaluable.
 
-No matter how deeply I think things through, it's impossible for me to question every deeply held belief I have about how the world works. It could be the case that a subconscious delusion leads me down the wrong path. No matter how great my thinking is, if the thinking is grounded in delusion, the conclusions I arrive at are bound to be deluded.<FootnoteReference number={1} />
+It's impossible for me to question every deeply held belief I have about how the world works. It could be the case that a subconscious delusion leads me down the wrong path. If my thinking is grounded in delusion, the conclusions I arrive at are bound to be deluded no matter how great my thinking is.<FootnoteReference number={1} />
 
-You're incredibly deluded as well! But we're both certainly deluded in different ways; this is the beauty of nature: nothing is equal. You'll be able to sniff out some of my delusions in ways that I can't because you might not share that exact delusion, or may not share it to the same degree. Our differences will help you push me to be less deluded.
+You're incredibly deluded as well! But we're both certainly deluded in different ways. You'll be able to sniff out some of my delusions in ways that I can't because you might not share that exact delusion, or may not share it to the same degree. Our differences will help you push me to be less deluded.
 
 This is why I'd greatly appreciate your feedback on my essays. I can't think well without your help.
 
@@ -30,7 +30,7 @@ Therefore when you tell me something feels off, I can't take it into account. Na
 
 That being said, I fully acknowledge that when something feels off to you, it could be because you're right and you've identified one of my delusions. I just ask that you try your best to express why something feels off. Try to translate your feeling into an explanation because that is something I can work with.
 
-Tend towards attacking the foundation, providing evidence / explanations, translating feelings into explanations. The best feedback will force me to rewrite the essay.
+Tend towards attacking the foundation, providing evidence, translating feelings into explanations. The best feedback will force me to rewrite the essay.
 
 At the very end of your feedback, I'd appreciate hearing from you the difference in how you felt before and after you read the essay, and what questions the essay has spawned in your mind. You will certainly have questions / ideas pop up in your mind that I haven't had because we are different. I want to steal the good ones.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/feedback.md",
+                "file": "essays/fear-equality.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/feedback.md",
+                "file": "essays/fear-equality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/feedback.md",
+                "file": "essays/fear-equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/feedback.md"
+                "file": "essays/fear-equality.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d1583fe9f63a60b3",
   "lastOpenFiles": [
+    "Untitled.md",
     "essays/fear-equality.md",
     "essays/feedback.md",
     "scratch/Margin notes.md",
@@ -173,7 +174,6 @@
     "scratch/seek-truth.md",
     "scratch/boat-guy.md",
     "scratch/create-truth-seeking-world.md",
-    "scratch/Is seeking truth a skill?.md",
     "scratch",
     "incentives",
     "essays"

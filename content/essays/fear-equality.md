@@ -192,7 +192,7 @@ We have two fundamental problems holding us back from acting optimally which bot
 
 Our first problem is that we do not have an intuitive grasp of exponential change. Even if you intellectually see the current asymmetry of the world and how it's increasing rapidly, you will certainly be surprised and caught off guard. We don't have to look far back to see why. Before the COVID-19 pandemic took off, many nations and institutions had the math right: they could all see the rapid spread of the virus. Heck, even I read an essay in February 2020 that predicted that we'd have a global pandemic. Yet, few, if any, of us had the appropriate emotional response. We lacked the appropriate fear and caution that would have enabled us to take the optimal path to preventing the pandemic.
 
-Similarly, even if you believe everything you've read in this essay so far, I assure you that we'll all be very surprised as we see asymmetry skyrocket on an exponential curve. And if you want to act optimally today, you're going to look stupid and be laughed at by the world in the same way that anyone who wore a mask in January 2020 would have been. Interestingly, you would have also been ridiculed later in the pandemic because you would have stopped masking and taking precautions before most others did, and would have been hated for "putting lives at risk".
+Similarly, even if you believe everything you've read so far, I assure you that we'll all be very surprised as we see asymmetry skyrocket on an exponential curve. And if you want to act optimally today, you're going to look stupid and be laughed at by the world in the same way that anyone who wore a mask in January 2020 would have been. Interestingly, you would have also been ridiculed later in the pandemic because you would have stopped masking and taking precautions before most others did, and would have been hated for "putting lives at risk".
 
 Since we all suck at responding optimally to exponential change, you will always look weird and stupid for acting optimally.
 
@@ -259,21 +259,21 @@ Joe won't realize that this is not possible without reversing the fundamental na
 
 Joe will not realize that any efforts to overthrow this system will only reinforce it, and therefore will spend precious time on efforts that go against the incentives of our world. Joe will be extremely unhappy as he will likely not succeed in the revolution he craves (unless he somehow manages to destroy all of humanity and everything we've created). He will also not have the skill to create value in the world because he didn't spend time training it, and will not be satisfied with the universal basic income offered to him. Joe will sadly turn towards addictions that he believes will help him cope.
 
-The world has shifted from rewarding ambition to requiring it.
+***The world has shifted from rewarding ambition to requiring it.***
 
-Joe will be terribly frustrated by this undeniable truth. He will want to escape the rat race to live peacefully in some remote area. Joe will then confront another harsh truth: the ambition required to create value in the world will look tiny compared to the ambition required to leave everything behind. He will realize just how addicted he is to all of the comforts of the modern world, more so than any human that came before him. Joe will feel a painful crunch. 
+Joe will want to escape the rat race to live peacefully in some remote area. Joe will then confront another harsh truth: the ambition required to create value in the world will look tiny compared to the ambition required to leave everything behind. He will realize just how addicted he is to all of the comforts of the modern world, more so than any human that came before him. By the time Joe has understood the game, it's too late.
 
 ---
 
 We must not become Joe.
 
-There has never been a better time in human history to get what we want, including happiness. The world is increasingly become fair, and we each have more knowledge and power at our fingertips than those that came before us. Yet, the path to getting what we want has become more narrow, as narrow as a razor's edge.
+There has never been a better time in human history to get what we want, including happiness. The world is increasingly become fair, and we each have more knowledge and power at our fingertips than those that came before us. Yet, the path to getting what we want has become more narrow, almost as narrow as a razor's edge.
 
-Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the hidden, accelerating, asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally.
+Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the hidden, accelerating, asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally. Recognize that the world needs you to be more ambitious.
 
 What does the optimal path look like? It's one that enables you to benefit from the growing asymmetry rather than suffer from it. It's one that gives you more time to explore life the way you want to, not how someone else wants you to. It's one that lets you build the life you want.
 
-The optimal path is a function of leverage: as leverage in the world increases, the optimal path to get what we want shifts accordingly. In my next essay I'll share what I believe this optimal path looks like.
+The optimal path is a function of leverage: as leverage in the world increases, the optimal path to get what we want shifts accordingly. In my next essay I'll share what I believe this optimal path looks like and how it evolves.
 
 [I'd appreciate your feedback](/feedback) on this essay.
 

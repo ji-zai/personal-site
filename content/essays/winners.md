@@ -9,11 +9,9 @@ The gap between the few and the many will rise, leading to the best taking most.
 - The best Pizza cooks will make pizzas for the world.
 - The most powerful country will dictate global culture.
 
-Our activities are evolving in a way that leads to greater variance in ability. Small differences in ability lead to larger differences in productivity. Productivity is becoming better connected to how much someone makes. This cycle is accelerating, leading to a "winner-takes-most" world.
+Our activities are evolving in a way that leads to greater variance in ability. Small differences in ability lead to larger differences in productivity. Productivity better correlates with how much someone makes. This cycle is accelerating, leading to a "winner-takes-most" world.
 
-We can't reverse or slow down this shift without slowing down progress. In a world with equal access to opportunity, better technology, greater freedom, winners take most.
-
-Discover what you can be great at, that the world values (or will value) and become one of the best. 
+We can't reverse or slow down this shift without slowing down progress. In a world with equal access to opportunity, better technology, greater freedom, the best take most.
 
 Not being one of the best no longer works.
 

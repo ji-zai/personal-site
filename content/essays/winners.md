@@ -2,11 +2,7 @@
 title: Winners take all
 date: May 2024
 ---
-- 1% content creators capture most engagement.
-- 1% of startups create most value.
-- 1% hold most of the world's wealth.
-
-We're only getting started. The gap between the few and the many will rise, leading to winners taking most.
+The gap between the few and the many will rise, leading to winners taking most.
 
 - The best creators will capture most value.
 - The best doctors will treat everyone.
@@ -25,7 +21,7 @@ The more complex an activity is, the more possibilities it has. A factory worker
 
 For simpler activities, with enough training, it is possible to become close to the best in ability. The best factory worker is only moderately more productive than the average one. But, the best startup founder is orders of magnitude more productive than the average one: the average founder fails, while the best achieves unfathomable outcomes.
 
-This will be true, regardless of the quality of education. Even if the best entrepreneur or artist coached students 24/7 for a decade, they would see a great variance in ability. There will always be some who are better at making things people want because the activity is far more complex.
+This will be true, regardless of the quality of education. Even if the best entrepreneur or artist coached students 24/7 for a decade, they would see a great variance in ability. There will always be some who are better at making things people want because the activity is far more complex. <FootnoteReference number={1} />
 
 If we could plot the ability of professionals on a graph, we would notice it follows a power law distribution. Players don't differ in a linear way. The best player is much better than the second-best. The gap is smaller between the second and third best, and so on.
 
@@ -75,7 +71,9 @@ We ought to double down on what makes us unique, not get rid of it.
 
 Inequality in access to tools, education and freedom is unfair.
 
-Yet, fairness and unfairness both cause inequality in outcomes. But their shapes are different. The shape of outcomes in an unfair world looks like a step function, whereas the shape of outcomes for complex activities in a fair world looks like a smooth [power law curve](https://en.wikipedia.org/wiki/Power_law).
+Yet, fairness and unfairness both cause inequality in outcomes. We cannot say that the world is unfair because outcomes are unequal. 
+
+But their shapes are different. The shape of outcomes in an unfair world looks like a step function, whereas the shape of outcomes for complex activities in a fair world looks like a smooth [power law curve](https://en.wikipedia.org/wiki/Power_law).
 
 Unfair systems tell you what you can and cannot do with your life. They have rigid class boundaries, each with different privileges and freedoms. Unfair systems lead to outcomes that look like a step function: no individuals have outcomes between the classes.
 
@@ -98,13 +96,11 @@ We are accelerating towards a winners take all world. Inequality will rise sharp
 
 Leverage accelerates exponentially, causing more pronounced inequalities in outcome.
 
-Global GDP is a rough approximation of the leverage in the world. 
+Global GDP is an under-approximation of the leverage in the world. 
 
-More leverage means we can more quickly implement better ideas, increasing our transactions in volume and value. But leverage also increases transactions that don't involve money which aren't reflected in GDP.
+More leverage means we can more quickly implement better ideas, increasing our transactions in volume and value. But leverage also increases transactions that don't involve money which aren't yet reflected in GDP.
 
-GDP is also a lagging indicator of leverage because it takes time leverage to create more transactions. Only good ideas that are used will impact GDP. We will see today's leverage only after people use it to create things.
-
-As we monetize more transactions and implement ideas faster, GDP becomes a better measure of leverage.
+GDP is also a lagging indicator of leverage because it takes time leverage to create more transactions. Only implemented ideas that are valued will impact GDP. We will see today's leverage only after people use it to create good things.
 
 Global GDP is [growing exponentially fast](https://ourworldindata.org/grapher/global-gdp-over-the-long-run), and so leverage is as well, accelerating us towards a winners take all world exponentially fast.
 
@@ -116,7 +112,7 @@ A middle class was only possible in a world with simpler activities, and less le
 
 In theory, everyone can be one of the best at something the world values because there is no limit to the number of activities we can have. But, in practice, this won't happen.
 
-Some people's strengths will allow them to be the best only in activities the world doesn't value (or doesn't value within their lifetime). Some will also fail to find their natural advantages and won't be one of the best at anything. Some will fail to train themselves in the right way.
+Some people's strengths will allow them to be the best only in activities the world doesn't value (or won't value within their lifetime). Some won't find their natural advantages and won't be one of the best at anything no matter how hard they try. Some won't train themselves in the right way.
 
 Thus, we need a universal basic income that grows with leverage.
 
@@ -141,5 +137,21 @@ Leave the rest to nature.
 ### Notes
 
 <Footnotes>
+
+<Footnote number={1}>
+
+We can observe variance in ability no matter the duration and quality of training in well studied board games: [Chess](https://en.wikipedia.org/wiki/Chess), and [Go](https://en.wikipedia.org/wiki/Go_(game)). Go is more complex than Chess.
+
+As complexity of the game increases, the difference in ability between the best and the rest increases. We can observe this in the ELO ratings of pros for these games. "ELO rating" is a way to calculate relative skills of players:
+
+> The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%. ([https://en.wikipedia.org/wiki/Elo_rating_system](https://en.wikipedia.org/wiki/Elo_rating_system))
+
+Difference in ELO rating doesn't translate linearly to the difference in wins. Someone who is a few hundred ELO rating higher than another will almost certainly win.
+
+In Go, the difference in ELO rating of the top two players is 183 ([https://www.goratings.org/en/](https://www.goratings.org/en/)), whereas in Chess, the difference in ELO rating of the top two Chess players is only 25 ([https://www.chess.com/players](https://www.chess.com/players)).
+
+The gap between the best and the next best is greater in Go than in Chess. Meanwhile there's no need for ELO rating for simple games such as Tic Tac Toe because every "professional" would draw: everyone's ELO is 0.
+
+</Footnote>
 
 </Footnotes>

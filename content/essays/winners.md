@@ -15,7 +15,7 @@ We can't reverse or slow down this shift without slowing down progress. In a wor
 
 Discover what you can be great at, that the world values (or will value) and become one of the best. 
 
-Average won't work.
+Not being one of the best no longer works.
 
 ---
 

@@ -145,9 +145,7 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
               {props.essay.date}
             </span>
           )}
-          <h1 className={suisseWorks.className} style={{ marginTop: 0 }}>
-            {props.essay.title}
-          </h1>
+          <h1 style={{ marginTop: 0 }}>{props.essay.title}</h1>
           {/* {toc && <TableOfContents toc={toc} />} */}
         </div>
 
@@ -157,7 +155,7 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
             maxWidth: constants.essayContainerMaxWidth,
           }}
         >
-          <div className={styles.content + " " + suisseWorks.className}>
+          <div className={styles.content}>
             {props.isDraft && (
               <Callout>
                 Hey! You're probably here because I requested your feedback on

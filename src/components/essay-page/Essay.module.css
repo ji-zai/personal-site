@@ -7,7 +7,7 @@
   flex-direction: column;
   gap: 48px;
   border-radius: 24px;
-  font-size: 15.5px;
+  font-size: 17px;
 }
 
 .pageWrapper {
@@ -47,8 +47,8 @@
   justify-content: center;
   gap: 8px;
   margin: auto;
-  margin-top: 2rem;
-  margin-bottom: 3rem;
+  margin-top: 2.3rem;
+  margin-bottom: 4rem;
 }
 
 .container h1 {
@@ -61,7 +61,6 @@
   .container {
     padding: 24px 0px;
     gap: 24px;
-    font-size: 15px;
   }
 
   .header {
@@ -135,6 +134,15 @@
 .content .footnoteNumber:hover {
   color: black;
   background-color: rgba(0, 0, 0, 0.1);
+  font-weight: 600;
+}
+
+.footnoteReference {
+  border: none;
+}
+
+.footnoteReference:hover {
+  border: none;
 }
 
 .divider {
@@ -154,17 +162,6 @@
   color: rgba(0, 0, 0, 0.9);
   line-height: 26.5px;
   word-wrap: break-word;
-}
-
-.content a {
-  color: rgba(0, 0, 0, 0.55);
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-thickness: 1px;
-}
-
-.content a:hover {
-  color: black;
 }
 
 .content ol li {

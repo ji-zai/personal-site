@@ -10,12 +10,22 @@ export const protoMono = localFont({
     {
       path: "./ProtoMono-Regular.otf",
       weight: "400",
-      style: "normal"
+      style: "normal",
     },
     {
       path: "./ProtoMono-Medium.otf",
       weight: "500",
-      style: "normal"
-    }
+      style: "normal",
+    },
+  ],
+});
+
+export const suisseWorks = localFont({
+  src: [
+    {
+      path: "./SuisseWorks-Regular.ttf",
+      weight: "400",
+      style: "normal",
+    },
   ],
 });

@@ -4,7 +4,7 @@ import styles from "./Essay.module.css";
 import React, { useEffect, useReducer, useRef, useState } from "react";
 import { MDXRemote } from "next-mdx-remote";
 import { essayComponents } from "./EssayComponents";
-import { protoMono } from "../../fonts";
+import { protoMono, suisseWorks } from "../../fonts";
 import { XLink } from "../base/XLink";
 import { logEvent } from "../../util/logging";
 import { Asterix } from "./asterisk";
@@ -138,7 +138,6 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
           className={styles.header}
           style={{
             maxWidth: constants.essayContainerMaxWidth + 300,
-            margin: "auto",
           }}
         >
           {props.essay.date && (
@@ -146,7 +145,9 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
               {props.essay.date}
             </span>
           )}
-          <h1 style={{ marginTop: 0 }}>{props.essay.title}</h1>
+          <h1 className={suisseWorks.className} style={{ marginTop: 0 }}>
+            {props.essay.title}
+          </h1>
           {/* {toc && <TableOfContents toc={toc} />} */}
         </div>
 
@@ -156,7 +157,7 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
             maxWidth: constants.essayContainerMaxWidth,
           }}
         >
-          <div className={styles.content}>
+          <div className={styles.content + " " + suisseWorks.className}>
             {props.isDraft && (
               <Callout>
                 Hey! You're probably here because I requested your feedback on

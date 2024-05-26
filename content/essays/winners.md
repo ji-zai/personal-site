@@ -142,8 +142,8 @@ We can observe variance in ability no matter the duration and quality of trainin
 
 The more complex the game is, the larger the gap in ability between the best and the rest.
 
-We can observe this in the ELO ratings of pros for these games. "ELO rating" is a way to calculate relative skills of players:
-> The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%. ([https://en.wikipedia.org/wiki/Elo_rating_system](https://en.wikipedia.org/wiki/Elo_rating_system))
+We can observe this in the ELO ratings of pros for these games. "ELO rating" is a way to calculate relative skills of players: *"The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%. ([https://en.wikipedia.org/wiki/Elo_rating_system](https://en.wikipedia.org/wiki/Elo_rating_system))"*
+
 
 In Go, the difference in ELO rating of the top two players is 183 ([https://www.goratings.org/en/](https://www.goratings.org/en/)), whereas in Chess, the difference in ELO rating of the top two Chess players is only 25 ([https://www.chess.com/players](https://www.chess.com/players)).
 

@@ -95,6 +95,12 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
+.footnoteParas {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
 .footnoteContainer {
   display: flex;
   flex-direction: column;

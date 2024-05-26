@@ -71,7 +71,7 @@ const Footnote = (props: { number: number; children: any }) => {
       <a href={"#inline_" + props.number}>
         <FootnoteNumber number={props.number} />
       </a>
-      {props.children}
+      <div className={styles.footnoteParas}>{props.children}</div>
     </div>
   );
 };

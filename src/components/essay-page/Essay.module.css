@@ -78,7 +78,7 @@
 .content blockquote {
   background: #f9f9f9;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
-  margin: 1.5em 0;
+  margin: 0.5em 0;
   padding: 0.5em 16px;
 }
 
@@ -104,7 +104,7 @@
 .footnoteContainer {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 24px;
 }
 
 .footnoteContainer p {

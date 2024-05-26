@@ -2,7 +2,7 @@
 title: Winners take all
 date: May 2024
 ---
-The gap between the few and the many will rise, leading to winners taking most.
+The gap between the few and the many will rise, leading to the best taking most.
 
 - The best creators will capture most engagement.
 - The best doctors will treat everyone.
@@ -92,7 +92,7 @@ A better measure is to look at the winners and see what their starting points we
 
 ---
 
-We are accelerating towards a winners take all world. Inequality will rise sharply in the next few years and the rise will be greater than the rise over the past century, if not more. It will shock us.
+We are accelerating towards a world in which the best take most. Inequality will rise sharply in the next few years and the rise will be greater than the rise over the past century, if not more. It will shock us.
 
 Leverage accelerates exponentially fast, accelerating the gap in productivity between the best and rest.
 
@@ -114,7 +114,7 @@ A basic income won't "feel enough". If it ever does, the feeling will be fleetin
 
 A basic income will never be so high that the best outcomes will be close the average because that kind of distribution does not maximize growth (GDP).
 
-"Winners-take-most" applies to countries as well: those that fail to compete on growth will face a new kind of colonialism. They'll need help from winners, and that help will come with uncomfortable conditions. Recipients will be forced to cut their basic income to the amount that maximizes growth, and their culture will be swallowed by the cultures of winners. We're seeing early signs of this.
+"Winner-takes-most" applies to countries as well: those that fail to compete on growth will face a new kind of colonialism. They'll need help from winners, and that help will come with uncomfortable conditions. Recipients will be forced to cut their basic income to the amount that maximizes growth, and their culture will be swallowed by the cultures of winners. We're seeing early signs of this.
 
 In order to survive, countries won't be able to raise a basic income so high that it kills their ability to compete. Those who do so will be made to cut it when they receive help. Resisting these incentives will get harder as leverage grows. 
 

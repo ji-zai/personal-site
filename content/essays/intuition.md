@@ -1,5 +1,5 @@
 ---
-title: Develop a feel for something
+title: Intuition separates the best
 date: May 2024
 ---
 If you want to be the best at what you do, you need to develop a feel for it, an "intuition".
@@ -8,9 +8,7 @@ Instead of calculating what to do, you're able to do it instinctively.
 
 You can read instructions and successfully assemble furniture. No matter how many instructions you read, you will need intuition to build a good business. instructions cannot represent complexity of business.
 
-- Steve Jobs could write a series of books on how to build a company, yet most readers will still fail.
-- Joan Didion could lecture her whole life on good writing. But, most listeners will never become great writers.
-- Warren Buffet could share all his thoughts about how he invests. But, you will still find it difficult to match his skill
+Steve Jobs could write a series of books on how to build a company, yet most readers will still fail. Joan Didion could lecture her whole life on good writing. But, most listeners will never become great writers. Warren Buffet could share all his thoughts about how he invests. But, you will still find it difficult to match his skill
 
 We lack their intuition.
 

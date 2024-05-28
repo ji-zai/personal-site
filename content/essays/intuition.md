@@ -1,5 +1,5 @@
 ---
-title: Intuition separates the best
+title: The best have intuition
 date: May 2024
 ---
 If you want to be the best at what you do, you need to develop a feel for it, an "intuition".

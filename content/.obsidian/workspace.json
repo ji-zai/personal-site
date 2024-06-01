@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/intuition.md",
+                "file": "essays/think-more-before-do.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "53a6a9a1c72682b2",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/intuition.md",
+                "file": "essays/think-more-before-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/intuition.md",
+                "file": "essays/think-more-before-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/intuition.md"
+                "file": "essays/think-more-before-do.md"
               }
             }
           }
@@ -149,10 +148,10 @@
   },
   "active": "23ed196d858b899b",
   "lastOpenFiles": [
+    "essays/intuition.md",
     "essays/people.md",
     "essays/think-more-before-do.md",
     "essays/winners.md",
-    "essays/intuition.md",
     "essays/education-trap.md",
     "essays/feedback.md",
     "2024-05-26.md",

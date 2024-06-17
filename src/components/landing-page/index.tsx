@@ -23,23 +23,22 @@ export const Profile = (props: { size: number }) => (
     width={props.size}
     height={props.size}
     style={{
-      borderRadius: props.size < 100 ? 12 : 24
+      borderRadius: props.size < 100 ? 12 : 24,
     }}
   />
 );
 
 const LandingPage = (props: { essays: Essay[] }) => {
-
   useEffect(() => {
-    logEvent("home", null)
-  }, [])
+    logEvent("home", null);
+  }, []);
 
   return (
     <div>
       <div className={styles.container}>
         <div className={styles.header}>
           <Profile size={100} />
-          <XLink onClick={() => window.open("https://x.com/jisnuzai")}/>
+          <XLink onClick={() => window.open("https://x.com/jisnuzai")} />
         </div>
 
         <div className={styles.essays}>
@@ -47,7 +46,6 @@ const LandingPage = (props: { essays: Essay[] }) => {
             <ListItem essay={essay} />
           ))}
         </div>
-
       </div>
     </div>
   );

@@ -9,9 +9,7 @@ const Divider = (props: { belowHeader?: boolean }) => (
     className={
       styles.divider + " " + (props.belowHeader ? styles.belowHeader : "")
     }
-  >
-    ...
-  </div>
+  ></div>
 );
 
 // Email templating:

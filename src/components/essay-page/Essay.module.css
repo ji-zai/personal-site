@@ -15,7 +15,7 @@
 }
 
 .date {
-  font-size: 14px;
+  font-size: 0.8rem;
   color: #adadad;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .caption {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   font-weight: 400;
   color: #b3b3b3;
   line-height: 1.5rem;
@@ -42,14 +42,14 @@
 .header {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  width: 100%;
   gap: 8px;
   margin: auto;
+  margin-bottom: 1rem;
 }
 
 .container h1 {
-  font-size: 32px;
+  font-size: 22px;
   font-weight: 500;
   color: #343434;
 }
@@ -71,7 +71,7 @@
   }
 
   .container h1 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
   }
 }
@@ -144,21 +144,21 @@
 
 .divider {
   width: 100%;
+  text-align: center;
+  font-size: 16px;
   margin-top: 24px;
   margin-bottom: 36px;
-  text-align: center;
-  font-size: 24px;
   line-height: 0px;
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.2);
   vertical-align: middle;
   display: inline-block;
 }
 
 .content {
   font-weight: 400;
-  color: rgba(0, 0, 0, 0.9);
-  line-height: 1.5rem;
-  font-size: 1.05rem;
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 1.65rem;
+  font-size: 1rem;
   word-wrap: break-word;
 }
 

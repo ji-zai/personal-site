@@ -2,6 +2,7 @@
 title: Paying for education is a trap
 date: May 2024
 ---
+
 The best are becoming much more productive than the average. Soon, if you’re not one of the best at what you do, you won’t be able to contribute to the economy. In such a world, most people who pay for an education won’t be able to recuperate their investment because most people won’t be one of the best at what they do.
 
 Of course, there’s no limit to the kinds of work we can do. In theory every individual can be the best at something unique to them, that the world values. But in practice this won’t be possible anytime soon.
@@ -45,6 +46,7 @@ We’re seeing early signs of this trend: with a great leap in AI, Tech companie
 ---
 
 Any institution that charges money for education will crumble under pressure from both ends:
+
 1. More graduates will fail to get hired because you have to be closer to being one of the best in order to be valued.
 2. The cost of a quality teacher increases because fewer individuals will have the required skill to teach. Those who can will be more expensive than ever before because they will increasingly need to be one of the best at what they do for their teaching to be good enough.
 
@@ -64,6 +66,6 @@ Paying for education is a trap. It doesn’t have the same value as it did in a 
 
 We are at the start of a big change in how the world will be educated, starting with a fundamental shift in the fundamental business model that powers education.
 
----
 ### Notes
+
 [1] As the best become much better than the average, we will increasingly find that those who charge money for their knowledge aren’t one of the best.

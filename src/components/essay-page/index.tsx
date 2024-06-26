@@ -119,42 +119,26 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
     <div>
       <Navbar />
       <div className={styles.pageWrapper}>
-        {activeAnnotation && !isAnnotationInline && (
-          <div
-            style={{
-              position: "absolute",
-              right: rightSpace - constants.marginNoteWidth - 16,
-              top: activeAnnotation.y,
-              width: constants.marginNoteWidth,
-            }}
-          >
-            <Note
-              markdown={activeAnnotation.markdown}
-              onHide={() => setActiveAnnotation(null)}
-            />
-          </div>
-        )}
-        <div
-          className={styles.header}
-          style={{
-            maxWidth: constants.essayContainerMaxWidth + 300,
-          }}
-        >
-          {props.essay.date && (
-            <span className={styles.date + " " + protoMono.className}>
-              {props.essay.date}
-            </span>
-          )}
-          <h1 style={{ marginTop: 0 }}>{props.essay.title}</h1>
-          {/* {toc && <TableOfContents toc={toc} />} */}
-        </div>
-
         <div
           className={styles.container}
           style={{
             maxWidth: constants.essayContainerMaxWidth,
           }}
         >
+          <div
+            className={styles.header}
+            style={{
+              maxWidth: constants.essayContainerMaxWidth + 300,
+            }}
+          >
+            {props.essay.date && (
+              <span className={styles.date + " " + protoMono.className}>
+                {props.essay.date}
+              </span>
+            )}
+            <h1 style={{ marginTop: 0 }}>{props.essay.title}</h1>
+            {/* {toc && <TableOfContents toc={toc} />} */}
+          </div>
           <div className={styles.content}>
             {props.isDraft && (
               <Callout>

@@ -1,7 +1,6 @@
 .container {
   padding: 48px;
   width: 100%;
-  height: 100%;
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -12,11 +11,30 @@
 .pageWrapper {
   padding-top: 90px;
   padding-bottom: 90px;
+  position: relative;
+  height: 100vh;
+  overflow: scroll;
 }
 
 .date {
   font-size: 0.8rem;
   color: #adadad;
+  text-align: center;
+}
+
+.fadeOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  pointer-events: none;
+  z-index: 1;
 }
 
 .footer {
@@ -49,8 +67,9 @@
 }
 
 .container h1 {
-  font-size: 22px;
+  font-size: 1.1rem;
   font-weight: 500;
+  text-align: center;
   color: #343434;
 }
 
@@ -85,13 +104,13 @@
 
 .content p {
   margin: 0;
-  margin-bottom: 1.3rem;
+  margin-bottom: 1.8rem;
 }
 
 .footnote {
   display: flex;
   gap: 8px;
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   line-height: 150%;
   color: rgba(0, 0, 0, 0.5);
 }
@@ -114,18 +133,23 @@
   margin: 0;
 }
 
+.footnote a {
+  text-decoration: none;
+  border-bottom: none;
+}
+
 .content .footnoteNumber {
   display: inline-block;
-  width: 20px; /* Adjust the size as needed */
-  min-width: 20px;
-  height: 20px; /* Adjust the size as needed */
-  line-height: 20px; /* Match this to height for vertical centering */
+  width: 1.5em;
+  min-width: 1.5em;
+  height: 1.5em;
+  line-height: 1.5em;
   border-radius: 50%;
-  background-color: rgba(0, 0, 0, 0.05); /* Initial background color */
+  background-color: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
-  font-size: 12px;
-  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+  font-size: 11px;
+  transition: background-color 0.3s ease;
 }
 
 .content .footnoteNumber:hover {
@@ -141,24 +165,19 @@
 .footnoteReference:hover {
   border: none;
 }
-
 .divider {
-  width: 100%;
-  text-align: center;
-  font-size: 16px;
-  margin-top: 24px;
-  margin-bottom: 36px;
-  line-height: 0px;
-  color: rgba(0, 0, 0, 0.2);
-  vertical-align: middle;
-  display: inline-block;
+  width: 10%;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.08);
+  margin: 48px auto;
+  border: none;
 }
 
 .content {
-  font-weight: 400;
+  font-weight: 420;
   color: rgba(0, 0, 0, 0.8);
   line-height: 150%;
-  font-size: 1.05rem;
+  font-size: 1rem;
   word-wrap: break-word;
 }
 
@@ -190,11 +209,11 @@
 }
 
 .content h3 {
-  font-size: 1.2rem;
-  font-weight: 400;
+  font-size: 1rem;
+  font-weight: 460;
   color: black;
   margin-top: 3rem;
-  line-height: 27px;
+  line-height: 1.3;
 }
 
 /* .content li {

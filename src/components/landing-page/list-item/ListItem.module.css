@@ -3,15 +3,20 @@
   flex-direction: column;
   justify-content: center;
   width: 100%;
-  padding: 16px 16px;
+  padding: 4px 12px;
   cursor: pointer;
-  border-radius: 16px;
+  border-radius: 4px;
+  font-size: 0.9rem;
   color: black;
   background: white;
 }
 
+.container a {
+  border-bottom: none;
+}
+
 .container:hover {
-  background-color: #F7F7F7;
+  background-color: #f7f7f7;
   color: black;
 }
 
@@ -33,6 +38,6 @@
 
 @media only screen and (max-width: 600px) {
   .date {
-    font-size: 12px
+    font-size: 12px;
   }
 }

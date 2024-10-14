@@ -9,9 +9,7 @@ const Divider = (props: { belowHeader?: boolean }) => (
     className={
       styles.divider + " " + (props.belowHeader ? styles.belowHeader : "")
     }
-  >
-    ---
-  </div>
+  ></div>
 );
 
 // Email templating:
@@ -109,7 +107,31 @@ export const essayComponents = {
   },
   h3: (props) => {
     const label = props.children;
-    return <h3 id={getIdFromHeader(label)} variant="h3" {...props} />;
+    return (
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          width: "100%",
+          marginBottom: "1rem",
+          marginTop: "4rem",
+        }}
+      >
+        <h3
+          id={getIdFromHeader(label)}
+          variant="h3"
+          style={{ marginRight: "8px", marginBottom: 0, marginTop: 0 }}
+          {...props}
+        />
+        <div
+          style={{
+            flex: 1,
+            height: "1px",
+            backgroundColor: "rgba(0, 0, 0, 0.05)",
+          }}
+        />
+      </div>
+    );
   },
   a: (props) => <ExternalLink src={props.href}>{props.children}</ExternalLink>,
   hr: (props) => <Divider />,

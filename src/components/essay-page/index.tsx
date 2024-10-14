@@ -119,6 +119,7 @@ const EssayPage = (props: { essay: Essay; source: any; isDraft: boolean }) => {
     <div>
       <Navbar />
       <div className={styles.pageWrapper}>
+        <div className={styles.fadeOverlay}></div>
         <div
           className={styles.container}
           style={{
